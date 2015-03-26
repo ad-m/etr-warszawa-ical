@@ -6,6 +6,7 @@ from bs4.element import NavigableString
 from icalendar import Calendar, Event, vText
 from time import strptime
 import datetime
+from pytz import timezone
 HEADER_STYLE = 'border-width: 2px; border-style: double;'
 END_STYLE = 'border-bottom-width: 2px; border-bottom-style: double; border-top: none;'
 MSG = '{organ} - {sygnatura}'
@@ -73,10 +74,9 @@ cal['summary'] = 'Cases of Freedom of Information in Warsaw'
 for row in data:
     event = Event()
     struct = strptime(row['data']+" "+row['godzina'], "%Y-%m-%d %H:%M")
-    event.add('dtstart', datetime.datetime(*struct[:6]))
+    event.add('dtstart', datetime.datetime(*struct[:6]).replace(tzinfo=timezone('Europe/Warsaw')))
     event['summary'] = MSG.format(**row)
     event['description'] = DESC.format(**row)
     event['location'] = vText('Wydzial %s, WSA Warszawa' % (row['wydzial']))
     cal.add_component(event)
 open('648.ics', 'wb').write(cal.to_ical())
-

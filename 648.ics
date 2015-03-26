@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
 SUMMARY:Prezydent m.st. Warszawy - II SAB/Wa 552/14
-DTSTART;VALUE=DATE-TIME:20150226T090000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150226T090000
 DESCRIPTION:Organ: Prezydent m.st. Warszawy\nSygnatura: II SAB/Wa 552/14\n
  Symbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedm
  iocie rozpoznania wniosku z 19.05.2014 r. o udost.inf.publ.\nSklad: ['Ewa 
@@ -12,7 +12,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wójt Gminy Przytyk - VIII SAB/Wa 86/14
-DTSTART;VALUE=DATE-TIME:20150226T092000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150226T092000
 DESCRIPTION:Organ: Wójt Gminy Przytyk\nSygnatura: VIII SAB/Wa 86/14\nSymb
  ole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność Wójta Gminy
   Przytyk w sprawie dostępu do informacji publicznej\nSklad: ['Renata Nawr
@@ -21,7 +21,7 @@ LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes Urzędu Komunikacji Elektronicznej - II SA/Wa 1948/14
-DTSTART;VALUE=DATE-TIME:20150226T092000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150226T092000
 DESCRIPTION:Organ: Prezes Urzędu Komunikacji Elektronicznej\nSygnatura: I
  I SA/Wa 1948/14\nSymbole: 648 - Odmowa udzielenia informacji\nPrzedmiot: O
  dmowa udzielenia informacji\nSklad: ['Ewa Marcinkowska (spr.)'\, 'Andrzej 
@@ -30,7 +30,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes Sądu Apelacyjnego w Warszawie - II SAB/Wa 884/14
-DTSTART;VALUE=DATE-TIME:20150226T094000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150226T094000
 DESCRIPTION:Organ: Prezes Sądu Apelacyjnego w Warszawie\nSygnatura: II SA
  B/Wa 884/14\nSymbole: 658/648 - Informacja publiczna\; Informacja publiczn
  a\nPrzedmiot: \nSklad: ['Ewa Marcinkowska'\, 'Andrzej Kołodziej'\, 'Janus
@@ -39,7 +39,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezydent m.st. Warszawy - II SAB/Wa 1018/14
-DTSTART;VALUE=DATE-TIME:20150226T112000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150226T112000
 DESCRIPTION:Organ: Prezydent m.st. Warszawy\nSygnatura: II SAB/Wa 1018/14\
  nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przed
  miocie rozpoznania wniosku z dn.08.09.2014 r. o udziel.inf.publ.\nSklad: [
@@ -49,7 +49,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Finansów - II SA/Wa 1933/14
-DTSTART;VALUE=DATE-TIME:20150226T124000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150226T124000
 DESCRIPTION:Organ: Minister Finansów\nSygnatura: II SA/Wa 1933/14\nSymbol
  e: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSklad: ['E
  wa Marcinkowska'\, 'Andrzej Kołodziej'\, 'Janusz Walawski (spr.)']\nTermi
@@ -58,7 +58,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burmistrz Miasta Ząbki - II SA/Wa 1895/14
-DTSTART;VALUE=DATE-TIME:20150226T130000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150226T130000
 DESCRIPTION:Organ: Burmistrz Miasta Ząbki\nSygnatura: II SA/Wa 1895/14\nS
  ymbole: 648 - Informacja publiczna\nPrzedmiot: ustalenie opłaty za udziel
  enie informacji publ.\nSklad: ['Ewa Marcinkowska'\, 'Andrzej Kołodziej (s
@@ -67,7 +67,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Edukacji Narodowej - II SA/Wa 1979/14
-DTSTART;VALUE=DATE-TIME:20150226T133500
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150226T133500
 DESCRIPTION:Organ: Minister Edukacji Narodowej\nSygnatura: II SA/Wa 1979/1
  4\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nS
  klad: ['Ewa Marcinkowska'\, 'Andrzej Kołodziej (spr.)'\, 'Janusz Walawski
@@ -77,7 +77,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarząd Okręgowy Polskiego Związku Łowieckiego w Warszawie - II
   SAB/Wa 888/14
-DTSTART;VALUE=DATE-TIME:20150227T094000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150227T094000
 DESCRIPTION:Organ: Zarząd Okręgowy Polskiego Związku Łowieckiego w War
  szawie\nSygnatura: II SAB/Wa 888/14\nSymbole: 658/648 - Informacja publicz
  na\nPrzedmiot: bezczynność w sprawie rozpoznania wniosku z dn.01.08.2014
@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarząd Okręgowy Polskiego Związku Łowieckiego w Ciechanowie - 
  II SAB/Wa 889/14
-DTSTART;VALUE=DATE-TIME:20150227T100000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150227T100000
 DESCRIPTION:Organ: Zarząd Okręgowy Polskiego Związku Łowieckiego w Cie
  chanowie\nSygnatura: II SAB/Wa 889/14\nSymbole: 658/648 - Informacja publi
  czna\nPrzedmiot: bezczynność w sprawie rozpoznania wniosku z dn.01.08.20
@@ -99,7 +99,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarząd Okręgowy Polskiego Związku Łowieckiego w Płocku - II S
  AB/Wa 914/14
-DTSTART;VALUE=DATE-TIME:20150227T102000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150227T102000
 DESCRIPTION:Organ: Zarząd Okręgowy Polskiego Związku Łowieckiego w Pł
  ocku\nSygnatura: II SAB/Wa 914/14\nSymbole: 658/648 - Informacja publiczna
  \nPrzedmiot: bezczynność w przedmiocie rozpoznania wniosku z 01.08.2014 
@@ -110,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarząd Okręgowy Polskiego Związku Łowieckiego w Siedlcach - II
   SAB/Wa 900/14
-DTSTART;VALUE=DATE-TIME:20150227T104000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150227T104000
 DESCRIPTION:Organ: Zarząd Okręgowy Polskiego Związku Łowieckiego w Sie
  dlcach\nSygnatura: II SAB/Wa 900/14\nSymbole: 658/648 - Informacja publicz
  na\nPrzedmiot: bezczynność w przedmiocie rozpoznania wniosku z 01.08.201
@@ -121,7 +121,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarząd Okręgowy Polskiego Związku Łowieckiego w Warszawie - II
   SAB/Wa 960/14
-DTSTART;VALUE=DATE-TIME:20150227T110000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150227T110000
 DESCRIPTION:Organ: Zarząd Okręgowy Polskiego Związku Łowieckiego w War
  szawie\nSygnatura: II SAB/Wa 960/14\nSymbole: 658/648 - Informacja publicz
  na\nPrzedmiot: bezczynność w przedmiocie rozpoznania wniosku z dn.08.09.
@@ -132,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarząd Okręgowy Polskiego Związku Łowieckiego w Ostrołęce - 
  II SAB/Wa 913/14
-DTSTART;VALUE=DATE-TIME:20150227T112000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150227T112000
 DESCRIPTION:Organ: Zarząd Okręgowy Polskiego Związku Łowieckiego w Ost
  rołęce\nSygnatura: II SAB/Wa 913/14\nSymbole: 658/648 - Informacja publi
  czna\nPrzedmiot: bezczynność w przedmiocie udostępnienia inf.publ. na w
@@ -142,7 +142,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes Urzędu Komunikacji Elektronicznej - II SA/Wa 1947/14
-DTSTART;VALUE=DATE-TIME:20150302T094000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150302T094000
 DESCRIPTION:Organ: Prezes Urzędu Komunikacji Elektronicznej\nSygnatura: I
  I SA/Wa 1947/14\nSymbole: 648 - Odmowa udzielenia informacji\nPrzedmiot: O
  dmowa udzielenia informacji\nSklad: ['Adam Lipiński'\, 'Anna Mierzejewska
@@ -151,7 +151,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orange Polska S.A. z/s w Warszawie - II SAB/Wa 926/14
-DTSTART;VALUE=DATE-TIME:20150302T100000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150302T100000
 DESCRIPTION:Organ: Orange Polska S.A. z/s w Warszawie\nSygnatura: II SAB/W
  a 926/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynnoś
  ć w sprawie wniosku o udost.inf.publ. z 21.10.2013\nSklad: ['Adam Lipińs
@@ -161,7 +161,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wójt Gminy Pacyna - II SAB/Wa 936/14
-DTSTART;VALUE=DATE-TIME:20150303T094000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150303T094000
 DESCRIPTION:Organ: Wójt Gminy Pacyna\nSygnatura: II SAB/Wa 936/14\nSymbol
  e: 658/648 - Informacja publiczna\; Informacja publiczna\nPrzedmiot: \nSkl
  ad: ['Ewa Pisula-Dąbrowska'\, 'Andrzej Góraj'\, 'Stanisław Marek Pietra
@@ -170,7 +170,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wójt Gminy Pacyna - II SAB/Wa 948/14
-DTSTART;VALUE=DATE-TIME:20150303T100000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150303T100000
 DESCRIPTION:Organ: Wójt Gminy Pacyna\nSygnatura: II SAB/Wa 948/14\nSymbol
  e: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmiocie 
  rozpoznania wniosku z 21.03.2014 r. o udziel.inf.publ.\nSklad: ['Ewa Pisul
@@ -180,7 +180,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Infrastruktury i Rozwoju - II SAB/Wa 611/14
-DTSTART;VALUE=DATE-TIME:20150303T102000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150303T102000
 DESCRIPTION:Organ: Minister Infrastruktury i Rozwoju\nSygnatura: II SAB/Wa
   611/14\nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\nP
  rzedmiot: \nSklad: ['Ewa Pisula-Dąbrowska (spr.)'\, 'Andrzej Góraj'\, 'S
@@ -189,7 +189,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 864/14
-DTSTART;VALUE=DATE-TIME:20150303T104000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150303T104000
 DESCRIPTION:Organ: Minister Kultury i Dziedzictwa Narodowego\nSygnatura: I
  I SAB/Wa 864/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezcz
  ynność w sprawie rozpoznania wniosku z dn.16.12.2013 r. o udost.inf.publ
@@ -199,7 +199,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Finansów - II SA/Wa 1852/14
-DTSTART;VALUE=DATE-TIME:20150304T090000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150304T090000
 DESCRIPTION:Organ: Minister Finansów\nSygnatura: II SA/Wa 1852/14\nSymbol
  e: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSklad: ['E
  wa Marcinkowska'\, 'Sławomir Antoniuk (spr.)'\, 'Olga Żurawska-Matusiak'
@@ -208,7 +208,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Naczelnik Urzędu Skarbowego Warszawa Praga - II SAB/Wa 643/14
-DTSTART;VALUE=DATE-TIME:20150304T093000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150304T093000
 DESCRIPTION:Organ: Naczelnik Urzędu Skarbowego Warszawa Praga\nSygnatura:
   II SAB/Wa 643/14\nSymbole: 658/648 - Bezczynność organu\nPrzedmiot: bez
  czynność w przedmiocie rozpoznania wniosku z 28.05.2014 r. o udostępnie
@@ -218,7 +218,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Miejski Zarząd Dróg i Komunikacji w Radomiu - VIII SAB/Wa 75/14
-DTSTART;VALUE=DATE-TIME:20150304T100000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150304T100000
 DESCRIPTION:Organ: Miejski Zarząd Dróg i Komunikacji w Radomiu\nSygnatur
  a: VIII SAB/Wa 75/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: 
  bezczynność Miejskiego Zarządu Dróg i Komunikacji w Radomiu w sprawie 
@@ -228,7 +228,7 @@ LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SKO w Warszawie - II SA/Wa 2067/14
-DTSTART;VALUE=DATE-TIME:20150305T090000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150305T090000
 DESCRIPTION:Organ: SKO w Warszawie\nSygnatura: II SA/Wa 2067/14\nSymbole: 
  648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSklad: ['Ewa 
  Grochowska-Jung'\, 'Andrzej Góraj'\, 'Andrzej Kołodziej (spr.)']\nTermin
@@ -238,7 +238,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarząd Główny Polskiego Związku Łowieckiego - II SAB/Wa 939/1
  4
-DTSTART;VALUE=DATE-TIME:20150305T092000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150305T092000
 DESCRIPTION:Organ: Zarząd Główny Polskiego Związku Łowieckiego\nSygna
  tura: II SAB/Wa 939/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot
  : bezczynność w przedmiocie udost.inf.prasowej na wniosek z 03.09.2014\n
@@ -248,7 +248,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes Sądu Okręgowego Warszawa Praga - II SA/Wa 1585/14
-DTSTART;VALUE=DATE-TIME:20150305T120000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150305T120000
 DESCRIPTION:Organ: Prezes Sądu Okręgowego Warszawa Praga\nSygnatura: II 
  SA/Wa 1585/14\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja 
  publiczna\nSklad: ['Ewa Grochowska-Jung'\, 'Andrzej Góraj (spr.)'\, 'Andr
@@ -257,7 +257,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Spraw Wewnętrznych - II SAB/Wa 1012/14
-DTSTART;VALUE=DATE-TIME:20150305T122000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150305T122000
 DESCRIPTION:Organ: Minister Spraw Wewnętrznych\nSygnatura: II SAB/Wa 1012
  /14\nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\nPrzed
  miot: \nSklad: ['Ewa Grochowska-Jung (spr.)'\, 'Andrzej Góraj'\, 'Andrzej
@@ -266,7 +266,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Sprawiedliwości - II SA/Wa 2183/14
-DTSTART;VALUE=DATE-TIME:20150305T124000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150305T124000
 DESCRIPTION:Organ: Minister Sprawiedliwości\nSygnatura: II SA/Wa 2183/14\
  nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSkl
  ad: ['Ewa Grochowska-Jung'\, 'Andrzej Góraj (spr.)'\, 'Andrzej Kołodziej
@@ -276,7 +276,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dyrektor Zakładu Gospodarowania Nieruchomościami Dzielnicy Praga
   Płd. m.st. Warszawy - II SAB/Wa 902/14
-DTSTART;VALUE=DATE-TIME:20150305T130000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150305T130000
 DESCRIPTION:Organ: Dyrektor Zakładu Gospodarowania Nieruchomościami Dzie
  lnicy Praga Płd. m.st. Warszawy\nSygnatura: II SAB/Wa 902/14\nSymbole: 65
  8/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmiocie rozpo
@@ -287,7 +287,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rada Izby Notarialnej w Warszawie - II SAB/Wa 612/14
-DTSTART;VALUE=DATE-TIME:20150306T095000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150306T095000
 DESCRIPTION:Organ: Rada Izby Notarialnej w Warszawie\nSygnatura: II SAB/Wa
   612/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność
   w sprawie rozpoznania wniosku z dn.30.01.2014 r. o udziel.inf.publ.\nSkla
@@ -297,7 +297,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Platforma Obywatelska Rp - II SAB/Wa 1010/14
-DTSTART;VALUE=DATE-TIME:20150306T103000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150306T103000
 DESCRIPTION:Organ: Platforma Obywatelska Rp\nSygnatura: II SAB/Wa 1010/14\
  nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przed
  miocie udzielenia inf.publ. na wniosek z 17.01.2013 r.\nSklad: ['Ewa Marci
@@ -307,7 +307,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes Urzędu Komunikacji Elektronicznej - II SA/Wa 1916/14
-DTSTART;VALUE=DATE-TIME:20150309T084500
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150309T084500
 DESCRIPTION:Organ: Prezes Urzędu Komunikacji Elektronicznej\nSygnatura: I
  I SA/Wa 1916/14\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacj
  a publiczna\nPublikacja orzeczenia odroczona z dnia 25 lutego 2015 r.\nSkl
@@ -316,7 +316,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Spraw Wewnętrznych - II SAB/Wa 997/14
-DTSTART;VALUE=DATE-TIME:20150309T102000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150309T102000
 DESCRIPTION:Organ: Minister Spraw Wewnętrznych\nSygnatura: II SAB/Wa 997/
  14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w pr
  zedmiocie rozpoznania wniosku z dn.19.09.2014 o udost.inf.publ.\nSklad: ['
@@ -326,7 +326,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes ZUS w Warszawie - II SA/Wa 1855/14
-DTSTART;VALUE=DATE-TIME:20150309T120000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150309T120000
 DESCRIPTION:Organ: Prezes ZUS w Warszawie\nSygnatura: II SA/Wa 1855/14\nSy
  mbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSklad:
   ['Stanisław Marek Pietras'\, 'Adam Lipiński'\, 'Eugeniusz Wasilewski (s
@@ -335,7 +335,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Sprawiedliwości - II SAB/Wa 886/14
-DTSTART;VALUE=DATE-TIME:20150310T090000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150310T090000
 DESCRIPTION:Organ: Minister Sprawiedliwości\nSygnatura: II SAB/Wa 886/14\
  nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przed
  miocie wniosku o udost.inf.publ.\nSklad: ['Ewa Grochowska-Jung'\, 'Sławom
@@ -344,7 +344,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Infrastruktury i Rozwoju - II SA/Wa 1829/14
-DTSTART;VALUE=DATE-TIME:20150310T130000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150310T130000
 DESCRIPTION:Organ: Minister Infrastruktury i Rozwoju\nSygnatura: II SA/Wa 
  1829/14\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja public
  zna\nSklad: ['Ewa Grochowska-Jung (spr.)'\, 'Sławomir Antoniuk'\, 'Olga 
@@ -354,7 +354,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Powiatowy Inspektor Nadzoru Budowlanego w Płocku - II SAB/Wa 890/
  14
-DTSTART;VALUE=DATE-TIME:20150310T132000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150310T132000
 DESCRIPTION:Organ: Powiatowy Inspektor Nadzoru Budowlanego w Płocku\nSygn
  atura: II SAB/Wa 890/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmio
  t: bezczynność w sprawie rozpoznania wniosku z dn.29.07.2014 r. o udziel
@@ -364,7 +364,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Starosta Powiatu Wyszkowskiego - II SAB/Wa 323/14
-DTSTART;VALUE=DATE-TIME:20150311T090000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150311T090000
 DESCRIPTION:Organ: Starosta Powiatu Wyszkowskiego\nSygnatura: II SAB/Wa 32
  3/14\nSymbole: 658/648 - Bezczynność organu\; Bezczynność organu\nPrze
  dmiot: \nSklad: ['Danuta Kania'\, 'Andrzej Góraj (spr.)'\, 'Ewa Pisula-D
@@ -373,7 +373,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Starosta Powiatu Wołomińskiego - II SAB/Wa 380/14
-DTSTART;VALUE=DATE-TIME:20150311T092000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150311T092000
 DESCRIPTION:Organ: Starosta Powiatu Wołomińskiego\nSygnatura: II SAB/Wa 
  380/14\nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\nPr
  zedmiot: \nSklad: ['Danuta Kania (spr.)'\, 'Andrzej Góraj'\, 'Ewa Pisula-
@@ -382,7 +382,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orange Polska S.A. z/s w Warszawie - II SAB/Wa 866/14
-DTSTART;VALUE=DATE-TIME:20150311T094000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150311T094000
 DESCRIPTION:Organ: Orange Polska S.A. z/s w Warszawie\nSygnatura: II SAB/W
  a 866/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynnoś
  ć w przedmiocie rozpatrzenia wniosku z dn.28.03.2014 r. o udost.inf.publ.
@@ -392,7 +392,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prokurator Okręgowy w Radomiu - VIII SAB/Wa 91/14
-DTSTART;VALUE=DATE-TIME:20150311T135000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150311T135000
 DESCRIPTION:Organ: Prokurator Okręgowy w Radomiu\nSygnatura: VIII SAB/Wa 
  91/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność P
  rokuratora Okręgowego w Radomiu w sprawie udostępnienia informacji publi
@@ -402,7 +402,7 @@ LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes Urzędu Zamówień Publicznych - II SAB/Wa 989/14
-DTSTART;VALUE=DATE-TIME:20150312T090000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150312T090000
 DESCRIPTION:Organ: Prezes Urzędu Zamówień Publicznych\nSygnatura: II SA
  B/Wa 989/14\nSymbole: 658/648 - Informacja publiczna\; Informacja publiczn
  a\nPrzedmiot: \nSklad: ['Andrzej Kołodziej (spr.)'\, 'Anna Mierzejewska'\
@@ -411,7 +411,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dyrektor Centrum Usług Wspólnych - II SAB/Wa 981/14
-DTSTART;VALUE=DATE-TIME:20150312T092000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150312T092000
 DESCRIPTION:Organ: Dyrektor Centrum Usług Wspólnych\nSygnatura: II SAB/W
  a 981/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynnoś
  ć w rozpatrzeniu wniosku z 01.10.2014 r. o udost.inf.publ.\nSklad: ['Andr
@@ -421,7 +421,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wójt Gminy Stanisławów - II SAB/Wa 861/14
-DTSTART;VALUE=DATE-TIME:20150312T125000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150312T125000
 DESCRIPTION:Organ: Wójt Gminy Stanisławów\nSygnatura: II SAB/Wa 861/14\
  nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w spraw
  ie rozpoznania wniosku z dn.11.08.2014 r. o udost.inf.publ.\nSklad: ['Iwon
@@ -431,7 +431,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Infrastruktury i Rozwoju - II SA/Wa 1902/14
-DTSTART;VALUE=DATE-TIME:20150316T094000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150316T094000
 DESCRIPTION:Organ: Minister Infrastruktury i Rozwoju\nSygnatura: II SA/Wa 
  1902/14\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja public
  zna\nSklad: ['Sławomir Antoniuk'\, 'Ewa Pisula-Dąbrowska (spr.)'\, 'Euge
@@ -440,7 +440,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pierwszy Prezes Sądu Najwyższego - II SAB/Wa 617/14
-DTSTART;VALUE=DATE-TIME:20150316T121000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150316T121000
 DESCRIPTION:Organ: Pierwszy Prezes Sądu Najwyższego\nSygnatura: II SAB/W
  a 617/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynnoś
  ć w sprawie rozpatrzenia wniosku z dn. 24.07.2014 r. o udost.inf.publ.\nS
@@ -450,7 +450,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes NSA - II SAB/Wa 940/14
-DTSTART;VALUE=DATE-TIME:20150316T123000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150316T123000
 DESCRIPTION:Organ: Prezes NSA\nSygnatura: II SAB/Wa 940/14\nSymbole: 658/6
  48 - Informacja publiczna\nPrzedmiot: bezczynność w przedmiocie rozpozna
  nia wniosku z 25.07.2014 r. o udziel.inf.publ.\nSklad: ['Sławomir Antoniu
@@ -460,7 +460,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes Urzędu Komunikacji Elektronicznej - II SA/Wa 1988/14
-DTSTART;VALUE=DATE-TIME:20150317T092000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150317T092000
 DESCRIPTION:Organ: Prezes Urzędu Komunikacji Elektronicznej\nSygnatura: I
  I SA/Wa 1988/14\nSymbole: 648 - Informacja publiczna\; Informacja publiczn
  a\nPrzedmiot: \nSklad: ['Anna Mierzejewska'\, 'Sławomir Fularski'\, 'Stan
@@ -469,7 +469,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burmistrz Miasta i Gminy Piaseczno - II SA/Wa 2020/14
-DTSTART;VALUE=DATE-TIME:20150318T090000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150318T090000
 DESCRIPTION:Organ: Burmistrz Miasta i Gminy Piaseczno\nSygnatura: II SA/Wa
   2020/14\nSymbole: 644/648 - Inne z zakresu symbolu sprawy 648\nPrzedmiot:
   niewykonanie wyroku\nSklad: ['Ewa Kwiecińska'\, 'Ewa Grochowska-Jung (sp
@@ -478,7 +478,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Komendant Główny Policji - II SAB/Wa 1029/14
-DTSTART;VALUE=DATE-TIME:20150318T092000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150318T092000
 DESCRIPTION:Organ: Komendant Główny Policji\nSygnatura: II SAB/Wa 1029/1
  4\nSymbole: 658/648 - Bezczynność organu\nPrzedmiot: bezczynność w spr
  awie rozpoznania wniosku z 9.08.2014 o udz.inf.publ.\nSklad: ['Ewa Kwieci
@@ -488,7 +488,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes Rady Ministrów - II SA/Wa 2243/14
-DTSTART;VALUE=DATE-TIME:20150318T100000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150318T100000
 DESCRIPTION:Organ: Prezes Rady Ministrów\nSygnatura: II SA/Wa 2243/14\nSy
  mbole: 648 - Odmowa udzielenia informacji\nPrzedmiot: Odmowa udzielenia in
  formacji\nSklad: ['Ewa Kwiecińska (spr.)'\, 'Ewa Grochowska-Jung'\, 'Ewa 
@@ -497,7 +497,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Spraw Wewnętrznych - II SAB/Wa 1012/14
-DTSTART;VALUE=DATE-TIME:20150318T105000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150318T105000
 DESCRIPTION:Organ: Minister Spraw Wewnętrznych\nSygnatura: II SAB/Wa 1012
  /14\nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\nPrzed
  miot: \nSklad: ['Ewa Grochowska-Jung (spr.)']\nTermin: 2015-03-18 10:50
@@ -506,7 +506,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarząd Okręgowy Polskiego Związku Łowieckiego w Radomiu - VIII
   SAB/Wa 88/14
-DTSTART;VALUE=DATE-TIME:20150318T130000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150318T130000
 DESCRIPTION:Organ: Zarząd Okręgowy Polskiego Związku Łowieckiego w Rad
  omiu\nSygnatura: VIII SAB/Wa 88/14\nSymbole: 658/648 - Informacja publiczn
  a\nPrzedmiot: bezczynność Zarządu Okręgowego Polskiego Związku Łowie
@@ -517,7 +517,7 @@ LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Finansów - II SA/Wa 2081/14
-DTSTART;VALUE=DATE-TIME:20150319T092000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150319T092000
 DESCRIPTION:Organ: Minister Finansów\nSygnatura: II SA/Wa 2081/14\nSymbol
  e: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSklad: ['O
  lga Żurawska-Matusiak'\, 'Danuta Kania'\, 'Andrzej Kołodziej (spr.)']\nT
@@ -526,7 +526,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezydent m.st. Warszawy - II SAB/Wa 945/14
-DTSTART;VALUE=DATE-TIME:20150319T094000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150319T094000
 DESCRIPTION:Organ: Prezydent m.st. Warszawy\nSygnatura: II SAB/Wa 945/14\n
  Symbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedm
  iocie rozpoznania wniosku z 29.08.2014 r. o udziel.inf.publ.\nSklad: ['Olg
@@ -536,7 +536,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes Urzędu Komunikacji Elektronicznej - II SA/Wa 1987/14
-DTSTART;VALUE=DATE-TIME:20150320T090000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150320T090000
 DESCRIPTION:Organ: Prezes Urzędu Komunikacji Elektronicznej\nSygnatura: I
  I SA/Wa 1987/14\nSymbole: 648 - Informacja publiczna\nPrzedmiot: odmowa ud
  ost.inf.publ. na wniosek z 20.02.2014 r.\nSklad: ['Janusz Walawski (spr.)'
@@ -545,7 +545,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Telewizja Polska S.A. - II SA/Wa 1783/14
-DTSTART;VALUE=DATE-TIME:20150320T092000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150320T092000
 DESCRIPTION:Organ: Telewizja Polska S.A.\nSygnatura: II SA/Wa 1783/14\nSym
  bole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSklad: 
  ['Janusz Walawski'\, 'Iwona Dąbrowska (spr.)'\, 'Ewa Pisula-Dąbrowska']\
@@ -554,7 +554,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes Urzędu Komunikacji Elektronicznej - II SA/Wa 1915/14
-DTSTART;VALUE=DATE-TIME:20150320T094000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150320T094000
 DESCRIPTION:Organ: Prezes Urzędu Komunikacji Elektronicznej\nSygnatura: I
  I SA/Wa 1915/14\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacj
  a publiczna\nSklad: ['Janusz Walawski'\, 'Iwona Dąbrowska'\, 'Ewa Pisula-
@@ -563,7 +563,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Telewizja Polska S.A. - II SA/Wa 1712/14
-DTSTART;VALUE=DATE-TIME:20150320T102000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150320T102000
 DESCRIPTION:Organ: Telewizja Polska S.A.\nSygnatura: II SA/Wa 1712/14\nSym
  bole: 648 - Odmowa udzielenia informacji\nPrzedmiot: odmowa udostępnienia
   informacji publicznej na wniosek z 4.06.2014r.\nSklad: ['Janusz Walawski'
@@ -574,7 +574,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarząd Okręgowy Polskiego Związku Łowieckiego w Warszawie - II
   SAB/Wa 1021/14
-DTSTART;VALUE=DATE-TIME:20150324T123000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150324T123000
 DESCRIPTION:Organ: Zarząd Okręgowy Polskiego Związku Łowieckiego w War
  szawie\nSygnatura: II SAB/Wa 1021/14\nSymbole: 658/648 - Bezczynność org
  anu\; Bezczynność organu\nPrzedmiot: \nSklad: ['Eugeniusz Wasilewski (sp
@@ -585,7 +585,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarząd Okręgowy Polskiego Związku Łowieckiego w Siedlcach - II
   SAB/Wa 959/14
-DTSTART;VALUE=DATE-TIME:20150324T125000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150324T125000
 DESCRIPTION:Organ: Zarząd Okręgowy Polskiego Związku Łowieckiego w Sie
  dlcach\nSygnatura: II SAB/Wa 959/14\nSymbole: 658/648 - Bezczynność orga
  nu\nPrzedmiot: bezczynność w przedmiocie rozpoznania wniosku z dn.08.09.
@@ -595,7 +595,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wójt Gminy Klembów - II SAB/Wa 854/14
-DTSTART;VALUE=DATE-TIME:20150325T120000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150325T120000
 DESCRIPTION:Organ: Wójt Gminy Klembów\nSygnatura: II SAB/Wa 854/14\nSymb
  ole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w sprawie ro
  zpoznania wniosku z dn.25.04.2013 r. o udziel.inf.publ.\nSklad: ['Andrzej 
@@ -605,7 +605,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes Urzędu Komunikacji Elektronicznej - II SA/Wa 1988/14
-DTSTART;VALUE=DATE-TIME:20150326T084000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150326T084000
 DESCRIPTION:Organ: Prezes Urzędu Komunikacji Elektronicznej\nSygnatura: I
  I SA/Wa 1988/14\nSymbole: 648 - Informacja publiczna\; Informacja publiczn
  a\nPrzedmiot: \nSklad: ['Anna Mierzejewska']\nTermin: 2015-03-26 08:40
@@ -613,7 +613,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes Trybunału Konstytucyjnego - II SAB/Wa 1008/14
-DTSTART;VALUE=DATE-TIME:20150326T090000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150326T090000
 DESCRIPTION:Organ: Prezes Trybunału Konstytucyjnego\nSygnatura: II SAB/Wa
   1008/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynnoś
  ć w sprawie wniosków o udost.inf.publ. z 30.04.2014 i 20.05.2014\nSklad:
@@ -623,7 +623,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Gospodarki - II SA/Wa 2204/14
-DTSTART;VALUE=DATE-TIME:20150326T092000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150326T092000
 DESCRIPTION:Organ: Minister Gospodarki\nSygnatura: II SA/Wa 2204/14\nSymbo
  le: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSklad: ['
  Sławomir Antoniuk'\, 'Danuta Kania'\, 'Andrzej Kołodziej (spr.)']\nTermi
@@ -633,7 +633,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Polska Spółka Gazownictwa Sp. z o.o. z siedzibą w Warszawie - I
  I SA/Wa 1941/14
-DTSTART;VALUE=DATE-TIME:20150326T105000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150326T105000
 DESCRIPTION:Organ: Polska Spółka Gazownictwa Sp. z o.o. z siedzibą w Wa
  rszawie\nSygnatura: II SA/Wa 1941/14\nSymbole: 644/648 - Inne z zakresu sy
  mbolu sprawy 648\nPrzedmiot: niewykonanie wyroku\nSklad: ['Sławomir Anton
@@ -643,7 +643,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Sprawiedliwości - II SAB/Wa 998/14
-DTSTART;VALUE=DATE-TIME:20150327T100000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150327T100000
 DESCRIPTION:Organ: Minister Sprawiedliwości\nSygnatura: II SAB/Wa 998/14\
  nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przed
  miocie ochrony danych osobowych na wniosek z 30.07.2014 r.\nSklad: ['Danut
@@ -653,7 +653,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wójt Gminy Poświętne - II SAB/Wa 954/14
-DTSTART;VALUE=DATE-TIME:20150327T111500
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150327T111500
 DESCRIPTION:Organ: Wójt Gminy Poświętne\nSygnatura: II SAB/Wa 954/14\nS
  ymbole: 658/648 - Bezczynność organu\nPrzedmiot: bezczynność w przedmi
  ocie rozpoznania wniosku z dn.08.07.2014 r. o udost.inf.publ.\nSklad: ['Da
@@ -663,7 +663,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orange Polska S.A. z/s w Warszawie - II SAB/Wa 973/14
-DTSTART;VALUE=DATE-TIME:20150401T094000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150401T094000
 DESCRIPTION:Organ: Orange Polska S.A. z/s w Warszawie\nSygnatura: II SAB/W
  a 973/14\nSymbole: 658/648 - Bezczynność organu\nPrzedmiot: bezczynnoś
  ć w sprawie rozpoznania wniosku z dn. 07.08.2013 r. o udziel.inf.publ.\nS
@@ -673,7 +673,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Starosta Powiatu Wyszkowskiego - II SAB/Wa 428/14
-DTSTART;VALUE=DATE-TIME:20150401T102000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150401T102000
 DESCRIPTION:Organ: Starosta Powiatu Wyszkowskiego\nSygnatura: II SAB/Wa 42
  8/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w 
  sprawie rozpoznania wniosku z dn. 14.04.2014 r. o udost.inf.publ.\nSklad: 
@@ -683,7 +683,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Sprawiedliwości - II SA/Wa 2021/14
-DTSTART;VALUE=DATE-TIME:20150408T120000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150408T120000
 DESCRIPTION:Organ: Minister Sprawiedliwości\nSygnatura: II SA/Wa 2021/14\
  nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSkl
  ad: ['Janusz Walawski'\, 'Andrzej Góraj (spr.)'\, 'Danuta Kania']\nTermin
@@ -692,7 +692,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wójt Gminy Pacyna - II SAB/Wa 966/14
-DTSTART;VALUE=DATE-TIME:20150408T122000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150408T122000
 DESCRIPTION:Organ: Wójt Gminy Pacyna\nSygnatura: II SAB/Wa 966/14\nSymbol
  e: 658/648 - Bezczynność organu\nPrzedmiot: bezczynność w przedmiocie 
  rozpoznania wniosku z 8.08.2014 o udzielenie informacji publicznej\nSklad:
@@ -702,7 +702,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dyrektor Instytutu Techniki Budowlanej - II SAB/Wa 972/14
-DTSTART;VALUE=DATE-TIME:20150408T142000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150408T142000
 DESCRIPTION:Organ: Dyrektor Instytutu Techniki Budowlanej\nSygnatura: II S
  AB/Wa 972/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynn
  ość w sprawie rozpoznania wniosku z dn. 18.09.2014 r. o udost.inf.publ.\
@@ -712,7 +712,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes Urzędu Komunikacji Elektronicznej - II SA/Wa 2093/14
-DTSTART;VALUE=DATE-TIME:20150409T123000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150409T123000
 DESCRIPTION:Organ: Prezes Urzędu Komunikacji Elektronicznej\nSygnatura: I
  I SA/Wa 2093/14\nSymbole: 648 - Odmowa udzielenia informacji\nPrzedmiot: O
  dmowa udzielenia informacji\nSklad: ['Andrzej Kołodziej'\, 'Ewa Grochowsk
@@ -721,7 +721,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Kultury i Dziedzictwa Narodowego - II SA/Wa 1980/14
-DTSTART;VALUE=DATE-TIME:20150409T125000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150409T125000
 DESCRIPTION:Organ: Minister Kultury i Dziedzictwa Narodowego\nSygnatura: I
  I SA/Wa 1980/14\nSymbole: 648 - Odmowa udzielenia informacji\nPrzedmiot: O
  dmowa udzielenia informacji\nSklad: ['Andrzej Kołodziej'\, 'Ewa Grochowsk
@@ -730,7 +730,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Infrastruktury i Rozwoju - II SAB/Wa 937/14
-DTSTART;VALUE=DATE-TIME:20150410T090000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150410T090000
 DESCRIPTION:Organ: Minister Infrastruktury i Rozwoju\nSygnatura: II SAB/Wa
   937/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność
   w sprawie rozpoznania wniosku z dn. 21.08.14 o udziel.inf.publ.\nSklad: [
@@ -741,7 +741,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarząd Główny Polskiego Związku Łowieckiego - II SAB/Wa 885/1
  4
-DTSTART;VALUE=DATE-TIME:20150410T124000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150410T124000
 DESCRIPTION:Organ: Zarząd Główny Polskiego Związku Łowieckiego\nSygna
  tura: II SAB/Wa 885/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot
  : bezczynność w przedmiocie rozpoznania wniosku z 05.08.2014 r. o udziel
@@ -751,7 +751,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Komendant Główny Policji - II SA/Wa 2062/14
-DTSTART;VALUE=DATE-TIME:20150410T130000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150410T130000
 DESCRIPTION:Organ: Komendant Główny Policji\nSygnatura: II SA/Wa 2062/14
  \nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSk
  lad: ['Stanisław Marek Pietras'\, 'Iwona Dąbrowska (spr.)'\, 'Ewa Pisula
@@ -761,7 +761,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mazowiecki Wojewódzki Inspektor Nadzoru Budowlanego - II SAB/Wa 1
  005/14
-DTSTART;VALUE=DATE-TIME:20150413T094000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150413T094000
 DESCRIPTION:Organ: Mazowiecki Wojewódzki Inspektor Nadzoru Budowlanego\nS
  ygnatura: II SAB/Wa 1005/14\nSymbole: 658/648 - Informacja publiczna\nPrze
  dmiot: bezczynność w przedmiocie rozpoznania wniosku z 09.10.2014 r. o u
@@ -771,7 +771,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Sprawiedliwości - II SAB/Wa 1063/14
-DTSTART;VALUE=DATE-TIME:20150413T103000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150413T103000
 DESCRIPTION:Organ: Minister Sprawiedliwości\nSygnatura: II SAB/Wa 1063/14
  \nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w spra
  wie wniosku o udostępn.inf.publ. z 03.11.2014 r.\nSklad: ['Anna Mierzejew
@@ -782,7 +782,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarząd Główny Polskiego Związku Łowieckiego - II SAB/Wa 1137/
  14
-DTSTART;VALUE=DATE-TIME:20150413T110000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150413T110000
 DESCRIPTION:Organ: Zarząd Główny Polskiego Związku Łowieckiego\nSygna
  tura: II SAB/Wa 1137/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmio
  t: bezczynność w sprawie wniosku o udost.inf.publ. z dn. 07.10.2014 r.\n
@@ -792,7 +792,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orange Polska S.A. z/s w Warszawie - II SAB/Wa 1026/14
-DTSTART;VALUE=DATE-TIME:20150413T123000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150413T123000
 DESCRIPTION:Organ: Orange Polska S.A. z/s w Warszawie\nSygnatura: II SAB/W
  a 1026/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynnoś
  ć w sprawie rozpoznania wniosku z dn. 17.04.2013  o udzielenie inf.publ.\
@@ -802,7 +802,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wojewoda Mazowiecki - II SAB/Wa 980/14
-DTSTART;VALUE=DATE-TIME:20150414T090000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
 DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 980/14\nSymbo
  le: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmiocie
   rozpoznania wniosku z 25.09.2014 r. o udziel.inf.publ.\nSklad: ['Ewa Marc
@@ -812,7 +812,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dyrektor Biblioteki Narodowej - II SAB/Wa 1072/14
-DTSTART;VALUE=DATE-TIME:20150414T090000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
 DESCRIPTION:Organ: Dyrektor Biblioteki Narodowej\nSygnatura: II SAB/Wa 107
  2/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w 
  przedmiocie rozpoznania wniosku z 10 września 2014 r. o udost.inf.publ.\n
@@ -822,7 +822,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prokurator Generalny - II SA/Wa 1966/14
-DTSTART;VALUE=DATE-TIME:20150414T092000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T092000
 DESCRIPTION:Organ: Prokurator Generalny\nSygnatura: II SA/Wa 1966/14\nSymb
  ole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSklad: [
  'Sławomir Antoniuk'\, 'Sławomir Fularski'\, 'Ewa Pisula-Dąbrowska (spr.
@@ -831,7 +831,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Główny Inspektor Transportu Drogowego - II SAB/Wa 957/14
-DTSTART;VALUE=DATE-TIME:20150414T133000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T133000
 DESCRIPTION:Organ: Główny Inspektor Transportu Drogowego\nSygnatura: II 
  SAB/Wa 957/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczyn
  ność w sprawie wniosku o udost.inf.publ. z 28.08.2014\nSklad: ['Sławomi
@@ -842,7 +842,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarząd Okręgowy Polskiego Związku Łowieckiego w Ostrołęce - 
  II SAB/Wa 1033/14
-DTSTART;VALUE=DATE-TIME:20150415T110000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150415T110000
 DESCRIPTION:Organ: Zarząd Okręgowy Polskiego Związku Łowieckiego w Ost
  rołęce\nSygnatura: II SAB/Wa 1033/14\nSymbole: 658/648 - Bezczynność o
  rganu\nPrzedmiot: bezczynność w sprawie rozpoznania wniosku z dnia 07.10
@@ -852,7 +852,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Szef Służby Kontrwywiadu Wojskowego - II SAB/Wa 499/14
-DTSTART;VALUE=DATE-TIME:20150415T125000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150415T125000
 DESCRIPTION:Organ: Szef Służby Kontrwywiadu Wojskowego\nSygnatura: II SA
  B/Wa 499/14\nSymbole: 658/648 - Bezczynność organu\nPrzedmiot: bezczynno
  ść w sprawie rozpoznania wniosku z 21.05.2014 r. o udostępnienie inform
@@ -862,7 +862,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prokurator Rejonowy w Siedlcach - II SAB/Wa 1046/14
-DTSTART;VALUE=DATE-TIME:20150416T124000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150416T124000
 DESCRIPTION:Organ: Prokurator Rejonowy w Siedlcach\nSygnatura: II SAB/Wa 1
  046/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność 
  w przedmiocie rozpoznania wniosku z 24.11.2014 r. o udost.inf.publ.\nSklad
@@ -873,7 +873,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarząd Okręgowy Polskiego Związku Łowieckiego w Ciechanowie - 
  II SAB/Wa 1053/14
-DTSTART;VALUE=DATE-TIME:20150416T130000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150416T130000
 DESCRIPTION:Organ: Zarząd Okręgowy Polskiego Związku Łowieckiego w Cie
  chanowie\nSygnatura: II SAB/Wa 1053/14\nSymbole: 658/648 - Bezczynność o
  rganu\nPrzedmiot: bezczynność w sprawie wniosku z dn. 07.10.2014 r. o ud
@@ -883,7 +883,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Sportu i Turystyki - II SAB/Wa 1055/14
-DTSTART;VALUE=DATE-TIME:20150416T132000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150416T132000
 DESCRIPTION:Organ: Minister Sportu i Turystyki\nSygnatura: II SAB/Wa 1055/
  14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w pr
  zedmiocie rozpoznania wniosku z dn. 24.07.2014 r. o udost.inf.publ.\nSklad
@@ -893,7 +893,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 965/14
-DTSTART;VALUE=DATE-TIME:20150417T110000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150417T110000
 DESCRIPTION:Organ: PKP Polskie Linie Kolejowe S.A.\nSygnatura: II SAB/Wa 9
  65/14\nSymbole: 658/648 - Bezczynność organu\nPrzedmiot: bezczynność w
   przedmiocie rozpoznania wniosku z 4.09.2014 o udostępnienie informacji p
@@ -903,7 +903,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Starosta Powiatu Wołomińskiego - II SAB/Wa 614/14
-DTSTART;VALUE=DATE-TIME:20150417T131000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150417T131000
 DESCRIPTION:Organ: Starosta Powiatu Wołomińskiego\nSygnatura: II SAB/Wa 
  614/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność 
  w sprawie rozpatrzenia wniosku z dn. 20.05.2014 r. o udost.inf.publ.\nSkla
@@ -913,7 +913,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes Urzędu Lotnictwa Cywilnego - II SAB/Wa 994/14
-DTSTART;VALUE=DATE-TIME:20150417T142500
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150417T142500
 DESCRIPTION:Organ: Prezes Urzędu Lotnictwa Cywilnego\nSygnatura: II SAB/W
  a 994/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynnoś
  ć w sprawie rozpoznania wniosku z dn.16.09.2014 o udziel.inf.publ.\nSklad
@@ -924,7 +924,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarząd Okręgowy Polskiego Związku Łowieckiego w Siedlcach - II
   SAB/Wa 1032/14
-DTSTART;VALUE=DATE-TIME:20150420T090000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150420T090000
 DESCRIPTION:Organ: Zarząd Okręgowy Polskiego Związku Łowieckiego w Sie
  dlcach\nSygnatura: II SAB/Wa 1032/14\nSymbole: 658/648 - Bezczynność org
  anu\nPrzedmiot: bezczynność w sprawie rozpoznania wniosku z dnia 07.10.2
@@ -934,7 +934,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Komendant Główny Policji - II SAB/Wa 1045/14
-DTSTART;VALUE=DATE-TIME:20150420T100000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150420T100000
 DESCRIPTION:Organ: Komendant Główny Policji\nSygnatura: II SAB/Wa 1045/1
  4\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w prz
  edmiocie rozpatrzenia wniosku z 12.10.2014 r. o udost.inf.publ.\nSklad: ['
@@ -944,7 +944,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes Sądu Okręgowego - II SA/Wa 2105/14
-DTSTART;VALUE=DATE-TIME:20150420T123000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150420T123000
 DESCRIPTION:Organ: Prezes Sądu Okręgowego\nSygnatura: II SA/Wa 2105/14\n
  Symbole: 648 - Odmowa udzielenia informacji\nPrzedmiot: Odmowa udzielenia 
  informacji\nSklad: ['Ewa Pisula-Dąbrowska'\, 'Andrzej Góraj'\, 'Eugenius
@@ -953,7 +953,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes Sądu Apelacyjnego w Warszawie - II SA/Wa 2304/14
-DTSTART;VALUE=DATE-TIME:20150420T125000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150420T125000
 DESCRIPTION:Organ: Prezes Sądu Apelacyjnego w Warszawie\nSygnatura: II SA
  /Wa 2304/14\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja pu
  bliczna\nSklad: ['Ewa Pisula-Dąbrowska'\, 'Andrzej Góraj (spr.)'\, 'Euge
@@ -962,7 +962,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezydent m.st. Warszawy - II SA/Wa 2171/14
-DTSTART;VALUE=DATE-TIME:20150421T090000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150421T090000
 DESCRIPTION:Organ: Prezydent m.st. Warszawy\nSygnatura: II SA/Wa 2171/14\n
  Symbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSkla
  d: ['Sławomir Antoniuk (spr.)'\, 'Adam Lipiński'\, 'Janusz Walawski']\nT
@@ -972,7 +972,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Zarząd Główny Polskiego Związku Łowieckiego - II SAB/Wa 1136/
  14
-DTSTART;VALUE=DATE-TIME:20150421T092000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150421T092000
 DESCRIPTION:Organ: Zarząd Główny Polskiego Związku Łowieckiego\nSygna
  tura: II SAB/Wa 1136/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmio
  t: bezczynność w sprawie wniosku o udost.inf.publ. z dn. 27.10.2014 r.\n
@@ -982,7 +982,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Marszałek Sejmu RP - II SAB/Wa 1038/14
-DTSTART;VALUE=DATE-TIME:20150422T090000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150422T090000
 DESCRIPTION:Organ: Marszałek Sejmu RP\nSygnatura: II SAB/Wa 1038/14\nSymb
  ole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w sprawie wn
  iosku o udost.inf.publ. z dn. 25.09.2014\nSklad: ['Olga Żurawska-Matusiak
@@ -991,7 +991,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Minister Pracy i Polityki Społecznej - II SAB/Wa 1056/14
-DTSTART;VALUE=DATE-TIME:20150422T093000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150422T093000
 DESCRIPTION:Organ: Minister Pracy i Polityki Społecznej\nSygnatura: II SA
  B/Wa 1056/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynn
  ość w sprawie wniosku o udost.inf.publ. z 08.08.2014 r.\nSklad: ['Olga 
@@ -1001,7 +1001,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fundacja na Rzecz Chorych z Chorobami Krwi - VIII SAB/Wa 96/14
-DTSTART;VALUE=DATE-TIME:20150422T124000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150422T124000
 DESCRIPTION:Organ: Fundacja na Rzecz Chorych z Chorobami Krwi\nSygnatura: 
  VIII SAB/Wa 96/14\nSymbole: 658/648 - Inne z zakresu symbolu sprawy 648\nP
  rzedmiot: bezczynność Fundacji na rzecz chorych z chorobami krwi w spraw
@@ -1011,7 +1011,7 @@ LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes Rady Ministrów - II SAB/Wa 330/15
-DTSTART;VALUE=DATE-TIME:20150423T090000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150423T090000
 DESCRIPTION:Organ: Prezes Rady Ministrów\nSygnatura: II SAB/Wa 330/15\nSy
  mbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmio
  cie rozpoznania wniosku z dn.23.09.2014 r. o udost.inf.publ.\nSklad: ['Ewa
@@ -1021,7 +1021,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SKO w Siedlcach - II SA/Wa 1816/14
-DTSTART;VALUE=DATE-TIME:20150423T092000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150423T092000
 DESCRIPTION:Organ: SKO w Siedlcach\nSygnatura: II SA/Wa 1816/14\nSymbole: 
  648 - Stwierdzenie niedopuszczalności odwołania\nPrzedmiot: Stwierdzenie
   niedopuszczalności odwołania\nSklad: ['Ewa Grochowska-Jung (spr.)'\, 'A
@@ -1030,7 +1030,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SKO w Siedlcach - II SA/Wa 1820/14
-DTSTART;VALUE=DATE-TIME:20150423T094000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150423T094000
 DESCRIPTION:Organ: SKO w Siedlcach\nSygnatura: II SA/Wa 1820/14\nSymbole: 
  648 - Informacja publiczna\nPrzedmiot: uchylenie decyzji oraz umorzenie po
  stępowania\nSklad: ['Ewa Grochowska-Jung'\, 'Andrzej Kołodziej'\, 'Ewa M
@@ -1039,7 +1039,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wójt Gminy Winnica - II SAB/Wa 1025/14
-DTSTART;VALUE=DATE-TIME:20150423T100000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150423T100000
 DESCRIPTION:Organ: Wójt Gminy Winnica\nSygnatura: II SAB/Wa 1025/14\nSymb
  ole: 658/648 - Bezczynność organu\nPrzedmiot: bezczynność w sprawie ro
  zpoznania wniosku z dn. 10.10.2014  o udzielenie inf.publ.\nSklad: ['Ewa G
@@ -1049,7 +1049,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prokurator Generalny - II SAB/Wa 1135/14
-DTSTART;VALUE=DATE-TIME:20150423T102000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150423T102000
 DESCRIPTION:Organ: Prokurator Generalny\nSygnatura: II SAB/Wa 1135/14\nSym
  bole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmioc
  ie rozpoznania wniosku z 27.10.2014 o udost.inf.publ.\nSklad: ['Ewa Grocho
@@ -1059,7 +1059,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Szef Inspektoratu Uzbrojenia - II SAB/Wa 257/15
-DTSTART;VALUE=DATE-TIME:20150424T090000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150424T090000
 DESCRIPTION:Organ: Szef Inspektoratu Uzbrojenia\nSygnatura: II SAB/Wa 257/
  15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w pr
  zedmiocie rozpoznania wniosku z dn. 15.09.2014 r. o udost.inf.publ.\nSklad
@@ -1069,7 +1069,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rada Izby Notarialnej w Warszawie - II SA/Wa 2165/14
-DTSTART;VALUE=DATE-TIME:20150424T092000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150424T092000
 DESCRIPTION:Organ: Rada Izby Notarialnej w Warszawie\nSygnatura: II SA/Wa 
  2165/14\nSymbole: 648 - Inne z zakresu symbolu sprawy 648\nPrzedmiot: odmo
  wa przywrócenia terminu do wniesienia wniosku o ponowne rozpatrzenie spra
@@ -1080,7 +1080,7 @@ LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Krajowa Rada Izby Architektów RP - II SAB/Wa 1116/14
-DTSTART;VALUE=DATE-TIME:20150424T094000
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150424T094000
 DESCRIPTION:Organ: Krajowa Rada Izby Architektów RP\nSygnatura: II SAB/Wa
   1116/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynnoś
  ć w przedmiocie rozpoznania wniosku z dn. 15.08.2014 r. o udost.inf.publ.
