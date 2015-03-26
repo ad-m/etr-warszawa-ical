@@ -8,7 +8,8 @@ from time import strptime
 import datetime
 HEADER_STYLE = 'border-width: 2px; border-style: double;'
 END_STYLE = 'border-bottom-width: 2px; border-bottom-style: double; border-top: none;'
-MSG = """Organ: {organ}
+MSG = '{organ} - {sygnatura}'
+DESC = """Organ: {organ}
 Sygnatura: {sygnatura}
 Symbole: {symbol}
 Przedmiot: {przedmiot}
@@ -74,6 +75,7 @@ for row in data:
     struct = strptime(row['data']+" "+row['godzina'], "%Y-%m-%d %H:%M")
     event.add('dtstart', datetime.datetime(*struct[:6]))
     event['summary'] = MSG.format(**row)
+    event['description'] = DESC.format(**row)
     event['location'] = vText('Wydzial %s, WSA Warszawa' % (row['wydzial']))
     cal.add_component(event)
 open('648.ics', 'wb').write(cal.to_ical())
