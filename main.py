@@ -40,7 +40,16 @@ def etr_query(**kwargs):
             # ['III', <br/>, 'III SA/Wa 1698/14', <br/>]
             record['wydzial'] = row.select('td')[0].contents[0]
             record['sygnatura'] = row.select('td')[0].contents[2]
-            record['data'], record['godzina'], record['sala'] = row.select('td')[1].strings
+            time_data = []
+            tmp = ''
+            # ['2015-04-17', <br/>, <br/>, 'Sala D', <br/>]
+            for el in row.select('td')[1]:
+                if type(el) == NavigableString:
+                    tmp = el
+                else:
+                    time_data.append(tmp)
+                    tmp = ""
+            record['data'], record['godzina'], record['sala'] = time_data
             # ('Dyrektor Izby Skarbowej w Warszawie', '6118 - Koszty; Koszty')
             record['organ'] = row.select('td')[2].contents[0]
             record['symbol'] = row.select('td')[2].contents[2]
