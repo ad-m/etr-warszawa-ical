@@ -661,16 +661,6 @@ DESCRIPTION:Organ: Orange Polska S.A. z/s w Warszawie\nSygnatura: II SAB/W
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dyrektor Biblioteki Narodowej - II SAB/Wa 1072/14
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
-DESCRIPTION:Organ: Dyrektor Biblioteki Narodowej\nSygnatura: II SAB/Wa 107
- 2/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w 
- przedmiocie rozpoznania wniosku z 10 września 2014 r. o udost.inf.publ.\n
- Sklad: ['Sławomir Antoniuk (spr.)'\, 'Sławomir Fularski'\, 'Ewa Pisula-D
- ąbrowska']\nTermin: 2015-04-14 09:00
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wojewoda Mazowiecki - II SAB/Wa 980/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
 DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 980/14\nSymbo
@@ -678,6 +668,16 @@ DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 980/14\nSymbo
   rozpoznania wniosku z 25.09.2014 r. o udziel.inf.publ.\nSklad: ['Ewa Marc
  inkowska'\, 'Danuta Kania'\, 'Eugeniusz Wasilewski (spr.)']\nTermin: 2015-
  04-14 09:00
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dyrektor Biblioteki Narodowej - II SAB/Wa 1072/14
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
+DESCRIPTION:Organ: Dyrektor Biblioteki Narodowej\nSygnatura: II SAB/Wa 107
+ 2/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w 
+ przedmiocie rozpoznania wniosku z 10 września 2014 r. o udost.inf.publ.\n
+ Sklad: ['Sławomir Antoniuk (spr.)'\, 'Sławomir Fularski'\, 'Ewa Pisula-D
+ ąbrowska']\nTermin: 2015-04-14 09:00
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
