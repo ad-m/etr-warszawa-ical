@@ -15,7 +15,9 @@ Sygnatura: {sygnatura}
 Symbole: {symbol}
 Przedmiot: {przedmiot}
 Sklad: {sklad}
-Termin: {data} {godzina}"""
+Termin: {data} {godzina}
+
+{orzeczenie}"""
 
 
 def etr_query(**kwargs):
