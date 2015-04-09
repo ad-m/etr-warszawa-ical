@@ -362,9 +362,10 @@ BEGIN:VEVENT
 SUMMARY:Minister Kultury i Dziedzictwa Narodowego - II SA/Wa 1980/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150409T125000
 DESCRIPTION:Organ: Minister Kultury i Dziedzictwa Narodowego\nSygnatura: I
- I SA/Wa 1980/14\nSymbole: 648 - Odmowa udzielenia informacji\nPrzedmiot: O
- dmowa udzielenia informacji\nSklad: ['Andrzej Kołodziej'\, 'Ewa Grochowsk
- a-Jung'\, 'Eugeniusz Wasilewski (spr.)']\nTermin: 2015-04-09 12:50\n\n[]
+ I SA/Wa 1980/14\nSymbole: 648 - Odmowa udzielenia informacji\; Odmowa udzi
+ elenia informacji\nPrzedmiot: \nSklad: ['Andrzej Kołodziej'\, 'Ewa Grocho
+ wska-Jung'\, 'Eugeniusz Wasilewski (spr.)']\nTermin: 2015-04-09 12:50\n\n[
+ ]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -597,6 +598,15 @@ DESCRIPTION:Organ: Prezes Sądu Apelacyjnego w Warszawie\nSygnatura: II SA
  /Wa 2304/14\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja pu
  bliczna\nSklad: ['Ewa Pisula-Dąbrowska'\, 'Andrzej Góraj (spr.)'\, 'Euge
  niusz Wasilewski']\nTermin: 2015-04-20 12:50\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minister Kultury i Dziedzictwa Narodowego - II SA/Wa 1980/14
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150420T143000
+DESCRIPTION:Organ: Minister Kultury i Dziedzictwa Narodowego\nSygnatura: I
+ I SA/Wa 1980/14\nSymbole: 648 - Odmowa udzielenia informacji\; Odmowa udzi
+ elenia informacji\nPrzedmiot: \nSklad: ['Eugeniusz Wasilewski (spr.)']\nTe
+ rmin: 2015-04-20 14:30\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
