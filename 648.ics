@@ -385,16 +385,6 @@ DESCRIPTION:Organ: Orange Polska S.A. z/s w Warszawie\nSygnatura: II SAB/W
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dyrektor Biblioteki Narodowej - II SAB/Wa 1072/14
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
-DESCRIPTION:Organ: Dyrektor Biblioteki Narodowej\nSygnatura: II SAB/Wa 107
- 2/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w 
- przedmiocie rozpoznania wniosku z 10 września 2014 r. o udost.inf.publ.\n
- Sklad: ['Sławomir Antoniuk (spr.)'\, 'Sławomir Fularski'\, 'Ewa Pisula-D
- ąbrowska']\nTermin: 2015-04-14 09:00\n\n[]
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wojewoda Mazowiecki - II SAB/Wa 980/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
 DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 980/14\nSymbo
@@ -402,6 +392,16 @@ DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 980/14\nSymbo
   rozpoznania wniosku z 25.09.2014 r. o udziel.inf.publ.\nSklad: ['Ewa Marc
  inkowska'\, 'Danuta Kania'\, 'Eugeniusz Wasilewski (spr.)']\nTermin: 2015-
  04-14 09:00\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dyrektor Biblioteki Narodowej - II SAB/Wa 1072/14
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
+DESCRIPTION:Organ: Dyrektor Biblioteki Narodowej\nSygnatura: II SAB/Wa 107
+ 2/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w 
+ przedmiocie rozpoznania wniosku z 10 września 2014 r. o udost.inf.publ.\n
+ Sklad: ['Sławomir Antoniuk (spr.)'\, 'Sławomir Fularski'\, 'Ewa Pisula-D
+ ąbrowska']\nTermin: 2015-04-14 09:00\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -481,8 +481,8 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150417T110000
 DESCRIPTION:Organ: PKP Polskie Linie Kolejowe S.A.\nSygnatura: II SAB/Wa 9
  65/14\nSymbole: 658/648 - Bezczynność organu\nPrzedmiot: bezczynność w
   przedmiocie rozpoznania wniosku z 4.09.2014 o udostępnienie informacji p
- ublicznej\nSklad: ['Maria Werpachowska'\, 'Ewa Grochowska-Jung'\, 'Olga Ż
- urawska-Matusiak (spr.)']\nTermin: 2015-04-17 11:00\n\n[]
+ ublicznej\nSklad: ['Maria Werpachowska'\, 'Sławomir Antoniuk (spr.)'\, 'E
+ wa Grochowska-Jung']\nTermin: 2015-04-17 11:00\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -491,8 +491,8 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150417T131000
 DESCRIPTION:Organ: Starosta Powiatu Wołomińskiego\nSygnatura: II SAB/Wa 
  614/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność 
  w sprawie rozpatrzenia wniosku z dn. 20.05.2014 r. o udost.inf.publ.\nSkla
- d: ['Maria Werpachowska'\, 'Ewa Grochowska-Jung'\, 'Olga Żurawska-Matusia
- k (spr.)']\nTermin: 2015-04-17 13:10\n\n[]
+ d: ['Maria Werpachowska'\, 'Sławomir Antoniuk (spr.)'\, 'Ewa Grochowska-J
+ ung']\nTermin: 2015-04-17 13:10\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -501,8 +501,8 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150417T142500
 DESCRIPTION:Organ: Prezes Urzędu Lotnictwa Cywilnego\nSygnatura: II SAB/W
  a 994/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynnoś
  ć w sprawie rozpoznania wniosku z dn.16.09.2014 o udziel.inf.publ.\nSklad
- : ['Iwona Maciejuk (spr.)'\, 'Ewa Grochowska-Jung'\, 'Olga Żurawska-Matus
- iak']\nTermin: 2015-04-17 14:25\n\n[]
+ : ['Iwona Maciejuk (spr.)'\, 'Sławomir Antoniuk'\, 'Ewa Grochowska-Jung']
+ \nTermin: 2015-04-17 14:25\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -578,9 +578,9 @@ SUMMARY:Marszałek Sejmu RP - II SAB/Wa 1038/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150422T090000
 DESCRIPTION:Organ: Marszałek Sejmu RP\nSygnatura: II SAB/Wa 1038/14\nSymb
  ole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w sprawie wn
- iosku o udost.inf.publ. z dn. 25.09.2014\nSklad: ['Olga Żurawska-Matusiak
-  (spr.)'\, 'Danuta Kania'\, 'Anna Mierzejewska']\nTermin: 2015-04-22 09:00
- \n\n[]
+ iosku o udost.inf.publ. z dn. 25.09.2014\nSklad: ['Ewa Grochowska-Jung (sp
+ r.)'\, 'Danuta Kania'\, 'Anna Mierzejewska']\nTermin: 2015-04-22 09:00\n\n
+ []
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -588,9 +588,9 @@ SUMMARY:Minister Pracy i Polityki Społecznej - II SAB/Wa 1056/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150422T093000
 DESCRIPTION:Organ: Minister Pracy i Polityki Społecznej\nSygnatura: II SA
  B/Wa 1056/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynn
- ość w sprawie wniosku o udost.inf.publ. z 08.08.2014 r.\nSklad: ['Olga 
- Żurawska-Matusiak'\, 'Danuta Kania (spr.)'\, 'Anna Mierzejewska']\nTermin
- : 2015-04-22 09:30\n\n[]
+ ość w sprawie wniosku o udost.inf.publ. z 08.08.2014 r.\nSklad: ['Ewa Gr
+ ochowska-Jung'\, 'Danuta Kania (spr.)'\, 'Anna Mierzejewska']\nTermin: 201
+ 5-04-22 09:30\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
