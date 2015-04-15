@@ -1,16 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:Prezes Urzędu Komunikacji Elektronicznej - II SA/Wa 1988/14
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150317T092000
-DESCRIPTION:Organ: Prezes Urzędu Komunikacji Elektronicznej\nSygnatura: I
- I SA/Wa 1988/14\nSymbole: 648 - Informacja publiczna\; Informacja publiczn
- a\nPrzedmiot: \nSklad: ['Anna Mierzejewska'\, 'Sławomir Fularski'\, 'Stan
- isław Marek Pietras (spr.)']\nTermin: 2015-03-17 09:20\n\n['Odroczono og
- łoszenie orzeczenia na dzień 2015-03-26']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burmistrz Miasta i Gminy Piaseczno - II SA/Wa 2020/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150318T090000
 DESCRIPTION:Organ: Burmistrz Miasta i Gminy Piaseczno\nSygnatura: II SA/Wa
@@ -160,11 +150,12 @@ BEGIN:VEVENT
 SUMMARY:Prezes Urzędu Komunikacji Elektronicznej - II SA/Wa 1988/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150326T084000
 DESCRIPTION:Organ: Prezes Urzędu Komunikacji Elektronicznej\nSygnatura: I
- I SA/Wa 1988/14\nSymbole: 648 - Informacja publiczna\; Informacja publiczn
- a\nPrzedmiot: \nSklad: ['Anna Mierzejewska']\nTermin: 2015-03-26 08:40\n\n
- ['Uchylono zaskarżoną decyzję i poprzedzającą ją decyzję'\, 'Stwier
- dzono\, że zaskarżona decyzja nie może być wykonana w całości'\, 'Za
- sądzono zwrot kosztów postępowania']
+ I SA/Wa 1988/14\nSymbole: 648 - Informacja publiczna\nPrzedmiot: odmowa ud
+ ostępnienia inf.publ.\nPublikacja orzeczenia odroczona z dnia 17 marca 20
+ 15 r.\nSklad: ['Anna Mierzejewska']\nTermin: 2015-03-26 08:40\n\n['Uchylon
+ o zaskarżoną decyzję i poprzedzającą ją decyzję'\, 'Stwierdzono\, 
+ że zaskarżona decyzja nie może być wykonana w całości'\, 'Zasądzono
+  zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -930,5 +921,47 @@ DESCRIPTION:Organ: Minister Pracy i Polityki Społecznej\nSygnatura: II SA
   Wasilewski (spr.)'\, 'Ewa Marcinkowska'\, 'Janusz Walawski']\nTermin: 201
  5-05-12 12:50\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wójt Gminy Krzynowłoga Mała - II SAB/Wa 290/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150513T102000
+DESCRIPTION:Organ: Wójt Gminy Krzynowłoga Mała\nSygnatura: II SAB/Wa 29
+ 0/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w 
+ sprawie rozpoznania wniosku z dn. 19.10.2014 r. o udziel.inf.publ.\nSklad:
+  ['Adam Lipiński'\, 'Anna Mierzejewska'\, 'Stanisław Marek Pietras (spr.
+ )']\nTermin: 2015-05-13 10:20\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wójt Gminy Radziejowice - II SAB/Wa 1035/14
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150513T104000
+DESCRIPTION:Organ: Wójt Gminy Radziejowice\nSygnatura: II SAB/Wa 1035/14\
+ nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w spraw
+ ie rozpoznania wniosku z dnia 28.08.2014 r. o udziel.inf.publ.\nSklad: ['A
+ dam Lipiński'\, 'Anna Mierzejewska (spr.)'\, 'Stanisław Marek Pietras']\
+ nTermin: 2015-05-13 10:40\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zarząd Okręgowy Polskiego Związku Łowieckiego w Radomiu - VIII
+  SAB/Wa 15/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150513T111000
+DESCRIPTION:Organ: Zarząd Okręgowy Polskiego Związku Łowieckiego w Rad
+ omiu\nSygnatura: VIII SAB/Wa 15/15\nSymbole: 658/648 - Informacja publiczn
+ a\nPrzedmiot: bezczynność w sprawie wniosku o udost.inf.publ. z dn. 07.1
+ 0.2014 r.\nSklad: ['Justyna Mazur'\, 'Sławomir Fularski (spr.)'\, 'Artur 
+ Kot']\nTermin: 2015-05-13 11:10\n\n[]
+LOCATION:Wydzial VIII\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Centrum Organizacyjno-Koordynacyjne ds. Transplantacji Poltranspla
+ nt - VIII SAB/Wa 18/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150513T144000
+DESCRIPTION:Organ: Centrum Organizacyjno-Koordynacyjne ds. Transplantacji 
+ Poltransplant\nSygnatura: VIII SAB/Wa 18/15\nSymbole: 658/648 - Informacja
+  publiczna\nPrzedmiot: bezczynność w sprawie wniosku o udost.inf.publ.z 
+ 01.11.2014\nSklad: ['Justyna Mazur'\, 'Sławomir Fularski (spr.)'\, 'Artur
+  Kot']\nTermin: 2015-05-13 14:40\n\n[]
+LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
