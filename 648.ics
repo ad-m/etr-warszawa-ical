@@ -301,16 +301,6 @@ DESCRIPTION:Organ: Orange Polska S.A. z/s w Warszawie\nSygnatura: II SAB/W
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wojewoda Mazowiecki - II SAB/Wa 980/14
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
-DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 980/14\nSymbo
- le: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmiocie
-  rozpoznania wniosku z 25.09.2014 r. o udziel.inf.publ.\nSklad: ['Ewa Marc
- inkowska'\, 'Danuta Kania'\, 'Eugeniusz Wasilewski (spr.)']\nTermin: 2015-
- 04-14 09:00\n\n['Oddalono skargę']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dyrektor Biblioteki Narodowej - II SAB/Wa 1072/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
 DESCRIPTION:Organ: Dyrektor Biblioteki Narodowej\nSygnatura: II SAB/Wa 107
@@ -320,6 +310,16 @@ DESCRIPTION:Organ: Dyrektor Biblioteki Narodowej\nSygnatura: II SAB/Wa 107
  ąbrowska']\nTermin: 2015-04-14 09:00\n\n['Zobowiązano ... i stwierdzono\
  , że bezczynność miała miejsce bez rażącego naruszenia prawa'\, 'Zas
  ądzono zwrot kosztów postępowania']
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wojewoda Mazowiecki - II SAB/Wa 980/14
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
+DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 980/14\nSymbo
+ le: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmiocie
+  rozpoznania wniosku z 25.09.2014 r. o udziel.inf.publ.\nSklad: ['Ewa Marc
+ inkowska'\, 'Danuta Kania'\, 'Eugeniusz Wasilewski (spr.)']\nTermin: 2015-
+ 04-14 09:00\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -408,7 +408,9 @@ DESCRIPTION:Organ: PKP Polskie Linie Kolejowe S.A.\nSygnatura: II SAB/Wa 9
  65/14\nSymbole: 658/648 - Bezczynność organu\nPrzedmiot: bezczynność w
   przedmiocie rozpoznania wniosku z 4.09.2014 o udostępnienie informacji p
  ublicznej\nSklad: ['Maria Werpachowska'\, 'Sławomir Antoniuk (spr.)'\, 'E
- wa Grochowska-Jung']\nTermin: 2015-04-17 11:00\n\n[]
+ wa Grochowska-Jung']\nTermin: 2015-04-17 11:00\n\n['Zobowiązano ... i stw
+ ierdzono\, że bezczynność miała miejsce bez rażącego naruszenia praw
+ a'\, 'Zasądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -418,7 +420,8 @@ DESCRIPTION:Organ: Starosta Powiatu Wołomińskiego\nSygnatura: II SAB/Wa
  614/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność 
  w sprawie rozpatrzenia wniosku z dn. 20.05.2014 r. o udost.inf.publ.\nSkla
  d: ['Maria Werpachowska'\, 'Sławomir Antoniuk (spr.)'\, 'Ewa Grochowska-J
- ung']\nTermin: 2015-04-17 13:10\n\n[]
+ ung']\nTermin: 2015-04-17 13:10\n\n['Zobowiązano ... i stwierdzono\, że 
+ bezczynność miała miejsce bez rażącego naruszenia prawa']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -428,7 +431,10 @@ DESCRIPTION:Organ: Prezes Urzędu Lotnictwa Cywilnego\nSygnatura: II SAB/W
  a 994/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynnoś
  ć w sprawie rozpoznania wniosku z dn.16.09.2014 o udziel.inf.publ.\nSklad
  : ['Iwona Maciejuk (spr.)'\, 'Sławomir Antoniuk'\, 'Ewa Grochowska-Jung']
- \nTermin: 2015-04-17 14:25\n\n[]
+ \nTermin: 2015-04-17 14:25\n\n['Oddalono skargę w części'\, 'Stwierdzon
+ o\, iż bezczynność nie miała miejsca z rażącym naruszeniem prawa i w
+  pozostałym zakresie umorzono postępowanie'\, 'Zasądzono zwrot kosztów
+  postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
