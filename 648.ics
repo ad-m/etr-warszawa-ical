@@ -1,15 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:Wójt Gminy Klembów - II SAB/Wa 854/14
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150325T120000
-DESCRIPTION:Organ: Wójt Gminy Klembów\nSygnatura: II SAB/Wa 854/14\nSymb
- ole: 658/648 - Informacja publiczna\; Informacja publiczna\nPrzedmiot: \nS
- klad: ['Andrzej Góraj (spr.)'\, 'Iwona Dąbrowska'\, 'Janusz Walawski']\n
- Termin: 2015-03-25 12:00\n\n['Oddalono skargę']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Prezes Urzędu Komunikacji Elektronicznej - II SA/Wa 1988/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150326T084000
 DESCRIPTION:Organ: Prezes Urzędu Komunikacji Elektronicznej\nSygnatura: I
@@ -1004,5 +995,27 @@ DESCRIPTION:Organ: Centrum Organizacyjno-Koordynacyjne ds. Transplantacji
  ymanowicz-Nowak (spr.)'\, 'Leszek Kobylski'\, 'Cezary Kosterna']\nTermin: 
  2015-05-20 13:40\n\n[]
 LOCATION:Wydzial VIII\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dyrektor Zakładu Gospodarowania Nieruchomościami w Dzielnicy Śr
+ ódmieście - II SAB/Wa 275/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150521T090000
+DESCRIPTION:Organ: Dyrektor Zakładu Gospodarowania Nieruchomościami w Dz
+ ielnicy Śródmieście\nSygnatura: II SAB/Wa 275/15\nSymbole: 658/648 - In
+ formacja publiczna\nPrzedmiot: bezczynność w sprawie wniosku o udostępn
+ ienie inf.publ. z 10.09.2014 r.\nSklad: ['Stanisław Marek Pietras'\, 'And
+ rzej Kołodziej (spr.)'\, 'Iwona Maciejuk']\nTermin: 2015-05-21 09:00\n\n[
+ ]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Komisja Nadzoru Finansowego - II SAB/Wa 496/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150521T100000
+DESCRIPTION:Organ: Komisja Nadzoru Finansowego\nSygnatura: II SAB/Wa 496/1
+ 5\nSymbole: 658/648 - Bezczynność organu\nPrzedmiot: bezczynność w prz
+ edmiocie rozpoznania wniosku z 14.10.2014 r. o udost.inf.publ.\nSklad: ['S
+ tanisław Marek Pietras (spr.)'\, 'Andrzej Kołodziej'\, 'Iwona Maciejuk']
+ \nTermin: 2015-05-21 10:00\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
