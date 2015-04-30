@@ -561,10 +561,9 @@ BEGIN:VEVENT
 SUMMARY:Polskie Inwestycje Rozwojowe S.A. - II SAB/Wa 1036/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150430T095000
 DESCRIPTION:Organ: Polskie Inwestycje Rozwojowe S.A.\nSygnatura: II SAB/Wa
-  1036/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynnoś
- ć w sprawie wniosku o udost.inf.publ. z dn. 29.09.2014\nSklad: ['Eugenius
- z Wasilewski (spr.)'\, 'Iwona Dąbrowska'\, 'Andrzej Kołodziej']\nTermin:
-  2015-04-30 09:50\n\n[]
+  1036/14\nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\n
+ Przedmiot: \nSklad: ['Eugeniusz Wasilewski (spr.)'\, 'Iwona Dąbrowska'\, 
+ 'Andrzej Kołodziej']\nTermin: 2015-04-30 09:50\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -733,6 +732,15 @@ DESCRIPTION:Organ: Minister Sprawiedliwości\nSygnatura: II SAB/Wa 273/15\
  ie wniosku o udost.inf.publ. z 01.12.2014 r.\nSklad: ['Ewa Marcinkowska'\,
   'Andrzej Góraj (spr.)'\, 'Janusz Walawski']\nTermin: 2015-05-12 11:00\n\
  n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Polskie Inwestycje Rozwojowe S.A. - II SAB/Wa 1036/14
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150512T113000
+DESCRIPTION:Organ: Polskie Inwestycje Rozwojowe S.A.\nSygnatura: II SAB/Wa
+  1036/14\nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\n
+ Przedmiot: \nSklad: ['Eugeniusz Wasilewski (spr.)']\nTermin: 2015-05-12 11
+ :30\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
