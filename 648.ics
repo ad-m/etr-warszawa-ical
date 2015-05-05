@@ -137,16 +137,6 @@ DESCRIPTION:Organ: Orange Polska S.A. z/s w Warszawie\nSygnatura: II SAB/W
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wojewoda Mazowiecki - II SAB/Wa 980/14
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
-DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 980/14\nSymbo
- le: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmiocie
-  rozpoznania wniosku z 25.09.2014 r. o udziel.inf.publ.\nSklad: ['Ewa Marc
- inkowska'\, 'Danuta Kania'\, 'Eugeniusz Wasilewski (spr.)']\nTermin: 2015-
- 04-14 09:00\n\n['Oddalono skargę']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dyrektor Biblioteki Narodowej - II SAB/Wa 1072/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
 DESCRIPTION:Organ: Dyrektor Biblioteki Narodowej\nSygnatura: II SAB/Wa 107
@@ -156,6 +146,16 @@ DESCRIPTION:Organ: Dyrektor Biblioteki Narodowej\nSygnatura: II SAB/Wa 107
  ąbrowska']\nTermin: 2015-04-14 09:00\n\n['Zobowiązano ... i stwierdzono\
  , że bezczynność miała miejsce bez rażącego naruszenia prawa'\, 'Zas
  ądzono zwrot kosztów postępowania']
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wojewoda Mazowiecki - II SAB/Wa 980/14
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
+DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 980/14\nSymbo
+ le: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmiocie
+  rozpoznania wniosku z 25.09.2014 r. o udziel.inf.publ.\nSklad: ['Ewa Marc
+ inkowska'\, 'Danuta Kania'\, 'Eugeniusz Wasilewski (spr.)']\nTermin: 2015-
+ 04-14 09:00\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1150,6 +1150,35 @@ DESCRIPTION:Organ: Prezes Urzędu Ochrony Konkurencji i Konsumentów\nSygn
  t: bezczynność w przedmiocie rozpoznania wniosku z 09.10.2014 o udost.in
  f.publ.\nSklad: ['Andrzej Góraj'\, 'Janusz Walawski (spr.)'\, 'Eugeniusz 
  Wasilewski']\nTermin: 2015-06-01 11:00\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PKP Polskie Linie Kolejowe S.A. - II SA/Wa 194/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150602T090000
+DESCRIPTION:Organ: PKP Polskie Linie Kolejowe S.A.\nSygnatura: II SA/Wa 19
+ 4/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna
+ \nSklad: ['Sławomir Antoniuk'\, 'Stanisław Marek Pietras (spr.)'\, 'Olga
+  Żurawska-Matusiak']\nTermin: 2015-06-02 09:00\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PZU w Warszawie - II SAB/Wa 568/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150602T110000
+DESCRIPTION:Organ: PZU w Warszawie\nSygnatura: II SAB/Wa 568/15\nSymbole: 
+ 658/648 - Bezczynność organu\nPrzedmiot: bezczynność w sprawie wniosku
+  o udost.inf.publ. z 13.11.2014 r.\nSklad: ['Sławomir Antoniuk'\, 'Stanis
+ ław Marek Pietras'\, 'Olga Żurawska-Matusiak (spr.)']\nTermin: 2015-06-0
+ 2 11:00\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prezes Sądu Rejonowego w Sochaczewie - II SAB/Wa 525/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150602T125000
+DESCRIPTION:Organ: Prezes Sądu Rejonowego w Sochaczewie\nSygnatura: II SA
+ B/Wa 525/15\nSymbole: 658/648 - Bezczynność organu\nPrzedmiot: bezczynno
+ śc w przedmiocie rozpoznania wniosku z dn.09.08.2014 r. o udost.inf.publ.
+ \nSklad: ['Sławomir Antoniuk (spr.)'\, 'Stanisław Marek Pietras'\, 'Olga
+  Żurawska-Matusiak']\nTermin: 2015-06-02 12:50\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
