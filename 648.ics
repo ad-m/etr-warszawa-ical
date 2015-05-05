@@ -137,6 +137,16 @@ DESCRIPTION:Organ: Orange Polska S.A. z/s w Warszawie\nSygnatura: II SAB/W
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wojewoda Mazowiecki - II SAB/Wa 980/14
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
+DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 980/14\nSymbo
+ le: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmiocie
+  rozpoznania wniosku z 25.09.2014 r. o udziel.inf.publ.\nSklad: ['Ewa Marc
+ inkowska'\, 'Danuta Kania'\, 'Eugeniusz Wasilewski (spr.)']\nTermin: 2015-
+ 04-14 09:00\n\n['Oddalono skargę']
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dyrektor Biblioteki Narodowej - II SAB/Wa 1072/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
 DESCRIPTION:Organ: Dyrektor Biblioteki Narodowej\nSygnatura: II SAB/Wa 107
@@ -146,16 +156,6 @@ DESCRIPTION:Organ: Dyrektor Biblioteki Narodowej\nSygnatura: II SAB/Wa 107
  ąbrowska']\nTermin: 2015-04-14 09:00\n\n['Zobowiązano ... i stwierdzono\
  , że bezczynność miała miejsce bez rażącego naruszenia prawa'\, 'Zas
  ądzono zwrot kosztów postępowania']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wojewoda Mazowiecki - II SAB/Wa 980/14
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
-DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 980/14\nSymbo
- le: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmiocie
-  rozpoznania wniosku z 25.09.2014 r. o udziel.inf.publ.\nSklad: ['Ewa Marc
- inkowska'\, 'Danuta Kania'\, 'Eugeniusz Wasilewski (spr.)']\nTermin: 2015-
- 04-14 09:00\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -607,10 +607,9 @@ SUMMARY:Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszawie - II SAB
  /Wa 321/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150505T092000
 DESCRIPTION:Organ: Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszaw
- ie\nSygnatura: II SAB/Wa 321/15\nSymbole: 658/648 - Informacja publiczna\n
- Przedmiot: bezczynność w sprawie rozpatrzenia wniosku z 30.09.2014 r. o 
- udost.inf.publ.\nSklad: ['Sławomir Antoniuk'\, 'Adam Lipiński'\, 'Janusz
-  Walawski (spr.)']\nTermin: 2015-05-05 09:20\n\n[]
+ ie\nSygnatura: II SAB/Wa 321/15\nSymbole: 658/648 - Informacja publiczna\;
+  Informacja publiczna\nPrzedmiot: \nSklad: ['Sławomir Antoniuk'\, 'Adam L
+ ipiński'\, 'Janusz Walawski (spr.)']\nTermin: 2015-05-05 09:20\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -767,6 +766,16 @@ DESCRIPTION:Organ: Minister Pracy i Polityki Społecznej\nSygnatura: II SA
  ość w sprawie wniosku o udost.inf.publ. z 11.08.2014\nSklad: ['Eugeniusz
   Wasilewski (spr.)'\, 'Ewa Marcinkowska'\, 'Janusz Walawski']\nTermin: 201
  5-05-12 12:50\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszawie - II SAB
+ /Wa 321/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150512T143000
+DESCRIPTION:Organ: Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszaw
+ ie\nSygnatura: II SAB/Wa 321/15\nSymbole: 658/648 - Informacja publiczna\;
+  Informacja publiczna\nPrzedmiot: \nSklad: ['Janusz Walawski (spr.)']\nTer
+ min: 2015-05-12 14:30\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
