@@ -595,17 +595,6 @@ DESCRIPTION:Organ: Burmistrz Miasta Radzymin\nSygnatura: II SAB/Wa 1061/14
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszawie - II SAB
- /Wa 321/15
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150505T092000
-DESCRIPTION:Organ: Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszaw
- ie\nSygnatura: II SAB/Wa 321/15\nSymbole: 658/648 - Informacja publiczna\;
-  Informacja publiczna\nPrzedmiot: \nSklad: ['Sławomir Antoniuk'\, 'Adam L
- ipiński'\, 'Janusz Walawski (spr.)']\nTermin: 2015-05-05 09:20\n\n['Odroc
- zono ogłoszenie orzeczenia na dzień 2015-05-12']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wojewoda Mazowiecki - II SAB/Wa 1000/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150505T092000
 DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 1000/14\nSymb
@@ -615,6 +604,17 @@ DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 1000/14\nSymb
  rmin: 2015-05-05 09:20\n\n['Zobowiązano ... i stwierdzono\, że bezczynno
  ść miała miejsce bez rażącego naruszenia prawa'\, 'Zasądzono zwrot k
  osztów postępowania']
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszawie - II SAB
+ /Wa 321/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150505T092000
+DESCRIPTION:Organ: Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszaw
+ ie\nSygnatura: II SAB/Wa 321/15\nSymbole: 658/648 - Informacja publiczna\;
+  Informacja publiczna\nPrzedmiot: \nSklad: ['Sławomir Antoniuk'\, 'Adam L
+ ipiński'\, 'Janusz Walawski (spr.)']\nTermin: 2015-05-05 09:20\n\n['Odroc
+ zono ogłoszenie orzeczenia na dzień 2015-05-12']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1196,6 +1196,55 @@ DESCRIPTION:Organ: Prezes Sądu Rejonowego w Sochaczewie\nSygnatura: II SA
  śc w przedmiocie rozpoznania wniosku z dn.09.08.2014 r. o udost.inf.publ.
  \nSklad: ['Sławomir Antoniuk (spr.)'\, 'Stanisław Marek Pietras'\, 'Olga
   Żurawska-Matusiak']\nTermin: 2015-06-02 12:50\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prokurator Apelacyjny - II SA/Wa 333/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150603T090000
+DESCRIPTION:Organ: Prokurator Apelacyjny\nSygnatura: II SA/Wa 333/15\nSymb
+ ole: 648 - Stwierdzenie niedopuszczalności odwołania\nPrzedmiot: Stwierd
+ zenie niedopuszczalności odwołania\nSklad: ['Ewa Grochowska-Jung'\, 'Iwo
+ na Dąbrowska (spr.)'\, 'Adam Lipiński']\nTermin: 2015-06-03 09:00\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prokurator Generalny - II SA/Wa 140/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150603T104000
+DESCRIPTION:Organ: Prokurator Generalny\nSygnatura: II SA/Wa 140/15\nSymbo
+ le: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSklad: ['
+ Ewa Grochowska-Jung (spr.)'\, 'Iwona Dąbrowska'\, 'Adam Lipiński']\nTerm
+ in: 2015-06-03 10:40\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszawie - II SAB
+ /Wa 317/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150603T114000
+DESCRIPTION:Organ: Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszaw
+ ie\nSygnatura: II SAB/Wa 317/15\nSymbole: 658/648 - Informacja publiczna\n
+ Przedmiot: bezczynność w przedmiocie rozpatrzenia wniosku z 28.11.2014 r
+ . o udost.inf.publ.\nSklad: ['Ewa Grochowska-Jung'\, 'Iwona Dąbrowska'\, 
+ 'Adam Lipiński (spr.)']\nTermin: 2015-06-03 11:40\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajowa Rada Radców Prawnych - II SAB/Wa 573/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150603T125000
+DESCRIPTION:Organ: Krajowa Rada Radców Prawnych\nSygnatura: II SAB/Wa 573
+ /15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w s
+ prawie wniosku o udost.inf.publ. z dn.23.12.2014 r.\nSklad: ['Andrzej Koł
+ odziej (spr.)'\, 'Iwona Dąbrowska'\, 'Adam Lipiński']\nTermin: 2015-06-0
+ 3 12:50\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Koło Łowieckie Nr 7 "Knieja" w Warszawie - II SAB/Wa 946/14
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150603T151000
+DESCRIPTION:Organ: Koło Łowieckie Nr 7 "Knieja" w Warszawie\nSygnatura: 
+ II SAB/Wa 946/14\nSymbole: 658/648 - Bezczynność organu\nPrzedmiot: bezc
+ zynność w przedmiocie rozpoznania wniosku z 05.07.2014 r. o udziel.inf.p
+ ubl.\nSklad: ['Andrzej Kołodziej'\, 'Iwona Dąbrowska'\, 'Adam Lipiński 
+ (spr.)']\nTermin: 2015-06-03 15:10\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
