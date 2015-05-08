@@ -1,28 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:Prezes Urzędu Komunikacji Elektronicznej - II SA/Wa 2093/14
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150409T123000
-DESCRIPTION:Organ: Prezes Urzędu Komunikacji Elektronicznej\nSygnatura: I
- I SA/Wa 2093/14\nSymbole: 648 - Odmowa udzielenia informacji\nPrzedmiot: O
- dmowa udzielenia informacji\nSklad: ['Andrzej Kołodziej'\, 'Ewa Grochowsk
- a-Jung (spr.)'\, 'Eugeniusz Wasilewski']\nTermin: 2015-04-09 12:30\n\n['Uc
- hylono zaskarżoną decyzję i poprzedzającą ją decyzję'\, 'Stwierdzon
- o\, że zaskarżona decyzja nie może być wykonana w całości'\, 'Zasąd
- zono zwrot kosztów postępowania']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minister Kultury i Dziedzictwa Narodowego - II SA/Wa 1980/14
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150409T125000
-DESCRIPTION:Organ: Minister Kultury i Dziedzictwa Narodowego\nSygnatura: I
- I SA/Wa 1980/14\nSymbole: 648 - Odmowa udzielenia informacji\; Odmowa udzi
- elenia informacji\nPrzedmiot: \nSklad: ['Andrzej Kołodziej'\, 'Ewa Grocho
- wska-Jung'\, 'Eugeniusz Wasilewski (spr.)']\nTermin: 2015-04-09 12:50\n\n[
- 'Odroczono ogłoszenie orzeczenia na dzień 2015-04-20']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Minister Infrastruktury i Rozwoju - II SAB/Wa 937/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150410T090000
 DESCRIPTION:Organ: Minister Infrastruktury i Rozwoju\nSygnatura: II SAB/Wa
@@ -105,6 +83,16 @@ DESCRIPTION:Organ: Orange Polska S.A. z/s w Warszawie\nSygnatura: II SAB/W
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wojewoda Mazowiecki - II SAB/Wa 980/14
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
+DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 980/14\nSymbo
+ le: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmiocie
+  rozpoznania wniosku z 25.09.2014 r. o udziel.inf.publ.\nSklad: ['Ewa Marc
+ inkowska'\, 'Danuta Kania'\, 'Eugeniusz Wasilewski (spr.)']\nTermin: 2015-
+ 04-14 09:00\n\n['Oddalono skargę']
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dyrektor Biblioteki Narodowej - II SAB/Wa 1072/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
 DESCRIPTION:Organ: Dyrektor Biblioteki Narodowej\nSygnatura: II SAB/Wa 107
@@ -114,16 +102,6 @@ DESCRIPTION:Organ: Dyrektor Biblioteki Narodowej\nSygnatura: II SAB/Wa 107
  ąbrowska']\nTermin: 2015-04-14 09:00\n\n['Zobowiązano ... i stwierdzono\
  , że bezczynność miała miejsce bez rażącego naruszenia prawa'\, 'Zas
  ądzono zwrot kosztów postępowania']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wojewoda Mazowiecki - II SAB/Wa 980/14
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
-DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 980/14\nSymbo
- le: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmiocie
-  rozpoznania wniosku z 25.09.2014 r. o udziel.inf.publ.\nSklad: ['Ewa Marc
- inkowska'\, 'Danuta Kania'\, 'Eugeniusz Wasilewski (spr.)']\nTermin: 2015-
- 04-14 09:00\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -294,11 +272,12 @@ BEGIN:VEVENT
 SUMMARY:Minister Kultury i Dziedzictwa Narodowego - II SA/Wa 1980/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150420T143000
 DESCRIPTION:Organ: Minister Kultury i Dziedzictwa Narodowego\nSygnatura: I
- I SA/Wa 1980/14\nSymbole: 648 - Odmowa udzielenia informacji\; Odmowa udzi
- elenia informacji\nPrzedmiot: \nSklad: ['Eugeniusz Wasilewski (spr.)']\nTe
- rmin: 2015-04-20 14:30\n\n['Uchylono zaskarżoną decyzję i poprzedzając
- ą ją decyzję'\, 'Stwierdzono\, że zaskarżony akt nie może być wykon
- any w całości'\, 'Zasądzono zwrot kosztów postępowania']
+ I SA/Wa 1980/14\nSymbole: 648 - Odmowa udzielenia informacji\nPrzedmiot: O
+ dmowa udzielenia informacji\nPublikacja orzeczenia odroczona z dnia 9 kwie
+ tnia 2015 r.\nSklad: ['Eugeniusz Wasilewski (spr.)']\nTermin: 2015-04-20 1
+ 4:30\n\n['Uchylono zaskarżoną decyzję i poprzedzającą ją decyzję'\,
+  'Stwierdzono\, że zaskarżony akt nie może być wykonany w całości'\,
+  'Zasądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
