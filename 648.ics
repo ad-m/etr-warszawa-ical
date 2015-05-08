@@ -664,9 +664,9 @@ BEGIN:VEVENT
 SUMMARY:Prezes Narodowego Banku Polskiego - II SA/Wa 2303/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150508T092000
 DESCRIPTION:Organ: Prezes Narodowego Banku Polskiego\nSygnatura: II SA/Wa 
- 2303/14\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja public
- zna\nSklad: ['Ewa Grochowska-Jung'\, 'Sławomir Antoniuk (spr.)'\, 'Iwona 
- Dąbrowska']\nTermin: 2015-05-08 09:20\n\n[]
+ 2303/14\nSymbole: 648 - Informacja publiczna\; Informacja publiczna\nPrzed
+ miot: \nSklad: ['Ewa Grochowska-Jung'\, 'Sławomir Antoniuk (spr.)'\, 'Iwo
+ na Dąbrowska']\nTermin: 2015-05-08 09:20\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -951,6 +951,15 @@ DESCRIPTION:Organ: Minister Kultury i Dziedzictwa Narodowego\nSygnatura: I
  ynność w przedmiocie rozpoznania wniosku z dn. 29.10.2014 r. o udost.inf
  .publ.\nSklad: ['Joanna Kube (spr.)'\, 'Sławomir Antoniuk'\, 'Iwona Dąbr
  owska']\nTermin: 2015-05-22 10:20\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prezes Narodowego Banku Polskiego - II SA/Wa 2303/14
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150522T113000
+DESCRIPTION:Organ: Prezes Narodowego Banku Polskiego\nSygnatura: II SA/Wa 
+ 2303/14\nSymbole: 648 - Informacja publiczna\; Informacja publiczna\nPrzed
+ miot: \nSklad: ['Sławomir Antoniuk (spr.)']\nTermin: 2015-05-22 11:30\n\n
+ []
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
