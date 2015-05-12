@@ -1,16 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:Wojewoda Mazowiecki - II SAB/Wa 980/14
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
-DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 980/14\nSymbo
- le: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmiocie
-  rozpoznania wniosku z 25.09.2014 r. o udziel.inf.publ.\nSklad: ['Ewa Marc
- inkowska'\, 'Danuta Kania'\, 'Eugeniusz Wasilewski (spr.)']\nTermin: 2015-
- 04-14 09:00\n\n['Oddalono skargę']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dyrektor Biblioteki Narodowej - II SAB/Wa 1072/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
 DESCRIPTION:Organ: Dyrektor Biblioteki Narodowej\nSygnatura: II SAB/Wa 107
@@ -20,6 +10,16 @@ DESCRIPTION:Organ: Dyrektor Biblioteki Narodowej\nSygnatura: II SAB/Wa 107
  ąbrowska']\nTermin: 2015-04-14 09:00\n\n['Zobowiązano ... i stwierdzono\
  , że bezczynność miała miejsce bez rażącego naruszenia prawa'\, 'Zas
  ądzono zwrot kosztów postępowania']
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wojewoda Mazowiecki - II SAB/Wa 980/14
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150414T090000
+DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 980/14\nSymbo
+ le: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmiocie
+  rozpoznania wniosku z 25.09.2014 r. o udziel.inf.publ.\nSklad: ['Ewa Marc
+ inkowska'\, 'Danuta Kania'\, 'Eugeniusz Wasilewski (spr.)']\nTermin: 2015-
+ 04-14 09:00\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -606,7 +606,9 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150512T092000
 DESCRIPTION:Organ: SKO w Warszawie\nSygnatura: II SA/Wa 180/15\nSymbole: 6
  48 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSklad: ['Ewa M
  arcinkowska (spr.)'\, 'Andrzej Góraj'\, 'Janusz Walawski']\nTermin: 2015-
- 05-12 09:20\n\n[]
+ 05-12 09:20\n\n['Uchylono zaskarżoną decyzję i poprzedzającą ją decy
+ zję'\, 'Stwierdzono\, że zaskarżona decyzja nie może być wykonana w c
+ ałości'\, 'Zasądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -616,7 +618,9 @@ DESCRIPTION:Organ: Minister Sprawiedliwości\nSygnatura: II SAB/Wa 273/15\
  nSymbole: 658/648 - Bezczynność organu\nPrzedmiot: bezczynność w spraw
  ie wniosku o udost.inf.publ. z 01.12.2014 r.\nSklad: ['Ewa Marcinkowska'\,
   'Andrzej Góraj (spr.)'\, 'Janusz Walawski']\nTermin: 2015-05-12 11:00\n\
- n[]
+ n['Stwierdzono\, iż bezczynność nie miała miejsca z rażącym naruszen
+ iem prawa i w pozostałym zakresie umorzono postępowanie'\, 'Zasądzono z
+ wrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -625,7 +629,9 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150512T113000
 DESCRIPTION:Organ: Polskie Inwestycje Rozwojowe S.A.\nSygnatura: II SAB/Wa
   1036/14\nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\n
  Przedmiot: \nSklad: ['Eugeniusz Wasilewski (spr.)']\nTermin: 2015-05-12 11
- :30\n\n[]
+ :30\n\n['Zobowiązano ... i stwierdzono\, że bezczynność miała miejsce
+  bez rażącego naruszenia prawa'\, 'Zasądzono zwrot kosztów postępowan
+ ia']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -635,7 +641,7 @@ DESCRIPTION:Organ: Pierwszy Prezes Sądu Najwyższego\nSygnatura: II SAB/W
  a 1050/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynnoś
  ć w przedmiocie dostępu do inform.publ. objętej wnioskiem z 17.11.2014\
  nSklad: ['Eugeniusz Wasilewski'\, 'Ewa Marcinkowska'\, 'Janusz Walawski (s
- pr.)']\nTermin: 2015-05-12 12:30\n\n[]
+ pr.)']\nTermin: 2015-05-12 12:30\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -645,7 +651,7 @@ DESCRIPTION:Organ: Minister Pracy i Polityki Społecznej\nSygnatura: II SA
  B/Wa 1057/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynn
  ość w sprawie wniosku o udost.inf.publ. z 11.08.2014\nSklad: ['Eugeniusz
   Wasilewski (spr.)'\, 'Ewa Marcinkowska'\, 'Janusz Walawski']\nTermin: 201
- 5-05-12 12:50\n\n[]
+ 5-05-12 12:50\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -655,7 +661,7 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150512T143000
 DESCRIPTION:Organ: Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszaw
  ie\nSygnatura: II SAB/Wa 321/15\nSymbole: 658/648 - Informacja publiczna\;
   Informacja publiczna\nPrzedmiot: \nSklad: ['Janusz Walawski (spr.)']\nTer
- min: 2015-05-12 14:30\n\n[]
+ min: 2015-05-12 14:30\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
