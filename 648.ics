@@ -419,17 +419,6 @@ DESCRIPTION:Organ: Burmistrz Miasta Radzymin\nSygnatura: II SAB/Wa 1061/14
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszawie - II SAB
- /Wa 321/15
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150505T092000
-DESCRIPTION:Organ: Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszaw
- ie\nSygnatura: II SAB/Wa 321/15\nSymbole: 658/648 - Informacja publiczna\;
-  Informacja publiczna\nPrzedmiot: \nSklad: ['Sławomir Antoniuk'\, 'Adam L
- ipiński'\, 'Janusz Walawski (spr.)']\nTermin: 2015-05-05 09:20\n\n['Odroc
- zono ogłoszenie orzeczenia na dzień 2015-05-12']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wojewoda Mazowiecki - II SAB/Wa 1000/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150505T092000
 DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 1000/14\nSymb
@@ -439,6 +428,17 @@ DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 1000/14\nSymb
  rmin: 2015-05-05 09:20\n\n['Zobowiązano ... i stwierdzono\, że bezczynno
  ść miała miejsce bez rażącego naruszenia prawa'\, 'Zasądzono zwrot k
  osztów postępowania']
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszawie - II SAB
+ /Wa 321/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150505T092000
+DESCRIPTION:Organ: Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszaw
+ ie\nSygnatura: II SAB/Wa 321/15\nSymbole: 658/648 - Informacja publiczna\;
+  Informacja publiczna\nPrzedmiot: \nSklad: ['Sławomir Antoniuk'\, 'Adam L
+ ipiński'\, 'Janusz Walawski (spr.)']\nTermin: 2015-05-05 09:20\n\n['Odroc
+ zono ogłoszenie orzeczenia na dzień 2015-05-12']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -630,7 +630,9 @@ DESCRIPTION:Organ: Wójt Gminy Krzynowłoga Mała\nSygnatura: II SAB/Wa 29
  0/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w 
  sprawie rozpoznania wniosku z dn. 19.10.2014 r. o udziel.inf.publ.\nSklad:
   ['Adam Lipiński'\, 'Anna Mierzejewska'\, 'Stanisław Marek Pietras (spr.
- )']\nTermin: 2015-05-13 10:20\n\n[]
+ )']\nTermin: 2015-05-13 10:20\n\n['Zobowiązano ... i stwierdzono\, że be
+ zczynność miała miejsce bez rażącego naruszenia prawa'\, 'Zasądzono 
+ zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -640,7 +642,9 @@ DESCRIPTION:Organ: Wójt Gminy Radziejowice\nSygnatura: II SAB/Wa 1035/14\
  nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w spraw
  ie rozpoznania wniosku z dnia 28.08.2014 r. o udziel.inf.publ.\nSklad: ['A
  dam Lipiński'\, 'Anna Mierzejewska (spr.)'\, 'Stanisław Marek Pietras']\
- nTermin: 2015-05-13 10:40\n\n[]
+ nTermin: 2015-05-13 10:40\n\n['Stwierdzono\, iż bezczynność nie miała 
+ miejsca z rażącym naruszeniem prawa i w pozostałym zakresie umorzono po
+ stępowanie'\, 'Zasądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -651,7 +655,10 @@ DESCRIPTION:Organ: Zarząd Okręgowy Polskiego Związku Łowieckiego w Rad
  omiu\nSygnatura: VIII SAB/Wa 15/15\nSymbole: 658/648 - Informacja publiczn
  a\nPrzedmiot: bezczynność w sprawie wniosku o udost.inf.publ. z dn. 07.1
  0.2014 r.\nSklad: ['Justyna Mazur'\, 'Sławomir Fularski (spr.)'\, 'Artur 
- Kot']\nTermin: 2015-05-13 11:10\n\n[]
+ Kot']\nTermin: 2015-05-13 11:10\n\n['Zobowiązano organ do rozpoznania wni
+ osku/odwołania w terminie ...od otrzymania odpisu prawomocnego orzeczenia
+ '\, 'Stwierdzono\, iż bezczynność nie miała miejsca z rażącym narusz
+ eniem prawa'\, 'Zasądzono zwrot kosztów postępowania']
 LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
