@@ -321,6 +321,17 @@ DESCRIPTION:Organ: Burmistrz Miasta Radzymin\nSygnatura: II SAB/Wa 1061/14
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszawie - II SAB
+ /Wa 321/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150505T092000
+DESCRIPTION:Organ: Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszaw
+ ie\nSygnatura: II SAB/Wa 321/15\nSymbole: 658/648 - Informacja publiczna\;
+  Informacja publiczna\nPrzedmiot: \nSklad: ['Sławomir Antoniuk'\, 'Adam L
+ ipiński'\, 'Janusz Walawski (spr.)']\nTermin: 2015-05-05 09:20\n\n['Odroc
+ zono ogłoszenie orzeczenia na dzień 2015-05-12']
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wojewoda Mazowiecki - II SAB/Wa 1000/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150505T092000
 DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 1000/14\nSymb
@@ -330,17 +341,6 @@ DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 1000/14\nSymb
  rmin: 2015-05-05 09:20\n\n['Zobowiązano ... i stwierdzono\, że bezczynno
  ść miała miejsce bez rażącego naruszenia prawa'\, 'Zasądzono zwrot k
  osztów postępowania']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszawie - II SAB
- /Wa 321/15
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150505T092000
-DESCRIPTION:Organ: Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszaw
- ie\nSygnatura: II SAB/Wa 321/15\nSymbole: 658/648 - Informacja publiczna\;
-  Informacja publiczna\nPrzedmiot: \nSklad: ['Sławomir Antoniuk'\, 'Adam L
- ipiński'\, 'Janusz Walawski (spr.)']\nTermin: 2015-05-05 09:20\n\n['Odroc
- zono ogłoszenie orzeczenia na dzień 2015-05-12']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -617,7 +617,10 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150518T092000
 DESCRIPTION:Organ: Prezes Najwyższej Izby Kontroli\nSygnatura: II SA/Wa 1
  92/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczn
  a\nSklad: ['Janusz Walawski'\, 'Ewa Marcinkowska (spr.)'\, 'Anna Mierzejew
- ska']\nTermin: 2015-05-18 09:20\n\n[]
+ ska']\nTermin: 2015-05-18 09:20\n\n['Uchylono zaskarżoną decyzję i popr
+ zedzającą ją decyzję'\, 'Stwierdzono\, że zaskarżona decyzja nie mo
+ że być wykonana w całości'\, 'Zasądzono zwrot kosztów postępowania'
+ ]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -627,7 +630,10 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150518T104000
 DESCRIPTION:Organ: KRUS-Prezes Kasy Rolniczego Ubezpieczenia Społecznego\
  nSygnatura: II SA/Wa 4/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot:
   Informacja publiczna\nSklad: ['Janusz Walawski (spr.)'\, 'Ewa Marcinkowsk
- a'\, 'Anna Mierzejewska']\nTermin: 2015-05-18 10:40\n\n[]
+ a'\, 'Anna Mierzejewska']\nTermin: 2015-05-18 10:40\n\n['Stwierdzono niewa
+ żność zaskarżonej decyzji i decyzji ją poprzedzającej'\, 'Stwierdzon
+ o\, że zaskarżona decyzja nie może być wykonana w całości'\, 'Zasąd
+ zono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -637,7 +643,9 @@ DESCRIPTION:Organ: Koło Łowieckie Nr 7 "Knieja" w Warszawie\nSygnatura:
  II SAB/Wa 1060/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bez
  czynność w sprawie rozpoznania wniosku z dnia 10.10.2014 r. o udziel.inf
  .publ.\nSklad: ['Janusz Walawski'\, 'Ewa Marcinkowska'\, 'Anna Mierzejewsk
- a (spr.)']\nTermin: 2015-05-18 11:00\n\n[]
+ a (spr.)']\nTermin: 2015-05-18 11:00\n\n['Stwierdzono\, iż bezczynność 
+ nie miała miejsca z rażącym naruszeniem prawa i w pozostałym zakresie 
+ umorzono postępowanie'\, 'Zasądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -647,7 +655,7 @@ DESCRIPTION:Organ: Komisja Nadzoru Finansowego\nSygnatura: II SAB/Wa 1126/
  14\nSymbole: 658/648 - Bezczynność organu\nPrzedmiot: bezczynność w ro
  zpoznaniu wniosku z dn.14.09.2014 r. o udost.inf.publ.\nSklad: ['Janusz Wa
  lawski (spr.)'\, 'Ewa Marcinkowska'\, 'Anna Mierzejewska']\nTermin: 2015-0
- 5-18 12:40\n\n[]
+ 5-18 12:40\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
