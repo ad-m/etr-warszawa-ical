@@ -1,65 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:Zarząd Okręgowy Polskiego Związku Łowieckiego w Siedlcach - II
-  SAB/Wa 1032/14
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150420T090000
-DESCRIPTION:Organ: Zarząd Okręgowy Polskiego Związku Łowieckiego w Sie
- dlcach\nSygnatura: II SAB/Wa 1032/14\nSymbole: 658/648 - Bezczynność org
- anu\nPrzedmiot: bezczynność w sprawie rozpoznania wniosku z dnia 07.10.2
- 014 r. o udziel.inf.publ.\nSklad: ['Ewa Pisula-Dąbrowska (spr.)'\, 'Andrz
- ej Góraj'\, 'Eugeniusz Wasilewski']\nTermin: 2015-04-20 09:00\n\n['Zobowi
- ązano ... i stwierdzono\, że bezczynność miała miejsce bez rażącego
-  naruszenia prawa'\, 'Zasądzono zwrot kosztów postępowania']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Komendant Główny Policji - II SAB/Wa 1045/14
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150420T100000
-DESCRIPTION:Organ: Komendant Główny Policji\nSygnatura: II SAB/Wa 1045/1
- 4\nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\nPrzedmi
- ot: \nSklad: ['Ewa Pisula-Dąbrowska (spr.)'\, 'Andrzej Góraj'\, 'Eugeniu
- sz Wasilewski']\nTermin: 2015-04-20 10:00\n\n['Odroczono ogłoszenie orzec
- zenia na dzień 2015-04-24']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Prezes Sądu Okręgowego - II SA/Wa 2105/14
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150420T123000
-DESCRIPTION:Organ: Prezes Sądu Okręgowego\nSygnatura: II SA/Wa 2105/14\n
- Symbole: 648 - Odmowa udzielenia informacji\nPrzedmiot: Odmowa udzielenia 
- informacji\nSklad: ['Ewa Pisula-Dąbrowska'\, 'Andrzej Góraj'\, 'Eugenius
- z Wasilewski (spr.)']\nTermin: 2015-04-20 12:30\n\n['Uchylono zaskarżoną
-  decyzję i poprzedzającą ją decyzję'\, 'Stwierdzono\, że zaskarżona
-  decyzja nie może być wykonana w całości'\, 'Zasądzono zwrot kosztów
-  postępowania']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Prezes Sądu Apelacyjnego w Warszawie - II SA/Wa 2304/14
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150420T125000
-DESCRIPTION:Organ: Prezes Sądu Apelacyjnego w Warszawie\nSygnatura: II SA
- /Wa 2304/14\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja pu
- bliczna\nSklad: ['Ewa Pisula-Dąbrowska'\, 'Andrzej Góraj (spr.)'\, 'Euge
- niusz Wasilewski']\nTermin: 2015-04-20 12:50\n\n['Uchylono zaskarżoną de
- cyzję w części'\, 'Stwierdzono\, że zaskarżony akt nie może być wyk
- onany w części'\, 'Oddalono skargę w części'\, 'Zasądzono zwrot kosz
- tów postępowania']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minister Kultury i Dziedzictwa Narodowego - II SA/Wa 1980/14
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150420T143000
-DESCRIPTION:Organ: Minister Kultury i Dziedzictwa Narodowego\nSygnatura: I
- I SA/Wa 1980/14\nSymbole: 648 - Odmowa udzielenia informacji\nPrzedmiot: O
- dmowa udzielenia informacji\nPublikacja orzeczenia odroczona z dnia 9 kwie
- tnia 2015 r.\nSklad: ['Eugeniusz Wasilewski (spr.)']\nTermin: 2015-04-20 1
- 4:30\n\n['Uchylono zaskarżoną decyzję i poprzedzającą ją decyzję'\,
-  'Stwierdzono\, że zaskarżony akt nie może być wykonany w całości'\,
-  'Zasądzono zwrot kosztów postępowania']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Prezydent m.st. Warszawy - II SA/Wa 2171/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150421T090000
 DESCRIPTION:Organ: Prezydent m.st. Warszawy\nSygnatura: II SA/Wa 2171/14\n
@@ -213,9 +154,11 @@ BEGIN:VEVENT
 SUMMARY:Komendant Główny Policji - II SAB/Wa 1045/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150424T120000
 DESCRIPTION:Organ: Komendant Główny Policji\nSygnatura: II SAB/Wa 1045/1
- 4\nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\nPrzedmi
- ot: \nSklad: ['Ewa Pisula-Dąbrowska (spr.)']\nTermin: 2015-04-24 12:00\n\
- n['Otwarto zamkniętą rozprawę']
+ 4\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w prz
+ edmiocie rozpatrzenia wniosku z 12.10.2014 r. o udost.inf.publ.\nPublikacj
+ a orzeczenia odroczona z dnia 20 kwietnia 2015 r.\nSklad: ['Ewa Pisula-Dą
+ browska (spr.)']\nTermin: 2015-04-24 12:00\n\n['Otwarto zamkniętą rozpra
+ wę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1065,6 +1008,25 @@ DESCRIPTION:Organ: Prezydent m.st. Warszawy\nSygnatura: II SAB/Wa 923/14\n
  iocie rozpoznania wniosku z 18.08.2014 o udost.inf.publ.\nSklad: ['Anna Mi
  erzejewska (spr.)'\, 'Iwona Dąbrowska'\, 'Andrzej Kołodziej']\nTermin: 2
  015-06-11 09:00\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krajowa Rada Izby Architektów RP - II SAB/Wa 505/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150616T092000
+DESCRIPTION:Organ: Krajowa Rada Izby Architektów RP\nSygnatura: II SAB/Wa
+  505/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność
+  w sprawie wniosku o udost.inf.publ. z 14.08.2014 r.\nSklad: ['Ewa Grochow
+ ska-Jung (spr.)'\, 'Sławomir Antoniuk'\, 'Iwona Maciejuk']\nTermin: 2015-
+ 06-16 09:20\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minister Infrastruktury i Rozwoju - II SA/Wa 375/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150616T100000
+DESCRIPTION:Organ: Minister Infrastruktury i Rozwoju\nSygnatura: II SA/Wa 
+ 375/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publicz
+ na\nSklad: ['Ewa Grochowska-Jung'\, 'Sławomir Antoniuk'\, 'Iwona Maciejuk
+  (spr.)']\nTermin: 2015-06-16 10:00\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
