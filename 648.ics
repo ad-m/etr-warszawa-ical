@@ -1,30 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:Prezydent m.st. Warszawy - II SA/Wa 2171/14
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150421T090000
-DESCRIPTION:Organ: Prezydent m.st. Warszawy\nSygnatura: II SA/Wa 2171/14\n
- Symbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSkla
- d: ['Sławomir Antoniuk (spr.)'\, 'Adam Lipiński'\, 'Janusz Walawski']\nT
- ermin: 2015-04-21 09:00\n\n['Uchylono zaskarżoną decyzję i poprzedzają
- cą ją decyzję'\, 'Stwierdzono\, że zaskarżona decyzja nie może być 
- wykonana w całości'\, 'Zasądzono zwrot kosztów postępowania']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zarząd Główny Polskiego Związku Łowieckiego - II SAB/Wa 1136/
- 14
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150421T092000
-DESCRIPTION:Organ: Zarząd Główny Polskiego Związku Łowieckiego\nSygna
- tura: II SAB/Wa 1136/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmio
- t: bezczynność w sprawie wniosku o udost.inf.publ. z dn. 27.10.2014 r.\n
- Sklad: ['Sławomir Antoniuk'\, 'Adam Lipiński (spr.)'\, 'Janusz Walawski'
- ]\nTermin: 2015-04-21 09:20\n\n['Zobowiązano ... i stwierdzono\, że bezc
- zynność miała miejsce z rażącym naruszeniem prawa'\, 'Zasądzono zwro
- t kosztów postępowania']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Marszałek Sejmu RP - II SAB/Wa 1038/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150422T090000
 DESCRIPTION:Organ: Marszałek Sejmu RP\nSygnatura: II SAB/Wa 1038/14\nSymb
@@ -1041,5 +1017,15 @@ DESCRIPTION:Organ: Minister Infrastruktury i Rozwoju\nSygnatura: II SA/Wa
  na\nSklad: ['Ewa Grochowska-Jung'\, 'Sławomir Antoniuk'\, 'Iwona Maciejuk
   (spr.)']\nTermin: 2015-06-16 10:00\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burmistrz Miasta i Gminy Kozienice - VIII SAB/Wa 100/14
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150617T111000
+DESCRIPTION:Organ: Burmistrz Miasta i Gminy Kozienice\nSygnatura: VIII SAB
+ /Wa 100/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynno
+ ść Burmistrza Gminy Kozienice w sprawie dostępu do informacji publiczne
+ j\nSklad: ['Marek Wroczyński'\, 'Renata Nawrot'\, 'Iwona Szymanowicz-Nowa
+ k (spr.)']\nTermin: 2015-06-17 11:10\n\n[]
+LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
