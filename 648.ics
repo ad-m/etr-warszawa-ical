@@ -103,6 +103,17 @@ DESCRIPTION:Organ: Burmistrz Miasta Radzymin\nSygnatura: II SAB/Wa 1061/14
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszawie - II SAB
+ /Wa 321/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150505T092000
+DESCRIPTION:Organ: Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszaw
+ ie\nSygnatura: II SAB/Wa 321/15\nSymbole: 658/648 - Informacja publiczna\;
+  Informacja publiczna\; Informacja publiczna\nPrzedmiot: \nSklad: ['Sławo
+ mir Antoniuk'\, 'Adam Lipiński'\, 'Janusz Walawski (spr.)']\nTermin: 2015
+ -05-05 09:20\n\n['Odroczono ogłoszenie orzeczenia na dzień 2015-05-12']
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wojewoda Mazowiecki - II SAB/Wa 1000/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150505T092000
 DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 1000/14\nSymb
@@ -112,17 +123,6 @@ DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 1000/14\nSymb
  rmin: 2015-05-05 09:20\n\n['Zobowiązano ... i stwierdzono\, że bezczynno
  ść miała miejsce bez rażącego naruszenia prawa'\, 'Zasądzono zwrot k
  osztów postępowania']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszawie - II SAB
- /Wa 321/15
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150505T092000
-DESCRIPTION:Organ: Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszaw
- ie\nSygnatura: II SAB/Wa 321/15\nSymbole: 658/648 - Informacja publiczna\;
-  Informacja publiczna\; Informacja publiczna\nPrzedmiot: \nSklad: ['Sławo
- mir Antoniuk'\, 'Adam Lipiński'\, 'Janusz Walawski (spr.)']\nTermin: 2015
- -05-05 09:20\n\n['Odroczono ogłoszenie orzeczenia na dzień 2015-05-12']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -865,16 +865,6 @@ DESCRIPTION:Organ: Prezydent m.st. Warszawy\nSygnatura: II SAB/Wa 923/14\n
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wójt Gminy Poświętne - II SAB/Wa 594/15
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150616T092000
-DESCRIPTION:Organ: Wójt Gminy Poświętne\nSygnatura: II SAB/Wa 594/15\nS
- ymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmi
- ocie rozpoznania wniosku z dn. 27.01.2015 r. o udost.inf.publ.\nSklad: ['E
- wa Grochowska-Jung (spr.)'\, 'Sławomir Antoniuk'\, 'Iwona Maciejuk']\nTer
- min: 2015-06-16 09:20\n\n[]
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Krajowa Rada Izby Architektów RP - II SAB/Wa 505/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150616T092000
 DESCRIPTION:Organ: Krajowa Rada Izby Architektów RP\nSygnatura: II SAB/Wa
@@ -882,6 +872,16 @@ DESCRIPTION:Organ: Krajowa Rada Izby Architektów RP\nSygnatura: II SAB/Wa
   w sprawie wniosku o udost.inf.publ. z 14.08.2014 r.\nSklad: ['Ewa Grochow
  ska-Jung (spr.)'\, 'Sławomir Antoniuk'\, 'Iwona Maciejuk']\nTermin: 2015-
  06-16 09:20\n\n['Zdjęto z wokandy']
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wójt Gminy Poświętne - II SAB/Wa 594/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150616T092000
+DESCRIPTION:Organ: Wójt Gminy Poświętne\nSygnatura: II SAB/Wa 594/15\nS
+ ymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmi
+ ocie rozpoznania wniosku z dn. 27.01.2015 r. o udost.inf.publ.\nSklad: ['E
+ wa Grochowska-Jung (spr.)'\, 'Sławomir Antoniuk'\, 'Iwona Maciejuk']\nTer
+ min: 2015-06-16 09:20\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
