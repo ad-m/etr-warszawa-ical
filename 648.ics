@@ -580,7 +580,7 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150529T090000
 DESCRIPTION:Organ: Kancelaria Sejmu\nSygnatura: II SA/Wa 1814/14\nSymbole:
   648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSklad: ['Iwo
  na Dąbrowska (spr.)'\, 'Ewa Grochowska-Jung'\, 'Andrzej Kołodziej']\nTer
- min: 2015-05-29 09:00\n\n[]
+ min: 2015-05-29 09:00\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -590,7 +590,9 @@ DESCRIPTION:Organ: Burmistrz Miasta i Gminy Wyszogród\nSygnatura: II SAB/
  Wa 258/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynnoś
  ć w przedmiocie rozpoznania wniosku z dn. 06.01.2014 r. o udost.inf.publ.
  \nSklad: ['Iwona Dąbrowska'\, 'Ewa Grochowska-Jung (spr.)'\, 'Andrzej Ko
- łodziej']\nTermin: 2015-05-29 11:00\n\n[]
+ łodziej']\nTermin: 2015-05-29 11:00\n\n['Zobowiązano ... i stwierdzono\,
+  że bezczynność miała miejsce bez rażącego naruszenia prawa'\, 'Zas
+ ądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -599,7 +601,7 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150529T123000
 DESCRIPTION:Organ: Rektor UW\nSygnatura: II SA/Wa 1868/14\nSymbole: 648 - 
  Informacja publiczna\nPrzedmiot: Informacja publiczna\nSklad: ['Iwona Dąb
  rowska'\, 'Ewa Grochowska-Jung'\, 'Andrzej Kołodziej (spr.)']\nTermin: 20
- 15-05-29 12:30\n\n[]
+ 15-05-29 12:30\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -609,7 +611,7 @@ DESCRIPTION:Organ: Polska Agencja Rozwoju Przedsiębiorczości\nSygnatura:
   II SAB/Wa 272/15\nSymbole: 658/648 - Bezczynność organu\nPrzedmiot: bez
  czynność w sprawie rozpoznania wniosku z dn. 15.10.2014 r. o udziel.inf.
  publ.\nSklad: ['Iwona Dąbrowska'\, 'Ewa Grochowska-Jung (spr.)'\, 'Andrze
- j Kołodziej']\nTermin: 2015-05-29 12:50\n\n[]
+ j Kołodziej']\nTermin: 2015-05-29 12:50\n\n['Odroczono rozprawę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -784,16 +786,6 @@ DESCRIPTION:Organ: Prezydent m.st. Warszawy\nSygnatura: II SAB/Wa 923/14\n
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wójt Gminy Poświętne - II SAB/Wa 594/15
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150616T092000
-DESCRIPTION:Organ: Wójt Gminy Poświętne\nSygnatura: II SAB/Wa 594/15\nS
- ymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmi
- ocie rozpoznania wniosku z dn. 27.01.2015 r. o udost.inf.publ.\nSklad: ['E
- wa Grochowska-Jung (spr.)'\, 'Sławomir Antoniuk'\, 'Iwona Maciejuk']\nTer
- min: 2015-06-16 09:20\n\n[]
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Krajowa Rada Izby Architektów RP - II SAB/Wa 505/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150616T092000
 DESCRIPTION:Organ: Krajowa Rada Izby Architektów RP\nSygnatura: II SAB/Wa
@@ -801,6 +793,16 @@ DESCRIPTION:Organ: Krajowa Rada Izby Architektów RP\nSygnatura: II SAB/Wa
   w sprawie wniosku o udost.inf.publ. z 14.08.2014 r.\nSklad: ['Ewa Grochow
  ska-Jung (spr.)'\, 'Sławomir Antoniuk'\, 'Iwona Maciejuk']\nTermin: 2015-
  06-16 09:20\n\n['Zdjęto z wokandy']
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wójt Gminy Poświętne - II SAB/Wa 594/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150616T092000
+DESCRIPTION:Organ: Wójt Gminy Poświętne\nSygnatura: II SAB/Wa 594/15\nS
+ ymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmi
+ ocie rozpoznania wniosku z dn. 27.01.2015 r. o udost.inf.publ.\nSklad: ['E
+ wa Grochowska-Jung (spr.)'\, 'Sławomir Antoniuk'\, 'Iwona Maciejuk']\nTer
+ min: 2015-06-16 09:20\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
