@@ -664,9 +664,9 @@ BEGIN:VEVENT
 SUMMARY:PKP Polskie Linie Kolejowe S.A. - II SA/Wa 194/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150602T090000
 DESCRIPTION:Organ: PKP Polskie Linie Kolejowe S.A.\nSygnatura: II SA/Wa 19
- 4/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna
- \nSklad: ['Sławomir Antoniuk'\, 'Stanisław Marek Pietras (spr.)'\, 'Olga
-  Żurawska-Matusiak']\nTermin: 2015-06-02 09:00\n\n[]
+ 4/15\nSymbole: 648 - Informacja publiczna\; Informacja publiczna\nPrzedmio
+ t: \nSklad: ['Sławomir Antoniuk'\, 'Stanisław Marek Pietras (spr.)'\, 'O
+ lga Żurawska-Matusiak']\nTermin: 2015-06-02 09:00\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -816,6 +816,15 @@ DESCRIPTION:Organ: Minister Infrastruktury i Rozwoju\nSygnatura: II SA/Wa
  375/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publicz
  na\nSklad: ['Ewa Grochowska-Jung'\, 'Sławomir Antoniuk'\, 'Iwona Maciejuk
   (spr.)']\nTermin: 2015-06-16 10:00\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PKP Polskie Linie Kolejowe S.A. - II SA/Wa 194/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150616T150000
+DESCRIPTION:Organ: PKP Polskie Linie Kolejowe S.A.\nSygnatura: II SA/Wa 19
+ 4/15\nSymbole: 648 - Informacja publiczna\; Informacja publiczna\nPrzedmio
+ t: \nSklad: ['Stanisław Marek Pietras (spr.)']\nTermin: 2015-06-16 15:00\
+ n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
