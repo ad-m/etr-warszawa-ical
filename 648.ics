@@ -666,7 +666,8 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150602T090000
 DESCRIPTION:Organ: PKP Polskie Linie Kolejowe S.A.\nSygnatura: II SA/Wa 19
  4/15\nSymbole: 648 - Informacja publiczna\; Informacja publiczna\nPrzedmio
  t: \nSklad: ['Sławomir Antoniuk'\, 'Stanisław Marek Pietras (spr.)'\, 'O
- lga Żurawska-Matusiak']\nTermin: 2015-06-02 09:00\n\n[]
+ lga Żurawska-Matusiak']\nTermin: 2015-06-02 09:00\n\n['Odroczono ogłosze
+ nie orzeczenia na dzień 2015-06-16']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -676,7 +677,7 @@ DESCRIPTION:Organ: PZU w Warszawie\nSygnatura: II SAB/Wa 568/15\nSymbole:
  658/648 - Bezczynność organu\nPrzedmiot: bezczynność w sprawie wniosku
   o udost.inf.publ. z 13.11.2014 r.\nSklad: ['Sławomir Antoniuk'\, 'Stanis
  ław Marek Pietras'\, 'Olga Żurawska-Matusiak (spr.)']\nTermin: 2015-06-0
- 2 11:00\n\n[]
+ 2 11:00\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -686,7 +687,9 @@ DESCRIPTION:Organ: Prezes Sądu Rejonowego w Sochaczewie\nSygnatura: II SA
  B/Wa 525/15\nSymbole: 658/648 - Bezczynność organu\nPrzedmiot: bezczynno
  śc w przedmiocie rozpoznania wniosku z dn.09.08.2014 r. o udost.inf.publ.
  \nSklad: ['Sławomir Antoniuk (spr.)'\, 'Stanisław Marek Pietras'\, 'Olga
-  Żurawska-Matusiak']\nTermin: 2015-06-02 12:50\n\n[]
+  Żurawska-Matusiak']\nTermin: 2015-06-02 12:50\n\n['Zobowiązano ... i st
+ wierdzono\, że bezczynność miała miejsce bez rażącego naruszenia pra
+ wa'\, 'Zasądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -790,16 +793,6 @@ DESCRIPTION:Organ: Prezydent m.st. Warszawy\nSygnatura: II SAB/Wa 923/14\n
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wójt Gminy Poświętne - II SAB/Wa 594/15
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150616T092000
-DESCRIPTION:Organ: Wójt Gminy Poświętne\nSygnatura: II SAB/Wa 594/15\nS
- ymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmi
- ocie rozpoznania wniosku z dn. 27.01.2015 r. o udost.inf.publ.\nSklad: ['E
- wa Grochowska-Jung (spr.)'\, 'Sławomir Antoniuk'\, 'Iwona Maciejuk']\nTer
- min: 2015-06-16 09:20\n\n[]
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Krajowa Rada Izby Architektów RP - II SAB/Wa 505/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150616T092000
 DESCRIPTION:Organ: Krajowa Rada Izby Architektów RP\nSygnatura: II SAB/Wa
@@ -807,6 +800,16 @@ DESCRIPTION:Organ: Krajowa Rada Izby Architektów RP\nSygnatura: II SAB/Wa
   w sprawie wniosku o udost.inf.publ. z 14.08.2014 r.\nSklad: ['Ewa Grochow
  ska-Jung (spr.)'\, 'Sławomir Antoniuk'\, 'Iwona Maciejuk']\nTermin: 2015-
  06-16 09:20\n\n['Zdjęto z wokandy']
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wójt Gminy Poświętne - II SAB/Wa 594/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150616T092000
+DESCRIPTION:Organ: Wójt Gminy Poświętne\nSygnatura: II SAB/Wa 594/15\nS
+ ymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmi
+ ocie rozpoznania wniosku z dn. 27.01.2015 r. o udost.inf.publ.\nSklad: ['E
+ wa Grochowska-Jung (spr.)'\, 'Sławomir Antoniuk'\, 'Iwona Maciejuk']\nTer
+ min: 2015-06-16 09:20\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
