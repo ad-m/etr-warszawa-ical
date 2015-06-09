@@ -623,10 +623,9 @@ BEGIN:VEVENT
 SUMMARY:Komisja Nadzoru Finansowego - II SAB/Wa 323/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150609T092000
 DESCRIPTION:Organ: Komisja Nadzoru Finansowego\nSygnatura: II SAB/Wa 323/1
- 5\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w prz
- edmiocie rozpoznania wniosku z 22.09.2014 r. o udost.inf.publ.\nSklad: ['A
- dam Lipiński'\, 'Anna Mierzejewska (spr.)'\, 'Olga Żurawska-Matusiak']\n
- Termin: 2015-06-09 09:20\n\n[]
+ 5\nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\nPrzedmi
+ ot: \nSklad: ['Adam Lipiński'\, 'Anna Mierzejewska (spr.)'\, 'Olga Żuraw
+ ska-Matusiak']\nTermin: 2015-06-09 09:20\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -698,6 +697,14 @@ DESCRIPTION:Organ: Burmistrz Miasta i Gminy Kozienice\nSygnatura: VIII SAB
  j\nSklad: ['Marek Wroczyński'\, 'Renata Nawrot'\, 'Iwona Szymanowicz-Nowa
  k (spr.)']\nTermin: 2015-06-17 11:10\n\n[]
 LOCATION:Wydzial VIII\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Komisja Nadzoru Finansowego - II SAB/Wa 323/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150617T122000
+DESCRIPTION:Organ: Komisja Nadzoru Finansowego\nSygnatura: II SAB/Wa 323/1
+ 5\nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\nPrzedmi
+ ot: \nSklad: ['Anna Mierzejewska (spr.)']\nTermin: 2015-06-17 12:20\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Szef Agencji Bezpieczeństwa Wewnętrznego - II SA/Wa 419/15
