@@ -480,9 +480,9 @@ BEGIN:VEVENT
 SUMMARY:PKP Polskie Linie Kolejowe S.A. - II SA/Wa 366/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150618T092000
 DESCRIPTION:Organ: PKP Polskie Linie Kolejowe S.A.\nSygnatura: II SA/Wa 36
- 6/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna
- \nSklad: ['Maria Werpachowska'\, 'Andrzej Kołodziej'\, 'Janusz Walawski (
- spr.)']\nTermin: 2015-06-18 09:20\n\n[]
+ 6/15\nSymbole: 648 - Informacja publiczna\; Informacja publiczna\nPrzedmio
+ t: \nSklad: ['Maria Werpachowska'\, 'Andrzej Kołodziej'\, 'Janusz Walawsk
+ i (spr.)']\nTermin: 2015-06-18 09:20\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -562,6 +562,14 @@ DESCRIPTION:Organ: Wojewoda Mazowiecki\nSygnatura: II SAB/Wa 907/14\nSymbo
  osku o udost.inf.publ. z 11.09.2014 r.\nSklad: ['Ewa Marcinkowska (spr.)'\
  , 'Iwona Dąbrowska'\, 'Ewa Pisula-Dąbrowska']\nTermin: 2015-06-26 09:20\
  n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PKP Polskie Linie Kolejowe S.A. - II SA/Wa 366/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150702T133000
+DESCRIPTION:Organ: PKP Polskie Linie Kolejowe S.A.\nSygnatura: II SA/Wa 36
+ 6/15\nSymbole: 648 - Informacja publiczna\; Informacja publiczna\nPrzedmio
+ t: \nSklad: ['Janusz Walawski (spr.)']\nTermin: 2015-07-02 13:30\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
