@@ -200,9 +200,9 @@ DESCRIPTION:Organ: Starosta Powiatu Wołomińskiego\nSygnatura: II SAB/Wa
  872/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność 
  w przedmiocie rozpatrzenia wniosku z 30.06.2014 o udost.inf.publ.\nSklad: 
  ['Andrzej Góraj (spr.)'\, 'Andrzej Kołodziej'\, 'Iwona Maciejuk']\nTermi
- n: 2015-07-09 09:40\n\n['Stwierdzono\, iż bezczynność miała miejsce z 
- rażącym naruszeniem prawa i w pozostałym zakresie umorzono postępowani
- e'\, 'Zasądzono zwrot kosztów postępowania']
+ n: 2015-07-09 09:40\n\n['Stwierdzono\, iż bezczynność nie miała miejsc
+ a z rażącym naruszeniem prawa i w pozostałym zakresie umorzono postępo
+ wanie'\, 'Zasądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -282,9 +282,9 @@ BEGIN:VEVENT
 SUMMARY:Minister Kultury i Dziedzictwa Narodowego - II SA/Wa 54/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150715T100000
 DESCRIPTION:Organ: Minister Kultury i Dziedzictwa Narodowego\nSygnatura: I
- I SA/Wa 54/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja 
- publiczna\nSklad: ['Maria Werpachowska'\, 'Danuta Kania (spr.)'\, 'Anna Mi
- erzejewska']\nTermin: 2015-07-15 10:00\n\n[]
+ I SA/Wa 54/15\nSymbole: 648 - Informacja publiczna\; Informacja publiczna\
+ nPrzedmiot: \nSklad: ['Maria Werpachowska'\, 'Danuta Kania (spr.)'\, 'Anna
+  Mierzejewska']\nTermin: 2015-07-15 10:00\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -373,6 +373,15 @@ DESCRIPTION:Organ: Wójt Gminy Klembów\nSygnatura: II SAB/Wa 334/15\nSymb
  ole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w sprawie wn
  iosku o udost.inf.publ. z 23.04.2014 r.\nSklad: ['Joanna Kube'\, 'Iwona Ma
  ciejuk'\, 'Eugeniusz Wasilewski (spr.)']\nTermin: 2015-07-23 11:10\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minister Kultury i Dziedzictwa Narodowego - II SA/Wa 54/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150729T100000
+DESCRIPTION:Organ: Minister Kultury i Dziedzictwa Narodowego\nSygnatura: I
+ I SA/Wa 54/15\nSymbole: 648 - Informacja publiczna\; Informacja publiczna\
+ nPrzedmiot: \nSklad: ['Danuta Kania (spr.)']\nTermin: 2015-07-29 10:00\n\n
+ []
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
