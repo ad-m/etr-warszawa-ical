@@ -284,9 +284,9 @@ BEGIN:VEVENT
 SUMMARY:SKO w Warszawie - II SA/Wa 292/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150730T092000
 DESCRIPTION:Organ: SKO w Warszawie\nSygnatura: II SA/Wa 292/15\nSymbole: 6
- 48 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSklad: ['Iwona
-  Maciejuk'\, 'Ewa Grochowska-Jung'\, 'Danuta Kania (spr.)']\nTermin: 2015-
- 07-30 09:20\n\n[]
+ 48 - Informacja publiczna\; Informacja publiczna\nPrzedmiot: \nSklad: ['Iw
+ ona Maciejuk'\, 'Ewa Grochowska-Jung'\, 'Danuta Kania (spr.)']\nTermin: 20
+ 15-07-30 09:20\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -376,6 +376,14 @@ DESCRIPTION:Organ: Przewodniczący Zespołu ds. wyjaśniania opinii publ.
  /15\nSymbole: 644/648 - Informacja publiczna\nPrzedmiot: Informacja public
  zna\nSklad: ['Iwona Dąbrowska'\, 'Ewa Grochowska-Jung'\, 'Anna Mierzejews
  ka (spr.)']\nTermin: 2015-08-12 12:50\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SKO w Warszawie - II SA/Wa 292/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150813T120000
+DESCRIPTION:Organ: SKO w Warszawie\nSygnatura: II SA/Wa 292/15\nSymbole: 6
+ 48 - Informacja publiczna\; Informacja publiczna\nPrzedmiot: \nSklad: ['Da
+ nuta Kania (spr.)']\nTermin: 2015-08-13 12:00\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
