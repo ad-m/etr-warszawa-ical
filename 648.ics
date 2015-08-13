@@ -1,16 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:Minister Kultury i Dziedzictwa Narodowego - II SA/Wa 54/15
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150715T100000
-DESCRIPTION:Organ: Minister Kultury i Dziedzictwa Narodowego\nSygnatura: I
- I SA/Wa 54/15\nSymbole: 648 - Informacja publiczna\; Informacja publiczna\
- nPrzedmiot: \nSklad: ['Maria Werpachowska'\, 'Danuta Kania (spr.)'\, 'Anna
-  Mierzejewska']\nTermin: 2015-07-15 10:00\n\n['Odroczono ogłoszenie orzec
- zenia na dzień 2015-07-29']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Zarząd Dróg Miejskich w Warszawie - II SAB/Wa 534/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150716T090000
 DESCRIPTION:Organ: Zarząd Dróg Miejskich w Warszawie\nSygnatura: II SAB/
@@ -121,11 +111,12 @@ BEGIN:VEVENT
 SUMMARY:Minister Kultury i Dziedzictwa Narodowego - II SA/Wa 54/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150729T100000
 DESCRIPTION:Organ: Minister Kultury i Dziedzictwa Narodowego\nSygnatura: I
- I SA/Wa 54/15\nSymbole: 648 - Informacja publiczna\; Informacja publiczna\
- nPrzedmiot: \nSklad: ['Danuta Kania (spr.)']\nTermin: 2015-07-29 10:00\n\n
- ['Uchylono zaskarżoną decyzję i poprzedzającą ją decyzję'\, 'Stwier
- dzono\, że zaskarżona decyzja nie może być wykonana w całości'\, 'Za
- sądzono zwrot kosztów postępowania']
+ I SA/Wa 54/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja 
+ publiczna\nPublikacja orzeczenia odroczona z dnia 15 lipca 2015 r.\nSklad:
+  ['Danuta Kania (spr.)']\nTermin: 2015-07-29 10:00\n\n['Uchylono zaskarżo
+ ną decyzję i poprzedzającą ją decyzję'\, 'Stwierdzono\, że zaskarż
+ ona decyzja nie może być wykonana w całości'\, 'Zasądzono zwrot koszt
+ ów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
