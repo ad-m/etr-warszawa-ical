@@ -52,9 +52,9 @@ BEGIN:VEVENT
 SUMMARY:Komendant Główny Policji - II SAB/Wa 579/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150730T090000
 DESCRIPTION:Organ: Komendant Główny Policji\nSygnatura: II SAB/Wa 579/15
- \nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: dostęp do informacj
- i publicznej\nSklad: ['Iwona Maciejuk (spr.)'\, 'Ewa Grochowska-Jung'\, 'D
- anuta Kania']\nTermin: 2015-07-30 09:00\n\n['Odroczono rozprawę']
+ \nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\nPrzedmio
+ t: \nSklad: ['Iwona Maciejuk (spr.)'\, 'Ewa Grochowska-Jung'\, 'Danuta Kan
+ ia']\nTermin: 2015-07-30 09:00\n\n['Odroczono rozprawę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -360,10 +360,9 @@ BEGIN:VEVENT
 SUMMARY:Minister Obrony Narodowej - II SAB/Wa 772/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150820T105000
 DESCRIPTION:Organ: Minister Obrony Narodowej\nSygnatura: II SAB/Wa 772/15\
- nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przed
- miocie udzielenia inf.publ. na wniosek z 24.07.2013 r.\nSklad: ['Danuta Ka
- nia'\, 'Iwona Dąbrowska'\, 'Iwona Maciejuk (spr.)']\nTermin: 2015-08-20 1
- 0:50\n\n['Zdjęto z wokandy']
+ nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\nPrzedmiot
+ : \nSklad: ['Danuta Kania'\, 'Iwona Dąbrowska'\, 'Iwona Maciejuk (spr.)']
+ \nTermin: 2015-08-20 10:50\n\n['Zdjęto z wokandy']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
