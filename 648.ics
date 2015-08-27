@@ -1,18 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:Minister Kultury i Dziedzictwa Narodowego - II SA/Wa 54/15
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150729T100000
-DESCRIPTION:Organ: Minister Kultury i Dziedzictwa Narodowego\nSygnatura: I
- I SA/Wa 54/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja 
- publiczna\nPublikacja orzeczenia odroczona z dnia 15 lipca 2015 r.\nSklad:
-  ['Danuta Kania (spr.)']\nTermin: 2015-07-29 10:00\n\n['Uchylono zaskarżo
- ną decyzję i poprzedzającą ją decyzję'\, 'Stwierdzono\, że zaskarż
- ona decyzja nie może być wykonana w całości'\, 'Zasądzono zwrot koszt
- ów postępowania']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Komendant Główny Policji - II SAB/Wa 579/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150730T090000
 DESCRIPTION:Organ: Komendant Główny Policji\nSygnatura: II SAB/Wa 579/15
@@ -628,6 +616,25 @@ DESCRIPTION:Organ: Wójt Gminy Brudzeń Duży\nSygnatura: II SAB/Wa 1117/1
  awie wniosku o udost.inf.publ. z 21.10.2014\nSklad: ['Adam Lipiński'\, 'A
  ndrzej Góraj (spr.)'\, 'Anna Mierzejewska']\nTermin: 2015-09-23 12:50\n\n
  []
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Komendant Główny Policji - II SAB/Wa 701/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150924T090000
+DESCRIPTION:Organ: Komendant Główny Policji\nSygnatura: II SAB/Wa 701/15
+ \nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w prze
+ dmiocie rozpoznania wniosku z dnia 18.04.2012 r. o udost.inf.publ.\nSklad:
+  ['Andrzej Kołodziej (spr.)'\, 'Ewa Marcinkowska'\, 'Ewa Pisula-Dąbrowsk
+ a']\nTermin: 2015-09-24 09:00\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Komendant Główny Policji - II SAB/Wa 713/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150924T092000
+DESCRIPTION:Organ: Komendant Główny Policji\nSygnatura: II SAB/Wa 713/15
+ \nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: dostęp do informacj
+ i publicznej\nSklad: ['Andrzej Kołodziej'\, 'Ewa Marcinkowska'\, 'Ewa Pis
+ ula-Dąbrowska (spr.)']\nTermin: 2015-09-24 09:20\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
