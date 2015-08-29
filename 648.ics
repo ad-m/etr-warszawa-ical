@@ -1,57 +1,15 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:Komendant Główny Policji - II SAB/Wa 579/15
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150730T090000
-DESCRIPTION:Organ: Komendant Główny Policji\nSygnatura: II SAB/Wa 579/15
- \nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\nPrzedmio
- t: \nSklad: ['Iwona Maciejuk (spr.)'\, 'Ewa Grochowska-Jung'\, 'Danuta Kan
- ia']\nTermin: 2015-07-30 09:00\n\n['Odroczono rozprawę']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SKO w Warszawie - II SA/Wa 292/15
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150730T092000
-DESCRIPTION:Organ: SKO w Warszawie\nSygnatura: II SA/Wa 292/15\nSymbole: 6
- 48 - Informacja publiczna\; Informacja publiczna\nPrzedmiot: \nSklad: ['Iw
- ona Maciejuk'\, 'Ewa Grochowska-Jung'\, 'Danuta Kania (spr.)']\nTermin: 20
- 15-07-30 09:20\n\n['Odroczono ogłoszenie orzeczenia na dzień 2015-08-13'
- ]
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Polski Związek Piłki Siatkowej - II SAB/Wa 304/15
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150730T123000
-DESCRIPTION:Organ: Polski Związek Piłki Siatkowej\nSygnatura: II SAB/Wa 
- 304/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność 
- w przedmiocie dostepu do inf.publ. objętej wnioskiem z 10.01.2013 r.\nSkl
- ad: ['Iwona Maciejuk'\, 'Ewa Grochowska-Jung'\, 'Danuta Kania (spr.)']\nTe
- rmin: 2015-07-30 12:30\n\n['Stwierdzono\, iż bezczynność nie miała mie
- jsca z rażącym naruszeniem prawa i w pozostałym zakresie umorzono post
- ępowanie'\, 'Zasądzono zwrot kosztów postępowania']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Państwowa Komisja Wyborcza - II SAB/Wa 642/15
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150730T125000
-DESCRIPTION:Organ: Państwowa Komisja Wyborcza\nSygnatura: II SAB/Wa 642/1
- 5\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w zak
- resie wniosku z dn. 22.02.2012 r. o udost.inf.publ.\nSklad: ['Iwona Maciej
- uk'\, 'Ewa Grochowska-Jung (spr.)'\, 'Danuta Kania']\nTermin: 2015-07-30 1
- 2:50\n\n['Zobowiązano ... i stwierdzono\, że bezczynność miała miejsc
- e bez rażącego naruszenia prawa'\, 'Zasądzono zwrot kosztów postępowa
- nia']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszawie - II SAB
  /Wa 316/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150805T103000
 DESCRIPTION:Organ: Dyrektor Szkoły nr 75 im. Marii Konopnickiej w Warszaw
  ie\nSygnatura: II SAB/Wa 316/15\nSymbole: 658/648 - Informacja publiczna\n
  Przedmiot: bezczynność w zakresie rozpoznania wniosku z dn. 30.09.2014 r
- . o udost.inf.publ. \nSklad: ['Ewa Grochowska-Jung'\, 'Danuta Kania (spr.)
- '\, 'Adam Lipiński']\nTermin: 2015-08-05 10:30\n\n['Oddalono skargę']
+ . o udost.inf.publ. \nSala: Sala F\nSklad: ['Ewa Grochowska-Jung'\, 'Danut
+ a Kania (spr.)'\, 'Adam Lipiński']\nTermin: 2015-08-05 10:30\n\n['Oddalon
+ o skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -59,11 +17,11 @@ SUMMARY:PINB dla m. st. Warszawy - II SAB/Wa 521/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150805T111000
 DESCRIPTION:Organ: PINB dla m. st. Warszawy\nSygnatura: II SAB/Wa 521/15\n
  Symbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedm
- iocie rozpoznania wniosku z dn. 13.01.15 o udziel.inf.publ.\nSklad: ['Ewa 
- Grochowska-Jung'\, 'Danuta Kania'\, 'Adam Lipiński (spr.)']\nTermin: 2015
- -08-05 11:10\n\n['Zobowiązano ... i stwierdzono\, że bezczynność miał
- a miejsce bez rażącego naruszenia prawa'\, 'Zasądzono zwrot kosztów po
- stępowania']
+ iocie rozpoznania wniosku z dn. 13.01.15 o udziel.inf.publ.\nSala: Sala F\
+ nSklad: ['Ewa Grochowska-Jung'\, 'Danuta Kania'\, 'Adam Lipiński (spr.)']
+ \nTermin: 2015-08-05 11:10\n\n['Zobowiązano ... i stwierdzono\, że bezcz
+ ynność miała miejsce bez rażącego naruszenia prawa'\, 'Zasądzono zwr
+ ot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -71,9 +29,9 @@ SUMMARY:PGE Dystrybucja S.A. Oddział Warszawa - II SAB/Wa 322/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150805T113000
 DESCRIPTION:Organ: PGE Dystrybucja S.A. Oddział Warszawa\nSygnatura: II S
  AB/Wa 322/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynn
- ość w sprawie wniosku o udost.inf.publ. z 30.01.2014 r.\nSklad: ['Ewa Gr
- ochowska-Jung'\, 'Danuta Kania (spr.)'\, 'Adam Lipiński']\nTermin: 2015-0
- 8-05 11:30\n\n['Oddalono skargę']
+ ość w sprawie wniosku o udost.inf.publ. z 30.01.2014 r.\nSala: Sala F\nS
+ klad: ['Ewa Grochowska-Jung'\, 'Danuta Kania (spr.)'\, 'Adam Lipiński']\n
+ Termin: 2015-08-05 11:30\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -81,19 +39,19 @@ SUMMARY:Minister Infrastruktury i Rozwoju - II SA/Wa 36/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150805T125000
 DESCRIPTION:Organ: Minister Infrastruktury i Rozwoju\nSygnatura: II SA/Wa 
  36/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczn
- a\nSklad: ['Iwona Dąbrowska (spr.)'\, 'Danuta Kania'\, 'Adam Lipiński']\
- nTermin: 2015-08-05 12:50\n\n['Uchylono zaskarżoną decyzję i poprzedzaj
- ącą ją decyzję'\, 'Stwierdzono\, że zaskarżona decyzja nie może by
- ć wykonana w całości']
+ a\nSala: Sala F\nSklad: ['Iwona Dąbrowska (spr.)'\, 'Danuta Kania'\, 'Ada
+ m Lipiński']\nTermin: 2015-08-05 12:50\n\n['Uchylono zaskarżoną decyzj
+ ę i poprzedzającą ją decyzję'\, 'Stwierdzono\, że zaskarżona decyzj
+ a nie może być wykonana w całości']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Szef Kancelarii Sejmu - II SA/Wa 485/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150812T090000
 DESCRIPTION:Organ: Szef Kancelarii Sejmu\nSygnatura: II SA/Wa 485/15\nSymb
- ole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSklad: [
- 'Ewa Kwiecińska'\, 'Ewa Grochowska-Jung'\, 'Anna Mierzejewska (spr.)']\nT
- ermin: 2015-08-12 09:00\n\n['Oddalono skargę']
+ ole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSala: Sa
+ la F\nSklad: ['Ewa Kwiecińska'\, 'Ewa Grochowska-Jung'\, 'Anna Mierzejews
+ ka (spr.)']\nTermin: 2015-08-12 09:00\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -101,11 +59,11 @@ SUMMARY:Generalny Inspektor Kontroli Skarbowej - II SA/Wa 633/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150812T123000
 DESCRIPTION:Organ: Generalny Inspektor Kontroli Skarbowej\nSygnatura: II S
  A/Wa 633/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja pu
- bliczna\nSklad: ['Iwona Dąbrowska (spr.)'\, 'Ewa Grochowska-Jung'\, 'Anna
-  Mierzejewska']\nTermin: 2015-08-12 12:30\n\n['Uchylono zaskarżoną decyz
- ję i poprzedzającą ją decyzję'\, 'Stwierdzono\, że zaskarżona decyz
- ja nie może być wykonana w całości'\, 'Zasądzono zwrot kosztów post
- ępowania']
+ bliczna\nSala: Sala F\nSklad: ['Iwona Dąbrowska (spr.)'\, 'Ewa Grochowska
+ -Jung'\, 'Anna Mierzejewska']\nTermin: 2015-08-12 12:30\n\n['Uchylono zask
+ arżoną decyzję i poprzedzającą ją decyzję'\, 'Stwierdzono\, że zas
+ karżona decyzja nie może być wykonana w całości'\, 'Zasądzono zwrot 
+ kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -115,17 +73,18 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150812T125000
 DESCRIPTION:Organ: Przewodniczący Zespołu ds. wyjaśniania opinii publ. 
  treści inf. i mat. dot. katastrofy lotn.10.04.10\nSygnatura: II SA/Wa 399
  /15\nSymbole: 644/648 - Informacja publiczna\nPrzedmiot: Informacja public
- zna\nSklad: ['Iwona Dąbrowska'\, 'Ewa Grochowska-Jung'\, 'Anna Mierzejews
- ka (spr.)']\nTermin: 2015-08-12 12:50\n\n['Oddalono skargę o wymierzenie 
- grzywny -art.154 ustawy PoPPSA']
+ zna\nSala: Sala F\nSklad: ['Iwona Dąbrowska'\, 'Ewa Grochowska-Jung'\, 'A
+ nna Mierzejewska (spr.)']\nTermin: 2015-08-12 12:50\n\n['Oddalono skargę 
+ o wymierzenie grzywny -art.154 ustawy PoPPSA']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SKO w Warszawie - II SA/Wa 292/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150813T120000
 DESCRIPTION:Organ: SKO w Warszawie\nSygnatura: II SA/Wa 292/15\nSymbole: 6
- 48 - Informacja publiczna\; Informacja publiczna\nPrzedmiot: \nSklad: ['Da
- nuta Kania (spr.)']\nTermin: 2015-08-13 12:00\n\n['Oddalono skargę']
+ 48 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nPublikacja orz
+ eczenia odroczona z dnia 30 lipca 2015 r.\nSala: Sala F\nSklad: ['Danuta K
+ ania (spr.)']\nTermin: 2015-08-13 12:00\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -133,11 +92,11 @@ SUMMARY:SKO w Warszawie - II SAB/Wa 575/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150818T090000
 DESCRIPTION:Organ: SKO w Warszawie\nSygnatura: II SAB/Wa 575/15\nSymbole: 
  658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmiocie roz
- poznania wniosku z 12.01.2015 r. o udziel.inf.publ.\nSklad: ['Anna Mierzej
- ewska (spr.)'\, 'Ewa Grochowska-Jung'\, 'Danuta Kania']\nTermin: 2015-08-1
- 8 09:00\n\n['Zobowiązano ... i stwierdzono\, że bezczynność miała mie
- jsce bez rażącego naruszenia prawa'\, 'Zasądzono zwrot kosztów postęp
- owania']
+ poznania wniosku z 12.01.2015 r. o udziel.inf.publ.\nSala: Sala F\nSklad: 
+ ['Anna Mierzejewska (spr.)'\, 'Ewa Grochowska-Jung'\, 'Danuta Kania']\nTer
+ min: 2015-08-18 09:00\n\n['Zobowiązano ... i stwierdzono\, że bezczynno
+ ść miała miejsce bez rażącego naruszenia prawa'\, 'Zasądzono zwrot k
+ osztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -145,11 +104,11 @@ SUMMARY:Prezes Sądu Okręgowego - II SAB/Wa 581/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150818T092000
 DESCRIPTION:Organ: Prezes Sądu Okręgowego\nSygnatura: II SAB/Wa 581/15\n
  Symbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w sprawi
- e wniosku o udost.inf.publ. z 09.07.2014 r.\nSklad: ['Anna Mierzejewska'\,
-  'Ewa Grochowska-Jung (spr.)'\, 'Danuta Kania']\nTermin: 2015-08-18 09:20\
- n\n['Stwierdzono\, iż bezczynność nie miała miejsca z rażącym narusz
- eniem prawa i w pozostałym zakresie umorzono postępowanie'\, 'Zasądzono
-  zwrot kosztów postępowania']
+ e wniosku o udost.inf.publ. z 09.07.2014 r.\nSala: Sala F\nSklad: ['Anna M
+ ierzejewska'\, 'Ewa Grochowska-Jung (spr.)'\, 'Danuta Kania']\nTermin: 201
+ 5-08-18 09:20\n\n['Stwierdzono\, iż bezczynność nie miała miejsca z ra
+ żącym naruszeniem prawa i w pozostałym zakresie umorzono postępowanie'
+ \, 'Zasądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -158,9 +117,9 @@ SUMMARY:Prezes Zarządu Państwowego Funduszu Rehabilitacji Osób Niepełn
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150818T094000
 DESCRIPTION:Organ: Prezes Zarządu Państwowego Funduszu Rehabilitacji Os
  ób Niepełnosprawnych\nSygnatura: II SA/Wa 347/15\nSymbole: 648 - Informa
- cja publiczna\nPrzedmiot: Informacja publiczna\nSklad: ['Anna Mierzejewska
- '\, 'Ewa Grochowska-Jung'\, 'Danuta Kania (spr.)']\nTermin: 2015-08-18 09:
- 40\n\n['Oddalono skargę']
+ cja publiczna\nPrzedmiot: Informacja publiczna\nSala: Sala F\nSklad: ['Ann
+ a Mierzejewska'\, 'Ewa Grochowska-Jung'\, 'Danuta Kania (spr.)']\nTermin: 
+ 2015-08-18 09:40\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -168,10 +127,11 @@ SUMMARY:PKS w Ostrołęce S.A. - II SAB/Wa 528/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150818T111000
 DESCRIPTION:Organ: PKS w Ostrołęce S.A.\nSygnatura: II SAB/Wa 528/15\nSy
  mbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w sprawie 
- wniosku o udost.inf.publ.z 08.11.2012 r.\nSklad: ['Anna Mierzejewska'\, 'E
- wa Grochowska-Jung'\, 'Danuta Kania (spr.)']\nTermin: 2015-08-18 11:10\n\n
- ['Zobowiązano ... i stwierdzono\, że bezczynność miała miejsce bez ra
- żącego naruszenia prawa'\, 'Zasądzono zwrot kosztów postępowania']
+ wniosku o udost.inf.publ.z 08.11.2012 r.\nSala: Sala F\nSklad: ['Anna Mier
+ zejewska'\, 'Ewa Grochowska-Jung'\, 'Danuta Kania (spr.)']\nTermin: 2015-0
+ 8-18 11:10\n\n['Zobowiązano ... i stwierdzono\, że bezczynność miała 
+ miejsce bez rażącego naruszenia prawa'\, 'Zasądzono zwrot kosztów post
+ ępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -180,8 +140,9 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150818T133000
 DESCRIPTION:Organ: Kancelaria Prezydenta Rzeczypospolitej Polskiej\nSygnat
  ura: II SAB/Wa 691/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot:
   bezczynność w sprawie wniosku o udostępnienie informacji publicznej z 
- dnia 5 marca 2015 r.\nSklad: ['Anna Mierzejewska'\, 'Ewa Grochowska-Jung (
- spr.)'\, 'Danuta Kania']\nTermin: 2015-08-18 13:30\n\n['Oddalono skargę']
+ dnia 5 marca 2015 r.\nSala: Sala F\nSklad: ['Anna Mierzejewska'\, 'Ewa Gro
+ chowska-Jung (spr.)'\, 'Danuta Kania']\nTermin: 2015-08-18 13:30\n\n['Odda
+ lono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -190,11 +151,11 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150819T090000
 DESCRIPTION:Organ: Prezes Urzędu Lotnictwa Cywilnego\nSygnatura: II SAB/W
  a 576/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynnoś
  ć w przedmiocie rozpoznania wniosku z 12.01.2015 r. o udzielenie inf.publ
- .\nSklad: ['Stanisław Marek Pietras (spr.)'\, 'Sławomir Antoniuk'\, 'And
- rzej Kołodziej']\nTermin: 2015-08-19 09:00\n\n['Stwierdzono\, iż bezczyn
- ność nie miała miejsca z rażącym naruszeniem prawa i w pozostałym za
- kresie umorzono postępowanie'\, 'Zasądzono zwrot kosztów postępowania'
- ]
+ .\nSala: Sala F\nSklad: ['Stanisław Marek Pietras (spr.)'\, 'Sławomir An
+ toniuk'\, 'Andrzej Kołodziej']\nTermin: 2015-08-19 09:00\n\n['Stwierdzono
+ \, iż bezczynność nie miała miejsca z rażącym naruszeniem prawa i w 
+ pozostałym zakresie umorzono postępowanie'\, 'Zasądzono zwrot kosztów 
+ postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -202,9 +163,9 @@ SUMMARY:Prezydent m.st. Warszawy - II SAB/Wa 613/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150819T092000
 DESCRIPTION:Organ: Prezydent m.st. Warszawy\nSygnatura: II SAB/Wa 613/15\n
  Symbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w sprawi
- e wniosku o udost.inf.publ. z dn.05.03.2015 r.\nSklad: ['Stanisław Marek 
- Pietras'\, 'Sławomir Antoniuk'\, 'Andrzej Kołodziej (spr.)']\nTermin: 20
- 15-08-19 09:20\n\n['Oddalono skargę']
+ e wniosku o udost.inf.publ. z dn.05.03.2015 r.\nSala: Sala F\nSklad: ['Sta
+ nisław Marek Pietras'\, 'Sławomir Antoniuk'\, 'Andrzej Kołodziej (spr.)
+ ']\nTermin: 2015-08-19 09:20\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -214,9 +175,9 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150819T094000
 DESCRIPTION:Organ: Prokurator Rejonowy Warszawa Praga-Południe w Warszawi
  e\nSygnatura: II SAB/Wa 569/15\nSymbole: 658/648 - Bezczynność organu\nP
  rzedmiot: bezczynność w przedmiocie rozpatrzenia wniosku z dn. 06.02.201
- 5 r. o udost.inf.publ.\nSklad: ['Stanisław Marek Pietras'\, 'Sławomir An
- toniuk (spr.)'\, 'Andrzej Kołodziej']\nTermin: 2015-08-19 09:40\n\n['Odda
- lono skargę']
+ 5 r. o udost.inf.publ.\nSala: Sala F\nSklad: ['Stanisław Marek Pietras'\,
+  'Sławomir Antoniuk (spr.)'\, 'Andrzej Kołodziej']\nTermin: 2015-08-19 0
+ 9:40\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -224,11 +185,11 @@ SUMMARY:Orange Polska S.A. z/s w Warszawie - II SAB/Wa 733/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150819T100000
 DESCRIPTION:Organ: Orange Polska S.A. z/s w Warszawie\nSygnatura: II SAB/W
  a 733/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynnoś
- ć w przedmiocie dostępu do informacji publicznej\nSklad: ['Stanisław Ma
- rek Pietras (spr.)'\, 'Sławomir Antoniuk'\, 'Andrzej Kołodziej']\nTermin
- : 2015-08-19 10:00\n\n['Zobowiązano ... i stwierdzono\, że bezczynność
-  miała miejsce bez rażącego naruszenia prawa'\, 'Oddalono skargę w cz
- ęści'\, 'Zasądzono zwrot kosztów postępowania']
+ ć w przedmiocie dostępu do informacji publicznej\nSala: Sala F\nSklad: [
+ 'Stanisław Marek Pietras (spr.)'\, 'Sławomir Antoniuk'\, 'Andrzej Kołod
+ ziej']\nTermin: 2015-08-19 10:00\n\n['Zobowiązano ... i stwierdzono\, że
+  bezczynność miała miejsce bez rażącego naruszenia prawa'\, 'Oddalono
+  skargę w części'\, 'Zasądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -236,22 +197,22 @@ SUMMARY:Komendant Główny Policji - II SA/Wa 634/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150819T102000
 DESCRIPTION:Organ: Komendant Główny Policji\nSygnatura: II SA/Wa 634/15\
  nSymbole: 648 - Informacja publiczna\nPrzedmiot: dostęp do informacji pub
- licznej\nSklad: ['Stanisław Marek Pietras'\, 'Sławomir Antoniuk'\, 'Andr
- zej Kołodziej (spr.)']\nTermin: 2015-08-19 10:20\n\n['Uchylono zaskarżon
- ą decyzję i poprzedzającą ją decyzję'\, 'Stwierdzono\, że zaskarżo
- na decyzja nie może być wykonana w całości'\, 'Zasądzono zwrot koszt
- ów postępowania']
+ licznej\nSala: Sala F\nSklad: ['Stanisław Marek Pietras'\, 'Sławomir Ant
+ oniuk'\, 'Andrzej Kołodziej (spr.)']\nTermin: 2015-08-19 10:20\n\n['Uchyl
+ ono zaskarżoną decyzję i poprzedzającą ją decyzję'\, 'Stwierdzono\,
+  że zaskarżona decyzja nie może być wykonana w całości'\, 'Zasądzon
+ o zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Prezes Sądu Okręgowego - II SA/Wa 334/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150819T130000
 DESCRIPTION:Organ: Prezes Sądu Okręgowego\nSygnatura: II SA/Wa 334/15\nS
- ymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSklad
- : ['Adam Lipiński'\, 'Sławomir Antoniuk (spr.)'\, 'Andrzej Kołodziej']\
- nTermin: 2015-08-19 13:00\n\n['Uchylono zaskarżoną decyzję'\, 'Stwierdz
- ono\, że zaskarżona decyzja nie może być wykonana w całości'\, 'Zas
- ądzono zwrot kosztów postępowania']
+ ymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSala:
+  Sala F\nSklad: ['Adam Lipiński'\, 'Sławomir Antoniuk (spr.)'\, 'Andrzej
+  Kołodziej']\nTermin: 2015-08-19 13:00\n\n['Uchylono zaskarżoną decyzj
+ ę'\, 'Stwierdzono\, że zaskarżona decyzja nie może być wykonana w ca
+ łości'\, 'Zasądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -259,11 +220,11 @@ SUMMARY:Wójt Gminy Młynarze - II SAB/Wa 565/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150819T132000
 DESCRIPTION:Organ: Wójt Gminy Młynarze\nSygnatura: II SAB/Wa 565/15\nSym
  bole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmioc
- ie rozpoznania wniosku z dnia 20.08.2014 r. o udost.inf.publ.\nSklad: ['Ad
- am Lipiński (spr.)'\, 'Sławomir Antoniuk'\, 'Andrzej Kołodziej']\nTermi
- n: 2015-08-19 13:20\n\n['Stwierdzono\, iż bezczynność nie miała miejsc
- a z rażącym naruszeniem prawa i w pozostałym zakresie umorzono postępo
- wanie'\, 'Zasądzono zwrot kosztów postępowania']
+ ie rozpoznania wniosku z dnia 20.08.2014 r. o udost.inf.publ.\nSala: Sala 
+ F\nSklad: ['Adam Lipiński (spr.)'\, 'Sławomir Antoniuk'\, 'Andrzej Koło
+ dziej']\nTermin: 2015-08-19 13:20\n\n['Stwierdzono\, iż bezczynność nie
+  miała miejsca z rażącym naruszeniem prawa i w pozostałym zakresie umo
+ rzono postępowanie'\, 'Zasądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -271,11 +232,11 @@ SUMMARY:Wójt Gminy Bodzanów - II SAB/Wa 600/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150819T134000
 DESCRIPTION:Organ: Wójt Gminy Bodzanów\nSygnatura: II SAB/Wa 600/15\nSym
  bole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w sprawie w
- niosku o udost.inf.publ. z 20.08.2014 r.\nSklad: ['Adam Lipiński (spr.)'\
- , 'Sławomir Antoniuk'\, 'Andrzej Kołodziej']\nTermin: 2015-08-19 13:40\n
- \n['Stwierdzono\, iż bezczynność nie miała miejsca z rażącym narusze
- niem prawa i w pozostałym zakresie umorzono postępowanie'\, 'Zasądzono 
- zwrot kosztów postępowania']
+ niosku o udost.inf.publ. z 20.08.2014 r.\nSala: Sala F\nSklad: ['Adam Lipi
+ ński (spr.)'\, 'Sławomir Antoniuk'\, 'Andrzej Kołodziej']\nTermin: 2015
+ -08-19 13:40\n\n['Stwierdzono\, iż bezczynność nie miała miejsca z ra
+ żącym naruszeniem prawa i w pozostałym zakresie umorzono postępowanie'
+ \, 'Zasądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -284,10 +245,10 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150820T090000
 DESCRIPTION:Organ: Okręgowa Rada Adwokacka w Warszawie\nSygnatura: II SAB
  /Wa 592/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynno
  ść w sprawie rozpoznania wniosku z dn.13.01.2015 r. o udziel.inf.publ.\n
- Sklad: ['Danuta Kania'\, 'Iwona Dąbrowska'\, 'Iwona Maciejuk (spr.)']\nTe
- rmin: 2015-08-20 09:00\n\n['Zobowiązano ... i stwierdzono\, że bezczynno
- ść miała miejsce bez rażącego naruszenia prawa'\, 'Zasądzono zwrot k
- osztów postępowania']
+ Sala: Sala F\nSklad: ['Danuta Kania'\, 'Iwona Dąbrowska'\, 'Iwona Macieju
+ k (spr.)']\nTermin: 2015-08-20 09:00\n\n['Zobowiązano ... i stwierdzono\,
+  że bezczynność miała miejsce bez rażącego naruszenia prawa'\, 'Zas
+ ądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -295,10 +256,10 @@ SUMMARY:Burmistrz Miasta Radzymin - II SAB/Wa 572/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150820T093000
 DESCRIPTION:Organ: Burmistrz Miasta Radzymin\nSygnatura: II SAB/Wa 572/15\
  nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przed
- miocie rozpatrzenia wniosku z dnia 30.01.2015 r. o udost.inf.publ.\nSklad:
-  ['Danuta Kania (spr.)'\, 'Iwona Dąbrowska'\, 'Iwona Maciejuk']\nTermin: 
- 2015-08-20 09:30\n\n['Umorzono postępowanie z art. 161 ustawy -PoPPSA'\, 
- 'Zwrócono  wpis']
+ miocie rozpatrzenia wniosku z dnia 30.01.2015 r. o udost.inf.publ.\nSala: 
+ Sala F\nSklad: ['Danuta Kania (spr.)'\, 'Iwona Dąbrowska'\, 'Iwona Maciej
+ uk']\nTermin: 2015-08-20 09:30\n\n['Umorzono postępowanie z art. 161 usta
+ wy -PoPPSA'\, 'Zwrócono  wpis']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -306,8 +267,8 @@ SUMMARY:Prokurator Okręgowy w Warszawie - II SAB/Wa 284/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150820T100000
 DESCRIPTION:Organ: Prokurator Okręgowy w Warszawie\nSygnatura: II SAB/Wa 
  284/15\nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\nPr
- zedmiot: \nSklad: ['Danuta Kania'\, 'Iwona Dąbrowska (spr.)'\, 'Iwona Mac
- iejuk']\nTermin: 2015-08-20 10:00\n\n['Oddalono skargę']
+ zedmiot: \nSala: Sala F\nSklad: ['Danuta Kania'\, 'Iwona Dąbrowska (spr.)
+ '\, 'Iwona Maciejuk']\nTermin: 2015-08-20 10:00\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -315,8 +276,8 @@ SUMMARY:Minister Obrony Narodowej - II SAB/Wa 772/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150820T105000
 DESCRIPTION:Organ: Minister Obrony Narodowej\nSygnatura: II SAB/Wa 772/15\
  nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\nPrzedmiot
- : \nSklad: ['Danuta Kania'\, 'Iwona Dąbrowska'\, 'Iwona Maciejuk (spr.)']
- \nTermin: 2015-08-20 10:50\n\n['Zdjęto z wokandy']
+ : \nSala: Sala F\nSklad: ['Danuta Kania'\, 'Iwona Dąbrowska'\, 'Iwona Mac
+ iejuk (spr.)']\nTermin: 2015-08-20 10:50\n\n['Zdjęto z wokandy']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -324,10 +285,11 @@ SUMMARY:Inspektorat Uzbrojenia - II SAB/Wa 291/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150825T090000
 DESCRIPTION:Organ: Inspektorat Uzbrojenia\nSygnatura: II SAB/Wa 291/15\nSy
  mbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w sprawie 
- wniosku o udost.inf.publ. z 24.09.14\nSklad: ['Ewa Pisula-Dąbrowska (spr.
- )'\, 'Anna Mierzejewska'\, 'Stanisław Marek Pietras']\nTermin: 2015-08-25
-  09:00\n\n['Stwierdzono\, iż bezczynność nie miała miejsca z rażącym
-  naruszeniem prawa i w pozostałym zakresie umorzono postępowanie']
+ wniosku o udost.inf.publ. z 24.09.14\nSala: Sala F\nSklad: ['Ewa Pisula-D
+ ąbrowska (spr.)'\, 'Anna Mierzejewska'\, 'Stanisław Marek Pietras']\nTer
+ min: 2015-08-25 09:00\n\n['Stwierdzono\, iż bezczynność nie miała miej
+ sca z rażącym naruszeniem prawa i w pozostałym zakresie umorzono postę
+ powanie']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -335,10 +297,11 @@ SUMMARY:Inspektorat Uzbrojenia - II SAB/Wa 292/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150825T092000
 DESCRIPTION:Organ: Inspektorat Uzbrojenia\nSygnatura: II SAB/Wa 292/15\nSy
  mbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w sprawie 
- wniosku o udost.inf.publ. z 12.11.14\nSklad: ['Ewa Pisula-Dąbrowska (spr.
- )'\, 'Anna Mierzejewska'\, 'Stanisław Marek Pietras']\nTermin: 2015-08-25
-  09:20\n\n['Stwierdzono\, iż bezczynność nie miała miejsca z rażącym
-  naruszeniem prawa i w pozostałym zakresie umorzono postępowanie']
+ wniosku o udost.inf.publ. z 12.11.14\nSala: Sala F\nSklad: ['Ewa Pisula-D
+ ąbrowska (spr.)'\, 'Anna Mierzejewska'\, 'Stanisław Marek Pietras']\nTer
+ min: 2015-08-25 09:20\n\n['Stwierdzono\, iż bezczynność nie miała miej
+ sca z rażącym naruszeniem prawa i w pozostałym zakresie umorzono postę
+ powanie']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -347,10 +310,10 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150825T110000
 DESCRIPTION:Organ: Orange Polska S.A. z/s w Warszawie\nSygnatura: II SAB/W
  a 734/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynnoś
  ć w przedmiocie dostępu do informacji publicznej objętej wnioskiem z 29
- .01.2014 r.\nSklad: ['Ewa Pisula-Dąbrowska'\, 'Anna Mierzejewska (spr.)'\
- , 'Stanisław Marek Pietras']\nTermin: 2015-08-25 11:00\n\n['Zobowiązano 
- ... i stwierdzono\, że bezczynność miała miejsce bez rażącego narusz
- enia prawa'\, 'Zasądzono zwrot kosztów postępowania']
+ .01.2014 r.\nSala: Sala F\nSklad: ['Ewa Pisula-Dąbrowska'\, 'Anna Mierzej
+ ewska (spr.)'\, 'Stanisław Marek Pietras']\nTermin: 2015-08-25 11:00\n\n[
+ 'Zobowiązano ... i stwierdzono\, że bezczynność miała miejsce bez ra
+ żącego naruszenia prawa'\, 'Zasądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -358,9 +321,19 @@ SUMMARY:Minister Gospodarki - II SAB/Wa 612/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150825T142000
 DESCRIPTION:Organ: Minister Gospodarki\nSygnatura: II SAB/Wa 612/15\nSymbo
  le: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w sprawie wni
- osku o udost.inf.publ. z 19.12.2012 r.\nSklad: ['Adam Lipiński (spr.)'\, 
- 'Anna Mierzejewska'\, 'Stanisław Marek Pietras']\nTermin: 2015-08-25 14:2
- 0\n\n['Odrzucono skargę']
+ osku o udost.inf.publ. z 19.12.2012 r.\nSala: Sala F\nSklad: ['Adam Lipiń
+ ski (spr.)'\, 'Anna Mierzejewska'\, 'Stanisław Marek Pietras']\nTermin: 2
+ 015-08-25 14:20\n\n['Odrzucono skargę']
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wójt Gminy Klembów - II SAB/Wa 779/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150826T000000
+DESCRIPTION:Organ: Wójt Gminy Klembów\nSygnatura: II SAB/Wa 779/15\nSymb
+ ole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmioci
+ e rozpoznania wniosku z 23.02.2015 r. o udziel.inf.publ.\nSala: Sala PR\nS
+ klad: ['Ewa Kwiecińska (spr.)']\nTermin: 2015-08-26 \n\n['Stwierdzono pra
+ womocność orzeczenia']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -368,20 +341,20 @@ SUMMARY:Centrum Usług Wspólnych - II SAB/Wa 761/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150826T090000
 DESCRIPTION:Organ: Centrum Usług Wspólnych\nSygnatura: II SAB/Wa 761/15\
  nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w zakre
- sie rozpoznania wniosku z dnia 03.06.2014 r. o udost.inf.publ.\nSklad: ['I
- wona Maciejuk (spr.)'\, 'Ewa Grochowska-Jung'\, 'Ewa Pisula-Dąbrowska']\n
- Termin: 2015-08-26 09:00\n\n['Zobowiązano ... i stwierdzono\, że bezczyn
- ność miała miejsce bez rażącego naruszenia prawa'\, 'Zasądzono zwrot
-  kosztów postępowania']
+ sie rozpoznania wniosku z dnia 03.06.2014 r. o udost.inf.publ.\nSala: Sala
+  F\nSklad: ['Iwona Maciejuk (spr.)'\, 'Ewa Grochowska-Jung'\, 'Ewa Pisula-
+ Dąbrowska']\nTermin: 2015-08-26 09:00\n\n['Zobowiązano ... i stwierdzono
+ \, że bezczynność miała miejsce bez rażącego naruszenia prawa'\, 'Za
+ sądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SKO w Warszawie - II SA/Wa 559/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150826T092000
 DESCRIPTION:Organ: SKO w Warszawie\nSygnatura: II SA/Wa 559/15\nSymbole: 6
- 48 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSklad: ['Iwona
-  Maciejuk'\, 'Ewa Grochowska-Jung'\, 'Ewa Pisula-Dąbrowska (spr.)']\nTerm
- in: 2015-08-26 09:20\n\n['Oddalono skargę']
+ 48 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSala: Sala F\n
+ Sklad: ['Iwona Maciejuk'\, 'Ewa Grochowska-Jung'\, 'Ewa Pisula-Dąbrowska 
+ (spr.)']\nTermin: 2015-08-26 09:20\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -389,9 +362,9 @@ SUMMARY:Starosta Powiatu Wołomińskiego - II SAB/Wa 1062/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150826T100000
 DESCRIPTION:Organ: Starosta Powiatu Wołomińskiego\nSygnatura: II SAB/Wa 
  1062/14\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność
-  w sprawie wniosku o udost.inf.publ. z dn. 24.10.2014 r.\nSklad: ['Iwona M
- aciejuk'\, 'Ewa Grochowska-Jung'\, 'Ewa Pisula-Dąbrowska (spr.)']\nTermin
- : 2015-08-26 10:00\n\n['Oddalono skargę']
+  w sprawie wniosku o udost.inf.publ. z dn. 24.10.2014 r.\nSala: Sala F\nSk
+ lad: ['Iwona Maciejuk'\, 'Ewa Grochowska-Jung'\, 'Ewa Pisula-Dąbrowska (s
+ pr.)']\nTermin: 2015-08-26 10:00\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -399,9 +372,9 @@ SUMMARY:Prezydent Miasta Otwocka - II SAB/Wa 620/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150826T124000
 DESCRIPTION:Organ: Prezydent Miasta Otwocka\nSygnatura: II SAB/Wa 620/15\n
  Symbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedm
- iocie rozpoznania wniosku z dn. 26.02.2015 r. o udziel.inf.publ.\nSklad: [
- 'Iwona Maciejuk (spr.)'\, 'Ewa Grochowska-Jung'\, 'Ewa Pisula-Dąbrowska']
- \nTermin: 2015-08-26 12:40\n\n['Oddalono skargę']
+ iocie rozpoznania wniosku z dn. 26.02.2015 r. o udziel.inf.publ.\nSala: Sa
+ la F\nSklad: ['Iwona Maciejuk (spr.)'\, 'Ewa Grochowska-Jung'\, 'Ewa Pisul
+ a-Dąbrowska']\nTermin: 2015-08-26 12:40\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -410,8 +383,8 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150826T130000
 DESCRIPTION:Organ: Prezydent Miasta Otwocka\nSygnatura: II SAB/Wa 740/15\n
  Symbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w sprawi
  e wniosku o udostępnienie informacji publicznej z dnia 26 marca 2015 r.\n
- Sklad: ['Iwona Maciejuk'\, 'Ewa Grochowska-Jung (spr.)'\, 'Ewa Pisula-Dąb
- rowska']\nTermin: 2015-08-26 13:00\n\n['Oddalono skargę']
+ Sala: Sala F\nSklad: ['Iwona Maciejuk'\, 'Ewa Grochowska-Jung (spr.)'\, 'E
+ wa Pisula-Dąbrowska']\nTermin: 2015-08-26 13:00\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -421,11 +394,11 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150826T140000
 DESCRIPTION:Organ: Przewodniczący Zespołu ds. wyjaśniania opinii publ. 
  treści inf. i mat. dot. katastrofy lotn.10.04.10\nSygnatura: II SAB/Wa 71
  7/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w 
- sprawie rozpoznania wniosku z 27.07.2014 r. o udost.inf.publ.\nSklad: ['Iw
- ona Maciejuk'\, 'Ewa Grochowska-Jung (spr.)'\, 'Ewa Pisula-Dąbrowska']\nT
- ermin: 2015-08-26 14:00\n\n['Zobowiązano ... i stwierdzono\, że bezczynn
- ość miała miejsce bez rażącego naruszenia prawa'\, 'Zasądzono zwrot 
- kosztów postępowania']
+ sprawie rozpoznania wniosku z 27.07.2014 r. o udost.inf.publ.\nSala: Sala 
+ F\nSklad: ['Iwona Maciejuk'\, 'Ewa Grochowska-Jung (spr.)'\, 'Ewa Pisula-D
+ ąbrowska']\nTermin: 2015-08-26 14:00\n\n['Zobowiązano ... i stwierdzono\
+ , że bezczynność miała miejsce bez rażącego naruszenia prawa'\, 'Zas
+ ądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -433,9 +406,11 @@ SUMMARY:Burmistrz Gminy Różan - II SAB/Wa 605/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150827T090000
 DESCRIPTION:Organ: Burmistrz Gminy Różan\nSygnatura: II SAB/Wa 605/15\nS
  ymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w sprawie
-  rozpoznania wniosku z 24.07.2014r. o udziel.inf.publ.\nSklad: ['Sławomir
-  Antoniuk (spr.)'\, 'Andrzej Kołodziej'\, 'Adam Lipiński']\nTermin: 2015
- -08-27 09:00\n\n[]
+  rozpoznania wniosku z 24.07.2014r. o udziel.inf.publ.\nSala: Sala F\nSkla
+ d: ['Sławomir Antoniuk (spr.)'\, 'Andrzej Kołodziej'\, 'Adam Lipiński']
+ \nTermin: 2015-08-27 09:00\n\n['Stwierdzono\, iż bezczynność nie miała
+  miejsca z rażącym naruszeniem prawa i w pozostałym zakresie umorzono p
+ ostępowanie'\, 'Zasądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -444,8 +419,9 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150827T092000
 DESCRIPTION:Organ: Minister Kultury i Dziedzictwa Narodowego\nSygnatura: I
  I SAB/Wa 696/15\nSymbole: 659/648 - Informacja publiczna\nPrzedmiot: przew
  lekłość postępowania w przedmiocie rozpoznania zażalenia z dn. 25.04.
- 2014 r.\nSklad: ['Sławomir Antoniuk'\, 'Andrzej Kołodziej (spr.)'\, 'Ada
- m Lipiński']\nTermin: 2015-08-27 09:20\n\n[]
+ 2014 r.\nSala: Sala F\nSklad: ['Sławomir Antoniuk'\, 'Andrzej Kołodziej 
+ (spr.)'\, 'Adam Lipiński']\nTermin: 2015-08-27 09:20\n\n['Odrzucono skarg
+ ę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -455,9 +431,11 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150827T105000
 DESCRIPTION:Organ: Dyrektor Instytutu Badań Edukacyjnych w Warszawie\nSyg
  natura: II SAB/Wa 747/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmi
  ot: bezczynność w sprawie rozpoznania wniosku z dnia 19 czerwca 2013 r. 
-  o udostepnienie informacji publicznej\nSklad: ['Sławomir Antoniuk'\, 'An
- drzej Kołodziej (spr.)'\, 'Adam Lipiński']\nTermin: 2015-08-27 10:50\n\n
- []
+  o udostepnienie informacji publicznej\nSala: Sala F\nSklad: ['Sławomir A
+ ntoniuk'\, 'Andrzej Kołodziej (spr.)'\, 'Adam Lipiński']\nTermin: 2015-0
+ 8-27 10:50\n\n['Stwierdzono\, iż bezczynność miała miejsce z rażącym
+  naruszeniem prawa i w pozostałym zakresie umorzono postępowanie'\, 'Zas
+ ądzono zwrot kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -467,8 +445,8 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150902T100000
 DESCRIPTION:Organ: Prezes Sądu Rejonowego dla Warszawy - Śródmieście\n
  Sygnatura: II SAB/Wa 641/15\nSymbole: 658/648 - Informacja publiczna\nPrze
  dmiot: bezczynność w sprawie wniosku o udost.inf.publ. z 09.07.2013 r. i
-  06.08.2013 r.\nSklad: ['Ewa Grochowska-Jung'\, 'Adam Lipiński'\, 'Stanis
- ław Marek Pietras (spr.)']\nTermin: 2015-09-02 10:00\n\n[]
+  06.08.2013 r.\nSala: Sala F\nSklad: ['Ewa Grochowska-Jung'\, 'Adam Lipiń
+ ski'\, 'Stanisław Marek Pietras (spr.)']\nTermin: 2015-09-02 10:00\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -476,9 +454,9 @@ SUMMARY:Prezes Krajowego Zarządu Gospodarki Wodnej - II SAB/Wa 577/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150902T124000
 DESCRIPTION:Organ: Prezes Krajowego Zarządu Gospodarki Wodnej\nSygnatura:
   II SAB/Wa 577/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bez
- czynność w sprawie wniosku o udost.inf.publ. z dn. 15.01.2015 r.\nSklad:
-  ['Ewa Pisula-Dąbrowska (spr.)'\, 'Adam Lipiński'\, 'Stanisław Marek Pi
- etras']\nTermin: 2015-09-02 12:40\n\n[]
+ czynność w sprawie wniosku o udost.inf.publ. z dn. 15.01.2015 r.\nSala: 
+ Sala F\nSklad: ['Ewa Pisula-Dąbrowska (spr.)'\, 'Adam Lipiński'\, 'Stani
+ sław Marek Pietras']\nTermin: 2015-09-02 12:40\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -487,8 +465,8 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150903T092000
 DESCRIPTION:Organ: Komendant Główny Straży Granicznej\nSygnatura: II SA
  B/Wa 632/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynno
  ść w przedmiocie rozpoznania wniosku z 03.03.2015 r. o udost.inf.publ.\n
- Sklad: ['Sławomir Antoniuk (spr.)'\, 'Andrzej Kołodziej'\, 'Iwona Maciej
- uk']\nTermin: 2015-09-03 09:20\n\n[]
+ Sala: Sala F\nSklad: ['Sławomir Antoniuk (spr.)'\, 'Andrzej Kołodziej'\,
+  'Iwona Maciejuk']\nTermin: 2015-09-03 09:20\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -497,9 +475,9 @@ SUMMARY:Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m. st. Warsz
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150903T100000
 DESCRIPTION:Organ: Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m
  . st. Warszawy\nSygnatura: II SA/Wa 815/15\nSymbole: 648 - Informacja publ
- iczna\nPrzedmiot: Informacja publiczna\nSklad: ['Sławomir Antoniuk'\, 'An
- drzej Kołodziej (spr.)'\, 'Iwona Maciejuk']\nTermin: 2015-09-03 10:00\n\n
- []
+ iczna\nPrzedmiot: Informacja publiczna\nSala: Sala F\nSklad: ['Sławomir A
+ ntoniuk'\, 'Andrzej Kołodziej (spr.)'\, 'Iwona Maciejuk']\nTermin: 2015-0
+ 9-03 10:00\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -507,18 +485,18 @@ SUMMARY:Państwowa Komisja Wyborcza - II SAB/Wa 286/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150903T102000
 DESCRIPTION:Organ: Państwowa Komisja Wyborcza\nSygnatura: II SAB/Wa 286/1
  5\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w prz
- edmiocie rozpoznania wniosku z 10.12.2014 o udost.inf.publ.\nSklad: ['Sła
- womir Antoniuk (spr.)'\, 'Andrzej Kołodziej'\, 'Iwona Maciejuk']\nTermin:
-  2015-09-03 10:20\n\n[]
+ edmiocie rozpoznania wniosku z 10.12.2014 o udost.inf.publ.\nSala: Sala F\
+ nSklad: ['Sławomir Antoniuk (spr.)'\, 'Andrzej Kołodziej'\, 'Iwona Macie
+ juk']\nTermin: 2015-09-03 10:20\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SKO w Warszawie - II SA/Wa 326/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150911T093000
 DESCRIPTION:Organ: SKO w Warszawie\nSygnatura: II SA/Wa 326/15\nSymbole: 6
- 48 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSklad: ['Ewa M
- arcinkowska'\, 'Janusz Walawski (spr.)'\, 'Olga Żurawska-Matusiak']\nTerm
- in: 2015-09-11 09:30\n\n[]
+ 48 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSala: Sala F\n
+ Sklad: ['Ewa Marcinkowska'\, 'Janusz Walawski (spr.)'\, 'Olga Żurawska-Ma
+ tusiak']\nTermin: 2015-09-11 09:30\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -527,8 +505,8 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150911T103000
 DESCRIPTION:Organ: Instytut Gruźlicy i Chorób Płuc w Warszawie\nSygnatu
  ra: II SAB/Wa 586/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: 
  bezczynność w przedmiocie rozpoznania wniosku z dn.02.02.2015 r. o udost
- .inf.publ.\nSklad: ['Ewa Marcinkowska'\, 'Janusz Walawski (spr.)'\, 'Olga 
- Żurawska-Matusiak']\nTermin: 2015-09-11 10:30\n\n[]
+ .inf.publ.\nSala: Sala F\nSklad: ['Ewa Marcinkowska'\, 'Janusz Walawski (s
+ pr.)'\, 'Olga Żurawska-Matusiak']\nTermin: 2015-09-11 10:30\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -536,9 +514,9 @@ SUMMARY:Polski Związek Piłki Siatkowej - II SAB/Wa 615/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150916T100000
 DESCRIPTION:Organ: Polski Związek Piłki Siatkowej\nSygnatura: II SAB/Wa 
  615/15\nSymbole: 658/648 - Bezczynność organu\nPrzedmiot: bezczynność 
- w przedmiocie rozpoznania wniosku z dn.21.01.2015 r. o udost.inf.publ.\nSk
- lad: ['Janusz Walawski (spr.)'\, 'Sławomir Antoniuk'\, 'Olga Żurawska-Ma
- tusiak']\nTermin: 2015-09-16 10:00\n\n[]
+ w przedmiocie rozpoznania wniosku z dn.21.01.2015 r. o udost.inf.publ.\nSa
+ la: Sala F\nSklad: ['Janusz Walawski (spr.)'\, 'Sławomir Antoniuk'\, 'Olg
+ a Żurawska-Matusiak']\nTermin: 2015-09-16 10:00\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -546,8 +524,9 @@ SUMMARY:Wójt Gminy Poświętne - II SAB/Wa 782/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150917T094000
 DESCRIPTION:Organ: Wójt Gminy Poświętne\nSygnatura: II SAB/Wa 782/15\nS
  ymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedmi
- ocie dostępu do informacji publ.\nSklad: ['Iwona Maciejuk'\, 'Andrzej Gó
- raj (spr.)'\, 'Andrzej Kołodziej']\nTermin: 2015-09-17 09:40\n\n[]
+ ocie dostępu do informacji publ.\nSala: Sala F\nSklad: ['Iwona Maciejuk'\
+ , 'Andrzej Góraj (spr.)'\, 'Andrzej Kołodziej']\nTermin: 2015-09-17 09:4
+ 0\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -557,8 +536,8 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150917T134000
 DESCRIPTION:Organ: Zarząd Okręgowy Polskiego Związku Łowieckiego w War
  szawie\nSygnatura: II SAB/Wa 1021/14\nSymbole: 658/648 - Bezczynność org
  anu\nPrzedmiot: bezczynność w sprawie wniosku o udost.inf.publ. z 07.10.
- 2014 r.\nSklad: ['Iwona Maciejuk'\, 'Andrzej Góraj (spr.)'\, 'Andrzej Ko
- łodziej']\nTermin: 2015-09-17 13:40\n\n[]
+ 2014 r.\nSala: Sala F\nSklad: ['Iwona Maciejuk'\, 'Andrzej Góraj (spr.)'\
+ , 'Andrzej Kołodziej']\nTermin: 2015-09-17 13:40\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -566,8 +545,9 @@ SUMMARY:Zarząd Główny Polskiego Związku Łowieckiego - II SA/Wa 612/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150922T110000
 DESCRIPTION:Organ: Zarząd Główny Polskiego Związku Łowieckiego\nSygna
  tura: II SA/Wa 612/15\nSymbole: 644/648 - Informacja publiczna\nPrzedmiot:
-  Informacja publiczna\nSklad: ['Olga Żurawska-Matusiak (spr.)'\, 'Sławom
- ir Antoniuk'\, 'Iwona Maciejuk']\nTermin: 2015-09-22 11:00\n\n[]
+  Informacja publiczna\nSala: Sala F\nSklad: ['Olga Żurawska-Matusiak (spr
+ .)'\, 'Sławomir Antoniuk'\, 'Iwona Maciejuk']\nTermin: 2015-09-22 11:00\n
+ \n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -576,8 +556,8 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150922T124000
 DESCRIPTION:Organ: Starosta Powiatu Wołomińskiego\nSygnatura: II SAB/Wa 
  300/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność 
  w przedmiocie rozpoznania wniosku z dn. 24.10.2014 r. o udziel.inf.publ.\n
- Sklad: ['Olga Żurawska-Matusiak'\, 'Sławomir Antoniuk (spr.)'\, 'Iwona M
- aciejuk']\nTermin: 2015-09-22 12:40\n\n[]
+ Sala: Sala F\nSklad: ['Olga Żurawska-Matusiak'\, 'Sławomir Antoniuk (spr
+ .)'\, 'Iwona Maciejuk']\nTermin: 2015-09-22 12:40\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -585,8 +565,9 @@ SUMMARY:Minister Nauki i Szkolnictwa Wyższego - II SA/Wa 799/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150922T130000
 DESCRIPTION:Organ: Minister Nauki i Szkolnictwa Wyższego\nSygnatura: II S
  A/Wa 799/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: odmowa udost
- ępnienia informacji publicznej\nSklad: ['Olga Żurawska-Matusiak'\, 'Sła
- womir Antoniuk'\, 'Iwona Maciejuk (spr.)']\nTermin: 2015-09-22 13:00\n\n[]
+ ępnienia informacji publicznej\nSala: Sala F\nSklad: ['Olga Żurawska-Mat
+ usiak'\, 'Sławomir Antoniuk'\, 'Iwona Maciejuk (spr.)']\nTermin: 2015-09-
+ 22 13:00\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -594,18 +575,18 @@ SUMMARY:Państwowa Komisja Wyborcza - II SAB/Wa 721/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150923T094000
 DESCRIPTION:Organ: Państwowa Komisja Wyborcza\nSygnatura: II SAB/Wa 721/1
  5\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w prz
- edmiocie rozpoznania wniosku z dnia 09.04.2015 r. o udziel.inf.publ.\nSkla
- d: ['Adam Lipiński (spr.)'\, 'Andrzej Góraj'\, 'Anna Mierzejewska']\nTer
- min: 2015-09-23 09:40\n\n[]
+ edmiocie rozpoznania wniosku z dnia 09.04.2015 r. o udziel.inf.publ.\nSala
+ : Sala F\nSklad: ['Adam Lipiński (spr.)'\, 'Andrzej Góraj'\, 'Anna Mierz
+ ejewska']\nTermin: 2015-09-23 09:40\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Szef Sztabu Generalnego WP - II SA/Wa 870/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150923T102000
 DESCRIPTION:Organ: Szef Sztabu Generalnego WP\nSygnatura: II SA/Wa 870/15\
- nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSkl
- ad: ['Adam Lipiński (spr.)'\, 'Andrzej Góraj'\, 'Anna Mierzejewska']\nTe
- rmin: 2015-09-23 10:20\n\n[]
+ nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSal
+ a: Sala F\nSklad: ['Adam Lipiński (spr.)'\, 'Andrzej Góraj'\, 'Anna Mier
+ zejewska']\nTermin: 2015-09-23 10:20\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -613,9 +594,9 @@ SUMMARY:Wójt Gminy Brudzeń Duży - II SAB/Wa 1117/14
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150923T125000
 DESCRIPTION:Organ: Wójt Gminy Brudzeń Duży\nSygnatura: II SAB/Wa 1117/1
  4\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w spr
- awie wniosku o udost.inf.publ. z 21.10.2014\nSklad: ['Adam Lipiński'\, 'A
- ndrzej Góraj (spr.)'\, 'Anna Mierzejewska']\nTermin: 2015-09-23 12:50\n\n
- []
+ awie wniosku o udost.inf.publ. z 21.10.2014\nSala: Sala F\nSklad: ['Adam L
+ ipiński'\, 'Andrzej Góraj (spr.)'\, 'Anna Mierzejewska']\nTermin: 2015-0
+ 9-23 12:50\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -623,9 +604,9 @@ SUMMARY:Komendant Główny Policji - II SAB/Wa 701/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150924T090000
 DESCRIPTION:Organ: Komendant Główny Policji\nSygnatura: II SAB/Wa 701/15
  \nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w prze
- dmiocie rozpoznania wniosku z dnia 18.04.2012 r. o udost.inf.publ.\nSklad:
-  ['Andrzej Kołodziej (spr.)'\, 'Ewa Marcinkowska'\, 'Ewa Pisula-Dąbrowsk
- a']\nTermin: 2015-09-24 09:00\n\n[]
+ dmiocie rozpoznania wniosku z dnia 18.04.2012 r. o udost.inf.publ.\nSala: 
+ Sala F\nSklad: ['Andrzej Kołodziej (spr.)'\, 'Ewa Marcinkowska'\, 'Ewa Pi
+ sula-Dąbrowska']\nTermin: 2015-09-24 09:00\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -633,8 +614,59 @@ SUMMARY:Komendant Główny Policji - II SAB/Wa 713/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150924T092000
 DESCRIPTION:Organ: Komendant Główny Policji\nSygnatura: II SAB/Wa 713/15
  \nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: dostęp do informacj
- i publicznej\nSklad: ['Andrzej Kołodziej'\, 'Ewa Marcinkowska'\, 'Ewa Pis
- ula-Dąbrowska (spr.)']\nTermin: 2015-09-24 09:20\n\n[]
+ i publicznej\nSala: Sala F\nSklad: ['Andrzej Kołodziej'\, 'Ewa Marcinkows
+ ka'\, 'Ewa Pisula-Dąbrowska (spr.)']\nTermin: 2015-09-24 09:20\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minister Sprawiedliwości - II SAB/Wa 1017/14
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150925T092000
+DESCRIPTION:Organ: Minister Sprawiedliwości\nSygnatura: II SAB/Wa 1017/14
+ \nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w spra
+ wie wniosku o udostępn.inf.publ. z 19.08.2014 r.\nSala: Sala F\nSklad: ['
+ Stanisław Marek Pietras (spr.)'\, 'Anna Mierzejewska'\, 'Janusz Walawski'
+ ]\nTermin: 2015-09-25 09:20\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Centrum Systemów Informacyjnych Ochrony Zdrowia - II SAB/Wa 748/1
+ 5
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150925T104000
+DESCRIPTION:Organ: Centrum Systemów Informacyjnych Ochrony Zdrowia\nSygna
+ tura: II SAB/Wa 748/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot
+ : bezczynność w przedmiocie rozpoznania wniosku z dnia 09.03.15 o udost.
+ inf.publ.\nSala: Sala F\nSklad: ['Stanisław Marek Pietras'\, 'Anna Mierze
+ jewska (spr.)'\, 'Janusz Walawski']\nTermin: 2015-09-25 10:40\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prezes Urzędu Regulacji Energetyki - II SA/Wa 753/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150925T123000
+DESCRIPTION:Organ: Prezes Urzędu Regulacji Energetyki\nSygnatura: II SA/W
+ a 753/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publi
+ czna\nSala: Sala F\nSklad: ['Adam Lipiński (spr.)'\, 'Anna Mierzejewska'\
+ , 'Janusz Walawski']\nTermin: 2015-09-25 12:30\n\n['Zdjęto z wokandy']
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fundacja na Rzecz Studentów i Absolwentów UW „Universitatis Va
+ rsoviensis” - II SAB/Wa 762/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150925T123000
+DESCRIPTION:Organ: Fundacja na Rzecz Studentów i Absolwentów UW „Unive
+ rsitatis Varsoviensis”\nSygnatura: II SAB/Wa 762/15\nSymbole: 658/648 - 
+ Informacja publiczna\nPrzedmiot: bezczynność w sprawie wniosku o udostę
+ pnienie informacji publicznej z 16.03.2015\nSala: Sala F\nSklad: ['Adam Li
+ piński (spr.)'\, 'Anna Mierzejewska'\, 'Janusz Walawski']\nTermin: 2015-0
+ 9-25 12:30\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minister Infrastruktury i Rozwoju - II SA/Wa 950/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150925T133000
+DESCRIPTION:Organ: Minister Infrastruktury i Rozwoju\nSygnatura: II SA/Wa 
+ 950/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publicz
+ na\nSala: Sala F\nSklad: ['Adam Lipiński (spr.)'\, 'Anna Mierzejewska'\, 
+ 'Janusz Walawski']\nTermin: 2015-09-25 13:30\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR

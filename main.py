@@ -14,6 +14,7 @@ DESC = """Organ: {organ}
 Sygnatura: {sygnatura}
 Symbole: {symbol}
 Przedmiot: {przedmiot}
+Sala: {sala}
 Sklad: {sklad}
 Termin: {data} {godzina}
 
@@ -84,7 +85,10 @@ cal['summary'] = 'Cases of Freedom of Information in Warsaw'
 
 for row in data:
     event = Event()
-    struct = strptime(row['data']+" "+row['godzina'], "%Y-%m-%d %H:%M")
+    try:
+        struct = strptime(row['data']+" "+row['godzina'], "%Y-%m-%d %H:%M")
+    except ValueError:
+        struct = strptime(row['data'], "%Y-%m-%d")
     event.add('dtstart', datetime.datetime(*struct[:6]).replace(tzinfo=timezone('Europe/Warsaw')))
     event['summary'] = MSG.format(**row)
     event['description'] = DESC.format(**row)
