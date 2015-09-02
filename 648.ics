@@ -446,7 +446,10 @@ DESCRIPTION:Organ: Prezes Sądu Rejonowego dla Warszawy - Śródmieście\n
  Sygnatura: II SAB/Wa 641/15\nSymbole: 658/648 - Informacja publiczna\nPrze
  dmiot: bezczynność w sprawie wniosku o udost.inf.publ. z 09.07.2013 r. i
   06.08.2013 r.\nSala: Sala F\nSklad: ['Ewa Grochowska-Jung'\, 'Adam Lipiń
- ski'\, 'Stanisław Marek Pietras (spr.)']\nTermin: 2015-09-02 10:00\n\n[]
+ ski'\, 'Stanisław Marek Pietras (spr.)']\nTermin: 2015-09-02 10:00\n\n['S
+ twierdzono\, iż bezczynność nie miała miejsca z rażącym naruszeniem 
+ prawa i w pozostałym zakresie umorzono postępowanie'\, 'Zasądzono zwrot
+  kosztów postępowania']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -456,7 +459,7 @@ DESCRIPTION:Organ: Prezes Krajowego Zarządu Gospodarki Wodnej\nSygnatura:
   II SAB/Wa 577/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bez
  czynność w sprawie wniosku o udost.inf.publ. z dn. 15.01.2015 r.\nSala: 
  Sala F\nSklad: ['Ewa Pisula-Dąbrowska (spr.)'\, 'Adam Lipiński'\, 'Stani
- sław Marek Pietras']\nTermin: 2015-09-02 12:40\n\n[]
+ sław Marek Pietras']\nTermin: 2015-09-02 12:40\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -640,6 +643,15 @@ DESCRIPTION:Organ: Centrum Systemów Informacyjnych Ochrony Zdrowia\nSygna
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Prezes Urzędu Regulacji Energetyki - II SA/Wa 753/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150925T123000
+DESCRIPTION:Organ: Prezes Urzędu Regulacji Energetyki\nSygnatura: II SA/W
+ a 753/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publi
+ czna\nSala: Sala F\nSklad: ['Adam Lipiński (spr.)'\, 'Anna Mierzejewska'\
+ , 'Janusz Walawski']\nTermin: 2015-09-25 12:30\n\n['Zdjęto z wokandy']
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Fundacja na Rzecz Studentów i Absolwentów UW „Universitatis Va
  rsoviensis” - II SAB/Wa 762/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150925T123000
@@ -649,15 +661,6 @@ DESCRIPTION:Organ: Fundacja na Rzecz Studentów i Absolwentów UW „Unive
  pnienie informacji publicznej z 16.03.2015\nSala: Sala F\nSklad: ['Adam Li
  piński (spr.)'\, 'Anna Mierzejewska'\, 'Janusz Walawski']\nTermin: 2015-0
  9-25 12:30\n\n[]
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Prezes Urzędu Regulacji Energetyki - II SA/Wa 753/15
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150925T123000
-DESCRIPTION:Organ: Prezes Urzędu Regulacji Energetyki\nSygnatura: II SA/W
- a 753/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publi
- czna\nSala: Sala F\nSklad: ['Adam Lipiński (spr.)'\, 'Anna Mierzejewska'\
- , 'Janusz Walawski']\nTermin: 2015-09-25 12:30\n\n['Zdjęto z wokandy']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
