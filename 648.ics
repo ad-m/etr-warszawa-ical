@@ -589,15 +589,6 @@ DESCRIPTION:Organ: Centrum Systemów Informacyjnych Ochrony Zdrowia\nSygna
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Prezes Urzędu Regulacji Energetyki - II SA/Wa 753/15
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150925T123000
-DESCRIPTION:Organ: Prezes Urzędu Regulacji Energetyki\nSygnatura: II SA/W
- a 753/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publi
- czna\nSala: Sala F\nSklad: ['Adam Lipiński (spr.)'\, 'Anna Mierzejewska'\
- , 'Janusz Walawski']\nTermin: 2015-09-25 12:30\n\n['Zdjęto z wokandy']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Fundacja na Rzecz Studentów i Absolwentów UW „Universitatis Va
  rsoviensis” - II SAB/Wa 762/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150925T123000
@@ -610,12 +601,51 @@ DESCRIPTION:Organ: Fundacja na Rzecz Studentów i Absolwentów UW „Unive
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Prezes Urzędu Regulacji Energetyki - II SA/Wa 753/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150925T123000
+DESCRIPTION:Organ: Prezes Urzędu Regulacji Energetyki\nSygnatura: II SA/W
+ a 753/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publi
+ czna\nSala: Sala F\nSklad: ['Adam Lipiński (spr.)'\, 'Anna Mierzejewska'\
+ , 'Janusz Walawski']\nTermin: 2015-09-25 12:30\n\n['Zdjęto z wokandy']
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Minister Infrastruktury i Rozwoju - II SA/Wa 950/15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150925T133000
 DESCRIPTION:Organ: Minister Infrastruktury i Rozwoju\nSygnatura: II SA/Wa 
  950/15\nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publicz
  na\nSala: Sala F\nSklad: ['Adam Lipiński (spr.)'\, 'Anna Mierzejewska'\, 
  'Janusz Walawski']\nTermin: 2015-09-25 13:30\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prezydent m.st. Warszawy - II SAB/Wa 309/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20151005T090000
+DESCRIPTION:Organ: Prezydent m.st. Warszawy\nSygnatura: II SAB/Wa 309/15\n
+ Symbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w przedm
+ iocie rozpoznania wniosku z dn. 16.05.2014 r. o udost.inf.publ.\nSala: Sal
+ a F\nSklad: ['Andrzej Góraj'\, 'Adam Lipiński'\, 'Janusz Walawski (spr.)
+ ']\nTermin: 2015-10-05 09:00\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prezes Sądu Rejonowego dla m. st. Warszawy - II SAB/Wa 604/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20151005T101000
+DESCRIPTION:Organ: Prezes Sądu Rejonowego dla m. st. Warszawy\nSygnatura:
+  II SAB/Wa 604/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bez
+ czynność w sprawie wniosku o udost.inf.publ. z 23.10.2014 r.\nSala: Sala
+  F\nSklad: ['Andrzej Góraj'\, 'Adam Lipiński'\, 'Janusz Walawski (spr.)'
+ ]\nTermin: 2015-10-05 10:10\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Minister Infrastruktury i Rozwoju - II SAB/Wa 648/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20151005T104000
+DESCRIPTION:Organ: Minister Infrastruktury i Rozwoju\nSygnatura: II SAB/Wa
+  648/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność
+  w przedmiocie rozpoznania wniosku z dn. 17.02.2015 r. o udost.inf.publ.\n
+ Sala: Sala F\nSklad: ['Andrzej Góraj (spr.)'\, 'Adam Lipiński'\, 'Janusz
+  Walawski']\nTermin: 2015-10-05 10:40\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
