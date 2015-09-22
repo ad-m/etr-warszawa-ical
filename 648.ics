@@ -451,16 +451,6 @@ DESCRIPTION:Organ: Minister Nauki i Szkolnictwa Wyższego\nSygnatura: II S
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Starosta Powiatu Wołomińskiego - II SAB/Wa 319/15
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20151006T122000
-DESCRIPTION:Organ: Starosta Powiatu Wołomińskiego\nSygnatura: II SAB/Wa 
- 319/15\nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\nPr
- zedmiot: \nSala: Sala F\nSklad: ['Ewa Pisula-Dąbrowska'\, 'Iwona Maciejuk
- '\, 'Stanisław Marek Pietras (spr.)']\nTermin: 2015-10-06 12:20\n\n['Zdj
- ęto z wokandy']
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Burmistrz Dzielnicy Śródmieście m.st. Warszawy - II SAB/Wa 775/
  15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20151006T122000
@@ -470,6 +460,16 @@ DESCRIPTION:Organ: Burmistrz Dzielnicy Śródmieście m.st. Warszawy\nSygn
  lenie informacji publicznej\nSala: Sala F\nSklad: ['Ewa Pisula-Dąbrowska'
  \, 'Iwona Maciejuk'\, 'Stanisław Marek Pietras (spr.)']\nTermin: 2015-10-
  06 12:20\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Starosta Powiatu Wołomińskiego - II SAB/Wa 319/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20151006T122000
+DESCRIPTION:Organ: Starosta Powiatu Wołomińskiego\nSygnatura: II SAB/Wa 
+ 319/15\nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\nPr
+ zedmiot: \nSala: Sala F\nSklad: ['Ewa Pisula-Dąbrowska'\, 'Iwona Maciejuk
+ '\, 'Stanisław Marek Pietras (spr.)']\nTermin: 2015-10-06 12:20\n\n['Zdj
+ ęto z wokandy']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -622,6 +622,16 @@ DESCRIPTION:Organ: Minister Skarbu Państwa\nSygnatura: II SA/Wa 2091/14\n
  Symbole: 648 - Odmowa udzielenia informacji\nPrzedmiot: Odmowa udzielenia 
  informacji\nSala: Sala F\nSklad: ['Andrzej Kołodziej'\, 'Sławomir Antoni
  uk (spr.)'\, 'Ewa Pisula-Dąbrowska']\nTermin: 2015-10-19 09:20\n\n[]
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fundacja Wielka Orkiestra Świątecznej Pomocy - II SAB/Wa 811/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20151020T110000
+DESCRIPTION:Organ: Fundacja Wielka Orkiestra Świątecznej Pomocy\nSygnatu
+ ra: II SAB/Wa 811/15\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: 
+ bezczynność w przedmiocie rozpoznania wniosku z 20.04.2015 r. o udziel.i
+ nf.publ.\nSala: Sala F\nSklad: ['Maria Werpachowska'\, 'Iwona Maciejuk (sp
+ r.)'\, 'Anna Mierzejewska']\nTermin: 2015-10-20 11:00\n\n[]
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
