@@ -262,7 +262,7 @@ DESCRIPTION:Organ: Państwowa Komisja Wyborcza\nSygnatura: II SAB/Wa 721/1
  5\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w prz
  edmiocie rozpoznania wniosku z dnia 09.04.2015 r. o udziel.inf.publ.\nSala
  : Sala F\nSklad: ['Adam Lipiński (spr.)'\, 'Andrzej Góraj'\, 'Anna Mierz
- ejewska']\nTermin: 2015-09-23 09:40\n\n[]
+ ejewska']\nTermin: 2015-09-23 09:40\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -271,7 +271,7 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20150923T102000
 DESCRIPTION:Organ: Szef Sztabu Generalnego WP\nSygnatura: II SA/Wa 870/15\
  nSymbole: 648 - Informacja publiczna\nPrzedmiot: Informacja publiczna\nSal
  a: Sala F\nSklad: ['Adam Lipiński (spr.)'\, 'Andrzej Góraj'\, 'Anna Mier
- zejewska']\nTermin: 2015-09-23 10:20\n\n[]
+ zejewska']\nTermin: 2015-09-23 10:20\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -281,7 +281,7 @@ DESCRIPTION:Organ: Wójt Gminy Brudzeń Duży\nSygnatura: II SAB/Wa 1117/1
  4\nSymbole: 658/648 - Informacja publiczna\nPrzedmiot: bezczynność w spr
  awie wniosku o udost.inf.publ. z 21.10.2014\nSala: Sala F\nSklad: ['Adam L
  ipiński'\, 'Andrzej Góraj (spr.)'\, 'Anna Mierzejewska']\nTermin: 2015-0
- 9-23 12:50\n\n[]
+ 9-23 12:50\n\n['Oddalono skargę']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -405,6 +405,16 @@ DESCRIPTION:Organ: Minister Nauki i Szkolnictwa Wyższego\nSygnatura: II S
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Starosta Powiatu Wołomińskiego - II SAB/Wa 319/15
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20151006T122000
+DESCRIPTION:Organ: Starosta Powiatu Wołomińskiego\nSygnatura: II SAB/Wa 
+ 319/15\nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\nPr
+ zedmiot: \nSala: Sala F\nSklad: ['Ewa Pisula-Dąbrowska'\, 'Iwona Maciejuk
+ '\, 'Stanisław Marek Pietras (spr.)']\nTermin: 2015-10-06 12:20\n\n['Zdj
+ ęto z wokandy']
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Burmistrz Dzielnicy Śródmieście m.st. Warszawy - II SAB/Wa 775/
  15
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20151006T122000
@@ -414,16 +424,6 @@ DESCRIPTION:Organ: Burmistrz Dzielnicy Śródmieście m.st. Warszawy\nSygn
  lenie informacji publicznej\nSala: Sala F\nSklad: ['Ewa Pisula-Dąbrowska'
  \, 'Iwona Maciejuk'\, 'Stanisław Marek Pietras (spr.)']\nTermin: 2015-10-
  06 12:20\n\n[]
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Starosta Powiatu Wołomińskiego - II SAB/Wa 319/15
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20151006T122000
-DESCRIPTION:Organ: Starosta Powiatu Wołomińskiego\nSygnatura: II SAB/Wa 
- 319/15\nSymbole: 658/648 - Informacja publiczna\; Informacja publiczna\nPr
- zedmiot: \nSala: Sala F\nSklad: ['Ewa Pisula-Dąbrowska'\, 'Iwona Maciejuk
- '\, 'Stanisław Marek Pietras (spr.)']\nTermin: 2015-10-06 12:20\n\n['Zdj
- ęto z wokandy']
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
