@@ -2,83 +2,48 @@
 # -*- coding: utf-8 -*-
 import requests
 from bs4 import BeautifulSoup
-from bs4.element import NavigableString
 from icalendar import Calendar, Event, vText
 from time import strptime
 import datetime
 from pytz import timezone
-HEADER_STYLE = 'border-width: 2px; border-style: double;'
-END_STYLE = 'border-bottom-width: 2px; border-bottom-style: double; border-top: none;'
-MSG = '{organ} - {sygnatura}'
-DESC = """Organ: {organ}
-Sygnatura: {sygnatura}
-Symbole: {symbol}
-Przedmiot: {przedmiot}
-Sala: {sala}
-Sklad: {sklad}
-Termin: {data} {godzina}
+from io import StringIO
+from csv import DictReader
+import csv
 
-{orzeczenie}"""
+
+csv.register_dialect('etr', delimiter=' ', quotechar="'", quoting=csv.QUOTE_ALL)
+
+ETR_URL = 'http://www.warszawa.wsa.gov.pl/183/elektroniczny-terminarz-rozpraw.html'
+
+
+def fix_dict(row):
+    return {key.strip(';'): value.strip(';') for key, value in row.items()}
+
+
+def row_to_text(row):
+    return "\n".join(key+": "+value for key, value in row.items())
 
 
 def etr_query(**kwargs):
-    data = {'wydzial_orzeczniczy': '---',
-            'symbol': '',
-            'sygnatura': '',
-            'sortowanie': '3',
-            'sala_rozpraw': '---',
-            'opis': '',
-            'guzik': 'Filtruj / Sortuj',
+    data = {'sygnatura': '',
             'data_posiedzenia': '',
-            'act': 'szukaj', }
+            'data_posiedzenia_do': '',
+            'sala_rozpraw': '---',
+            'typ_posiedzenia': "'N', 'J', 'P'",
+            'wydzial_orzeczniczy': '---',
+            'symbol': '648',
+            'opis': '',
+            'wynik': '',
+            'sortowanie': '3',
+            'act': 'szukaj',
+            'get_csv': '1'}
     data.update(kwargs)
-    soup = BeautifulSoup(requests.post(
-        'http://www.warszawa.wsa.gov.pl/183/elektroniczny-terminarz-rozpraw.html', data=data).text)
-    data = []
-    data.append({})
+    soup = BeautifulSoup(requests.post(ETR_URL, data=data).text)
+    csv_text = soup.find('div', attrs={'id': 'csv_text'}).text
+    csv_data = DictReader(StringIO(csv_text), dialect='etr')
+    return map(fix_dict, csv_data)
 
-    for i, row in enumerate(soup.select('table.ftabela_123 tr')):
-        if not row.has_attr('style'):
-            record = data[len(data)-1]
-            # ['III', <br/>, 'III SA/Wa 1698/14', <br/>]
-            record['wydzial'] = row.select('td')[0].contents[0]
-            record['sygnatura'] = row.select('td')[0].contents[2]
-            time_data = []
-            tmp = ''
-            # ['2015-04-17', <br/>, <br/>, 'Sala D', <br/>]
-            for el in row.select('td')[1]:
-                if type(el) == NavigableString:
-                    tmp = el
-                else:
-                    time_data.append(tmp)
-                    tmp = ""
-            record['data'], record['godzina'], record['sala'] = time_data
-            # ('Dyrektor Izby Skarbowej w Warszawie', '6118 - Koszty; Koszty')
-            record['organ'] = row.select('td')[2].contents[0]
-            record['symbol'] = row.select('td')[2].contents[2]
-            record['symbole'] = [x.strip() for x in record['symbol'].split('-')[0].split('/')]
-            record['przedmiot'] = row.select('td')[2].contents[5].text
-            record['sklad'] = []
-            # [' Andrzej Czarnecki',
-            # <br/>,
-            # ' Izabela Głowacka-Klimas',
-            # <br/>,
-            # '  Henryka Lewandowska-Kuraszkiewicz (spr.)',
-            # <br/>]
-            for el in row.select('td')[3]:
-                if type(el) == NavigableString:
-                    record['sklad'].append(el.strip())
-            # <span style="color: #F00;">PUBLIKACJA</span>
-            el = row.find('span', style='color: #F00;')
-            if el:
-                record['note'] = el.text
-            data[len(data)-1] = record
-        if row.has_attr('style') and row['style'] == END_STYLE:
-            data[len(data)-1]['orzeczenie'] = [x.strip() for x in row.strings]
-            data.append({})
-    return data[:-1]
 data = etr_query()
-data = [row for row in data if '648' in row['symbole']]
 
 cal = Calendar()
 cal['summary'] = 'Cases of Freedom of Information in Warsaw'
@@ -86,12 +51,14 @@ cal['summary'] = 'Cases of Freedom of Information in Warsaw'
 for row in data:
     event = Event()
     try:
-        struct = strptime(row['data']+" "+row['godzina'], "%Y-%m-%d %H:%M")
+        struct = strptime(row['Data'] + " " + row['Godzina'], "%Y-%m-%d %H:%M")
     except ValueError:
-        struct = strptime(row['data'], "%Y-%m-%d")
+        struct = strptime(row['Data'], "%Y-%m-%d")
     event.add('dtstart', datetime.datetime(*struct[:6]).replace(tzinfo=timezone('Europe/Warsaw')))
-    event['summary'] = MSG.format(**row)
-    event['description'] = DESC.format(**row)
-    event['location'] = vText('Wydzial %s, WSA Warszawa' % (row['wydzial']))
+    event['summary'] = '{organ} - {sygnatura}'.format(organ=row['Organ administracji'],
+                                                      sygnatura=row['Sygnatura akt'])
+    event['description'] = row_to_text(row)
+    event['location'] = vText('Wydzial %s, WSA Warszawa' % (row['Wydział orzeczniczy']))
+    print(event)
     cal.add_component(event)
 open('648.ics', 'wb').write(cal.to_ical())
