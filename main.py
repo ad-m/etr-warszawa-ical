@@ -1,15 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+import csv
+import datetime
+import os
+from time import strptime
+
 import requests
 from bs4 import BeautifulSoup
 from icalendar import Calendar, Event, vText
-from time import strptime
-import datetime
-from pytz import timezone
 from io import StringIO
-from csv import DictReader
-import csv
-
+from pytz import timezone
 
 csv.register_dialect('etr', delimiter=' ', quotechar="'", quoting=csv.QUOTE_ALL)
 
@@ -40,27 +40,46 @@ def etr_query(**kwargs):
     data.update(kwargs)
     soup = BeautifulSoup(requests.post(ETR_URL, data=data).text)
     csv_text = soup.find('div', attrs={'id': 'csv_text'}).text
-    csv_data = DictReader(StringIO(csv_text), dialect='etr')
+    csv_data = csv.DictReader(StringIO(csv_text), dialect='etr')
     return map(fix_dict, csv_data)
 
-data = etr_query()
 
-cal = Calendar()
-cal['summary'] = 'Cases of Freedom of Information in Warsaw'
+def make_cal(data):
+    cal = Calendar()
+    cal['summary'] = 'Cases of Freedom of Information in Warsaw'
 
-for row in data:
-    event = Event()
+    for row in data:
+        event = Event()
+        try:
+            struct = strptime(row['Data'] + " " + row['Godzina'], "%Y-%m-%d %H:%M")
+        except ValueError:
+            struct = strptime(row['Data'], "%Y-%m-%d")
+        event.add('dtstart', datetime.datetime(*struct[:6]).replace(tzinfo=timezone('Europe/Warsaw')))
+        tag = {'Jawne': 'J', 'Niejawne': 'N', 'Publikacja': 'P'}.get(row['Typ posiedzenia'], '?')
+        event['summary'] = '[{tag}] {organ} - {sygnatura}'.format(tag=tag,
+                                                                  organ=row['Organ administracji'],
+                                                                  sygnatura=row['Sygnatura akt'])
+        event['description'] = row_to_text(row)
+        event['location'] = vText('Wydzial %s, WSA Warszawa' % (row['Wydział orzeczniczy']))
+        print(event)
+        cal.add_component(event)
+    return cal
+
+
+def main():
+    data = etr_query()
+    cal = make_cal(data)
+    open('648.ics', 'wb').write(cal.to_ical())
+
+if 'DSN_URL' in os.environ:
+    import raven
+
+    client = raven.Client(dsn=os.environ['DSN_URL'],
+                          release=raven.fetch_git_sha(os.path.dirname(__file__)))
+    client.captureMessage('hello world!')
     try:
-        struct = strptime(row['Data'] + " " + row['Godzina'], "%Y-%m-%d %H:%M")
-    except ValueError:
-        struct = strptime(row['Data'], "%Y-%m-%d")
-    event.add('dtstart', datetime.datetime(*struct[:6]).replace(tzinfo=timezone('Europe/Warsaw')))
-    tag = {'Jawne': 'J', 'Niejawne': 'N', 'Publikacja': 'P'}.get(row['Typ posiedzenia'], '?')
-    event['summary'] = '[{tag}] {organ} - {sygnatura}'.format(tag=tag,
-                                                              organ=row['Organ administracji'],
-                                                              sygnatura=row['Sygnatura akt'])
-    event['description'] = row_to_text(row)
-    event['location'] = vText('Wydzial %s, WSA Warszawa' % (row['Wydział orzeczniczy']))
-    print(event)
-    cal.add_component(event)
-open('648.ics', 'wb').write(cal.to_ical())
+        main()
+    except:
+        client.captureException()
+else:
+    main()
