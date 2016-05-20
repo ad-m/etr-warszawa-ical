@@ -55,8 +55,10 @@ for row in data:
     except ValueError:
         struct = strptime(row['Data'], "%Y-%m-%d")
     event.add('dtstart', datetime.datetime(*struct[:6]).replace(tzinfo=timezone('Europe/Warsaw')))
-    event['summary'] = '{organ} - {sygnatura}'.format(organ=row['Organ administracji'],
-                                                      sygnatura=row['Sygnatura akt'])
+    tag = {'Jawne': 'J', 'Niejawne': 'N', 'Publikacja': 'P'}.get(row['Typ posiedzenia'], '?')
+    event['summary'] = '[{tag}] {organ} - {sygnatura}'.format(tag=tag,
+                                                              organ=row['Organ administracji'],
+                                                              sygnatura=row['Sygnatura akt'])
     event['description'] = row_to_text(row)
     event['location'] = vText('Wydzial %s, WSA Warszawa' % (row['Wydział orzeczniczy']))
     print(event)
