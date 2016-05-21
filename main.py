@@ -61,7 +61,6 @@ def make_cal(data):
                                                                   sygnatura=row['Sygnatura akt'])
         event['description'] = row_to_text(row)
         event['location'] = vText('Wydzial %s, WSA Warszawa' % (row['Wydział orzeczniczy']))
-        print(event)
         cal.add_component(event)
     return cal
 
