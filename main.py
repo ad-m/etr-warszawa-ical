@@ -75,7 +75,6 @@ if 'DSN_URL' in os.environ:
 
     client = raven.Client(dsn=os.environ['DSN_URL'],
                           release=raven.fetch_git_sha(os.path.dirname(__file__)))
-    client.captureMessage('hello world!')
     try:
         main()
     except:
