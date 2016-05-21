@@ -38,7 +38,7 @@ def etr_query(**kwargs):
             'act': 'szukaj',
             'get_csv': '1'}
     data.update(kwargs)
-    soup = BeautifulSoup(requests.post(ETR_URL, data=data).text)
+    soup = BeautifulSoup(requests.post(ETR_URL, data=data).text, "html.parser")
     csv_text = soup.find('div', attrs={'id': 'csv_text'}).text
     csv_data = csv.DictReader(StringIO(csv_text), dialect='etr')
     return map(fix_dict, csv_data)
