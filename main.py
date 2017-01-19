@@ -70,6 +70,7 @@ def main():
     cal = make_cal(data)
     open('648.ics', 'wb').write(cal.to_ical())
 
+
 if 'DSN_URL' in os.environ:
     import raven
 
