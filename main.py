@@ -3,6 +3,7 @@
 import csv
 import datetime
 import os
+import re
 from time import strptime
 
 import requests
@@ -20,8 +21,13 @@ def fix_dict(row):
     return {key.strip(';'): value.strip(';') for key, value in row.items()}
 
 
+def clean_text(text):
+    return re.sub(r'\s+', ' ', text)
+
+
 def row_to_text(row):
-    return "\n".join(key+": "+value for key, value in row.items())
+    return "\n".join("{}:{}".format(key, clean_text(value))
+                     for key, value in sorted(row.items()))
 
 
 def etr_query(**kwargs):
@@ -54,7 +60,8 @@ def make_cal(data):
             struct = strptime(row['Data'] + " " + row['Godzina'], "%Y-%m-%d %H:%M")
         except ValueError:
             struct = strptime(row['Data'], "%Y-%m-%d")
-        event.add('dtstart', datetime.datetime(*struct[:6]).replace(tzinfo=timezone('Europe/Warsaw')))
+        event.add('dtstart', datetime.datetime(
+            *struct[:6]).replace(tzinfo=timezone('Europe/Warsaw')))
         tag = {'Jawne': 'J', 'Niejawne': 'N', 'Publikacja': 'P'}.get(row['Typ posiedzenia'], '?')
         event['summary'] = '[{tag}] {organ} - {sygnatura}'.format(tag=tag,
                                                                   organ=row['Organ administracji'],
