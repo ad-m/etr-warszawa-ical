@@ -1,19 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[N] Rada Gminy Jaktorów - II SAB/Wa 531/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20161208T000000
-DESCRIPTION:Data:2016-12-08\nGodzina:\nOrgan administracji:Rada Gminy Jakt
- orów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Pisula-Dąbrows
- ka\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Grochowska-Jung\nSyg
- natura akt:II SAB/Wa 531/16\nSymbol:658/6480\nSędziowie:Ewa Grochowska-Ju
- ng\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
- ć w przedmiocie rozpatrzenia wniosku z dnia 29 maja 2016 r. o udostępnie
- nie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skarg
- ę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Sądu Rejonowego dla Warszawy-Mokotowa - II SAB/Wa 618/
  16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20161208T000000
@@ -38,6 +25,19 @@ DESCRIPTION:Data:2016-12-08\nGodzina:\nOrgan administracji:PINB dla m. st.
  zczynność w sprawie rozpoznania wniosku z 21 stycznia 2016 r. o udostęp
  nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono ska
  rgę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Rada Gminy Jaktorów - II SAB/Wa 531/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20161208T000000
+DESCRIPTION:Data:2016-12-08\nGodzina:\nOrgan administracji:Rada Gminy Jakt
+ orów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Pisula-Dąbrows
+ ka\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Grochowska-Jung\nSyg
+ natura akt:II SAB/Wa 531/16\nSymbol:658/6480\nSędziowie:Ewa Grochowska-Ju
+ ng\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
+ ć w przedmiocie rozpatrzenia wniosku z dnia 29 maja 2016 r. o udostępnie
+ nie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skarg
+ ę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -970,6 +970,17 @@ DESCRIPTION:Data:2017-01-12\nGodzina:13:30\nOrgan administracji:Komisja Na
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Szef Inspektoratu Uzbrojenia - II SAB/Wa 659/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170113T000000
+DESCRIPTION:Data:2017-01-13\nGodzina:\nOrgan administracji:Szef Inspektora
+ tu Uzbrojenia\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrze
+ wodniczący:Iwona Dąbrowska\nSala:Sala posiedzeń niejawnych\nSprawozdawc
+ a:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 659/16\nSymbol:658/6480\nSędzi
+ owie:Ewa Kwiecińska\, Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi
+ :\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Komendant Stołeczny Policji w Warszawie - II SAB/Wa 520/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170113T000000
 DESCRIPTION:Data:2017-01-13\nGodzina:\nOrgan administracji:Komendant Stoł
@@ -991,17 +1002,6 @@ DESCRIPTION:Data:2017-01-13\nGodzina:\nOrgan administracji:Komendant Stoł
  /Wa 533/16\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Maria Werpachows
  ka\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdj
  ęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Szef Inspektoratu Uzbrojenia - II SAB/Wa 659/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170113T000000
-DESCRIPTION:Data:2017-01-13\nGodzina:\nOrgan administracji:Szef Inspektora
- tu Uzbrojenia\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrze
- wodniczący:Iwona Dąbrowska\nSala:Sala posiedzeń niejawnych\nSprawozdawc
- a:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 659/16\nSymbol:658/6480\nSędzi
- owie:Ewa Kwiecińska\, Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi
- :\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1234,20 +1234,6 @@ DESCRIPTION:Data:2017-01-20\nGodzina:\nOrgan administracji:Prezydent m.st.
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Główny Inspektor Transportu Drogowego - II SAB/Wa 625/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170120T000000
-DESCRIPTION:Data:2017-01-20\nGodzina:\nOrgan administracji:Główny Inspek
- tor Transportu Drogowego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:
- Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Dąbrowsk
- a\nSygnatura akt:II SAB/Wa 625/16\nSymbol:658/6480\nSędziowie:Sławomir A
- ntoniuk\, Iwona Dąbrowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność 
- w przedmiocie rozpoznania wniosku z dnia 3 maja 2016 r. o udostępnienie i
- nformacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i s
- twierdzono że bezczynność miała miejsce bez rażącego naruszenia praw
- a |Oddalono skargę w części
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezydent m. st. Warszawy - II SAB/Wa 457/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170120T000000
 DESCRIPTION:Data:2017-01-20\nGodzina:\nOrgan administracji:Prezydent m. st
@@ -1269,6 +1255,20 @@ DESCRIPTION:Data:2017-01-20\nGodzina:\nOrgan administracji:Orange Polska S
  uk\, Iwona Dąbrowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w spr
  awie rozpoznania wniosku z dnia 27 listopada 2015 r. o udostępnienie info
  mracji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Główny Inspektor Transportu Drogowego - II SAB/Wa 625/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170120T000000
+DESCRIPTION:Data:2017-01-20\nGodzina:\nOrgan administracji:Główny Inspek
+ tor Transportu Drogowego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:
+ Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Dąbrowsk
+ a\nSygnatura akt:II SAB/Wa 625/16\nSymbol:658/6480\nSędziowie:Sławomir A
+ ntoniuk\, Iwona Dąbrowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność 
+ w przedmiocie rozpoznania wniosku z dnia 3 maja 2016 r. o udostępnienie i
+ nformacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i s
+ twierdzono że bezczynność miała miejsce bez rażącego naruszenia praw
+ a |Oddalono skargę w części
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1479,18 +1479,6 @@ DESCRIPTION:Data:2017-02-02\nGodzina:\nOrgan administracji:Miasto Stołecz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] SKO w Warszawie - II SAB/Wa 417/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170202T000000
-DESCRIPTION:Data:2017-02-02\nGodzina:\nOrgan administracji:SKO w Warszawie
- \nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Kołodziej\nSala
- :Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Kołodziej\nSygnatura ak
- t:II SAB/Wa 417/16\nSymbol:658/6480\nSędziowie:Iwona Maciejuk\, Stanisła
- w Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmioc
- ie rozpoznania wniosku z dnia 14.04.2016 r. o udziel.inf.publ.\nWydział o
- rzeczniczy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Nowodworskie Centrum Medyczne w Nowym Dworze Mazowickim - II S
  AB/Wa 602/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170202T000000
@@ -1503,6 +1491,18 @@ DESCRIPTION:Data:2017-02-02\nGodzina:\nOrgan administracji:Nowodworskie Ce
  o udost.inf.publ.\nWydział orzeczniczy:II\nWyniki:Stwierdzono iż bezczyn
  ność nie miała miejsca z rażącym naruszeniem prawa i w pozostałym za
  kresie umorzono postępowanie |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] SKO w Warszawie - II SAB/Wa 417/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170202T000000
+DESCRIPTION:Data:2017-02-02\nGodzina:\nOrgan administracji:SKO w Warszawie
+ \nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Kołodziej\nSala
+ :Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Kołodziej\nSygnatura ak
+ t:II SAB/Wa 417/16\nSymbol:658/6480\nSędziowie:Iwona Maciejuk\, Stanisła
+ w Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmioc
+ ie rozpoznania wniosku z dnia 14.04.2016 r. o udziel.inf.publ.\nWydział o
+ rzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1670,6 +1670,18 @@ DESCRIPTION:Data:2017-02-10\nGodzina:\nOrgan administracji:Polski Związek
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Szef Kancelarii Sejmu - II SAB/Wa 698/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170214T000000
+DESCRIPTION:Data:2017-02-14\nGodzina:\nOrgan administracji:Szef Kancelarii
+  Sejmu\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Adam Lipiński\nSa
+ la:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura akt:
+ II SAB/Wa 698/16\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Danuta Kani
+ a\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania
+  wniosku z 21.09.2016 r. o udziel.inf.publ.\nWydział orzeczniczy:II\nWyni
+ ki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Szpital Kliniczny Dzieciątka Jezus z siedzibą w Warszawie - 
  II SAB/Wa 660/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170214T000000
@@ -1680,18 +1692,6 @@ DESCRIPTION:Data:2017-02-14\nGodzina:\nOrgan administracji:Szpital Klinicz
  ędziowie:Andrzej Góraj\, Danuta Kania\nTyp posiedzenia:Niejawne\nUwagi:b
  ezczynność w sprawie rozpoznania wniosku z dnia 14 kwietnia 2016 r. o ud
  ostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Szef Kancelarii Sejmu - II SAB/Wa 698/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170214T000000
-DESCRIPTION:Data:2017-02-14\nGodzina:\nOrgan administracji:Szef Kancelarii
-  Sejmu\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Adam Lipiński\nSa
- la:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura akt:
- II SAB/Wa 698/16\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Danuta Kani
- a\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania
-  wniosku z 21.09.2016 r. o udziel.inf.publ.\nWydział orzeczniczy:II\nWyni
- ki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1778,20 +1778,6 @@ DESCRIPTION:Data:2017-02-16\nGodzina:\nOrgan administracji:Polski Związek
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezydium Krajowej Rady Stowarzyszenia Ogrodowego Polskiego Zw
- iązku Działkowców w Warszawie - II SAB/Wa 685/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170221T000000
-DESCRIPTION:Data:2017-02-21\nGodzina:\nOrgan administracji:Prezydium Krajo
- wej Rady Stowarzyszenia Ogrodowego Polskiego Związku Działkowców w Wars
- zawie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSala:S
- ala posiedzeń niejawnych\nSprawozdawca:Adam Lipiński\nSygnatura akt:II S
- AB/Wa 685/16\nSymbol:659/6480\nSędziowie:Danuta Kania\, Adam Lipiński\nT
- yp posiedzenia:Niejawne\nUwagi:przewlekłe prowadzenie postępowania w spr
- awie rozpoznania wniosku z dn.23.06.2016 r. o udost. inf.publ.\nWydział o
- rzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Polski Związek Alpinizmu - II SAB/Wa 629/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170221T000000
 DESCRIPTION:Data:2017-02-21\nGodzina:\nOrgan administracji:Polski Związek
@@ -1804,15 +1790,17 @@ DESCRIPTION:Data:2017-02-21\nGodzina:\nOrgan administracji:Polski Związek
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Polska Wytwórnia Papierów Wartościowych - II SAB/Wa 732/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170222T000000
-DESCRIPTION:Data:2017-02-22\nGodzina:\nOrgan administracji:Polska Wytwórn
- ia Papierów Wartościowych\nPrzedmiot:Bezczynność organu\nPrzewodniczą
- cy:Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Mac
- iejuk\nSygnatura akt:II SAB/Wa 732/16\nSymbol:658/6480\nSędziowie:Ewa Mar
- cinkowska\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność
-  w przedmiocie rozpoznania wniosku z 14.09.2016 r. o udost.inf.publ.\nWydz
- iał orzeczniczy:II\nWyniki:
+SUMMARY:[N] Prezydium Krajowej Rady Stowarzyszenia Ogrodowego Polskiego Zw
+ iązku Działkowców w Warszawie - II SAB/Wa 685/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170221T000000
+DESCRIPTION:Data:2017-02-21\nGodzina:\nOrgan administracji:Prezydium Krajo
+ wej Rady Stowarzyszenia Ogrodowego Polskiego Związku Działkowców w Wars
+ zawie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSala:S
+ ala posiedzeń niejawnych\nSprawozdawca:Adam Lipiński\nSygnatura akt:II S
+ AB/Wa 685/16\nSymbol:659/6480\nSędziowie:Danuta Kania\, Adam Lipiński\nT
+ yp posiedzenia:Niejawne\nUwagi:przewlekłe prowadzenie postępowania w spr
+ awie rozpoznania wniosku z dn.23.06.2016 r. o udost. inf.publ.\nWydział o
+ rzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1828,6 +1816,18 @@ DESCRIPTION:Data:2017-02-22\nGodzina:\nOrgan administracji:Orange Polska S
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Polska Wytwórnia Papierów Wartościowych - II SAB/Wa 732/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170222T000000
+DESCRIPTION:Data:2017-02-22\nGodzina:\nOrgan administracji:Polska Wytwórn
+ ia Papierów Wartościowych\nPrzedmiot:Bezczynność organu\nPrzewodniczą
+ cy:Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Mac
+ iejuk\nSygnatura akt:II SAB/Wa 732/16\nSymbol:658/6480\nSędziowie:Ewa Mar
+ cinkowska\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność
+  w przedmiocie rozpoznania wniosku z 14.09.2016 r. o udost.inf.publ.\nWydz
+ iał orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Prezes Urzędu Komunikacji Elektronicznej - II SA/Wa 1645/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170222T090000
 DESCRIPTION:Data:2017-02-22\nGodzina:09:00\nOrgan administracji:Prezes Urz
@@ -1836,6 +1836,18 @@ DESCRIPTION:Data:2017-02-22\nGodzina:09:00\nOrgan administracji:Prezes Urz
  rcinkowska\nSygnatura akt:II SA/Wa 1645/16\nSymbol:6480\nSędziowie:Ewa Ma
  rcinkowska\, Janusz Walawski\nTyp posiedzenia:Jawne\nUwagi:Odmowa udzielen
  ia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Gmina Teresin - II SAB/Wa 654/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170307T000000
+DESCRIPTION:Data:2017-03-07\nGodzina:\nOrgan administracji:Gmina Teresin\n
+ Przedmiot:Informacja publiczna\nPrzewodniczący:Iwona Maciejuk\nSala:Sala 
+ posiedzeń niejawnych\nSprawozdawca:Janusz Walawski\nSygnatura akt:II SAB/
+ Wa 654/16\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Janusz Walawski\nT
+ yp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wni
+ osku z dn.05.05.2015 r. o udost.inf.publ.\nWydział orzeczniczy:II\nWyniki
+ :
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1849,18 +1861,6 @@ DESCRIPTION:Data:2017-03-07\nGodzina:\nOrgan administracji:Miejskie Przeds
  /Wa 691/16\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Janusz Walawski\n
  Typ posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania wniosk
  u z dn.07.08.2015 r. o udost.inf.publ.\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Gmina Teresin - II SAB/Wa 654/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170307T000000
-DESCRIPTION:Data:2017-03-07\nGodzina:\nOrgan administracji:Gmina Teresin\n
- Przedmiot:Informacja publiczna\nPrzewodniczący:Iwona Maciejuk\nSala:Sala 
- posiedzeń niejawnych\nSprawozdawca:Janusz Walawski\nSygnatura akt:II SAB/
- Wa 654/16\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Janusz Walawski\nT
- yp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wni
- osku z dn.05.05.2015 r. o udost.inf.publ.\nWydział orzeczniczy:II\nWyniki
- :
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
