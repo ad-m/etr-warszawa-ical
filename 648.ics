@@ -1,17 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[N] Polski Związek Alpinizmu - II SAB/Wa 629/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170221T000000
-DESCRIPTION:Data:2017-02-21\nGodzina:\nOrgan administracji:Polski Związek
-  Alpinizmu\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewod
- niczący:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta
-  Kania\nSygnatura akt:II SAB/Wa 629/16\nSymbol:658/6480\nSędziowie:Danuta
-  Kania\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzecz
- niczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezydium Krajowej Rady Stowarzyszenia Ogrodowego Polskiego Zw
  iązku Działkowców w Warszawie - II SAB/Wa 685/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170221T000000
@@ -23,6 +12,17 @@ DESCRIPTION:Data:2017-02-21\nGodzina:\nOrgan administracji:Prezydium Krajo
  yp posiedzenia:Niejawne\nUwagi:przewlekłe prowadzenie postępowania w spr
  awie rozpoznania wniosku z dn.23.06.2016 r. o udost. inf.publ.\nWydział o
  rzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Polski Związek Alpinizmu - II SAB/Wa 629/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170221T000000
+DESCRIPTION:Data:2017-02-21\nGodzina:\nOrgan administracji:Polski Związek
+  Alpinizmu\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewod
+ niczący:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta
+  Kania\nSygnatura akt:II SAB/Wa 629/16\nSymbol:658/6480\nSędziowie:Danuta
+  Kania\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzecz
+ niczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -64,18 +64,6 @@ DESCRIPTION:Data:2017-02-22\nGodzina:09:00\nOrgan administracji:Prezes Urz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Gmina Teresin - II SAB/Wa 654/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170307T000000
-DESCRIPTION:Data:2017-03-07\nGodzina:\nOrgan administracji:Gmina Teresin\n
- Przedmiot:Informacja publiczna\nPrzewodniczący:Iwona Maciejuk\nSala:Sala 
- posiedzeń niejawnych\nSprawozdawca:Janusz Walawski\nSygnatura akt:II SAB/
- Wa 654/16\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Janusz Walawski\nT
- yp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wni
- osku z dn.05.05.2015 r. o udost.inf.publ.\nWydział orzeczniczy:II\nWyniki
- :Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji w Błoni
  u Sp. z o.o. z/s w Błoniu - II SAB/Wa 691/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170307T000000
@@ -88,6 +76,18 @@ DESCRIPTION:Data:2017-03-07\nGodzina:\nOrgan administracji:Miejskie Przeds
  u z dn.07.08.2015 r. o udost.inf.publ.\nWydział orzeczniczy:II\nWyniki:St
  wierdzono bezczynność postępowania i że bezczynność nie miała miejs
  ca z rażącym naruszeniem prawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Gmina Teresin - II SAB/Wa 654/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170307T000000
+DESCRIPTION:Data:2017-03-07\nGodzina:\nOrgan administracji:Gmina Teresin\n
+ Przedmiot:Informacja publiczna\nPrzewodniczący:Iwona Maciejuk\nSala:Sala 
+ posiedzeń niejawnych\nSprawozdawca:Janusz Walawski\nSygnatura akt:II SAB/
+ Wa 654/16\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Janusz Walawski\nT
+ yp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wni
+ osku z dn.05.05.2015 r. o udost.inf.publ.\nWydział orzeczniczy:II\nWyniki
+ :Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -127,20 +127,6 @@ DESCRIPTION:Data:2017-03-07\nGodzina:10:00\nOrgan administracji:Komendant
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Mazowiecki Wojewódzki Konserwator Zabytków - II SAB/Wa 526/1
- 6
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170308T000000
-DESCRIPTION:Data:2017-03-08\nGodzina:\nOrgan administracji:Mazowiecki Woje
- wódzki Konserwator Zabytków\nPrzedmiot:Informacja publiczna\nPrzewodnicz
- ący:Ewa Pisula-Dąbrowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:
- Ewa Pisula-Dąbrowska\nSygnatura akt:II SAB/Wa 526/16\nSymbol:658/6480\nS
- ędziowie:Sławomir Antoniuk\, Stanisław Marek Pietras\nTyp posiedzenia:N
- iejawne\nUwagi:bezczynność w przedmiocie rozpatrzenia wniosku z dnia 29 
- kwietnia 2016 r. o udostępnienie informacji publicznej\nWydział orzeczni
- czy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Burmistrz Łomianek - II SAB/Wa 4/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170308T000000
 DESCRIPTION:Data:2017-03-08\nGodzina:\nOrgan administracji:Burmistrz Łomi
@@ -152,6 +138,20 @@ DESCRIPTION:Data:2017-03-08\nGodzina:\nOrgan administracji:Burmistrz Łomi
  \nWyniki:Zobowiązano ... i stwierdzono że bezczynność miała miejsce z
   rażącym naruszeniem prawa |Orzeczono o wymierzeniu grzywny za bezczynno
  ść-art. 149 par. 2 P.P.S.A. |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Mazowiecki Wojewódzki Konserwator Zabytków - II SAB/Wa 526/1
+ 6
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170308T000000
+DESCRIPTION:Data:2017-03-08\nGodzina:\nOrgan administracji:Mazowiecki Woje
+ wódzki Konserwator Zabytków\nPrzedmiot:Informacja publiczna\nPrzewodnicz
+ ący:Ewa Pisula-Dąbrowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:
+ Ewa Pisula-Dąbrowska\nSygnatura akt:II SAB/Wa 526/16\nSymbol:658/6480\nS
+ ędziowie:Sławomir Antoniuk\, Stanisław Marek Pietras\nTyp posiedzenia:N
+ iejawne\nUwagi:bezczynność w przedmiocie rozpatrzenia wniosku z dnia 29 
+ kwietnia 2016 r. o udostępnienie informacji publicznej\nWydział orzeczni
+ czy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -225,6 +225,33 @@ DESCRIPTION:Data:2017-03-09\nGodzina:14:45\nOrgan administracji:Minister S
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 595/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170310T000000
+DESCRIPTION:Data:2017-03-10\nGodzina:\nOrgan administracji:Minister Spraw 
+ Zagranicznych\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Danuta Kani
+ a\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Dąbrowska\nSygnatu
+ ra akt:II SAB/Wa 595/16\nSymbol:658/6480\nSędziowie:Iwona Dąbrowska\, Ew
+ a Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie
+  rozpoznania wniosku z dn.25.04.2016 r. o udost.inf.publ.\nWydział orzecz
+ niczy:II\nWyniki:Stwierdzono iż bezczynność nie miała miejsca z rażą
+ cym naruszeniem prawa i w pozostałym zakresie umorzono postępowanie |Zas
+ ądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Stowarzyszenie „Łagierników” Żołnierzy Armii Krajowej 
+ z/s w Warszawie - II SAB/Wa 603/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170310T000000
+DESCRIPTION:Data:2017-03-10\nGodzina:\nOrgan administracji:Stowarzyszenie 
+ „Łagierników” Żołnierzy Armii Krajowej z/s w Warszawie\nPrzedmiot:
+ Informacja publiczna\nPrzewodniczący:Danuta Kania\nSala:Sala posiedzeń n
+ iejawnych\nSprawozdawca:Danuta Kania\nSygnatura akt:II SAB/Wa 603/16\nSymb
+ ol:658/6480\nSędziowie:Iwona Dąbrowska\, Ewa Kwiecińska\nTyp posiedzeni
+ a:Niejawne\nUwagi:bezczynność w sprawie rozpoznania wniosku z dn.19.04.2
+ 016 r. o udost.inf.publ.\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Wójt Gminy Jaktorów - II SAB/Wa 604/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170310T000000
 DESCRIPTION:Data:2017-03-10\nGodzina:\nOrgan administracji:Wójt Gminy Jak
@@ -266,45 +293,6 @@ DESCRIPTION:Data:2017-03-10\nGodzina:\nOrgan administracji:Prezydent Miast
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 104/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170310T000000
-DESCRIPTION:Data:2017-03-10\nGodzina:\nOrgan administracji:Prezes Rady Min
- istrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Danuta Kania\nSal
- a:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Dąbrowska\nSygnatura akt
- :II SAB/Wa 104/16\nSymbol:658/6480\nSędziowie:Iwona Dąbrowska\, Ewa Kwie
- cińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpa
- trzenia wniosku z dn.17.03.2015 r. o udost.inf.publ.\nWydział orzeczniczy
- :II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 595/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170310T000000
-DESCRIPTION:Data:2017-03-10\nGodzina:\nOrgan administracji:Minister Spraw 
- Zagranicznych\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Danuta Kani
- a\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Dąbrowska\nSygnatu
- ra akt:II SAB/Wa 595/16\nSymbol:658/6480\nSędziowie:Iwona Dąbrowska\, Ew
- a Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie
-  rozpoznania wniosku z dn.25.04.2016 r. o udost.inf.publ.\nWydział orzecz
- niczy:II\nWyniki:Stwierdzono iż bezczynność nie miała miejsca z rażą
- cym naruszeniem prawa i w pozostałym zakresie umorzono postępowanie |Zas
- ądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Stowarzyszenie „Łagierników” Żołnierzy Armii Krajowej 
- z/s w Warszawie - II SAB/Wa 603/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170310T000000
-DESCRIPTION:Data:2017-03-10\nGodzina:\nOrgan administracji:Stowarzyszenie 
- „Łagierników” Żołnierzy Armii Krajowej z/s w Warszawie\nPrzedmiot:
- Informacja publiczna\nPrzewodniczący:Danuta Kania\nSala:Sala posiedzeń n
- iejawnych\nSprawozdawca:Danuta Kania\nSygnatura akt:II SAB/Wa 603/16\nSymb
- ol:658/6480\nSędziowie:Iwona Dąbrowska\, Ewa Kwiecińska\nTyp posiedzeni
- a:Niejawne\nUwagi:bezczynność w sprawie rozpoznania wniosku z dn.19.04.2
- 016 r. o udost.inf.publ.\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Komisja Nadzoru Finansowego - II SAB/Wa 713/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170310T000000
 DESCRIPTION:Data:2017-03-10\nGodzina:\nOrgan administracji:Komisja Nadzoru
@@ -320,29 +308,15 @@ DESCRIPTION:Data:2017-03-10\nGodzina:\nOrgan administracji:Komisja Nadzoru
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Słubice - II SAB/Wa 110/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170314T000000
-DESCRIPTION:Data:2017-03-14\nGodzina:\nOrgan administracji:Wójt Gminy Sł
- ubice\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodnicz
- ący:Przemysław Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSprawozda
- wca:Przemysław Szustakiewicz\nSygnatura akt:II SAB/Wa 110/17\nSymbol:658/
- 6480\nSędziowie:Adam Lipiński\, Iwona Maciejuk\nTyp posiedzenia:Niejawne
- \nUwagi:\nWydział orzeczniczy:II\nWyniki:Stwierdzono iż bezczynność ni
- e miała miejsca z rażącym naruszeniem prawa i w pozostałym zakresie um
- orzono postępowanie
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Okr. Rzecznik Odpowiedz. Zawodowej - Okręgowa Izba Lekarska -
-  II SAB/Wa 58/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170314T000000
-DESCRIPTION:Data:2017-03-14\nGodzina:\nOrgan administracji:Okr. Rzecznik O
- dpowiedz. Zawodowej - Okręgowa Izba Lekarska\nPrzedmiot:Informacja public
- zna\; Informacja publiczna\nPrzewodniczący:Przemysław Szustakiewicz\nSal
- a:Sala posiedzeń niejawnych\nSprawozdawca:Przemysław Szustakiewicz\nSygn
- atura akt:II SAB/Wa 58/17\nSymbol:658/6480\nSędziowie:Adam Lipiński\, Iw
- ona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nW
- yniki:Oddalono skargę
+SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 104/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170310T000000
+DESCRIPTION:Data:2017-03-10\nGodzina:\nOrgan administracji:Prezes Rady Min
+ istrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Danuta Kania\nSal
+ a:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Dąbrowska\nSygnatura akt
+ :II SAB/Wa 104/16\nSymbol:658/6480\nSędziowie:Iwona Dąbrowska\, Ewa Kwie
+ cińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpa
+ trzenia wniosku z dn.17.03.2015 r. o udost.inf.publ.\nWydział orzeczniczy
+ :II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -369,6 +343,32 @@ DESCRIPTION:Data:2017-03-14\nGodzina:\nOrgan administracji:Minister Spraw
  a Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoz
  nania wniosku z dnia 4 października 2016 r. o udostępnienie informacji p
  ublicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Okr. Rzecznik Odpowiedz. Zawodowej - Okręgowa Izba Lekarska -
+  II SAB/Wa 58/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170314T000000
+DESCRIPTION:Data:2017-03-14\nGodzina:\nOrgan administracji:Okr. Rzecznik O
+ dpowiedz. Zawodowej - Okręgowa Izba Lekarska\nPrzedmiot:Informacja public
+ zna\; Informacja publiczna\nPrzewodniczący:Przemysław Szustakiewicz\nSal
+ a:Sala posiedzeń niejawnych\nSprawozdawca:Przemysław Szustakiewicz\nSygn
+ atura akt:II SAB/Wa 58/17\nSymbol:658/6480\nSędziowie:Adam Lipiński\, Iw
+ ona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nW
+ yniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Słubice - II SAB/Wa 110/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170314T000000
+DESCRIPTION:Data:2017-03-14\nGodzina:\nOrgan administracji:Wójt Gminy Sł
+ ubice\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodnicz
+ ący:Przemysław Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSprawozda
+ wca:Przemysław Szustakiewicz\nSygnatura akt:II SAB/Wa 110/17\nSymbol:658/
+ 6480\nSędziowie:Adam Lipiński\, Iwona Maciejuk\nTyp posiedzenia:Niejawne
+ \nUwagi:\nWydział orzeczniczy:II\nWyniki:Stwierdzono iż bezczynność ni
+ e miała miejsca z rażącym naruszeniem prawa i w pozostałym zakresie um
+ orzono postępowanie
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1432,18 +1432,6 @@ DESCRIPTION:Data:2017-04-20\nGodzina:\nOrgan administracji:Minister Sprawi
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Pierwszy Prezes Sądu Najwyższego - II SAB/Wa 11/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170420T000000
-DESCRIPTION:Data:2017-04-20\nGodzina:\nOrgan administracji:Pierwszy Prezes
-  Sądu Najwyższego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Przem
- ysław Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Przemy
- sław Szustakiewicz\nSygnatura akt:II SAB/Wa 11/17\nSymbol:658/6480\nSędz
- iowie:Adam Lipiński\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:be
- zczynność w przedmiocie rozpoznania wniosku z dnia 4 lipca 2016 r. o udo
- stępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Sądu Rejonowego dla Warszawy - Śródmieście - II SAB
  /Wa 22/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170420T000000
@@ -1454,6 +1442,18 @@ DESCRIPTION:Data:2017-04-20\nGodzina:\nOrgan administracji:Prezes Sądu Re
  bol:658/6480\nSędziowie:Adam Lipiński\, Janusz Walawski\nTyp posiedzenia
  :Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dn.27.1
  0.2016 r. o udost. inf.publ.\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Pierwszy Prezes Sądu Najwyższego - II SAB/Wa 11/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170420T000000
+DESCRIPTION:Data:2017-04-20\nGodzina:\nOrgan administracji:Pierwszy Prezes
+  Sądu Najwyższego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Przem
+ ysław Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Przemy
+ sław Szustakiewicz\nSygnatura akt:II SAB/Wa 11/17\nSymbol:658/6480\nSędz
+ iowie:Adam Lipiński\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:be
+ zczynność w przedmiocie rozpoznania wniosku z dnia 4 lipca 2016 r. o udo
+ stępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1505,18 +1505,6 @@ DESCRIPTION:Data:2017-04-26\nGodzina:\nOrgan administracji:Minister Rozwoj
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Burmistrz Łomianek - II SAB/Wa 794/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170426T000000
-DESCRIPTION:Data:2017-04-26\nGodzina:\nOrgan administracji:Burmistrz Łomi
- anek\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kube\nSala:Sa
- la posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura akt:II SA
- B/Wa 794/16\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Adam Lipiński\n
- Typ posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wn
- iosku z dn.25\,26\,29 kwietnia 2016 r. o udost.inf.publ.\nWydział orzeczn
- iczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Centralny Szpital Kliniczny Ministerstwa Spraw Wewnętrznych w
   Warszawie - II SAB/Wa 715/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170426T000000
@@ -1527,6 +1515,18 @@ DESCRIPTION:Data:2017-04-26\nGodzina:\nOrgan administracji:Centralny Szpit
  SAB/Wa 715/16\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Adam Lipiński
  \nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęt
  o z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Burmistrz Łomianek - II SAB/Wa 794/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170426T000000
+DESCRIPTION:Data:2017-04-26\nGodzina:\nOrgan administracji:Burmistrz Łomi
+ anek\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kube\nSala:Sa
+ la posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura akt:II SA
+ B/Wa 794/16\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Adam Lipiński\n
+ Typ posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wn
+ iosku z dn.25\,26\,29 kwietnia 2016 r. o udost.inf.publ.\nWydział orzeczn
+ iczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1602,20 +1602,6 @@ DESCRIPTION:Data:2017-05-10\nGodzina:\nOrgan administracji:Minister Rozwoj
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Instytutu Pamięci Narodowej Komisja Ścigania Zbrodni 
- Przeciwko Narodowi Polskiemu - II SAB/Wa 473/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170510T000000
-DESCRIPTION:Data:2017-05-10\nGodzina:\nOrgan administracji:Prezes Instytut
- u Pamięci Narodowej Komisja Ścigania Zbrodni Przeciwko Narodowi Polskiem
- u\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławomir Antoniuk\nSal
- a:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nSygnatura a
- kt:II SAB/Wa 473/16\nSymbol:658/6480\nSędziowie:Danuta Kania\, Iwona Maci
- ejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania 
- wniosku z dnia 10 listopada 2015 r. o udostępnienie informacji publicznej
- \nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Urzędu Rejestracji Produktów Leczniczych\, Wyrobów M
  edycznych i Produktów Biobójczych - II SAB/Wa 796/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170510T000000
@@ -1627,6 +1613,20 @@ DESCRIPTION:Data:2017-05-10\nGodzina:\nOrgan administracji:Prezes Urzędu
  iejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpozn
  ania wniosku z dn. 22.09.2016 r. o udost.inf.publ.\nWydział orzeczniczy:I
  I\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Instytutu Pamięci Narodowej Komisja Ścigania Zbrodni 
+ Przeciwko Narodowi Polskiemu - II SAB/Wa 473/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170510T000000
+DESCRIPTION:Data:2017-05-10\nGodzina:\nOrgan administracji:Prezes Instytut
+ u Pamięci Narodowej Komisja Ścigania Zbrodni Przeciwko Narodowi Polskiem
+ u\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławomir Antoniuk\nSal
+ a:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nSygnatura a
+ kt:II SAB/Wa 473/16\nSymbol:658/6480\nSędziowie:Danuta Kania\, Iwona Maci
+ ejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania 
+ wniosku z dnia 10 listopada 2015 r. o udostępnienie informacji publicznej
+ \nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1746,18 +1746,6 @@ DESCRIPTION:Data:2017-05-11\nGodzina:10:40\nOrgan administracji:Prezes Kra
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Rzecznik Praw Obywatelskich - II SAB/Wa 763/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170512T000000
-DESCRIPTION:Data:2017-05-12\nGodzina:\nOrgan administracji:Rzecznik Praw O
- bywatelskich\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Dąbro
- wska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygn
- atura akt:II SAB/Wa 763/16\nSymbol:658/6480\nSędziowie:Ewa Marcinkowska\,
-  Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przed
- miocie rozpoznania wniosku z 07.10.2016 r. o udost.inf.publ.\nWydział orz
- eczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Szpital Specjalistyczny „Inflancka” im. Krysi Niżyńskiej
   „Zakurzonej” SP ZOZ z/s w Warszawie - II SAB/Wa 791/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170512T000000
@@ -1769,6 +1757,18 @@ DESCRIPTION:Data:2017-05-12\nGodzina:\nOrgan administracji:Szpital Specjal
  a\, Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sp
  rawie rozpoznania wniosku z dn.30.08.2016 r. o udost.inf.publ.\nWydział o
  rzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Rzecznik Praw Obywatelskich - II SAB/Wa 763/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170512T000000
+DESCRIPTION:Data:2017-05-12\nGodzina:\nOrgan administracji:Rzecznik Praw O
+ bywatelskich\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Dąbro
+ wska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygn
+ atura akt:II SAB/Wa 763/16\nSymbol:658/6480\nSędziowie:Ewa Marcinkowska\,
+  Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przed
+ miocie rozpoznania wniosku z 07.10.2016 r. o udost.inf.publ.\nWydział orz
+ eczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
