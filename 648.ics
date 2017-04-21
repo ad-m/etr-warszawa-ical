@@ -166,18 +166,6 @@ DESCRIPTION:Data:2017-03-08\nGodzina:10:00\nOrgan administracji:Szef Agenc
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] SKO w Warszawie - II SAB/Wa 417/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170309T000000
-DESCRIPTION:Data:2017-03-09\nGodzina:\nOrgan administracji:SKO w Warszawie
- \nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa Pisula-Dąbrowska\nS
- ala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Pisula-Dąbrowska\nSygnat
- ura akt:II SAB/Wa 417/16\nSymbol:658/6480\nSędziowie:Ewa Marcinkowska\, M
- aria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmi
- ocie rozpoznania wniosku z dnia 14.04.2016 r. o udziel.inf.publ.\nWydział
-  orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Miasto Stołeczne Warszawa Dzielnica Ochota - II SAB/Wa 441/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170309T000000
 DESCRIPTION:Data:2017-03-09\nGodzina:\nOrgan administracji:Miasto Stołecz
@@ -187,6 +175,18 @@ DESCRIPTION:Data:2017-03-09\nGodzina:\nOrgan administracji:Miasto Stołecz
  ędziowie:Ewa Marcinkowska\, Maria Werpachowska\nTyp posiedzenia:Niejawne\
  nUwagi:bezczynność w sprawie rozpoznania wniosku o udostępnienie inform
  acji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] SKO w Warszawie - II SAB/Wa 417/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170309T000000
+DESCRIPTION:Data:2017-03-09\nGodzina:\nOrgan administracji:SKO w Warszawie
+ \nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa Pisula-Dąbrowska\nS
+ ala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Pisula-Dąbrowska\nSygnat
+ ura akt:II SAB/Wa 417/16\nSymbol:658/6480\nSędziowie:Ewa Marcinkowska\, M
+ aria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmi
+ ocie rozpoznania wniosku z dnia 14.04.2016 r. o udziel.inf.publ.\nWydział
+  orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -418,6 +418,17 @@ DESCRIPTION:Data:2017-03-15\nGodzina:14:25\nOrgan administracji:Prokurator
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Rada Gminy Załuski - II SAB/Wa 664/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170316T000000
+DESCRIPTION:Data:2017-03-16\nGodzina:\nOrgan administracji:Rada Gminy Zał
+ uski\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodniczą
+ cy:Adam Lipiński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam Lipi
+ ński\nSygnatura akt:II SAB/Wa 664/16\nSymbol:658/6480\nSędziowie:Stanis
+ ław Marek Pietras\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:\nWy
+ dział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Burmistrz Dzielnicy Białołęka m.st. Warszawy - II SAB/Wa 71
  9/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170316T000000
@@ -428,17 +439,6 @@ DESCRIPTION:Data:2017-03-16\nGodzina:\nOrgan administracji:Burmistrz Dziel
  19/16\nSymbol:658/6480\nSędziowie:Stanisław Marek Pietras\, Janusz Walaw
  ski\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Odd
  alono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Rada Gminy Załuski - II SAB/Wa 664/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170316T000000
-DESCRIPTION:Data:2017-03-16\nGodzina:\nOrgan administracji:Rada Gminy Zał
- uski\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodniczą
- cy:Adam Lipiński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam Lipi
- ński\nSygnatura akt:II SAB/Wa 664/16\nSymbol:658/6480\nSędziowie:Stanis
- ław Marek Pietras\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:\nWy
- dział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -701,17 +701,6 @@ DESCRIPTION:Data:2017-03-24\nGodzina:09:30\nOrgan administracji:Komisja Na
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[J] Szef Kancelarii Sejmu - II SAB/Wa 23/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170327T000000
-DESCRIPTION:Data:2017-03-27\nGodzina:\nOrgan administracji:Szef Kancelarii
-  Sejmu\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Kołodziej
- \nSala:222\nSprawozdawca:Andrzej Kołodziej\nSygnatura akt:II SAB/Wa 23/17
- \nSymbol:658/6480\nSędziowie:\nTyp posiedzenia:Jawne\nUwagi:bezczynność
-  w przedmiocie rozpoznania wniosku z dn.18.12.2016 r. o udost. inf.publ.\n
- Wydział orzeczniczy:II\nWyniki:Zarządzenie Przewodniczącego
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Platforma Obywatelska Rp - II SAB/Wa 734/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170327T000000
 DESCRIPTION:Data:2017-03-27\nGodzina:\nOrgan administracji:Platforma Obywa
@@ -720,6 +709,17 @@ DESCRIPTION:Data:2017-03-27\nGodzina:\nOrgan administracji:Platforma Obywa
  natura akt:II SAB/Wa 734/16\nSymbol:658/6480\nSędziowie:\nTyp posiedzenia
  :Jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zarządzenie Przewodniczą
  cego
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[J] Szef Kancelarii Sejmu - II SAB/Wa 23/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170327T000000
+DESCRIPTION:Data:2017-03-27\nGodzina:\nOrgan administracji:Szef Kancelarii
+  Sejmu\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Kołodziej
+ \nSala:222\nSprawozdawca:Andrzej Kołodziej\nSygnatura akt:II SAB/Wa 23/17
+ \nSymbol:658/6480\nSędziowie:\nTyp posiedzenia:Jawne\nUwagi:bezczynność
+  w przedmiocie rozpoznania wniosku z dn.18.12.2016 r. o udost. inf.publ.\n
+ Wydział orzeczniczy:II\nWyniki:Zarządzenie Przewodniczącego
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -748,18 +748,6 @@ DESCRIPTION:Data:2017-03-28\nGodzina:\nOrgan administracji:Minister Rozwoj
 LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Głównego Urzędu Statystycznego - II SAB/Wa 770/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170329T000000
-DESCRIPTION:Data:2017-03-29\nGodzina:\nOrgan administracji:Prezes Główne
- go Urzędu Statystycznego\nPrzedmiot:Informacja publiczna\nPrzewodniczący
- :Sławomir Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławom
- ir Antoniuk\nSygnatura akt:II SAB/Wa 770/16\nSymbol:658/6480\nSędziowie:A
- ndrzej Góraj\, Danuta Kania\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
- ć w przedmiocie rozpoznania wniosku z dn.08.10.2015 r. o udost.inf.publ.\
- nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Minister Nauki i Szkolnictwa Wyższego - II SAB/Wa 759/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170329T000000
 DESCRIPTION:Data:2017-03-29\nGodzina:\nOrgan administracji:Minister Nauki 
@@ -769,6 +757,18 @@ DESCRIPTION:Data:2017-03-29\nGodzina:\nOrgan administracji:Minister Nauki
   Góraj\, Danuta Kania\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w pr
  zedmiocie rozpoznania wniosku z dn.23.08.2015 r. o udost.inf.publ.\nWydzia
  ł orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Głównego Urzędu Statystycznego - II SAB/Wa 770/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170329T000000
+DESCRIPTION:Data:2017-03-29\nGodzina:\nOrgan administracji:Prezes Główne
+ go Urzędu Statystycznego\nPrzedmiot:Informacja publiczna\nPrzewodniczący
+ :Sławomir Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławom
+ ir Antoniuk\nSygnatura akt:II SAB/Wa 770/16\nSymbol:658/6480\nSędziowie:A
+ ndrzej Góraj\, Danuta Kania\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
+ ć w przedmiocie rozpoznania wniosku z dn.08.10.2015 r. o udost.inf.publ.\
+ nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -936,20 +936,6 @@ DESCRIPTION:Data:2017-04-04\nGodzina:\nOrgan administracji:Pierwszy Prezes
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Orange Polska S.A. z/s w Warszawie - II SAB/Wa 553/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170404T000000
-DESCRIPTION:Data:2017-04-04\nGodzina:\nOrgan administracji:Orange Polska S
- .A. z/s w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona
-  Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nS
- ygnatura akt:II SAB/Wa 553/16\nSymbol:658/6480\nSędziowie:Andrzej Góraj\
- , Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmio
- cie rozpatrzenia wniosku z dnia 25 marca 2016 r. o udostępnienie informac
- ji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność p
- ostępowania i że bezczynność nie miała miejsca z rażącym naruszenie
- m prawa |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes NSA - II SAB/Wa 674/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170404T000000
 DESCRIPTION:Data:2017-04-04\nGodzina:\nOrgan administracji:Prezes NSA\nPrz
@@ -961,6 +947,20 @@ DESCRIPTION:Data:2017-04-04\nGodzina:\nOrgan administracji:Prezes NSA\nPrz
  zeczniczy:II\nWyniki:Stwierdzono bezczynność postępowania i że bezczyn
  ność nie miała miejsca z rażącym naruszeniem prawa |Zasądzono zwrot 
  kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Orange Polska S.A. z/s w Warszawie - II SAB/Wa 553/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170404T000000
+DESCRIPTION:Data:2017-04-04\nGodzina:\nOrgan administracji:Orange Polska S
+ .A. z/s w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona
+  Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nS
+ ygnatura akt:II SAB/Wa 553/16\nSymbol:658/6480\nSędziowie:Andrzej Góraj\
+ , Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmio
+ cie rozpatrzenia wniosku z dnia 25 marca 2016 r. o udostępnienie informac
+ ji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność p
+ ostępowania i że bezczynność nie miała miejsca z rażącym naruszenie
+ m prawa |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1940,17 +1940,6 @@ DESCRIPTION:Data:2017-05-19\nGodzina:09:30\nOrgan administracji:Prezydium
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[J] Minister Obrony Narodowej - II SA/Wa 109/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170519T100000
-DESCRIPTION:Data:2017-05-19\nGodzina:10:00\nOrgan administracji:Minister O
- brony Narodowej\nPrzedmiot:Odmowa udzielenia informacji publicznej\; Odmow
- a udzielenia informacji publicznej\nPrzewodniczący:Danuta Kania\nSala:Sal
- a H\nSprawozdawca:Adam Lipiński\nSygnatura akt:II SA/Wa 109/17\nSymbol:64
- 80\nSędziowie:Sławomir Antoniuk\, Adam Lipiński\nTyp posiedzenia:Jawne\
- nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Minister Edukacji Narodowej - II SA/Wa 295/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170519T100000
 DESCRIPTION:Data:2017-05-19\nGodzina:10:00\nOrgan administracji:Minister E
@@ -1959,6 +1948,17 @@ DESCRIPTION:Data:2017-05-19\nGodzina:10:00\nOrgan administracji:Minister E
  5/17\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, Adam Lipiński\nTyp pos
  iedzenia:Jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydzia
  ł orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[J] Minister Obrony Narodowej - II SA/Wa 109/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170519T100000
+DESCRIPTION:Data:2017-05-19\nGodzina:10:00\nOrgan administracji:Minister O
+ brony Narodowej\nPrzedmiot:Odmowa udzielenia informacji publicznej\; Odmow
+ a udzielenia informacji publicznej\nPrzewodniczący:Danuta Kania\nSala:Sal
+ a H\nSprawozdawca:Adam Lipiński\nSygnatura akt:II SA/Wa 109/17\nSymbol:64
+ 80\nSędziowie:Sławomir Antoniuk\, Adam Lipiński\nTyp posiedzenia:Jawne\
+ nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
