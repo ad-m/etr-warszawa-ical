@@ -14,18 +14,6 @@ DESCRIPTION:Data:2017-04-26\nGodzina:\nOrgan administracji:Minister Rozwoj
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Burmistrz Łomianek - II SAB/Wa 794/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170426T000000
-DESCRIPTION:Data:2017-04-26\nGodzina:\nOrgan administracji:Burmistrz Łomi
- anek\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kube\nSala:Sa
- la posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura akt:II SA
- B/Wa 794/16\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Adam Lipiński\n
- Typ posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wn
- iosku z dn.25\,26\,29 kwietnia 2016 r. o udost.inf.publ.\nWydział orzeczn
- iczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Centralny Szpital Kliniczny Ministerstwa Spraw Wewnętrznych w
   Warszawie - II SAB/Wa 715/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170426T000000
@@ -37,6 +25,18 @@ DESCRIPTION:Data:2017-04-26\nGodzina:\nOrgan administracji:Centralny Szpit
  wne\nUwagi:bezczynność w sprawie rozpoznania wniosku z dnia 19 kwietnia 
  2016 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nW
  yniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Burmistrz Łomianek - II SAB/Wa 794/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170426T000000
+DESCRIPTION:Data:2017-04-26\nGodzina:\nOrgan administracji:Burmistrz Łomi
+ anek\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kube\nSala:Sa
+ la posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura akt:II SA
+ B/Wa 794/16\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Adam Lipiński\n
+ Typ posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wn
+ iosku z dn.25\,26\,29 kwietnia 2016 r. o udost.inf.publ.\nWydział orzeczn
+ iczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -89,17 +89,6 @@ DESCRIPTION:Data:2017-04-28\nGodzina:\nOrgan administracji:Prezes Trybuna
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Zdrowia - II SA/Wa 2052/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170428T000000
-DESCRIPTION:Data:2017-04-28\nGodzina:\nOrgan administracji:Minister Zdrowi
- a\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Kwiecińska\nSala:S
- ala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura akt:II 
- SA/Wa 2052/16\nSymbol:6480\nSędziowie:Iwona Dąbrowska\, Maria Werpachows
- ka\nTyp posiedzenia:Niejawne\nUwagi:stwierdzenie uchybienai do wniesienia 
- odwołania od decyzji\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 14/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170428T000000
 DESCRIPTION:Data:2017-04-28\nGodzina:\nOrgan administracji:Komendant Głó
@@ -109,6 +98,17 @@ DESCRIPTION:Data:2017-04-28\nGodzina:\nOrgan administracji:Komendant Głó
  Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
  iocie dostępu do informacji publicznej objętej wnioskiem z dn. 24.11.201
  6\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Zdrowia - II SA/Wa 2052/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170428T000000
+DESCRIPTION:Data:2017-04-28\nGodzina:\nOrgan administracji:Minister Zdrowi
+ a\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Kwiecińska\nSala:S
+ ala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura akt:II 
+ SA/Wa 2052/16\nSymbol:6480\nSędziowie:Iwona Dąbrowska\, Maria Werpachows
+ ka\nTyp posiedzenia:Niejawne\nUwagi:stwierdzenie uchybienai do wniesienia 
+ odwołania od decyzji\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -478,17 +478,6 @@ DESCRIPTION:Data:2017-05-19\nGodzina:09:30\nOrgan administracji:Prezydium
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[J] Minister Edukacji Narodowej - II SA/Wa 295/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170519T100000
-DESCRIPTION:Data:2017-05-19\nGodzina:10:00\nOrgan administracji:Minister E
- dukacji Narodowej\nPrzedmiot:Informacja publiczna\; Informacja publiczna\n
- Przewodniczący:Danuta Kania\nSala:Sala H\nSprawozdawca:Adam Lipiński\nSy
- gnatura akt:II SA/Wa 295/17\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, 
- Adam Lipiński\nTyp posiedzenia:Jawne\nUwagi:\nWydział orzeczniczy:II\nWy
- niki:Odroczono ogłoszenie orzeczenia na dzień 2017-05-23
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Minister Obrony Narodowej - II SA/Wa 109/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170519T100000
 DESCRIPTION:Data:2017-05-19\nGodzina:10:00\nOrgan administracji:Minister O
@@ -497,6 +486,17 @@ DESCRIPTION:Data:2017-05-19\nGodzina:10:00\nOrgan administracji:Minister O
  a akt:II SA/Wa 109/17\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, Adam L
  ipiński\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji pu
  blicznej\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[J] Minister Edukacji Narodowej - II SA/Wa 295/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170519T100000
+DESCRIPTION:Data:2017-05-19\nGodzina:10:00\nOrgan administracji:Minister E
+ dukacji Narodowej\nPrzedmiot:Informacja publiczna\; Informacja publiczna\n
+ Przewodniczący:Danuta Kania\nSala:Sala H\nSprawozdawca:Adam Lipiński\nSy
+ gnatura akt:II SA/Wa 295/17\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, 
+ Adam Lipiński\nTyp posiedzenia:Jawne\nUwagi:\nWydział orzeczniczy:II\nWy
+ niki:Odroczono ogłoszenie orzeczenia na dzień 2017-05-23
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -815,6 +815,19 @@ DESCRIPTION:Data:2017-05-29\nGodzina:12:25\nOrgan administracji:Szef Agenc
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 788/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170530T000000
+DESCRIPTION:Data:2017-05-30\nGodzina:\nOrgan administracji:Minister Spraw 
+ Zagranicznych\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube
+ \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Stanisław Marek Pietras\n
+ Sygnatura akt:II SAB/Wa 788/16\nSymbol:658/6480\nSędziowie:Piotr Borowiec
+ ki\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
+ ć w przedmiocie rozpoznania wniosku z dnia 15 września 2016 r. o udziele
+ nie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skarg
+ ę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Pierwszy Prezes Sądu Najwyższego - II SAB/Wa 10/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170530T000000
 DESCRIPTION:Data:2017-05-30\nGodzina:\nOrgan administracji:Pierwszy Prezes
@@ -826,19 +839,6 @@ DESCRIPTION:Data:2017-05-30\nGodzina:\nOrgan administracji:Pierwszy Prezes
  ostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowi
  ązano ... i stwierdzono że bezczynność miała miejsce bez rażącego n
  aruszenia prawa |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 788/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170530T000000
-DESCRIPTION:Data:2017-05-30\nGodzina:\nOrgan administracji:Minister Spraw 
- Zagranicznych\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube
- \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Stanisław Marek Pietras\n
- Sygnatura akt:II SAB/Wa 788/16\nSymbol:658/6480\nSędziowie:Piotr Borowiec
- ki\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
- ć w przedmiocie rozpoznania wniosku z dnia 15 września 2016 r. o udziele
- nie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skarg
- ę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -971,6 +971,17 @@ DESCRIPTION:Data:2017-06-09\nGodzina:\nOrgan administracji:Wójt Gminy Bog
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Minister Sprawiedliwości - II SAB/Wa 775/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170609T000000
+DESCRIPTION:Data:2017-06-09\nGodzina:\nOrgan administracji:Minister Sprawi
+ edliwości\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewod
+ niczący:Sławomir Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca
+ :Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 775/16\nSymbol:658/6480\nSędzio
+ wie:Ewa Kwiecińska\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\n
+ Uwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Burmistrz Dzielnicy Warszawa Ursynów - II SAB/Wa 59/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170609T000000
 DESCRIPTION:Data:2017-06-09\nGodzina:\nOrgan administracji:Burmistrz Dziel
@@ -980,17 +991,6 @@ DESCRIPTION:Data:2017-06-09\nGodzina:\nOrgan administracji:Burmistrz Dziel
  Kwiecińska\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:be
  zczynność w przedmiocie rozpoznania wniosku z dn.11.10.2016 r. o udost.i
  nf.publ.\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Sprawiedliwości - II SAB/Wa 775/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170609T000000
-DESCRIPTION:Data:2017-06-09\nGodzina:\nOrgan administracji:Minister Sprawi
- edliwości\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewod
- niczący:Sławomir Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca
- :Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 775/16\nSymbol:658/6480\nSędzio
- wie:Ewa Kwiecińska\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\n
- Uwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
