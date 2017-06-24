@@ -77,17 +77,6 @@ DESCRIPTION:Data:2017-04-27\nGodzina:10:30\nOrgan administracji:Rada Gminy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Zdrowia - II SA/Wa 2052/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170428T000000
-DESCRIPTION:Data:2017-04-28\nGodzina:\nOrgan administracji:Minister Zdrowi
- a\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Kwiecińska\nSala:S
- ala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura akt:II 
- SA/Wa 2052/16\nSymbol:6480\nSędziowie:Iwona Dąbrowska\, Maria Werpachows
- ka\nTyp posiedzenia:Niejawne\nUwagi:stwierdzenie uchybienai do wniesienia 
- odwołania od decyzji\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Trybunału Konstytucyjnego - II SAB/Wa 151/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170428T000000
 DESCRIPTION:Data:2017-04-28\nGodzina:\nOrgan administracji:Prezes Trybuna
@@ -109,6 +98,17 @@ DESCRIPTION:Data:2017-04-28\nGodzina:\nOrgan administracji:Komendant Głó
  Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
  iocie dostępu do informacji publicznej objętej wnioskiem z dn. 24.11.201
  6\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Zdrowia - II SA/Wa 2052/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170428T000000
+DESCRIPTION:Data:2017-04-28\nGodzina:\nOrgan administracji:Minister Zdrowi
+ a\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Kwiecińska\nSala:S
+ ala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura akt:II 
+ SA/Wa 2052/16\nSymbol:6480\nSędziowie:Iwona Dąbrowska\, Maria Werpachows
+ ka\nTyp posiedzenia:Niejawne\nUwagi:stwierdzenie uchybienai do wniesienia 
+ odwołania od decyzji\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -648,19 +648,6 @@ DESCRIPTION:Data:2017-05-24\nGodzina:09:30\nOrgan administracji:SKO w Wars
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Instytutu Pamięci Narodowej Komisja Ścigania Zbrodni 
- Przeciwko Narodowi Polskiemu - II SAB/Wa 773/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170525T000000
-DESCRIPTION:Data:2017-05-25\nGodzina:\nOrgan administracji:Prezes Instytut
- u Pamięci Narodowej Komisja Ścigania Zbrodni Przeciwko Narodowi Polskiem
- u\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczący:
- Piotr Borowiecki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Boro
- wiecki\nSygnatura akt:II SAB/Wa 773/16\nSymbol:658/6480\nSędziowie:Stanis
- ław Marek Pietras\, Przemysław Szustakiewicz\nTyp posiedzenia:Niejawne\n
- Uwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 65/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170525T000000
 DESCRIPTION:Data:2017-05-25\nGodzina:\nOrgan administracji:Prezydent m.st.
@@ -672,6 +659,19 @@ DESCRIPTION:Data:2017-05-25\nGodzina:\nOrgan administracji:Prezydent m.st.
  f.publ.\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono ż
  e bezczynność miała miejsce bez rażącego naruszenia prawa |Zasądzono
   zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Instytutu Pamięci Narodowej Komisja Ścigania Zbrodni 
+ Przeciwko Narodowi Polskiemu - II SAB/Wa 773/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170525T000000
+DESCRIPTION:Data:2017-05-25\nGodzina:\nOrgan administracji:Prezes Instytut
+ u Pamięci Narodowej Komisja Ścigania Zbrodni Przeciwko Narodowi Polskiem
+ u\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczący:
+ Piotr Borowiecki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Boro
+ wiecki\nSygnatura akt:II SAB/Wa 773/16\nSymbol:658/6480\nSędziowie:Stanis
+ ław Marek Pietras\, Przemysław Szustakiewicz\nTyp posiedzenia:Niejawne\n
+ Uwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1085,6 +1085,20 @@ DESCRIPTION:Data:2017-06-14\nGodzina:\nOrgan administracji:Wójt Gminy And
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Starosta Powiatu Pułtuskiego - II SAB/Wa 133/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170621T000000
+DESCRIPTION:Data:2017-06-21\nGodzina:\nOrgan administracji:Starosta Powiat
+ u Pułtuskiego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kub
+ e\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Janusz Walawski\nSygnatur
+ a akt:II SAB/Wa 133/17\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Jan
+ usz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie 
+ rozpoznania wniosku z dnia 2 września 2016 r. o udostępnienie informacji
+  publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność pos
+ tępowania i że bezczynność nie miała miejsca z rażącym naruszeniem 
+ prawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Starosta Powiatu Zwoleńskiego - II SAB/Wa 90/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170621T000000
 DESCRIPTION:Data:2017-06-21\nGodzina:\nOrgan administracji:Starosta Powiat
@@ -1108,20 +1122,6 @@ DESCRIPTION:Data:2017-06-21\nGodzina:\nOrgan administracji:Wójt Gminy Kle
  , Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmi
  ocie rozpatrzenia wniosku z dnia 29 kwietnia 2016 r. o dostęp do informac
  ji publcznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Starosta Powiatu Pułtuskiego - II SAB/Wa 133/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170621T000000
-DESCRIPTION:Data:2017-06-21\nGodzina:\nOrgan administracji:Starosta Powiat
- u Pułtuskiego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kub
- e\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Janusz Walawski\nSygnatur
- a akt:II SAB/Wa 133/17\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Jan
- usz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie 
- rozpoznania wniosku z dnia 2 września 2016 r. o udostępnienie informacji
-  publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność pos
- tępowania i że bezczynność nie miała miejsca z rażącym naruszeniem 
- prawa |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1203,23 +1203,23 @@ DESCRIPTION:Data:2017-06-28\nGodzina:\nOrgan administracji:Polski Związek
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[J] Prezydent Miasta Radomia - VIII SA/Wa 88/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170628T124000
-DESCRIPTION:Data:2017-06-28\nGodzina:12:40\nOrgan administracji:Prezydent 
- Miasta Radomia\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Renata Naw
- rot\nSala:Sala B Radom\nSprawozdawca:Renata Nawrot\nSygnatura akt:VIII SA/
- Wa 88/17\nSymbol:6480\nSędziowie:Justyna Mazur\, Iwona Szymanowicz-Nowak\
- nTyp posiedzenia:Jawne\nUwagi:udostępnienie informacji publicznej\nWydzia
- ł orzeczniczy:VIII\nWyniki:
-LOCATION:Wydzial VIII\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Prezydent Miasta Radomia - VIII SA/Wa 87/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170628T124000
 DESCRIPTION:Data:2017-06-28\nGodzina:12:40\nOrgan administracji:Prezydent 
  Miasta Radomia\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Renata Naw
  rot\nSala:Sala B Radom\nSprawozdawca:Renata Nawrot\nSygnatura akt:VIII SA/
  Wa 87/17\nSymbol:6480\nSędziowie:Justyna Mazur\, Iwona Szymanowicz-Nowak\
+ nTyp posiedzenia:Jawne\nUwagi:udostępnienie informacji publicznej\nWydzia
+ ł orzeczniczy:VIII\nWyniki:
+LOCATION:Wydzial VIII\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[J] Prezydent Miasta Radomia - VIII SA/Wa 88/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170628T124000
+DESCRIPTION:Data:2017-06-28\nGodzina:12:40\nOrgan administracji:Prezydent 
+ Miasta Radomia\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Renata Naw
+ rot\nSala:Sala B Radom\nSprawozdawca:Renata Nawrot\nSygnatura akt:VIII SA/
+ Wa 88/17\nSymbol:6480\nSędziowie:Justyna Mazur\, Iwona Szymanowicz-Nowak\
  nTyp posiedzenia:Jawne\nUwagi:udostępnienie informacji publicznej\nWydzia
  ł orzeczniczy:VIII\nWyniki:
 LOCATION:Wydzial VIII\, WSA Warszawa
