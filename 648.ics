@@ -1,20 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[N] Minister Energii - II SAB/Wa 710/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170510T000000
-DESCRIPTION:Data:2017-05-10\nGodzina:\nOrgan administracji:Minister Energi
- i\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławomir Antoniuk\nSal
- a:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nSygnatura a
- kt:II SAB/Wa 710/16\nSymbol:658/6480\nSędziowie:Danuta Kania\, Iwona Maci
- ejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania 
- wniosku z dn27.07.2016 r. o udost.inf.publ.\nWydział orzeczniczy:II\nWyni
- ki:Zobowiązano ... i stwierdzono że bezczynność miała miejsce bez ra
- żącego naruszenia prawa |Umorzono postępowanie z art. 161 ustawy -PoPPS
- A |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Instytutu Pamięci Narodowej Komisja Ścigania Zbrodni 
  Przeciwko Narodowi Polskiemu - II SAB/Wa 473/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170510T000000
@@ -54,6 +40,20 @@ DESCRIPTION:Data:2017-05-10\nGodzina:\nOrgan administracji:Minister Rozwoj
  a Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie ro
  zpoznania wniosku z 15.01.2016 r. o udost.inf.publ.\nWydział orzeczniczy:
  II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Energii - II SAB/Wa 710/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170510T000000
+DESCRIPTION:Data:2017-05-10\nGodzina:\nOrgan administracji:Minister Energi
+ i\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławomir Antoniuk\nSal
+ a:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nSygnatura a
+ kt:II SAB/Wa 710/16\nSymbol:658/6480\nSędziowie:Danuta Kania\, Iwona Maci
+ ejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania 
+ wniosku z dn27.07.2016 r. o udost.inf.publ.\nWydział orzeczniczy:II\nWyni
+ ki:Zobowiązano ... i stwierdzono że bezczynność miała miejsce bez ra
+ żącego naruszenia prawa |Umorzono postępowanie z art. 161 ustawy -PoPPS
+ A |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -357,17 +357,6 @@ DESCRIPTION:Data:2017-05-19\nGodzina:09:30\nOrgan administracji:Prezydium
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[J] Minister Edukacji Narodowej - II SA/Wa 295/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170519T100000
-DESCRIPTION:Data:2017-05-19\nGodzina:10:00\nOrgan administracji:Minister E
- dukacji Narodowej\nPrzedmiot:Informacja publiczna\; Informacja publiczna\n
- Przewodniczący:Danuta Kania\nSala:Sala H\nSprawozdawca:Adam Lipiński\nSy
- gnatura akt:II SA/Wa 295/17\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, 
- Adam Lipiński\nTyp posiedzenia:Jawne\nUwagi:\nWydział orzeczniczy:II\nWy
- niki:Odroczono ogłoszenie orzeczenia na dzień 2017-05-23
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Minister Obrony Narodowej - II SA/Wa 109/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170519T100000
 DESCRIPTION:Data:2017-05-19\nGodzina:10:00\nOrgan administracji:Minister O
@@ -376,6 +365,17 @@ DESCRIPTION:Data:2017-05-19\nGodzina:10:00\nOrgan administracji:Minister O
  a akt:II SA/Wa 109/17\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, Adam L
  ipiński\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji pu
  blicznej\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[J] Minister Edukacji Narodowej - II SA/Wa 295/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170519T100000
+DESCRIPTION:Data:2017-05-19\nGodzina:10:00\nOrgan administracji:Minister E
+ dukacji Narodowej\nPrzedmiot:Informacja publiczna\; Informacja publiczna\n
+ Przewodniczący:Danuta Kania\nSala:Sala H\nSprawozdawca:Adam Lipiński\nSy
+ gnatura akt:II SA/Wa 295/17\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, 
+ Adam Lipiński\nTyp posiedzenia:Jawne\nUwagi:\nWydział orzeczniczy:II\nWy
+ niki:Odroczono ogłoszenie orzeczenia na dzień 2017-05-23
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1084,23 +1084,23 @@ DESCRIPTION:Data:2017-06-28\nGodzina:\nOrgan administracji:Prezes Urzędu
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[J] Prezydent Miasta Radomia - VIII SA/Wa 88/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170628T124000
-DESCRIPTION:Data:2017-06-28\nGodzina:12:40\nOrgan administracji:Prezydent 
- Miasta Radomia\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Renata Naw
- rot\nSala:Sala B Radom\nSprawozdawca:Renata Nawrot\nSygnatura akt:VIII SA/
- Wa 88/17\nSymbol:6480\nSędziowie:Justyna Mazur\, Iwona Szymanowicz-Nowak\
- nTyp posiedzenia:Jawne\nUwagi:udostępnienie informacji publicznej\nWydzia
- ł orzeczniczy:VIII\nWyniki:Oddalono skargę
-LOCATION:Wydzial VIII\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Prezydent Miasta Radomia - VIII SA/Wa 87/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170628T124000
 DESCRIPTION:Data:2017-06-28\nGodzina:12:40\nOrgan administracji:Prezydent 
  Miasta Radomia\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Renata Naw
  rot\nSala:Sala B Radom\nSprawozdawca:Renata Nawrot\nSygnatura akt:VIII SA/
  Wa 87/17\nSymbol:6480\nSędziowie:Justyna Mazur\, Iwona Szymanowicz-Nowak\
+ nTyp posiedzenia:Jawne\nUwagi:udostępnienie informacji publicznej\nWydzia
+ ł orzeczniczy:VIII\nWyniki:Oddalono skargę
+LOCATION:Wydzial VIII\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[J] Prezydent Miasta Radomia - VIII SA/Wa 88/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170628T124000
+DESCRIPTION:Data:2017-06-28\nGodzina:12:40\nOrgan administracji:Prezydent 
+ Miasta Radomia\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Renata Naw
+ rot\nSala:Sala B Radom\nSprawozdawca:Renata Nawrot\nSygnatura akt:VIII SA/
+ Wa 88/17\nSymbol:6480\nSędziowie:Justyna Mazur\, Iwona Szymanowicz-Nowak\
  nTyp posiedzenia:Jawne\nUwagi:udostępnienie informacji publicznej\nWydzia
  ł orzeczniczy:VIII\nWyniki:Oddalono skargę
 LOCATION:Wydzial VIII\, WSA Warszawa
