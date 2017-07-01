@@ -1,18 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[N] Minister Rozwoju i Finansów - II SAB/Wa 727/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170510T000000
-DESCRIPTION:Data:2017-05-10\nGodzina:\nOrgan administracji:Minister Rozwoj
- u i Finansów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Maria Werpa
- chowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygna
- tura akt:II SAB/Wa 727/16\nSymbol:658/6480\nSędziowie:Danuta Kania\, Iwon
- a Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie ro
- zpoznania wniosku z 15.01.2016 r. o udost.inf.publ.\nWydział orzeczniczy:
- II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Instytutu Pamięci Narodowej Komisja Ścigania Zbrodni 
  Przeciwko Narodowi Polskiemu - II SAB/Wa 473/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170510T000000
@@ -40,6 +28,18 @@ DESCRIPTION:Data:2017-05-10\nGodzina:\nOrgan administracji:Prezes Urzędu
  I\nWyniki:Zobowiązano ... i stwierdzono że bezczynność miała miejsce 
  bez rażącego naruszenia prawa |Oddalono skargę w części |Zasądzono z
  wrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Rozwoju i Finansów - II SAB/Wa 727/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170510T000000
+DESCRIPTION:Data:2017-05-10\nGodzina:\nOrgan administracji:Minister Rozwoj
+ u i Finansów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Maria Werpa
+ chowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygna
+ tura akt:II SAB/Wa 727/16\nSymbol:658/6480\nSędziowie:Danuta Kania\, Iwon
+ a Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie ro
+ zpoznania wniosku z 15.01.2016 r. o udost.inf.publ.\nWydział orzeczniczy:
+ II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -527,6 +527,33 @@ DESCRIPTION:Data:2017-05-24\nGodzina:09:30\nOrgan administracji:SKO w Wars
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezes Instytutu Pamięci Narodowej Komisja Ścigania Zbrodni 
+ Przeciwko Narodowi Polskiemu - II SAB/Wa 773/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170525T000000
+DESCRIPTION:Data:2017-05-25\nGodzina:\nOrgan administracji:Prezes Instytut
+ u Pamięci Narodowej Komisja Ścigania Zbrodni Przeciwko Narodowi Polskiem
+ u\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczący:
+ Piotr Borowiecki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Boro
+ wiecki\nSygnatura akt:II SAB/Wa 773/16\nSymbol:658/6480\nSędziowie:Stanis
+ ław Marek Pietras\, Przemysław Szustakiewicz\nTyp posiedzenia:Niejawne\n
+ Uwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 65/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170525T000000
+DESCRIPTION:Data:2017-05-25\nGodzina:\nOrgan administracji:Prezydent m.st.
+  Warszawy\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Piotr Borowieck
+ i\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Przemysław Szustakiewicz
+ \nSygnatura akt:II SAB/Wa 65/17\nSymbol:658/6480\nSędziowie:Stanisław Ma
+ rek Pietras\, Przemysław Szustakiewicz\nTyp posiedzenia:Niejawne\nUwagi:b
+ ezczynność w sprawie rozpoznania wniosku z dnia 12.12.2016 r. o udost.in
+ f.publ.\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono ż
+ e bezczynność miała miejsce bez rażącego naruszenia prawa |Zasądzono
+  zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 783/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170525T000000
 DESCRIPTION:Data:2017-05-25\nGodzina:\nOrgan administracji:Komendant Głó
@@ -578,33 +605,6 @@ DESCRIPTION:Data:2017-05-25\nGodzina:\nOrgan administracji:PKP Polskie Lin
  i:bezczynność w sprawie rozpoznania wniosku z dnia 27 kwietnia 2016 r. o
   udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Odd
  alono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Instytutu Pamięci Narodowej Komisja Ścigania Zbrodni 
- Przeciwko Narodowi Polskiemu - II SAB/Wa 773/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170525T000000
-DESCRIPTION:Data:2017-05-25\nGodzina:\nOrgan administracji:Prezes Instytut
- u Pamięci Narodowej Komisja Ścigania Zbrodni Przeciwko Narodowi Polskiem
- u\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczący:
- Piotr Borowiecki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Boro
- wiecki\nSygnatura akt:II SAB/Wa 773/16\nSymbol:658/6480\nSędziowie:Stanis
- ław Marek Pietras\, Przemysław Szustakiewicz\nTyp posiedzenia:Niejawne\n
- Uwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 65/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170525T000000
-DESCRIPTION:Data:2017-05-25\nGodzina:\nOrgan administracji:Prezydent m.st.
-  Warszawy\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Piotr Borowieck
- i\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Przemysław Szustakiewicz
- \nSygnatura akt:II SAB/Wa 65/17\nSymbol:658/6480\nSędziowie:Stanisław Ma
- rek Pietras\, Przemysław Szustakiewicz\nTyp posiedzenia:Niejawne\nUwagi:b
- ezczynność w sprawie rozpoznania wniosku z dnia 12.12.2016 r. o udost.in
- f.publ.\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono ż
- e bezczynność miała miejsce bez rażącego naruszenia prawa |Zasądzono
-  zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -721,6 +721,20 @@ DESCRIPTION:Data:2017-05-30\nGodzina:\nOrgan administracji:Pierwszy Prezes
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 1/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170531T000000
+DESCRIPTION:Data:2017-05-31\nGodzina:\nOrgan administracji:Prezes Urzędu 
+ Regulacji Energetyki\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Prze
+ mysław Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona
+  Dąbrowska\nSygnatura akt:II SAB/Wa 1/17\nSymbol:658/6480\nSędziowie:Iwo
+ na Dąbrowska\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
+ ść w sprawie rozpoznania wniosku z dn.03.10.2016 r. o udost.inf.publ.\nW
+ ydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynn
+ ość miała miejsce bez rażącego naruszenia prawa |Zasądzono zwrot kos
+ ztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Wójt Gminy Kampinos - II SAB/Wa 745/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170531T000000
 DESCRIPTION:Data:2017-05-31\nGodzina:\nOrgan administracji:Wójt Gminy Kam
@@ -733,20 +747,6 @@ DESCRIPTION:Data:2017-05-31\nGodzina:\nOrgan administracji:Wójt Gminy Kam
  cym naruszeniem prawa i w pozostałym zakresie umorzono postępowanie |Odd
  alono wniosek o wymierzenie grzywny za bezczynność-art. 149 par. 2 P.PS.
  A. |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 1/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170531T000000
-DESCRIPTION:Data:2017-05-31\nGodzina:\nOrgan administracji:Prezes Urzędu 
- Regulacji Energetyki\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Prze
- mysław Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona
-  Dąbrowska\nSygnatura akt:II SAB/Wa 1/17\nSymbol:658/6480\nSędziowie:Iwo
- na Dąbrowska\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
- ść w sprawie rozpoznania wniosku z dn.03.10.2016 r. o udost.inf.publ.\nW
- ydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynn
- ość miała miejsce bez rażącego naruszenia prawa |Zasądzono zwrot kos
- ztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -836,6 +836,20 @@ DESCRIPTION:Data:2017-06-08\nGodzina:11:00\nOrgan administracji:Korporacja
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Boguty-Pianki - II SAB/Wa 53/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170609T000000
+DESCRIPTION:Data:2017-06-09\nGodzina:\nOrgan administracji:Wójt Gminy Bog
+ uty-Pianki\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławomir Anto
+ niuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Stanisław Marek Pietr
+ as\nSygnatura akt:II SAB/Wa 53/17\nSymbol:658/6480\nSędziowie:Ewa Kwieci
+ ńska\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynn
+ ość w przedmiocie rozpoznanania wniosku z dnia 24 września 2016 r. o ud
+ ostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwier
+ dzono bezczynność postępowania i że bezczynność nie miała miejsca z
+  rażącym naruszeniem prawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Burmistrz Dzielnicy Warszawa Ursynów - II SAB/Wa 59/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170609T000000
 DESCRIPTION:Data:2017-06-09\nGodzina:\nOrgan administracji:Burmistrz Dziel
@@ -859,20 +873,6 @@ DESCRIPTION:Data:2017-06-09\nGodzina:\nOrgan administracji:Minister Sprawi
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Boguty-Pianki - II SAB/Wa 53/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170609T000000
-DESCRIPTION:Data:2017-06-09\nGodzina:\nOrgan administracji:Wójt Gminy Bog
- uty-Pianki\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławomir Anto
- niuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Stanisław Marek Pietr
- as\nSygnatura akt:II SAB/Wa 53/17\nSymbol:658/6480\nSędziowie:Ewa Kwieci
- ńska\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynn
- ość w przedmiocie rozpoznanania wniosku z dnia 24 września 2016 r. o ud
- ostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwier
- dzono bezczynność postępowania i że bezczynność nie miała miejsca z
-  rażącym naruszeniem prawa |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Generalny Dyrektor Dróg Krajowych i Autostrad - II SA/Wa 2217
  /16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170609T090000
@@ -887,17 +887,6 @@ DESCRIPTION:Data:2017-06-09\nGodzina:09:00\nOrgan administracji:Generalny
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Szef Centralnego Biura Antykorupcyjnego - II SAB/Wa 764/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170612T000000
-DESCRIPTION:Data:2017-06-12\nGodzina:\nOrgan administracji:Szef Centralneg
- o Biura Antykorupcyjnego\nPrzedmiot:Informacja publiczna\; Informacja publ
- iczna\nPrzewodniczący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSpra
- wozdawca:Iwona Maciejuk\nSygnatura akt:II SAB/Wa 764/16\nSymbol:658/6480\n
- Sędziowie:Iwona Maciejuk\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwa
- gi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Starosta Powiatu Wołomińskiego - II SAB/Wa 75/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170612T000000
 DESCRIPTION:Data:2017-06-12\nGodzina:\nOrgan administracji:Starosta Powiat
@@ -909,6 +898,17 @@ DESCRIPTION:Data:2017-06-12\nGodzina:\nOrgan administracji:Starosta Powiat
  y:II\nWyniki:Stwierdzono bezczynność postępowania i że bezczynność n
  ie miała miejsca z rażącym naruszeniem prawa |Zasądzono zwrot kosztów
   postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Szef Centralnego Biura Antykorupcyjnego - II SAB/Wa 764/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170612T000000
+DESCRIPTION:Data:2017-06-12\nGodzina:\nOrgan administracji:Szef Centralneg
+ o Biura Antykorupcyjnego\nPrzedmiot:Informacja publiczna\; Informacja publ
+ iczna\nPrzewodniczący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSpra
+ wozdawca:Iwona Maciejuk\nSygnatura akt:II SAB/Wa 764/16\nSymbol:658/6480\n
+ Sędziowie:Iwona Maciejuk\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwa
+ gi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1041,6 +1041,20 @@ DESCRIPTION:Data:2017-06-23\nGodzina:12:50\nOrgan administracji:Prezes Urz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 104/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170628T000000
+DESCRIPTION:Data:2017-06-28\nGodzina:\nOrgan administracji:Prezes Urzędu 
+ Regulacji Energetyki\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Danu
+ ta Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygn
+ atura akt:II SAB/Wa 104/17\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\,
+  Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w
+  przedmiocie rozpoznania wniosku z dnia 7 stycznia 2017 r. o udzielenie in
+ formacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono iż bezcz
+ ynność nie miała miejsca z rażącym naruszeniem prawa i w pozostałym 
+ zakresie umorzono postępowanie |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Warszawska Kolej Dojazdowa Sp. z o.o. z siedzibą w Warszawie 
  - II SAB/Wa 128/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170628T000000
@@ -1054,20 +1068,6 @@ DESCRIPTION:Data:2017-06-28\nGodzina:\nOrgan administracji:Warszawska Kole
  niki:Stwierdzono iż bezczynność nie miała miejsca z rażącym naruszen
  iem prawa i w pozostałym zakresie umorzono postępowanie |Zasądzono zwro
  t kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 104/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170628T000000
-DESCRIPTION:Data:2017-06-28\nGodzina:\nOrgan administracji:Prezes Urzędu 
- Regulacji Energetyki\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Danu
- ta Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygn
- atura akt:II SAB/Wa 104/17\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\,
-  Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w
-  przedmiocie rozpoznania wniosku z dnia 7 stycznia 2017 r. o udzielenie in
- formacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono iż bezcz
- ynność nie miała miejsca z rażącym naruszeniem prawa i w pozostałym 
- zakresie umorzono postępowanie |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1269,29 +1269,6 @@ DESCRIPTION:Data:2017-07-07\nGodzina:14:00\nOrgan administracji:Komendant
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Poczta Polska S.A. - II SA/Wa 229/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170712T000000
-DESCRIPTION:Data:2017-07-12\nGodzina:\nOrgan administracji:Poczta Polska S
- .A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Przemysław Szustakie
- wicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Przemysław Szustakiew
- icz\nSygnatura akt:II SA/Wa 229/17\nSymbol:6480\nSędziowie:Janusz Walawsk
- i\, Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępnie
- nia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Rektor Uniwersytetu Muzycznego w Warszawie - II SAB/Wa 74/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170712T000000
-DESCRIPTION:Data:2017-07-12\nGodzina:\nOrgan administracji:Rektor Uniwersy
- tetu Muzycznego w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczą
- cy:Przemysław Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawc
- a:Przemysław Szustakiewicz\nSygnatura akt:II SAB/Wa 74/17\nSymbol:658/648
- 0\nSędziowie:Janusz Walawski\, Maria Werpachowska\nTyp posiedzenia:Niejaw
- ne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dn.30.11.2016 
- r. o udost. inf.publ.\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Orange Polska S.A. z/s w Warszawie - II SAB/Wa 781/16
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170712T000000
 DESCRIPTION:Data:2017-07-12\nGodzina:\nOrgan administracji:Orange Polska S
@@ -1313,6 +1290,29 @@ DESCRIPTION:Data:2017-07-12\nGodzina:\nOrgan administracji:Burmistrz Miast
  ki\, Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
  rzedmiocie rozpatrzenia wniosku z dn.24.09.2016 r. o udziel.inf.publ.\nWyd
  ział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Rektor Uniwersytetu Muzycznego w Warszawie - II SAB/Wa 74/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170712T000000
+DESCRIPTION:Data:2017-07-12\nGodzina:\nOrgan administracji:Rektor Uniwersy
+ tetu Muzycznego w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczą
+ cy:Przemysław Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawc
+ a:Przemysław Szustakiewicz\nSygnatura akt:II SAB/Wa 74/17\nSymbol:658/648
+ 0\nSędziowie:Janusz Walawski\, Maria Werpachowska\nTyp posiedzenia:Niejaw
+ ne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dn.30.11.2016 
+ r. o udost. inf.publ.\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Poczta Polska S.A. - II SA/Wa 229/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170712T000000
+DESCRIPTION:Data:2017-07-12\nGodzina:\nOrgan administracji:Poczta Polska S
+ .A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Przemysław Szustakie
+ wicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Przemysław Szustakiew
+ icz\nSygnatura akt:II SA/Wa 229/17\nSymbol:6480\nSędziowie:Janusz Walawsk
+ i\, Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępnie
+ nia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
