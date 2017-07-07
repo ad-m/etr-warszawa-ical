@@ -32,7 +32,7 @@ def row_to_text(row):
 
 def etr_query(**kwargs):
     data = {'sygnatura': '',
-            'data_posiedzenia': '',
+            'data_posiedzenia': (datetime.datetime.now() - datetime.timedelta(days=30)).strftime('%Y-%m-%d'),
             'data_posiedzenia_do': '',
             'sala_rozpraw': '---',
             'typ_posiedzenia': "'N', 'J', 'P'",
