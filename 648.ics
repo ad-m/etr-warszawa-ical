@@ -1,21 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[J] Wójt Gminy Mochowo - II SA/Wa 407/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170613T100000
-DESCRIPTION:Data:2017-06-13\nGodzina:10:00\nOrgan administracji:Wójt Gmin
- y Mochowo\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Piotr Borowieck
- i\nSala:Sala F\nSprawozdawca:Przemysław Szustakiewicz\nSygnatura akt:II S
- A/Wa 407/17\nSymbol:644/6480\nSędziowie:Iwona Dąbrowska\, Przemysław Sz
- ustakiewicz\nTyp posiedzenia:Jawne\nUwagi:niewykonanie wyroku Wojewódzkie
- go Sądu Administracyjnego w Warszawie z 22 listopada 2016 r. o sygn. akt 
- II SAB/Wa 613/16\nWydział orzeczniczy:II\nWyniki:Orzeczono o wymierzeniu 
- grzywny za niewykonanie wyroku-art. 154 PoPPSA |Stwierdzono iż niewykonan
- ie wyroku nie miało miejsca z rażącym naruszeniem prawa |Zasądzono zwr
- ot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Wójt Gminy Andrzejewo - II SAB/Wa 91/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170614T000000
 DESCRIPTION:Data:2017-06-14\nGodzina:\nOrgan administracji:Wójt Gminy And
@@ -107,6 +92,19 @@ DESCRIPTION:Data:2017-06-23\nGodzina:12:50\nOrgan administracji:Prezes Urz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Polski Związek Krótkofalowców z siedzibą w Warszawie - II 
+ SAB/Wa 785/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170628T000000
+DESCRIPTION:Data:2017-06-28\nGodzina:\nOrgan administracji:Polski Związek
+  Krótkofalowców z siedzibą w Warszawie\nPrzedmiot:Informacja publiczna\
+ ; Informacja publiczna\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posiedze
+ ń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura akt:II SAB/Wa 785/16
+ \nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Stanisław Marek Pietras\
+ nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalon
+ o skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Warszawska Kolej Dojazdowa Sp. z o.o. z siedzibą w Warszawie 
  - II SAB/Wa 128/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170628T000000
@@ -134,19 +132,6 @@ DESCRIPTION:Data:2017-06-28\nGodzina:\nOrgan administracji:Prezes Urzędu
  formacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono iż bezcz
  ynność nie miała miejsca z rażącym naruszeniem prawa i w pozostałym 
  zakresie umorzono postępowanie |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Polski Związek Krótkofalowców z siedzibą w Warszawie - II 
- SAB/Wa 785/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170628T000000
-DESCRIPTION:Data:2017-06-28\nGodzina:\nOrgan administracji:Polski Związek
-  Krótkofalowców z siedzibą w Warszawie\nPrzedmiot:Informacja publiczna\
- ; Informacja publiczna\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posiedze
- ń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura akt:II SAB/Wa 785/16
- \nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Stanisław Marek Pietras\
- nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalon
- o skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -289,18 +274,6 @@ DESCRIPTION:Data:2017-06-29\nGodzina:14:00\nOrgan administracji:Minister K
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Główny Inspektor Pracy - II SAB/Wa 152/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170706T000000
-DESCRIPTION:Data:2017-07-06\nGodzina:\nOrgan administracji:Główny Inspek
- tor Pracy\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Góraj\
- nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura a
- kt:II SAB/Wa 152/17\nSymbol:658/6480\nSędziowie:Stanisław Marek Pietras\
- , Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prze
- dmiocie rozpoznania wniosku z dn.20.01.2017 r. o udost.inf.publ.\nWydział
-  orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Polska Wytwórnia Papierów Wartościowych - II SAB/Wa 47/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170706T000000
 DESCRIPTION:Data:2017-07-06\nGodzina:\nOrgan administracji:Polska Wytwórn
@@ -312,6 +285,18 @@ DESCRIPTION:Data:2017-07-06\nGodzina:\nOrgan administracji:Polska Wytwórn
  .2016 r. o udost.inf.publ.\nWydział orzeczniczy:II\nWyniki:Zobowiązano .
  .. i stwierdzono że bezczynność miała miejsce bez rażącego naruszeni
  a prawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Główny Inspektor Pracy - II SAB/Wa 152/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170706T000000
+DESCRIPTION:Data:2017-07-06\nGodzina:\nOrgan administracji:Główny Inspek
+ tor Pracy\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Góraj\
+ nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura a
+ kt:II SAB/Wa 152/17\nSymbol:658/6480\nSędziowie:Stanisław Marek Pietras\
+ , Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prze
+ dmiocie rozpoznania wniosku z dn.20.01.2017 r. o udost.inf.publ.\nWydział
+  orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -350,6 +335,18 @@ DESCRIPTION:Data:2017-07-12\nGodzina:\nOrgan administracji:Poczta Polska S
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Orange Polska S.A. z/s w Warszawie - II SAB/Wa 781/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170712T000000
+DESCRIPTION:Data:2017-07-12\nGodzina:\nOrgan administracji:Orange Polska S
+ .A. z/s w Warszawie\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Przem
+ ysław Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Maria 
+ Werpachowska\nSygnatura akt:II SAB/Wa 781/16\nSymbol:658/6480\nSędziowie:
+ Janusz Walawski\, Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezc
+ zynność w sprawie rozpatrzenia wniosku z dn.30.08.2016 r. o udost.inf.pu
+ bl.\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Burmistrz Miasta Raciąż - II SAB/Wa 56/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170712T000000
 DESCRIPTION:Data:2017-07-12\nGodzina:\nOrgan administracji:Burmistrz Miast
@@ -378,18 +375,6 @@ DESCRIPTION:Data:2017-07-12\nGodzina:\nOrgan administracji:Rektor Uniwersy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Orange Polska S.A. z/s w Warszawie - II SAB/Wa 781/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170712T000000
-DESCRIPTION:Data:2017-07-12\nGodzina:\nOrgan administracji:Orange Polska S
- .A. z/s w Warszawie\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Przem
- ysław Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Maria 
- Werpachowska\nSygnatura akt:II SAB/Wa 781/16\nSymbol:658/6480\nSędziowie:
- Janusz Walawski\, Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezc
- zynność w sprawie rozpatrzenia wniosku z dn.30.08.2016 r. o udost.inf.pu
- bl.\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Wójt Gminy Boguty-Pianki - II SAB/Wa 145/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170713T000000
 DESCRIPTION:Data:2017-07-13\nGodzina:\nOrgan administracji:Wójt Gminy Bog
@@ -398,7 +383,10 @@ DESCRIPTION:Data:2017-07-13\nGodzina:\nOrgan administracji:Wójt Gminy Bog
  ura akt:II SAB/Wa 145/17\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, I
  wona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie
   rozpoznania wniosku z dnia 27 stycznia 2017 r. o udostępnienie informacj
- i publicznej\nWydział orzeczniczy:II\nWyniki:
+ i publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono iż bezczynnoś
+ ć nie miała miejsca z rażącym naruszeniem prawa i w pozostałym zakres
+ ie umorzono postępowanie |Oddalono wniosek o wymierzenie grzywny za bezcz
+ ynność-art. 149 par. 2 P.PS.A. |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -412,7 +400,9 @@ DESCRIPTION:Data:2017-07-13\nGodzina:\nOrgan administracji:Dyrektor Nadarz
  bol:658/6480\nSędziowie:Piotr Borowiecki\, Iwona Maciejuk\nTyp posiedzeni
  a:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznanania wniosku z dnia
   27 listopada 2016 r. o udostępnienie informacji publicznej\nWydział orz
- eczniczy:II\nWyniki:
+ eczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynność miał
+ a miejsce bez rażącego naruszenia prawa |Oddalono skargę w części |Za
+ sądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -423,7 +413,8 @@ DESCRIPTION:Data:2017-07-13\nGodzina:11:40\nOrgan administracji:SKO w Rado
  :Sala B Radom\nSprawozdawca:Leszek Kobylski\nSygnatura akt:VIII SA/Wa 276/
  17\nSymbol:6480\nSędziowie:Renata Nawrot\, Iwona Owsińska-Gwiazda\nTyp p
  osiedzenia:Jawne\nUwagi:udostępnienie informacji publicznej\nWydział orz
- eczniczy:VIII\nWyniki:
+ eczniczy:VIII\nWyniki:Uchylono zaskarżoną decyzję i poprzedzającą ją
+  decyzję |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -436,7 +427,8 @@ DESCRIPTION:Data:2017-07-13\nGodzina:12:10\nOrgan administracji:Przedsięb
  ygnatura akt:II SA/Wa 215/17\nSymbol:644/6480\nSędziowie:Piotr Borowiecki
  \, Iwona Maciejuk\nTyp posiedzenia:Jawne\nUwagi:skarga na niewykonanie wyr
  oku WSA z dn.19.04.2016 r. w sprawie sygn. II SAB/Wa 1119/15\nWydział orz
- eczniczy:II\nWyniki:
+ eczniczy:II\nWyniki:Oddalono skargę o wymierzenie grzywny -art.154 ustawy
+  PoPPSA
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -447,7 +439,7 @@ DESCRIPTION:Data:2017-07-13\nGodzina:12:35\nOrgan administracji:Minister S
  dniczący:Ewa Marcinkowska\nSala:Sala F\nSprawozdawca:Iwona Maciejuk\nSygn
  atura akt:II SA/Wa 96/17\nSymbol:6480\nSędziowie:Piotr Borowiecki\, Iwona
   Maciejuk\nTyp posiedzenia:Jawne\nUwagi:Odmowa udzielenia informacji publi
- cznej\nWydział orzeczniczy:II\nWyniki:
+ cznej\nWydział orzeczniczy:II\nWyniki:Uchylono decyzję I i II instancji
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -460,7 +452,9 @@ DESCRIPTION:Data:2017-07-13\nGodzina:13:45\nOrgan administracji:Port Lotni
  Gwiazda\nTyp posiedzenia:Jawne\nUwagi:niewykonanie przez Port Lotniczy Rad
  om S.A. wyroku Wojewódzkiego Sądu Administracyjnego w Warszawie z dnia 1
  3 listopada 2015r. w sprawie o sygnaturze akt VIII SAB/Wa 38/15\nWydział 
- orzeczniczy:VIII\nWyniki:
+ orzeczniczy:VIII\nWyniki:Orzeczono o wymierzeniu grzywny za niewykonanie w
+ yroku-art. 154 PoPPSA |Stwierdzono iż bezczynność miała miejsca z raż
+ ącym naruszeniem prawa |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
