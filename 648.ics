@@ -261,14 +261,14 @@ BEGIN:VEVENT
 SUMMARY:[N] Rektor Uniwersytetu Muzycznego w Warszawie - II SAB/Wa 74/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170712T000000
 DESCRIPTION:Data:2017-07-12\nGodzina:\nOrgan administracji:Rektor Uniwersy
- tetu Muzycznego w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczą
- cy:Przemysław Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawc
- a:Przemysław Szustakiewicz\nSygnatura akt:II SAB/Wa 74/17\nSymbol:658/648
- 0\nSędziowie:Janusz Walawski\, Maria Werpachowska\nTyp posiedzenia:Niejaw
- ne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dn.30.11.2016 
- r. o udost. inf.publ.\nWydział orzeczniczy:II\nWyniki:Stwierdzono iż bez
- czynność nie miała miejsca z rażącym naruszeniem prawa i w pozostały
- m zakresie umorzono postępowanie |Zasądzono zwrot kosztów postępowania
+ tetu Muzycznego w Warszawie\nPrzedmiot:Informacja publiczna\; Informacja p
+ ubliczna\nPrzewodniczący:Przemysław Szustakiewicz\nSala:Sala posiedzeń 
+ niejawnych\nSprawozdawca:Przemysław Szustakiewicz\nSygnatura akt:II SAB/W
+ a 74/17\nSymbol:658/6480\nSędziowie:Janusz Walawski\, Maria Werpachowska\
+ nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Stwierd
+ zono iż bezczynność nie miała miejsca z rażącym naruszeniem prawa i 
+ w pozostałym zakresie umorzono postępowanie |Zasądzono zwrot kosztów p
+ ostępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -368,18 +368,6 @@ DESCRIPTION:Data:2017-07-13\nGodzina:13:45\nOrgan administracji:Port Lotni
 LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Szef Kancelarii Sejmu - II SAB/Wa 148/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170719T000000
-DESCRIPTION:Data:2017-07-19\nGodzina:\nOrgan administracji:Szef Kancelarii
-  Sejmu\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Stanisław Marek P
- ietras\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Janusz Walawski\nSyg
- natura akt:II SAB/Wa 148/17\nSymbol:658/6480\nSędziowie:Janusz Walawski\,
-  Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przed
- miocie rozpoznania wniosku z dnia 10 grudnia 2016 r. o udostępnienie info
- rmacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 62/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170719T000000
 DESCRIPTION:Data:2017-07-19\nGodzina:\nOrgan administracji:Prezydent m.st.
@@ -389,6 +377,17 @@ DESCRIPTION:Data:2017-07-19\nGodzina:\nOrgan administracji:Prezydent m.st.
  rpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoz
  nania wniosku z dn.12.12.2016 r. o udost.inf.publ.\nWydział orzeczniczy:I
  I\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Szef Kancelarii Sejmu - II SAB/Wa 148/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170719T000000
+DESCRIPTION:Data:2017-07-19\nGodzina:\nOrgan administracji:Szef Kancelarii
+  Sejmu\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicz
+ ący:Stanisław Marek Pietras\nSala:Sala posiedzeń niejawnych\nSprawozdaw
+ ca:Janusz Walawski\nSygnatura akt:II SAB/Wa 148/17\nSymbol:658/6480\nSędz
+ iowie:Janusz Walawski\, Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwag
+ i:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -525,6 +524,19 @@ DESCRIPTION:Data:2017-08-17\nGodzina:12:30\nOrgan administracji:PKP Polski
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezes Agencji Mienia Wojskowego w Warszawie - II SAB/Wa 160/1
+ 7
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170823T000000
+DESCRIPTION:Data:2017-08-23\nGodzina:\nOrgan administracji:Prezes Agencji 
+ Mienia Wojskowego w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodnicz
+ ący:Maria Werpachowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Mar
+ ia Werpachowska\nSygnatura akt:II SAB/Wa 160/17\nSymbol:658/6480\nSędziow
+ ie:Iwona Dąbrowska\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezc
+ zynność w przedmiocie rozpoznania wniosku z dn.13.02.2017 r. o udost.inf
+ .publ.\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezes Urzędu Rejestracji Produktów Leczniczych\, Wyrobów M
  edycznych i Produktów Biobójczych - II SAB/Wa 8/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170823T000000
@@ -536,19 +548,6 @@ DESCRIPTION:Data:2017-08-23\nGodzina:\nOrgan administracji:Prezes Urzędu
  ski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania w
  niosku z dnia 29 listopada 2016 r. o udostępnienie informacji publicznej\
  nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Agencji Mienia Wojskowego w Warszawie - II SAB/Wa 160/1
- 7
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170823T000000
-DESCRIPTION:Data:2017-08-23\nGodzina:\nOrgan administracji:Prezes Agencji 
- Mienia Wojskowego w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodnicz
- ący:Maria Werpachowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Mar
- ia Werpachowska\nSygnatura akt:II SAB/Wa 160/17\nSymbol:658/6480\nSędziow
- ie:Iwona Dąbrowska\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezc
- zynność w przedmiocie rozpoznania wniosku z dn.13.02.2017 r. o udost.inf
- .publ.\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
