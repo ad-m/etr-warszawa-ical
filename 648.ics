@@ -1,28 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[J] SKO w Ostrołęce - II SA/Wa 338/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170707T094000
-DESCRIPTION:Data:2017-07-07\nGodzina:09:40\nOrgan administracji:SKO w Ostr
- ołęce\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Kołodzie
- j\nSala:Sala F\nSprawozdawca:Janusz Walawski\nSygnatura akt:II SA/Wa 338/1
- 7\nSymbol:6480\nSędziowie:Piotr Borowiecki\, Janusz Walawski\nTyp posiedz
- enia:Jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział or
- zeczniczy:II\nWyniki:Uchylono decyzję I i II instancji
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[J] Komendant Główny Policji - II SA/Wa 2191/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170707T140000
-DESCRIPTION:Data:2017-07-07\nGodzina:14:00\nOrgan administracji:Komendant 
- Główny Policji\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Ma
- ciejuk\nSala:Sala F\nSprawozdawca:Piotr Borowiecki\nSygnatura akt:II SA/Wa
-  2191/16\nSymbol:6480\nSędziowie:Piotr Borowiecki\, Janusz Walawski\nTyp 
- posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydz
- iał orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Poczta Polska S.A. - II SA/Wa 229/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170712T000000
 DESCRIPTION:Data:2017-07-12\nGodzina:\nOrgan administracji:Poczta Polska S
@@ -33,18 +11,6 @@ DESCRIPTION:Data:2017-07-12\nGodzina:\nOrgan administracji:Poczta Polska S
  nia informacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono nie
  ważność decyzji I i II instancji |Zasądzono zwrot kosztów postępowan
  ia
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Orange Polska S.A. z/s w Warszawie - II SAB/Wa 781/16
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170712T000000
-DESCRIPTION:Data:2017-07-12\nGodzina:\nOrgan administracji:Orange Polska S
- .A. z/s w Warszawie\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Przem
- ysław Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Maria 
- Werpachowska\nSygnatura akt:II SAB/Wa 781/16\nSymbol:658/6480\nSędziowie:
- Janusz Walawski\, Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezc
- zynność w sprawie rozpatrzenia wniosku z dn.30.08.2016 r. o udost.inf.pu
- bl.\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -73,6 +39,18 @@ DESCRIPTION:Data:2017-07-12\nGodzina:\nOrgan administracji:Rektor Uniwersy
  zono iż bezczynność nie miała miejsca z rażącym naruszeniem prawa i 
  w pozostałym zakresie umorzono postępowanie |Zasądzono zwrot kosztów p
  ostępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Orange Polska S.A. z/s w Warszawie - II SAB/Wa 781/16
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170712T000000
+DESCRIPTION:Data:2017-07-12\nGodzina:\nOrgan administracji:Orange Polska S
+ .A. z/s w Warszawie\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Przem
+ ysław Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Maria 
+ Werpachowska\nSygnatura akt:II SAB/Wa 781/16\nSymbol:658/6480\nSędziowie:
+ Janusz Walawski\, Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezc
+ zynność w sprawie rozpatrzenia wniosku z dn.30.08.2016 r. o udost.inf.pu
+ bl.\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -136,11 +114,12 @@ BEGIN:VEVENT
 SUMMARY:[J] Minister Sprawiedliwości - II SA/Wa 96/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170713T123500
 DESCRIPTION:Data:2017-07-13\nGodzina:12:35\nOrgan administracji:Minister S
- prawiedliwości\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewo
- dniczący:Ewa Marcinkowska\nSala:Sala F\nSprawozdawca:Iwona Maciejuk\nSygn
- atura akt:II SA/Wa 96/17\nSymbol:6480\nSędziowie:Piotr Borowiecki\, Iwona
-  Maciejuk\nTyp posiedzenia:Jawne\nUwagi:Odmowa udzielenia informacji publi
- cznej\nWydział orzeczniczy:II\nWyniki:Uchylono decyzję I i II instancji
+ prawiedliwości\nPrzedmiot:Odmowa udzielenia informacji publicznej\; Odmow
+ a udzielenia informacji publicznej\nPrzewodniczący:Ewa Marcinkowska\nSala
+ :Sala F\nSprawozdawca:Iwona Maciejuk\nSygnatura akt:II SA/Wa 96/17\nSymbol
+ :6480\nSędziowie:Piotr Borowiecki\, Iwona Maciejuk\nTyp posiedzenia:Jawne
+ \nUwagi:\nWydział orzeczniczy:II\nWyniki:Uchylono decyzję I i II instanc
+ ji
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -224,15 +203,17 @@ DESCRIPTION:Data:2017-07-27\nGodzina:\nOrgan administracji:Fundacja Wielka
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Starosta Otwocki - II SAB/Wa 100/17
+SUMMARY:[N] Naczelny Dyrektor Archiwów Państwowych w Warszawie - II SAB/
+ Wa 134/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170808T000000
-DESCRIPTION:Data:2017-08-08\nGodzina:\nOrgan administracji:Starosta Otwock
- i\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir Antoniuk\nSal
- a:Sala posiedzeń niejawnych\nSprawozdawca:Maria Werpachowska\nSygnatura a
- kt:II SAB/Wa 100/17\nSymbol:658/6480\nSędziowie:Iwona Dąbrowska\, Maria 
- Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozp
- oznania wniosku z dnia 2 września 2016 r. o udostępnienie informacji pub
- licznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2017-08-08\nGodzina:\nOrgan administracji:Naczelny Dyrekt
+ or Archiwów Państwowych w Warszawie\nPrzedmiot:Informacja publiczna\nPrz
+ ewodniczący:Sławomir Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozd
+ awca:Maria Werpachowska\nSygnatura akt:II SAB/Wa 134/17\nSymbol:658/6480\n
+ Sędziowie:Iwona Dąbrowska\, Maria Werpachowska\nTyp posiedzenia:Niejawne
+ \nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 8 grudnia 2
+ 0146 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nW
+ yniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -248,17 +229,15 @@ DESCRIPTION:Data:2017-08-08\nGodzina:\nOrgan administracji:Uniwersytet Muz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Naczelny Dyrektor Archiwów Państwowych w Warszawie - II SAB/
- Wa 134/17
+SUMMARY:[N] Starosta Otwocki - II SAB/Wa 100/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170808T000000
-DESCRIPTION:Data:2017-08-08\nGodzina:\nOrgan administracji:Naczelny Dyrekt
- or Archiwów Państwowych w Warszawie\nPrzedmiot:Informacja publiczna\nPrz
- ewodniczący:Sławomir Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozd
- awca:Maria Werpachowska\nSygnatura akt:II SAB/Wa 134/17\nSymbol:658/6480\n
- Sędziowie:Iwona Dąbrowska\, Maria Werpachowska\nTyp posiedzenia:Niejawne
- \nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 8 grudnia 2
- 0146 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nW
- yniki:
+DESCRIPTION:Data:2017-08-08\nGodzina:\nOrgan administracji:Starosta Otwock
+ i\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir Antoniuk\nSal
+ a:Sala posiedzeń niejawnych\nSprawozdawca:Maria Werpachowska\nSygnatura a
+ kt:II SAB/Wa 100/17\nSymbol:658/6480\nSędziowie:Iwona Dąbrowska\, Maria 
+ Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozp
+ oznania wniosku z dnia 2 września 2016 r. o udostępnienie informacji pub
+ licznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -343,19 +322,6 @@ DESCRIPTION:Data:2017-08-17\nGodzina:12:30\nOrgan administracji:PKP Polski
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Agencji Mienia Wojskowego w Warszawie - II SAB/Wa 160/1
- 7
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170823T000000
-DESCRIPTION:Data:2017-08-23\nGodzina:\nOrgan administracji:Prezes Agencji 
- Mienia Wojskowego w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodnicz
- ący:Maria Werpachowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Mar
- ia Werpachowska\nSygnatura akt:II SAB/Wa 160/17\nSymbol:658/6480\nSędziow
- ie:Iwona Dąbrowska\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezc
- zynność w przedmiocie rozpoznania wniosku z dn.13.02.2017 r. o udost.inf
- .publ.\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Urzędu Rejestracji Produktów Leczniczych\, Wyrobów M
  edycznych i Produktów Biobójczych - II SAB/Wa 8/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170823T000000
@@ -367,6 +333,19 @@ DESCRIPTION:Data:2017-08-23\nGodzina:\nOrgan administracji:Prezes Urzędu
  ski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania w
  niosku z dnia 29 listopada 2016 r. o udostępnienie informacji publicznej\
  nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Agencji Mienia Wojskowego w Warszawie - II SAB/Wa 160/1
+ 7
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170823T000000
+DESCRIPTION:Data:2017-08-23\nGodzina:\nOrgan administracji:Prezes Agencji 
+ Mienia Wojskowego w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodnicz
+ ący:Maria Werpachowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Mar
+ ia Werpachowska\nSygnatura akt:II SAB/Wa 160/17\nSymbol:658/6480\nSędziow
+ ie:Iwona Dąbrowska\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezc
+ zynność w przedmiocie rozpoznania wniosku z dn.13.02.2017 r. o udost.inf
+ .publ.\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -405,15 +384,15 @@ DESCRIPTION:Data:2017-08-30\nGodzina:\nOrgan administracji:Dyrektor Narodo
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 61/17
+SUMMARY:[N] Wójt Gminy Szulborze Wielkie - II SAB/Wa 150/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170830T000000
-DESCRIPTION:Data:2017-08-30\nGodzina:\nOrgan administracji:Prezes Urzędu 
- Regulacji Energetyki\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Adam
-  Lipiński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam Lipiński\n
- Sygnatura akt:II SAB/Wa 61/17\nSymbol:658/6480\nSędziowie:Sławomir Anton
+DESCRIPTION:Data:2017-08-30\nGodzina:\nOrgan administracji:Wójt Gminy Szu
+ lborze Wielkie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Adam Lipi
+ ński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nS
+ ygnatura akt:II SAB/Wa 150/17\nSymbol:658/6480\nSędziowie:Sławomir Anton
  iuk\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
- ść w przedmiocie rozpoznania wniosku z dn.20.12.2016 r. o udost.inf.publ
- .\nWydział orzeczniczy:II\nWyniki:
+ ść w przedmiocie rozpoznania wniosku z dn.25.09.2016 o udost.inf.publ.\n
+ Wydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -431,15 +410,15 @@ DESCRIPTION:Data:2017-08-30\nGodzina:\nOrgan administracji:Prezes Agencji
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Szulborze Wielkie - II SAB/Wa 150/17
+SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 61/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170830T000000
-DESCRIPTION:Data:2017-08-30\nGodzina:\nOrgan administracji:Wójt Gminy Szu
- lborze Wielkie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Adam Lipi
- ński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nS
- ygnatura akt:II SAB/Wa 150/17\nSymbol:658/6480\nSędziowie:Sławomir Anton
+DESCRIPTION:Data:2017-08-30\nGodzina:\nOrgan administracji:Prezes Urzędu 
+ Regulacji Energetyki\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Adam
+  Lipiński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam Lipiński\n
+ Sygnatura akt:II SAB/Wa 61/17\nSymbol:658/6480\nSędziowie:Sławomir Anton
  iuk\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
- ść w przedmiocie rozpoznania wniosku z dn.25.09.2016 o udost.inf.publ.\n
- Wydział orzeczniczy:II\nWyniki:
+ ść w przedmiocie rozpoznania wniosku z dn.20.12.2016 r. o udost.inf.publ
+ .\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
