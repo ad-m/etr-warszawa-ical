@@ -82,19 +82,6 @@ DESCRIPTION:Data:2017-08-08\nGodzina:13:10\nOrgan administracji:Minister S
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[J] Minister Infrastruktury i Budownictwa - VIII SA/Wa 436/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170810T142000
-DESCRIPTION:Data:2017-08-10\nGodzina:14:20\nOrgan administracji:Minister I
- nfrastruktury i Budownictwa\nPrzedmiot:Ponowne wykorzystanie informacji se
- ktora publicznego\nPrzewodniczący:Sławomir Fularski\nSala:Sala B Radom\n
- Sprawozdawca:Marek Wroczyński\nSygnatura akt:VIII SA/Wa 436/17\nSymbol:64
- 81\nSędziowie:Artur Kot\, Marek Wroczyński\nTyp posiedzenia:Jawne\nUwagi
- :odmowa wyrażenia zgody na ponowne wykorzystanie informacji sektora publi
- cznego\nWydział orzeczniczy:VIII\nWyniki:Uchylono zaskarżoną decyzję i
-  poprzedzającą ją decyzję |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial VIII\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Minister Infrastruktury i Budownictwa - VIII SA/Wa 472/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170810T142000
 DESCRIPTION:Data:2017-08-10\nGodzina:14:20\nOrgan administracji:Minister I
@@ -105,6 +92,19 @@ DESCRIPTION:Data:2017-08-10\nGodzina:14:20\nOrgan administracji:Minister I
  :odmowa wyrażenia zgody na ponowne wykorzystanie informacji sektora publi
  cznego\nWydział orzeczniczy:VIII\nWyniki:Odrzucono skargę |Zwrócono wpi
  s
+LOCATION:Wydzial VIII\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[J] Minister Infrastruktury i Budownictwa - VIII SA/Wa 436/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170810T142000
+DESCRIPTION:Data:2017-08-10\nGodzina:14:20\nOrgan administracji:Minister I
+ nfrastruktury i Budownictwa\nPrzedmiot:Ponowne wykorzystanie informacji se
+ ktora publicznego\nPrzewodniczący:Sławomir Fularski\nSala:Sala B Radom\n
+ Sprawozdawca:Marek Wroczyński\nSygnatura akt:VIII SA/Wa 436/17\nSymbol:64
+ 81\nSędziowie:Artur Kot\, Marek Wroczyński\nTyp posiedzenia:Jawne\nUwagi
+ :odmowa wyrażenia zgody na ponowne wykorzystanie informacji sektora publi
+ cznego\nWydział orzeczniczy:VIII\nWyniki:Uchylono zaskarżoną decyzję i
+  poprzedzającą ją decyzję |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -221,6 +221,18 @@ DESCRIPTION:Data:2017-08-30\nGodzina:\nOrgan administracji:Prezes Agencji
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 61/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170830T000000
+DESCRIPTION:Data:2017-08-30\nGodzina:\nOrgan administracji:Prezes Urzędu 
+ Regulacji Energetyki\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Adam
+  Lipiński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam Lipiński\n
+ Sygnatura akt:II SAB/Wa 61/17\nSymbol:658/6480\nSędziowie:Sławomir Anton
+ iuk\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
+ ść w przedmiocie rozpoznania wniosku z dn.20.12.2016 r. o udost.inf.publ
+ .\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Narodowego Centrum Badań I Rozwoju - II SAB/Wa 240/1
  7
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170830T000000
@@ -231,18 +243,6 @@ DESCRIPTION:Data:2017-08-30\nGodzina:\nOrgan administracji:Dyrektor Narodo
   Antoniuk\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezc
  zynność w przedmiocie rozpoznania wniosku z dn.14.03.2017 r. o udost.inf
  .publ.\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 61/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170830T000000
-DESCRIPTION:Data:2017-08-30\nGodzina:\nOrgan administracji:Prezes Urzędu 
- Regulacji Energetyki\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Adam
-  Lipiński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam Lipiński\n
- Sygnatura akt:II SAB/Wa 61/17\nSymbol:658/6480\nSędziowie:Sławomir Anton
- iuk\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
- ść w przedmiocie rozpoznania wniosku z dn.20.12.2016 r. o udost.inf.publ
- .\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -383,14 +383,16 @@ DESCRIPTION:Data:2017-09-07\nGodzina:10:35\nOrgan administracji:Minister R
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Koleje Mazowieckie - KM Sp. z o.o. - II SA/Wa 649/17
+SUMMARY:[N] Generalny Dyrektor Dróg Krajowych i Autostrad - II SAB/Wa 9/1
+ 7
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170908T000000
-DESCRIPTION:Data:2017-09-08\nGodzina:\nOrgan administracji:Koleje Mazowiec
- kie - KM Sp. z o.o.\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPr
- zewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawozdaw
- ca:Ewa Marcinkowska\nSygnatura akt:II SA/Wa 649/17\nSymbol:6480\nSędziowi
- e:Ewa Kwiecińska\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:odmo
- wa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2017-09-08\nGodzina:\nOrgan administracji:Generalny Dyrek
+ tor Dróg Krajowych i Autostrad\nPrzedmiot:Informacja publiczna\nPrzewodni
+ czący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa 
+ Marcinkowska\nSygnatura akt:II SAB/Wa 9/17\nSymbol:658/6480\nSędziowie:Ew
+ a Kwiecińska\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynn
+ ość w sprawie rozpoznania wniosku z dnia 17 czerwca 2016 r. o udostępni
+ enie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -406,16 +408,14 @@ DESCRIPTION:Data:2017-09-08\nGodzina:\nOrgan administracji:Krajowa Rada S
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Generalny Dyrektor Dróg Krajowych i Autostrad - II SAB/Wa 9/1
- 7
+SUMMARY:[N] Koleje Mazowieckie - KM Sp. z o.o. - II SA/Wa 649/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170908T000000
-DESCRIPTION:Data:2017-09-08\nGodzina:\nOrgan administracji:Generalny Dyrek
- tor Dróg Krajowych i Autostrad\nPrzedmiot:Informacja publiczna\nPrzewodni
- czący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa 
- Marcinkowska\nSygnatura akt:II SAB/Wa 9/17\nSymbol:658/6480\nSędziowie:Ew
- a Kwiecińska\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynn
- ość w sprawie rozpoznania wniosku z dnia 17 czerwca 2016 r. o udostępni
- enie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2017-09-08\nGodzina:\nOrgan administracji:Koleje Mazowiec
+ kie - KM Sp. z o.o.\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPr
+ zewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawozdaw
+ ca:Ewa Marcinkowska\nSygnatura akt:II SA/Wa 649/17\nSymbol:6480\nSędziowi
+ e:Ewa Kwiecińska\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:odmo
+ wa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -512,18 +512,6 @@ DESCRIPTION:Data:2017-09-14\nGodzina:09:00\nOrgan administracji:SKO w Wars
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Najwyższej Izby Kontroli - II SAB/Wa 68/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170915T000000
-DESCRIPTION:Data:2017-09-15\nGodzina:\nOrgan administracji:Prezes Najwyżs
- zej Izby Kontroli\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa Kwi
- ecińska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\n
- Sygnatura akt:II SAB/Wa 68/17\nSymbol:658/6480\nSędziowie:Piotr Borowieck
- i\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przed
- miocie rozpoznania wniosku z dnia 19.02.2016 r. o udost.inf.publ.\nWydzia
- ł orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Minister Nauki i Szkolnictwa Wyższego - II SAB/Wa 60/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170915T000000
 DESCRIPTION:Data:2017-09-15\nGodzina:\nOrgan administracji:Minister Nauki 
@@ -533,6 +521,18 @@ DESCRIPTION:Data:2017-09-15\nGodzina:\nOrgan administracji:Minister Nauki
  wiecki\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
  sprawie rozpoznania wniosku z dn.04.11.2016 r. o udost.inf.publ.\nWydział
   orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Najwyższej Izby Kontroli - II SAB/Wa 68/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170915T000000
+DESCRIPTION:Data:2017-09-15\nGodzina:\nOrgan administracji:Prezes Najwyżs
+ zej Izby Kontroli\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa Kwi
+ ecińska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\n
+ Sygnatura akt:II SAB/Wa 68/17\nSymbol:658/6480\nSędziowie:Piotr Borowieck
+ i\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przed
+ miocie rozpoznania wniosku z dnia 19.02.2016 r. o udost.inf.publ.\nWydzia
+ ł orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -559,17 +559,6 @@ DESCRIPTION:Data:2017-09-15\nGodzina:12:40\nOrgan administracji:Fundacja W
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Generalny Dyrektor Ochrony Środowiska - II SAB/Wa 140/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170920T000000
-DESCRIPTION:Data:2017-09-20\nGodzina:\nOrgan administracji:Generalny Dyrek
- tor Ochrony Środowiska\nPrzedmiot:Informacja publiczna\nPrzewodniczący:A
- ndrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Macieju
- k\nSygnatura akt:II SAB/Wa 140/17\nSymbol:658/6480\nSędziowie:Iwona Macie
- juk\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:rozpoznanie wniosku
-  z dn.07.04.2013 r. o udost.inf.publ.\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Generalny Dyrektor Ochrony Środowiska - II SAB/Wa 141/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170920T000000
 DESCRIPTION:Data:2017-09-20\nGodzina:\nOrgan administracji:Generalny Dyrek
@@ -579,6 +568,17 @@ DESCRIPTION:Data:2017-09-20\nGodzina:\nOrgan administracji:Generalny Dyrek
  juk\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
  edmiocie rozpoznania wniosku z dnia 21 listopada 2016 r. o udostępnienie 
  informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Generalny Dyrektor Ochrony Środowiska - II SAB/Wa 140/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170920T000000
+DESCRIPTION:Data:2017-09-20\nGodzina:\nOrgan administracji:Generalny Dyrek
+ tor Ochrony Środowiska\nPrzedmiot:Informacja publiczna\nPrzewodniczący:A
+ ndrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Macieju
+ k\nSygnatura akt:II SAB/Wa 140/17\nSymbol:658/6480\nSędziowie:Iwona Macie
+ juk\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:rozpoznanie wniosku
+  z dn.07.04.2013 r. o udost.inf.publ.\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
