@@ -1,6 +1,20 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
+SUMMARY:[N] Starosta Otwocki - II SAB/Wa 100/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170808T000000
+DESCRIPTION:Data:2017-08-08\nGodzina:\nOrgan administracji:Starosta Otwock
+ i\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir Antoniuk\nSal
+ a:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kube\nSygnatura akt:II S
+ AB/Wa 100/17\nSymbol:658/6480\nSędziowie:Iwona Dąbrowska\, Joanna Kube\n
+ Typ posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania wniosk
+ u z dnia 2 września 2016 r. o udostępnienie informacji publicznej\nWydzi
+ ał orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynnoś
+ ć miała miejsce bez rażącego naruszenia prawa |Zasądzono zwrot koszt
+ ów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Naczelny Dyrektor Archiwów Państwowych w Warszawie - II SAB/
  Wa 134/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170808T000000
@@ -25,20 +39,6 @@ DESCRIPTION:Data:2017-08-08\nGodzina:\nOrgan administracji:Uniwersytet Muz
  ejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierd
  zono że bezczynność miała miejsce bez rażącego naruszenia prawa |Odd
  alono skargę w części |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Starosta Otwocki - II SAB/Wa 100/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170808T000000
-DESCRIPTION:Data:2017-08-08\nGodzina:\nOrgan administracji:Starosta Otwock
- i\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir Antoniuk\nSal
- a:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kube\nSygnatura akt:II S
- AB/Wa 100/17\nSymbol:658/6480\nSędziowie:Iwona Dąbrowska\, Joanna Kube\n
- Typ posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania wniosk
- u z dnia 2 września 2016 r. o udostępnienie informacji publicznej\nWydzi
- ał orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynnoś
- ć miała miejsce bez rażącego naruszenia prawa |Zasądzono zwrot koszt
- ów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -128,6 +128,18 @@ DESCRIPTION:Data:2017-08-17\nGodzina:12:30\nOrgan administracji:PKP Polski
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezes Agencji Mienia Wojskowego w Warszawie - II SAB/Wa 160/1
+ 7
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170823T000000
+DESCRIPTION:Data:2017-08-23\nGodzina:\nOrgan administracji:Prezes Agencji 
+ Mienia Wojskowego w Warszawie\nPrzedmiot:Informacja publiczna\; Informacja
+  publiczna\nPrzewodniczący:Maria Werpachowska\nSala:Sala posiedzeń nieja
+ wnych\nSprawozdawca:Maria Werpachowska\nSygnatura akt:II SAB/Wa 160/17\nSy
+ mbol:658/6480\nSędziowie:Iwona Dąbrowska\, Adam Lipiński\nTyp posiedzen
+ ia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezes Urzędu Rejestracji Produktów Leczniczych\, Wyrobów M
  edycznych i Produktów Biobójczych - II SAB/Wa 8/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170823T000000
@@ -139,18 +151,6 @@ DESCRIPTION:Data:2017-08-23\nGodzina:\nOrgan administracji:Prezes Urzędu
  ski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania w
  niosku z dnia 29 listopada 2016 r. o udostępnienie informacji publicznej\
  nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Agencji Mienia Wojskowego w Warszawie - II SAB/Wa 160/1
- 7
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170823T000000
-DESCRIPTION:Data:2017-08-23\nGodzina:\nOrgan administracji:Prezes Agencji 
- Mienia Wojskowego w Warszawie\nPrzedmiot:Informacja publiczna\; Informacja
-  publiczna\nPrzewodniczący:Maria Werpachowska\nSala:Sala posiedzeń nieja
- wnych\nSprawozdawca:Maria Werpachowska\nSygnatura akt:II SAB/Wa 160/17\nSy
- mbol:658/6480\nSędziowie:Iwona Dąbrowska\, Adam Lipiński\nTyp posiedzen
- ia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -176,33 +176,17 @@ DESCRIPTION:Data:2017-08-29\nGodzina:13:45\nOrgan administracji:Minister R
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Szulborze Wielkie - II SAB/Wa 150/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170830T000000
-DESCRIPTION:Data:2017-08-30\nGodzina:\nOrgan administracji:Wójt Gminy Szu
- lborze Wielkie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Adam Lipi
- ński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nS
- ygnatura akt:II SAB/Wa 150/17\nSymbol:658/6480\nSędziowie:Sławomir Anton
- iuk\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
- ść w przedmiocie rozpoznania wniosku z dn.25.09.2016 o udost.inf.publ.\n
- Wydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność postępowania i 
- że bezczynność nie miała miejsca z rażącym naruszeniem prawa |Zasąd
- zono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Agencji Mienia Wojskowego w Warszawie - II SAB/Wa 146/1
+SUMMARY:[N] Dyrektor Narodowego Centrum Badań I Rozwoju - II SAB/Wa 240/1
  7
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170830T000000
-DESCRIPTION:Data:2017-08-30\nGodzina:\nOrgan administracji:Prezes Agencji 
- Mienia Wojskowego w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodnicz
- ący:Adam Lipiński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Stanis
- ław Marek Pietras\nSygnatura akt:II SAB/Wa 146/17\nSymbol:658/6480\nSędz
- iowie:Sławomir Antoniuk\, Stanisław Marek Pietras\nTyp posiedzenia:Nieja
- wne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 8 styczn
- ia 2017 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II
- \nWyniki:Stwierdzono bezczynność postępowania i że bezczynność nie m
- iała miejsca z rażącym naruszeniem prawa |Oddalono skargę w części |
- Zasądzono zwrot kosztów postępowania
+DESCRIPTION:Data:2017-08-30\nGodzina:\nOrgan administracji:Dyrektor Narodo
+ wego Centrum Badań I Rozwoju\nPrzedmiot:Informacja publiczna\; Informacja
+  publiczna\nPrzewodniczący:Danuta Kania\nSala:Sala posiedzeń niejawnych\
+ nSprawozdawca:Danuta Kania\nSygnatura akt:II SAB/Wa 240/17\nSymbol:658/648
+ 0\nSędziowie:Sławomir Antoniuk\, Stanisław Marek Pietras\nTyp posiedzen
+ ia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i st
+ wierdzono że bezczynność miała miejsce bez rażącego naruszenia prawa
+  |Oddalono skargę w części |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -218,18 +202,32 @@ DESCRIPTION:Data:2017-08-30\nGodzina:\nOrgan administracji:Prezes Urzędu
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Narodowego Centrum Badań I Rozwoju - II SAB/Wa 240/1
+SUMMARY:[N] Prezes Agencji Mienia Wojskowego w Warszawie - II SAB/Wa 146/1
  7
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170830T000000
-DESCRIPTION:Data:2017-08-30\nGodzina:\nOrgan administracji:Dyrektor Narodo
- wego Centrum Badań I Rozwoju\nPrzedmiot:Informacja publiczna\nPrzewodnicz
- ący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Ka
- nia\nSygnatura akt:II SAB/Wa 240/17\nSymbol:658/6480\nSędziowie:Sławomir
-  Antoniuk\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezc
- zynność w przedmiocie rozpoznania wniosku z dn.14.03.2017 r. o udost.inf
- .publ.\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że
-  bezczynność miała miejsce bez rażącego naruszenia prawa |Oddalono sk
- argę w części |Zasądzono zwrot kosztów postępowania
+DESCRIPTION:Data:2017-08-30\nGodzina:\nOrgan administracji:Prezes Agencji 
+ Mienia Wojskowego w Warszawie\nPrzedmiot:Informacja publiczna\; Informacja
+  publiczna\nPrzewodniczący:Adam Lipiński\nSala:Sala posiedzeń niejawnyc
+ h\nSprawozdawca:Stanisław Marek Pietras\nSygnatura akt:II SAB/Wa 146/17\n
+ Symbol:658/6480\nSędziowie:Sławomir Antoniuk\, Stanisław Marek Pietras\
+ nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Stwierd
+ zono bezczynność postępowania i że bezczynność nie miała miejsca z 
+ rażącym naruszeniem prawa |Oddalono skargę w części |Zasądzono zwrot
+  kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Szulborze Wielkie - II SAB/Wa 150/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170830T000000
+DESCRIPTION:Data:2017-08-30\nGodzina:\nOrgan administracji:Wójt Gminy Szu
+ lborze Wielkie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Adam Lipi
+ ński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nS
+ ygnatura akt:II SAB/Wa 150/17\nSymbol:658/6480\nSędziowie:Sławomir Anton
+ iuk\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
+ ść w przedmiocie rozpoznania wniosku z dn.25.09.2016 o udost.inf.publ.\n
+ Wydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność postępowania i 
+ że bezczynność nie miała miejsca z rażącym naruszeniem prawa |Zasąd
+ zono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -396,16 +394,14 @@ DESCRIPTION:Data:2017-09-07\nGodzina:10:35\nOrgan administracji:Minister R
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Generalny Dyrektor Dróg Krajowych i Autostrad - II SAB/Wa 9/1
- 7
+SUMMARY:[N] Koleje Mazowieckie - KM Sp. z o.o. - II SA/Wa 649/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170908T000000
-DESCRIPTION:Data:2017-09-08\nGodzina:\nOrgan administracji:Generalny Dyrek
- tor Dróg Krajowych i Autostrad\nPrzedmiot:Informacja publiczna\nPrzewodni
- czący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa 
- Marcinkowska\nSygnatura akt:II SAB/Wa 9/17\nSymbol:658/6480\nSędziowie:Ew
- a Kwiecińska\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynn
- ość w sprawie rozpoznania wniosku z dnia 17 czerwca 2016 r. o udostępni
- enie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2017-09-08\nGodzina:\nOrgan administracji:Koleje Mazowiec
+ kie - KM Sp. z o.o.\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPr
+ zewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawozdaw
+ ca:Ewa Marcinkowska\nSygnatura akt:II SA/Wa 649/17\nSymbol:6480\nSędziowi
+ e:Ewa Kwiecińska\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:odmo
+ wa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -421,14 +417,16 @@ DESCRIPTION:Data:2017-09-08\nGodzina:\nOrgan administracji:Krajowa Rada S
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Koleje Mazowieckie - KM Sp. z o.o. - II SA/Wa 649/17
+SUMMARY:[N] Generalny Dyrektor Dróg Krajowych i Autostrad - II SAB/Wa 9/1
+ 7
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170908T000000
-DESCRIPTION:Data:2017-09-08\nGodzina:\nOrgan administracji:Koleje Mazowiec
- kie - KM Sp. z o.o.\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPr
- zewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawozdaw
- ca:Ewa Marcinkowska\nSygnatura akt:II SA/Wa 649/17\nSymbol:6480\nSędziowi
- e:Ewa Kwiecińska\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:odmo
- wa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2017-09-08\nGodzina:\nOrgan administracji:Generalny Dyrek
+ tor Dróg Krajowych i Autostrad\nPrzedmiot:Informacja publiczna\nPrzewodni
+ czący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa 
+ Marcinkowska\nSygnatura akt:II SAB/Wa 9/17\nSymbol:658/6480\nSędziowie:Ew
+ a Kwiecińska\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynn
+ ość w sprawie rozpoznania wniosku z dnia 17 czerwca 2016 r. o udostępni
+ enie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -477,15 +475,16 @@ DESCRIPTION:Data:2017-09-13\nGodzina:10:10\nOrgan administracji:SKO w Rado
 LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] KOM-GAZ Sp. z o.o. z/s w Łosicach - II SAB/Wa 107/17
+SUMMARY:[N] Dyrektor Oddziału Regionalnego Agencji Mienia Wojskowego w Wa
+ rszawie - II SAB/Wa 192/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170914T000000
-DESCRIPTION:Data:2017-09-14\nGodzina:\nOrgan administracji:KOM-GAZ Sp. z o
- .o. z/s w Łosicach\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Przem
- ysław Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona 
- Maciejuk\nSygnatura akt:II SAB/Wa 107/17\nSymbol:658/6480\nSędziowie:Andr
- zej Góraj\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynnośc 
- w spraiwe rozpoznania wniosku z dnia 23 lutego 2016 r. o udostępnienie in
- formacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2017-09-14\nGodzina:\nOrgan administracji:Dyrektor Oddzia
+ łu Regionalnego Agencji Mienia Wojskowego w Warszawie\nPrzedmiot:Informac
+ ja publiczna\nPrzewodniczący:Przemysław Szustakiewicz\nSala:Sala posiedz
+ eń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura akt:II SAB/Wa 192/1
+ 7\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Iwona Maciejuk\nTyp posied
+ zenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dn
+ .29.11.2016 r. o udost.inf.publ.\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -501,16 +500,15 @@ DESCRIPTION:Data:2017-09-14\nGodzina:\nOrgan administracji:Starosta Piasec
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Oddziału Regionalnego Agencji Mienia Wojskowego w Wa
- rszawie - II SAB/Wa 192/17
+SUMMARY:[N] KOM-GAZ Sp. z o.o. z/s w Łosicach - II SAB/Wa 107/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170914T000000
-DESCRIPTION:Data:2017-09-14\nGodzina:\nOrgan administracji:Dyrektor Oddzia
- łu Regionalnego Agencji Mienia Wojskowego w Warszawie\nPrzedmiot:Informac
- ja publiczna\nPrzewodniczący:Przemysław Szustakiewicz\nSala:Sala posiedz
- eń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura akt:II SAB/Wa 192/1
- 7\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Iwona Maciejuk\nTyp posied
- zenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dn
- .29.11.2016 r. o udost.inf.publ.\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2017-09-14\nGodzina:\nOrgan administracji:KOM-GAZ Sp. z o
+ .o. z/s w Łosicach\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Przem
+ ysław Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona 
+ Maciejuk\nSygnatura akt:II SAB/Wa 107/17\nSymbol:658/6480\nSędziowie:Andr
+ zej Góraj\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynnośc 
+ w spraiwe rozpoznania wniosku z dnia 23 lutego 2016 r. o udostępnienie in
+ formacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -739,15 +737,15 @@ DESCRIPTION:Data:2017-09-28\nGodzina:13:30\nOrgan administracji:PKP Polski
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Okręgowa Rada Adwokacka w Warszawie - II SAB/Wa 101/17
+SUMMARY:[N] Minister Nauki i Szkolnictwa Wyższego - II SAB/Wa 70/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170929T000000
-DESCRIPTION:Data:2017-09-29\nGodzina:\nOrgan administracji:Okręgowa Rada 
- Adwokacka w Warszawie\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Pio
- tr Borowiecki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowie
- cki\nSygnatura akt:II SAB/Wa 101/17\nSymbol:658/6480\nSędziowie:Andrzej G
- óraj\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w s
- prawie rozpoznania wniosku z dnia 29 grudnia 2016 r. o udostępnienie info
- rmacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2017-09-29\nGodzina:\nOrgan administracji:Minister Nauki 
+ i Szkolnictwa Wyższego\nPrzedmiot:Bezczynność organu\nPrzewodniczący:P
+ iotr Borowiecki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwieci
+ ńska\nSygnatura akt:II SAB/Wa 70/17\nSymbol:658/6480\nSędziowie:Andrzej 
+ Góraj\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
+ sprawie rozpoznania wniosku z dn.11.11.2016 r. o udost.inf.publ.\nWydział
+  orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -764,15 +762,15 @@ DESCRIPTION:Data:2017-09-29\nGodzina:\nOrgan administracji:Podkomisja ds.
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Nauki i Szkolnictwa Wyższego - II SAB/Wa 70/17
+SUMMARY:[N] Okręgowa Rada Adwokacka w Warszawie - II SAB/Wa 101/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20170929T000000
-DESCRIPTION:Data:2017-09-29\nGodzina:\nOrgan administracji:Minister Nauki 
- i Szkolnictwa Wyższego\nPrzedmiot:Bezczynność organu\nPrzewodniczący:P
- iotr Borowiecki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwieci
- ńska\nSygnatura akt:II SAB/Wa 70/17\nSymbol:658/6480\nSędziowie:Andrzej 
- Góraj\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
- sprawie rozpoznania wniosku z dn.11.11.2016 r. o udost.inf.publ.\nWydział
-  orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2017-09-29\nGodzina:\nOrgan administracji:Okręgowa Rada 
+ Adwokacka w Warszawie\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Pio
+ tr Borowiecki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowie
+ cki\nSygnatura akt:II SAB/Wa 101/17\nSymbol:658/6480\nSędziowie:Andrzej G
+ óraj\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w s
+ prawie rozpoznania wniosku z dnia 29 grudnia 2016 r. o udostępnienie info
+ rmacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
