@@ -193,18 +193,6 @@ DESCRIPTION:Data:2018-01-23\nGodzina:\nOrgan administracji:Platforma Obywa
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Trybunału Konstytucyjnego - II SAB/Wa 493/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180123T000000
-DESCRIPTION:Data:2018-01-23\nGodzina:\nOrgan administracji:Prezes Trybuna
- łu Konstytucyjnego\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwona
-  Dąbrowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Dąbrowsk
- a\nSygnatura akt:II SAB/Wa 493/17\nSymbol:658/6480\nSędziowie:Adam Lipiń
- ski\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
- edmiocie rozpoznania wniosku z 08.07.2017 r. o udost.inf.publ.\nWydział o
- rzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Miejskie Przedsiębiorstwo Wodociągów i Kanalizacji m. st. W
  arszawy - II SAB/Wa 572/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180123T000000
@@ -215,6 +203,18 @@ DESCRIPTION:Data:2018-01-23\nGodzina:\nOrgan administracji:Miejskie Przeds
  :658/6480\nSędziowie:Adam Lipiński\, Janusz Walawski\nTyp posiedzenia:Ni
  ejawne\nUwagi:bezczynność w przedmiocie udostępnienia informacji public
  znej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Trybunału Konstytucyjnego - II SAB/Wa 493/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180123T000000
+DESCRIPTION:Data:2018-01-23\nGodzina:\nOrgan administracji:Prezes Trybuna
+ łu Konstytucyjnego\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwona
+  Dąbrowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Dąbrowsk
+ a\nSygnatura akt:II SAB/Wa 493/17\nSymbol:658/6480\nSędziowie:Adam Lipiń
+ ski\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
+ edmiocie rozpoznania wniosku z 08.07.2017 r. o udost.inf.publ.\nWydział o
+ rzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -229,18 +229,6 @@ DESCRIPTION:Data:2018-01-23\nGodzina:09:00\nOrgan administracji:Minister S
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Energii - II SAB/Wa 369/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180124T000000
-DESCRIPTION:Data:2018-01-24\nGodzina:\nOrgan administracji:Minister Energi
- i\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Stanisław Marek Pietra
- s\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSygnatu
- ra akt:II SAB/Wa 369/17\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Pr
- zemysław Szustakiewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
- rzedmioci8e rozpatrzenia wniosku z dn. 03.03.2017 r. o udost.inf.publ.\nWy
- dział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Wójt Gminy Winnica - II SAB/Wa 548/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180124T000000
 DESCRIPTION:Data:2018-01-24\nGodzina:\nOrgan administracji:Wójt Gminy Win
@@ -250,6 +238,18 @@ DESCRIPTION:Data:2018-01-24\nGodzina:\nOrgan administracji:Wójt Gminy Win
  wiecki\, Przemysław Szustakiewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczy
  nność w przedmiocie rozpoznania wniosku z dn.23.11.2016 r. o udost.inf.p
  ubl.\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Energii - II SAB/Wa 369/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180124T000000
+DESCRIPTION:Data:2018-01-24\nGodzina:\nOrgan administracji:Minister Energi
+ i\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Stanisław Marek Pietra
+ s\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSygnatu
+ ra akt:II SAB/Wa 369/17\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Pr
+ zemysław Szustakiewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
+ rzedmioci8e rozpatrzenia wniosku z dn. 03.03.2017 r. o udost.inf.publ.\nWy
+ dział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -533,6 +533,20 @@ DESCRIPTION:Data:2018-02-05\nGodzina:09:00\nOrgan administracji:Wójt Gmin
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Poradnia Psychologiczno-Pedagogiczna w Ciechanowie - II SAB/Wa
+  598/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180207T000000
+DESCRIPTION:Data:2018-02-07\nGodzina:\nOrgan administracji:Poradnia Psycho
+ logiczno-Pedagogiczna w Ciechanowie\nPrzedmiot:Informacja publiczna\nPrzew
+ odniczący:Przemysław Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSpr
+ awozdawca:Przemysław Szustakiewicz\nSygnatura akt:II SAB/Wa 598/17\nSymbo
+ l:658/6480\nSędziowie:Danuta Kania\, Stanisław Marek Pietras\nTyp posied
+ zenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania wniosku z dnia 6
+  października 2017 r. o udostępnienie informacj publicznej\nWydział orz
+ eczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Gminnej Biblioteki Publicznej w Ceranowie - II SAB/Wa
   561/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180207T000000
@@ -546,20 +560,6 @@ DESCRIPTION:Data:2018-02-07\nGodzina:\nOrgan administracji:Dyrektor Gminne
  zniczy:II\nWyniki:Stwierdzono bezczynność postępowania i że bezczynno
  ść nie miała miejsca z rażącym naruszeniem prawa |Orzeczono o odmowie
   zwrotu kosztów postępowania |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Poradnia Psychologiczno-Pedagogiczna w Ciechanowie - II SAB/Wa
-  598/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180207T000000
-DESCRIPTION:Data:2018-02-07\nGodzina:\nOrgan administracji:Poradnia Psycho
- logiczno-Pedagogiczna w Ciechanowie\nPrzedmiot:Informacja publiczna\nPrzew
- odniczący:Przemysław Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSpr
- awozdawca:Przemysław Szustakiewicz\nSygnatura akt:II SAB/Wa 598/17\nSymbo
- l:658/6480\nSędziowie:Danuta Kania\, Stanisław Marek Pietras\nTyp posied
- zenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania wniosku z dnia 6
-  października 2017 r. o udostępnienie informacj publicznej\nWydział orz
- eczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -769,6 +769,18 @@ DESCRIPTION:Data:2018-02-15\nGodzina:\nOrgan administracji:Dyrektor Samodz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Starosta Powiatu w Ciechanowie - II SAB/Wa 588/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180215T000000
+DESCRIPTION:Data:2018-02-15\nGodzina:\nOrgan administracji:Starosta Powiat
+ u w Ciechanowie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Maria Wer
+ pachowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Maria Werpachowsk
+ a\nSygnatura akt:II SAB/Wa 588/17\nSymbol:658/6480\nSędziowie:Iwona Macie
+ juk\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
+ edmiocie rozpoznania wniosku z dnia 27 września 2017 r. o udostępnienie 
+ informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Generalny Dyrektor Dróg Krajowych i Autostrad - II SAB/Wa 549
  /17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180215T000000
@@ -780,18 +792,6 @@ DESCRIPTION:Data:2018-02-15\nGodzina:\nOrgan administracji:Generalny Dyrek
  wne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 28 kwiet
  nia 2017 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:I
  I\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Starosta Powiatu w Ciechanowie - II SAB/Wa 588/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180215T000000
-DESCRIPTION:Data:2018-02-15\nGodzina:\nOrgan administracji:Starosta Powiat
- u w Ciechanowie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Maria Wer
- pachowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Maria Werpachowsk
- a\nSygnatura akt:II SAB/Wa 588/17\nSymbol:658/6480\nSędziowie:Iwona Macie
- juk\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
- edmiocie rozpoznania wniosku z dnia 27 września 2017 r. o udostępnienie 
- informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -839,6 +839,18 @@ DESCRIPTION:Data:2018-02-15\nGodzina:13:00\nOrgan administracji:Minister F
  a akt:II SA/Wa 1742/17\nSymbol:6480\nSędziowie:Iwona Maciejuk\, Janusz Wa
  lawski\nTyp posiedzenia:Jawne\nUwagi:Odmowa udzielenia informacji publiczn
  ej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Zdrowia - II SAB/Wa 663/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180220T000000
+DESCRIPTION:Data:2018-02-20\nGodzina:\nOrgan administracji:Minister Zdrowi
+ a\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Maciejuk\nSala:Sa
+ la posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura akt:II SA
+ B/Wa 663/17\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Ewa Marcinkowska
+ \nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania 
+ wniosku z dnia 20 października 2017 r. o udostępnienie informacji public
+ znej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -962,18 +974,6 @@ DESCRIPTION:Data:2018-02-22\nGodzina:10:20\nOrgan administracji:Minister Z
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Komendant Stołeczny Policji w Warszawie - II SAB/Wa 539/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180223T000000
-DESCRIPTION:Data:2018-02-23\nGodzina:\nOrgan administracji:Komendant Stoł
- eczny Policji w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczący
- :Sławomir Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławom
- ir Antoniuk\nSygnatura akt:II SAB/Wa 539/17\nSymbol:658/6480\nSędziowie:A
- dam Lipiński\, Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczy
- nność w przedmiocie rozpatrzenia wniosku z dnia 6 września 2017 r. o ud
- ostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Biura Emerytalnego Służby Więziennej - II SAB/Wa 4
  91/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180223T000000
@@ -984,6 +984,18 @@ DESCRIPTION:Data:2018-02-23\nGodzina:\nOrgan administracji:Dyrektor Biura
  ziowie:Adam Lipiński\, Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwag
  i:bezczynność w przedmiocie rozpoznania wniosku z 24.07.2017 r. o udost.
  inf.publ.\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Komendant Stołeczny Policji w Warszawie - II SAB/Wa 539/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180223T000000
+DESCRIPTION:Data:2018-02-23\nGodzina:\nOrgan administracji:Komendant Stoł
+ eczny Policji w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczący
+ :Sławomir Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławom
+ ir Antoniuk\nSygnatura akt:II SAB/Wa 539/17\nSymbol:658/6480\nSędziowie:A
+ dam Lipiński\, Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczy
+ nność w przedmiocie rozpatrzenia wniosku z dnia 6 września 2017 r. o ud
+ ostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1022,18 +1034,6 @@ DESCRIPTION:Data:2018-02-23\nGodzina:13:10\nOrgan administracji:Minister Z
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Metro Warszawskie Sp.z o.o. - II SAB/Wa 566/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180226T000000
-DESCRIPTION:Data:2018-02-26\nGodzina:\nOrgan administracji:Metro Warszawsk
- ie Sp.z o.o.\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Gór
- aj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatur
- a akt:II SAB/Wa 566/17\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Jan
- usz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozp
- oznania wniosku z dn.25.08.2017 r. o udost.inf.publ.\nWydział orzeczniczy
- :II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Starosta Powiatu w Ciechanowie - II SAB/Wa 601/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180226T000000
 DESCRIPTION:Data:2018-02-26\nGodzina:\nOrgan administracji:Starosta Powiat
@@ -1043,6 +1043,18 @@ DESCRIPTION:Data:2018-02-26\nGodzina:\nOrgan administracji:Starosta Powiat
  , Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmi
  ocie rozpoznania wniosku z dnia 11 października 2017 r. o udostępnienie 
  informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Metro Warszawskie Sp.z o.o. - II SAB/Wa 566/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180226T000000
+DESCRIPTION:Data:2018-02-26\nGodzina:\nOrgan administracji:Metro Warszawsk
+ ie Sp.z o.o.\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Gór
+ aj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatur
+ a akt:II SAB/Wa 566/17\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Jan
+ usz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozp
+ oznania wniosku z dn.25.08.2017 r. o udost.inf.publ.\nWydział orzeczniczy
+ :II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1058,18 +1070,6 @@ DESCRIPTION:Data:2018-02-26\nGodzina:\nOrgan administracji:Kancelaria Prez
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezydent Miasta Siedlce - II SAB/Wa 556/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180227T000000
-DESCRIPTION:Data:2018-02-27\nGodzina:\nOrgan administracji:Prezydent Miast
- a Siedlce\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Dąbrowsk
- a\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnatura a
- kt:II SAB/Wa 556/17\nSymbol:658/6480\nSędziowie:Danuta Kania\, Maria Werp
- achowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozp
- oznania wniosku z 25 maja 2017 r. o udostępnienie informacji publicznej\n
- Wydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezydent Miasta Siedlce - II SAB/Wa 555/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180227T000000
 DESCRIPTION:Data:2018-02-27\nGodzina:\nOrgan administracji:Prezydent Miast
@@ -1079,6 +1079,18 @@ DESCRIPTION:Data:2018-02-27\nGodzina:\nOrgan administracji:Prezydent Miast
  achowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozp
  oznania wniosku z 1 września 2017 r. o udostępnienie informacji publiczn
  ej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezydent Miasta Siedlce - II SAB/Wa 556/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180227T000000
+DESCRIPTION:Data:2018-02-27\nGodzina:\nOrgan administracji:Prezydent Miast
+ a Siedlce\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Dąbrowsk
+ a\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnatura a
+ kt:II SAB/Wa 556/17\nSymbol:658/6480\nSędziowie:Danuta Kania\, Maria Werp
+ achowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozp
+ oznania wniosku z 25 maja 2017 r. o udostępnienie informacji publicznej\n
+ Wydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1105,17 +1117,15 @@ DESCRIPTION:Data:2018-02-27\nGodzina:10:00\nOrgan administracji:Minister Z
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Gmina Nasielsk-Centrum Usług Wspólnych w Nasielsku - II SAB/
- Wa 522/17
+SUMMARY:[N] Powiatowy Inspektor Nadzoru Budowlanego w Pruszkowie - II SAB/
+ Wa 384/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180228T000000
-DESCRIPTION:Data:2018-02-28\nGodzina:\nOrgan administracji:Gmina Nasielsk-
- Centrum Usług Wspólnych w Nasielsku\nPrzedmiot:Informacja publiczna\nPrz
- ewodniczący:Stanisław Marek Pietras\nSala:Sala posiedzeń niejawnych\nSp
- rawozdawca:Stanisław Marek Pietras\nSygnatura akt:II SAB/Wa 522/17\nSymbo
- l:658/6480\nSędziowie:Adam Lipiński\, Iwona Maciejuk\nTyp posiedzenia:Ni
- ejawne\nUwagi:bezczynność w przedmiocie rozpatrzenia wniosku z dnia 12 l
- ipca 2017 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:
- II\nWyniki:
+DESCRIPTION:Data:2018-02-28\nGodzina:\nOrgan administracji:Powiatowy Inspe
+ ktor Nadzoru Budowlanego w Pruszkowie\nPrzedmiot:Bezczynność organu\; Be
+ zczynność organu\nPrzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń 
+ niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 384/17\n
+ Symbol:658/6480\nSędziowie:Adam Lipiński\, Iwona Maciejuk\nTyp posiedzen
+ ia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1131,15 +1141,17 @@ DESCRIPTION:Data:2018-02-28\nGodzina:\nOrgan administracji:Telewizja Polsk
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Powiatowy Inspektor Nadzoru Budowlanego w Pruszkowie - II SAB/
- Wa 384/17
+SUMMARY:[N] Gmina Nasielsk-Centrum Usług Wspólnych w Nasielsku - II SAB/
+ Wa 522/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180228T000000
-DESCRIPTION:Data:2018-02-28\nGodzina:\nOrgan administracji:Powiatowy Inspe
- ktor Nadzoru Budowlanego w Pruszkowie\nPrzedmiot:Bezczynność organu\; Be
- zczynność organu\nPrzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń 
- niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 384/17\n
- Symbol:658/6480\nSędziowie:Adam Lipiński\, Iwona Maciejuk\nTyp posiedzen
- ia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2018-02-28\nGodzina:\nOrgan administracji:Gmina Nasielsk-
+ Centrum Usług Wspólnych w Nasielsku\nPrzedmiot:Informacja publiczna\nPrz
+ ewodniczący:Stanisław Marek Pietras\nSala:Sala posiedzeń niejawnych\nSp
+ rawozdawca:Stanisław Marek Pietras\nSygnatura akt:II SAB/Wa 522/17\nSymbo
+ l:658/6480\nSędziowie:Adam Lipiński\, Iwona Maciejuk\nTyp posiedzenia:Ni
+ ejawne\nUwagi:bezczynność w przedmiocie rozpatrzenia wniosku z dnia 12 l
+ ipca 2017 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:
+ II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1248,6 +1260,19 @@ DESCRIPTION:Data:2018-03-09\nGodzina:\nOrgan administracji:Bank PKO BP SA\
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Generalny Inspektor Ochrony Danych Osobowych - II SAB/Wa 630/1
+ 7
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180309T000000
+DESCRIPTION:Data:2018-03-09\nGodzina:\nOrgan administracji:Generalny Inspe
+ ktor Ochrony Danych Osobowych\nPrzedmiot:Informacja publiczna\nPrzewodnicz
+ ący:Iwona Dąbrowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona
+  Maciejuk\nSygnatura akt:II SAB/Wa 630/17\nSymbol:658/6480\nSędziowie:Sł
+ awomir Antoniuk\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynn
+ ość w przedmiocie rozpoznania wniosku z dn.29.08.2017 r. o udost.inf.pub
+ l.\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Wójt Gminy Winnica - II SAB/Wa 657/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180309T000000
 DESCRIPTION:Data:2018-03-09\nGodzina:\nOrgan administracji:Wójt Gminy Win
@@ -1272,16 +1297,15 @@ DESCRIPTION:Data:2018-03-09\nGodzina:\nOrgan administracji:Burmistrz Miast
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Generalny Inspektor Ochrony Danych Osobowych - II SAB/Wa 630/1
- 7
+SUMMARY:[N] Komisja Nadzoru Finansowego - II SAB/Wa 577/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180309T000000
-DESCRIPTION:Data:2018-03-09\nGodzina:\nOrgan administracji:Generalny Inspe
- ktor Ochrony Danych Osobowych\nPrzedmiot:Informacja publiczna\nPrzewodnicz
- ący:Iwona Dąbrowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona
-  Maciejuk\nSygnatura akt:II SAB/Wa 630/17\nSymbol:658/6480\nSędziowie:Sł
- awomir Antoniuk\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynn
- ość w przedmiocie rozpoznania wniosku z dn.29.08.2017 r. o udost.inf.pub
- l.\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2018-03-09\nGodzina:\nOrgan administracji:Komisja Nadzoru
+  Finansowego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Dąbro
+ wska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Dąbrowska\nSygn
+ atura akt:II SAB/Wa 577/17\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk
+ \, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie
+  rozpoznania wniosku z dnia 22 czerwca 2017 r. o udostępnienie informacji
+  publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1294,18 +1318,6 @@ DESCRIPTION:Data:2018-03-09\nGodzina:\nOrgan administracji:Wojewoda Mazowi
   Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie roz
  poznania wniosku z 11 sierpnia 2017 r. o udostępnienie informacji publicz
  nej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Komisja Nadzoru Finansowego - II SAB/Wa 577/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180309T000000
-DESCRIPTION:Data:2018-03-09\nGodzina:\nOrgan administracji:Komisja Nadzoru
-  Finansowego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Dąbro
- wska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Dąbrowska\nSygn
- atura akt:II SAB/Wa 577/17\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk
- \, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie
-  rozpoznania wniosku z dnia 22 czerwca 2017 r. o udostępnienie informacji
-  publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1332,6 +1344,29 @@ DESCRIPTION:Data:2018-03-14\nGodzina:10:10\nOrgan administracji:Starosta P
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Gozdowo - II SAB/Wa 678/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180315T000000
+DESCRIPTION:Data:2018-03-15\nGodzina:\nOrgan administracji:Wójt Gminy Goz
+ dowo\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSala:Sa
+ la posiedzeń niejawnych\nSprawozdawca:Joanna Kube\nSygnatura akt:II SAB/W
+ a 678/17\nSymbol:658/6480\nSędziowie:Adam Lipiński\, Janusz Walawski\nTy
+ p posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wnio
+ sku z dnia 12.10.2017 r. o udost.inf.publ.\nWydział orzeczniczy:II\nWynik
+ i:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy  Błędów - II SAB/Wa 628/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180315T000000
+DESCRIPTION:Data:2018-03-15\nGodzina:\nOrgan administracji:Wójt Gminy Bł
+ ędów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSala:
+ Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kube\nSygnatura akt:II SAB
+ /Wa 628/17\nSymbol:658/6480\nSędziowie:Adam Lipiński\, Janusz Walawski\n
+ Typ posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wn
+ iosku z 04.10.2017 r. o udost.inf.publ.\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezes WSA w Warszawie - II SAB/Wa 532/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180315T000000
 DESCRIPTION:Data:2018-03-15\nGodzina:\nOrgan administracji:Prezes WSA w Wa
@@ -1355,6 +1390,59 @@ DESCRIPTION:Data:2018-03-15\nGodzina:\nOrgan administracji:Samodzielny Pub
   Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie roz
  poznania wniosku z dn. 04.07.2017 r. o udost.inf.publ.\nWydział orzecznic
  zy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Centrum Systemów Informacyjnych Ochrony Zdrowia - II SAB/Wa 6
+ 67/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180316T000000
+DESCRIPTION:Data:2018-03-16\nGodzina:\nOrgan administracji:Centrum System
+ ów Informacyjnych Ochrony Zdrowia\nPrzedmiot:Bezczynność organu\nPrzewo
+ dniczący:Maria Werpachowska\nSala:Sala posiedzeń niejawnych\nSprawozdawc
+ a:Iwona Maciejuk\nSygnatura akt:II SAB/Wa 667/17\nSymbol:658/6481\nSędzio
+ wie:Ewa Kwiecińska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezc
+ zynność w sprawie rozpoznania wniosku z dnia 23 października 2017 r. o 
+ ponowne wykorzystanie informacji sektora publicznego\nWydział orzeczniczy
+ :II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Gimnazjum z Oddziałami Dwujęzycznymi Nr 83 im. Kons
+ tancji Markiewicz w Warszawie - II SAB/Wa 496/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180316T000000
+DESCRIPTION:Data:2018-03-16\nGodzina:\nOrgan administracji:Dyrektor Gimnaz
+ jum z Oddziałami Dwujęzycznymi Nr 83 im. Konstancji Markiewicz w Warszaw
+ ie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Maria Werpachowska\nSa
+ la:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura akt
+ :II SAB/Wa 496/17\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Iwona Mac
+ iejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpozn
+ ania wniosku z 11 lipca 2017 r. o udostępnienie informacji publicznej\nWy
+ dział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Spraw Wewnętrznych i Administracji - II SAB/Wa 454/1
+ 7
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180316T000000
+DESCRIPTION:Data:2018-03-16\nGodzina:\nOrgan administracji:Minister Spraw 
+ Wewnętrznych i Administracji\nPrzedmiot:Bezczynność organu\nPrzewodnicz
+ ący:Maria Werpachowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Mar
+ ia Werpachowska\nSygnatura akt:II SAB/Wa 454/17\nSymbol:658/6480\nSędziow
+ ie:Ewa Kwiecińska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezcz
+ ynność w przedmiocie rozpoznania wniosku z dn. 10.08.2017 r. o udost.inf
+ .publ.\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 621/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180316T000000
+DESCRIPTION:Data:2018-03-16\nGodzina:\nOrgan administracji:Prezes Rady Min
+ istrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Maria Werpachowsk
+ a\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Maria Werpachowska\nSygna
+ tura akt:II SAB/Wa 621/17\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, I
+ wona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie
+  rozpoznania wniosku z dn. 23.10.2017 r. o udost.inf.publ.\nWydział orzec
+ zniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
