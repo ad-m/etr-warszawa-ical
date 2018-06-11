@@ -1,18 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[J] SKO w Ostrołęce - II SA/Wa 1526/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180511T090000
-DESCRIPTION:Data:2018-05-11\nGodzina:09:00\nOrgan administracji:SKO w Ostr
- ołęce\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Maria Werpachowsk
- a\nSala:Sala F\nSprawozdawca:Piotr Borowiecki\nSygnatura akt:II SA/Wa 1526
- /17\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, Piotr Borowiecki\nTyp po
- siedzenia:Jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydzia
- ł orzeczniczy:II\nWyniki:Uchylono decyzję I i II instancji |Zasądzono z
- wrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Polski Związek Tenisa Stołowego - II SAB/Wa 629/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180515T000000
 DESCRIPTION:Data:2018-05-15\nGodzina:\nOrgan administracji:Polski Związek
@@ -660,17 +648,15 @@ DESCRIPTION:Data:2018-06-27\nGodzina:\nOrgan administracji:Dyrektor Zespo
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Mazowiecki Oddział Wojewódzki Narodowego Funduszu Zdrowia - 
- II SAB/Wa 56/18
+SUMMARY:[N] Burmistrz Miasta i Gminy Glinojeck - II SAB/Wa 26/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180704T000000
-DESCRIPTION:Data:2018-07-04\nGodzina:\nOrgan administracji:Mazowiecki Oddz
- iał Wojewódzki Narodowego Funduszu Zdrowia\nPrzedmiot:Informacja publicz
- na\nPrzewodniczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSpr
- awozdawca:Iwona Maciejuk\nSygnatura akt:II SAB/Wa 56/18\nSymbol:658/6480\n
- Sędziowie:Iwona Maciejuk\, Przemysław Szustakiewicz\nTyp posiedzenia:Nie
- jawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 6 wrze
- śnia 2017 r. o udostępnienie informacji publicznej\nWydział orzeczniczy
- :II\nWyniki:
+DESCRIPTION:Data:2018-07-04\nGodzina:\nOrgan administracji:Burmistrz Miast
+ a i Gminy Glinojeck\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Maria
+  Werpachowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Maria Werpach
+ owska\nSygnatura akt:II SAB/Wa 26/18\nSymbol:658/6480\nSędziowie:Iwona Ma
+ ciejuk\, Przemysław Szustakiewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczy
+ nność w przedmiocie rozpoznania wniosku z dnia 11 października 2017 r. 
+ o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -685,15 +671,17 @@ DESCRIPTION:Data:2018-07-04\nGodzina:\nOrgan administracji:Prezydent m.st.
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Burmistrz Miasta i Gminy Glinojeck - II SAB/Wa 26/18
+SUMMARY:[N] Mazowiecki Oddział Wojewódzki Narodowego Funduszu Zdrowia - 
+ II SAB/Wa 56/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180704T000000
-DESCRIPTION:Data:2018-07-04\nGodzina:\nOrgan administracji:Burmistrz Miast
- a i Gminy Glinojeck\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Maria
-  Werpachowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Maria Werpach
- owska\nSygnatura akt:II SAB/Wa 26/18\nSymbol:658/6480\nSędziowie:Iwona Ma
- ciejuk\, Przemysław Szustakiewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczy
- nność w przedmiocie rozpoznania wniosku z dnia 11 października 2017 r. 
- o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2018-07-04\nGodzina:\nOrgan administracji:Mazowiecki Oddz
+ iał Wojewódzki Narodowego Funduszu Zdrowia\nPrzedmiot:Informacja publicz
+ na\nPrzewodniczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSpr
+ awozdawca:Iwona Maciejuk\nSygnatura akt:II SAB/Wa 56/18\nSymbol:658/6480\n
+ Sędziowie:Iwona Maciejuk\, Przemysław Szustakiewicz\nTyp posiedzenia:Nie
+ jawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 6 wrze
+ śnia 2017 r. o udostępnienie informacji publicznej\nWydział orzeczniczy
+ :II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -717,6 +705,41 @@ DESCRIPTION:Data:2018-07-05\nGodzina:11:30\nOrgan administracji:Starosta P
  A/Wa 1764/17\nSymbol:6480\nSędziowie:Piotr Borowiecki\, Stanisław Marek 
  Pietras\nTyp posiedzenia:Jawne\nUwagi:ustalenie kosztów związanych z udo
  stęnieniem informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Trybunału Konstytucyjnego - II SAB/Wa 85/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180711T000000
+DESCRIPTION:Data:2018-07-11\nGodzina:\nOrgan administracji:Prezes Trybuna
+ łu Konstytucyjnego\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Piotr
+  Borowiecki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Stanisław Mare
+ k Pietras\nSygnatura akt:II SAB/Wa 85/18\nSymbol:658/6480\nSędziowie:Iwon
+ a Maciejuk\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bez
+ czynność w przedmiocie rozpoznania wniosku z dnia 06.11.2017 r. o udost.
+ inf.publ. (skarga nr 3/2018)\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[J] Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa - II 
+ SA/Wa 142/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180711T100000
+DESCRIPTION:Data:2018-07-11\nGodzina:10:00\nOrgan administracji:Prezes Age
+ ncji Restrukturyzacji i Modernizacji Rolnictwa\nPrzedmiot:Informacja publi
+ czna\nPrzewodniczący:Piotr Borowiecki\nSala:Sala F\nSprawozdawca:Piotr Bo
+ rowiecki\nSygnatura akt:II SA/Wa 142/18\nSymbol:6480\nSędziowie:Iwona Mac
+ iejuk\, Stanisław Marek Pietras\nTyp posiedzenia:Jawne\nUwagi:odmowa udos
+ tępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[J] Główny Inspektor Farmaceutyczny - II SA/Wa 116/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180711T110000
+DESCRIPTION:Data:2018-07-11\nGodzina:11:00\nOrgan administracji:Główny I
+ nspektor Farmaceutyczny\nPrzedmiot:Informacja publiczna\nPrzewodniczący:P
+ iotr Borowiecki\nSala:Sala F\nSprawozdawca:Piotr Borowiecki\nSygnatura akt
+ :II SA/Wa 116/18\nSymbol:6480\nSędziowie:Iwona Maciejuk\, Stanisław Mare
+ k Pietras\nTyp posiedzenia:Jawne\nUwagi:Informacja publiczna\nWydział orz
+ eczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
