@@ -1,20 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[N] Centralna Wojskowa Komisja Lekarska - II SAB/Wa 246/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180522T000000
-DESCRIPTION:Data:2018-05-22\nGodzina:\nOrgan administracji:Centralna Wojsk
- owa Komisja Lekarska\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andr
- zej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Koł
- odziej\nSygnatura akt:II SAB/Wa 246/18\nSymbol:658/6480\nSędziowie:Piotr 
- Borowiecki\, Iwona Dąbrowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
- ć i przewlekłe prowadzenie postępowania przez Centralną Wojskową Komi
- sję Lekarską w Warszawie w przedmiocie rozpoznania wniosku z dnia 2 list
- opada 2017 r. o udostępnienie informacji publicznej\nWydział orzeczniczy
- :II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Krajowa Komisja Etyczna do Spraw Doświadczeń na Zwierzętach
   - II SAB/Wa 37/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180522T000000
@@ -26,6 +12,20 @@ DESCRIPTION:Data:2018-05-22\nGodzina:\nOrgan administracji:Krajowa Komisja
  jawne\nUwagi:rozpoznanie wniosku z dnia 29.01.2016 r. o udzielenie inf.pub
  licznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono ż
  e bezczynność miała miejsce bez rażącego naruszenia prawa
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Centralna Wojskowa Komisja Lekarska - II SAB/Wa 246/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180522T000000
+DESCRIPTION:Data:2018-05-22\nGodzina:\nOrgan administracji:Centralna Wojsk
+ owa Komisja Lekarska\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andr
+ zej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Koł
+ odziej\nSygnatura akt:II SAB/Wa 246/18\nSymbol:658/6480\nSędziowie:Piotr 
+ Borowiecki\, Iwona Dąbrowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
+ ć i przewlekłe prowadzenie postępowania przez Centralną Wojskową Komi
+ sję Lekarską w Warszawie w przedmiocie rozpoznania wniosku z dnia 2 list
+ opada 2017 r. o udostępnienie informacji publicznej\nWydział orzeczniczy
+ :II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -55,19 +55,18 @@ DESCRIPTION:Data:2018-05-22\nGodzina:09:30\nOrgan administracji:Warszawska
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Krajowa Rada Radiofonii i Telewizji - II SAB/Wa 54/18
+SUMMARY:[N] Burmistrz Miasta i Gminy Bieżuń - II SAB/Wa 680/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180523T000000
-DESCRIPTION:Data:2018-05-23\nGodzina:\nOrgan administracji:Krajowa Rada Ra
- diofonii i Telewizji\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Adam
-  Lipiński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\
- nSygnatura akt:II SAB/Wa 54/18\nSymbol:658/6480\nSędziowie:Ewa Kwiecińsk
- a\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prze
- dmiocie rozpoznania wniosku z 12 grudnia 2017 r. o udostępnienie informac
- ji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano organ do rozpo
- znania wniosku/odwołania w terminie ...od otrzymania odpisu prawomocnego 
- orzeczenia |Stwierdzono bezczynność postępowania i że bezczynność ni
- e miała miejsca z rażącym naruszeniem prawa |Zasądzono zwrot kosztów 
- postępowania
+DESCRIPTION:Data:2018-05-23\nGodzina:\nOrgan administracji:Burmistrz Miast
+ a i Gminy Bieżuń\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Adam L
+ ipiński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam Lipiński\nSy
+ gnatura akt:II SAB/Wa 680/17\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\
+ , Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
+ iocie rozpoznania wniosku z dnia 12.10.2017 r. o udost.inf.publ.\nWydział
+  orzeczniczy:II\nWyniki:Stwierdzono bezczynność postępowania i że bezc
+ zynność nie miała miejsca z rażącym naruszeniem prawa |Zasądzono zwr
+ ot kosztów postępowania |Odstąpiono od zasądzenia kosztów zastępstwa
+  procesowego
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -83,18 +82,19 @@ DESCRIPTION:Data:2018-05-23\nGodzina:\nOrgan administracji:Wójt Gminy Les
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Burmistrz Miasta i Gminy Bieżuń - II SAB/Wa 680/17
+SUMMARY:[N] Krajowa Rada Radiofonii i Telewizji - II SAB/Wa 54/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180523T000000
-DESCRIPTION:Data:2018-05-23\nGodzina:\nOrgan administracji:Burmistrz Miast
- a i Gminy Bieżuń\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Adam L
- ipiński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam Lipiński\nSy
- gnatura akt:II SAB/Wa 680/17\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\
- , Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
- iocie rozpoznania wniosku z dnia 12.10.2017 r. o udost.inf.publ.\nWydział
-  orzeczniczy:II\nWyniki:Stwierdzono bezczynność postępowania i że bezc
- zynność nie miała miejsca z rażącym naruszeniem prawa |Zasądzono zwr
- ot kosztów postępowania |Odstąpiono od zasądzenia kosztów zastępstwa
-  procesowego
+DESCRIPTION:Data:2018-05-23\nGodzina:\nOrgan administracji:Krajowa Rada Ra
+ diofonii i Telewizji\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Adam
+  Lipiński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\
+ nSygnatura akt:II SAB/Wa 54/18\nSymbol:658/6480\nSędziowie:Ewa Kwiecińsk
+ a\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prze
+ dmiocie rozpoznania wniosku z 12 grudnia 2017 r. o udostępnienie informac
+ ji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano organ do rozpo
+ znania wniosku/odwołania w terminie ...od otrzymania odpisu prawomocnego 
+ orzeczenia |Stwierdzono bezczynność postępowania i że bezczynność ni
+ e miała miejsca z rażącym naruszeniem prawa |Zasądzono zwrot kosztów 
+ postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -375,18 +375,6 @@ DESCRIPTION:Data:2018-06-13\nGodzina:\nOrgan administracji:Dyrektor Centra
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Nieporęt - II SAB/Wa 686/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180614T000000
-DESCRIPTION:Data:2018-06-14\nGodzina:\nOrgan administracji:Wójt Gminy Nie
- poręt\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Przemysław Szusta
- kiewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Przemysław Szustak
- iewicz\nSygnatura akt:II SAB/Wa 686/17\nSymbol:658/6480\nSędziowie:Piotr 
- Borowiecki\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bez
- czynność w przedmiocie rozpoznania wniosku z dnia 10.10.2017 r. o udost.
- inf.publ.\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Wójt Gminy Łąck - II SAB/Wa 646/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180614T000000
 DESCRIPTION:Data:2018-06-14\nGodzina:\nOrgan administracji:Wójt Gminy Ł
@@ -399,6 +387,18 @@ DESCRIPTION:Data:2018-06-14\nGodzina:\nOrgan administracji:Wójt Gminy Ł
  wania i że bezczynność nie miała miejsca z rażącym naruszeniem prawa
   |Zasądzono zwrot kosztów postępowania |Odstąpiono od zasądzenia kosz
  tów zastępstwa procesowego
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Nieporęt - II SAB/Wa 686/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180614T000000
+DESCRIPTION:Data:2018-06-14\nGodzina:\nOrgan administracji:Wójt Gminy Nie
+ poręt\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Przemysław Szusta
+ kiewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Przemysław Szustak
+ iewicz\nSygnatura akt:II SAB/Wa 686/17\nSymbol:658/6480\nSędziowie:Piotr 
+ Borowiecki\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bez
+ czynność w przedmiocie rozpoznania wniosku z dnia 10.10.2017 r. o udost.
+ inf.publ.\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -432,7 +432,9 @@ DESCRIPTION:Data:2018-06-19\nGodzina:\nOrgan administracji:Wójt Gminy Kle
  t:II SAB/Wa 193/18\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Iwona M
  aciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpa
  trzenia wniosku o udost.inf.publ. z 18 maja 2015 r.\nWydział orzeczniczy:
- II\nWyniki:
+ II\nWyniki:Zobowiązano ... i stwierdzono że bezczynność miała miejsce
+  bez rażącego naruszenia prawa |Oddalono skargę w części |Zasądzono 
+ zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -503,6 +505,20 @@ DESCRIPTION:Data:2018-06-28\nGodzina:\nOrgan administracji:Minister Energi
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Mazowiecki Oddział Wojewódzki Narodowego Funduszu Zdrowia - 
+ II SAB/Wa 56/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180704T000000
+DESCRIPTION:Data:2018-07-04\nGodzina:\nOrgan administracji:Mazowiecki Oddz
+ iał Wojewódzki Narodowego Funduszu Zdrowia\nPrzedmiot:Informacja publicz
+ na\nPrzewodniczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSpr
+ awozdawca:Iwona Maciejuk\nSygnatura akt:II SAB/Wa 56/18\nSymbol:658/6480\n
+ Sędziowie:Iwona Maciejuk\, Przemysław Szustakiewicz\nTyp posiedzenia:Nie
+ jawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 6 wrze
+ śnia 2017 r. o udostępnienie informacji publicznej\nWydział orzeczniczy
+ :II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Burmistrz Miasta i Gminy Glinojeck - II SAB/Wa 26/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180704T000000
 DESCRIPTION:Data:2018-07-04\nGodzina:\nOrgan administracji:Burmistrz Miast
@@ -523,20 +539,6 @@ DESCRIPTION:Data:2018-07-04\nGodzina:\nOrgan administracji:Prezydent m.st.
  Maria Werpachowska\nSygnatura akt:II SAB/Wa 59/18\nSymbol:658/6480\nSędzi
  owie:Iwona Maciejuk\, Przemysław Szustakiewicz\nTyp posiedzenia:Niejawne\
  nUwagi:\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Mazowiecki Oddział Wojewódzki Narodowego Funduszu Zdrowia - 
- II SAB/Wa 56/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180704T000000
-DESCRIPTION:Data:2018-07-04\nGodzina:\nOrgan administracji:Mazowiecki Oddz
- iał Wojewódzki Narodowego Funduszu Zdrowia\nPrzedmiot:Informacja publicz
- na\nPrzewodniczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSpr
- awozdawca:Iwona Maciejuk\nSygnatura akt:II SAB/Wa 56/18\nSymbol:658/6480\n
- Sędziowie:Iwona Maciejuk\, Przemysław Szustakiewicz\nTyp posiedzenia:Nie
- jawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 6 wrze
- śnia 2017 r. o udostępnienie informacji publicznej\nWydział orzeczniczy
- :II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
