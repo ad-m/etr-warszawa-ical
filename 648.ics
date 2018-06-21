@@ -1,20 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[N] Krajowa Komisja Etyczna do Spraw Doświadczeń na Zwierzętach
-  - II SAB/Wa 37/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180522T000000
-DESCRIPTION:Data:2018-05-22\nGodzina:\nOrgan administracji:Krajowa Komisja
-  Etyczna do Spraw Doświadczeń na Zwierzętach\nPrzedmiot:Bezczynność o
- rganu\nPrzewodniczący:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych
- \nSprawozdawca:Piotr Borowiecki\nSygnatura akt:II SAB/Wa 37/18\nSymbol:658
- /6480\nSędziowie:Piotr Borowiecki\, Iwona Dąbrowska\nTyp posiedzenia:Nie
- jawne\nUwagi:rozpoznanie wniosku z dnia 29.01.2016 r. o udzielenie inf.pub
- licznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono ż
- e bezczynność miała miejsce bez rażącego naruszenia prawa
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Centralna Wojskowa Komisja Lekarska - II SAB/Wa 246/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180522T000000
 DESCRIPTION:Data:2018-05-22\nGodzina:\nOrgan administracji:Centralna Wojsk
@@ -26,6 +12,20 @@ DESCRIPTION:Data:2018-05-22\nGodzina:\nOrgan administracji:Centralna Wojsk
  sję Lekarską w Warszawie w przedmiocie rozpoznania wniosku z dnia 2 list
  opada 2017 r. o udostępnienie informacji publicznej\nWydział orzeczniczy
  :II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Krajowa Komisja Etyczna do Spraw Doświadczeń na Zwierzętach
+  - II SAB/Wa 37/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180522T000000
+DESCRIPTION:Data:2018-05-22\nGodzina:\nOrgan administracji:Krajowa Komisja
+  Etyczna do Spraw Doświadczeń na Zwierzętach\nPrzedmiot:Bezczynność o
+ rganu\nPrzewodniczący:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych
+ \nSprawozdawca:Piotr Borowiecki\nSygnatura akt:II SAB/Wa 37/18\nSymbol:658
+ /6480\nSędziowie:Piotr Borowiecki\, Iwona Dąbrowska\nTyp posiedzenia:Nie
+ jawne\nUwagi:rozpoznanie wniosku z dnia 29.01.2016 r. o udzielenie inf.pub
+ licznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono ż
+ e bezczynność miała miejsce bez rażącego naruszenia prawa
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -446,7 +446,7 @@ DESCRIPTION:Data:2018-06-20\nGodzina:09:00\nOrgan administracji:Prezes Urz
  rzewodniczący:Stanisław Marek Pietras\nSala:Sala F\nSprawozdawca:Danuta 
  Kania\nSygnatura akt:II SA/Wa 2135/17\nSymbol:6480\nSędziowie:Danuta Kani
  a\, Ewa Marcinkowska\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia i
- nformacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ nformacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -457,7 +457,7 @@ DESCRIPTION:Data:2018-06-20\nGodzina:11:10\nOrgan administracji:Metro Wars
  ław Marek Pietras\nSala:Sala F\nSprawozdawca:Ewa Marcinkowska\nSygnatura 
  akt:II SA/Wa 110/18\nSymbol:6480\nSędziowie:Danuta Kania\, Ewa Marcinkows
  ka\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji publiczn
- ej\nWydział orzeczniczy:II\nWyniki:
+ ej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -505,20 +505,6 @@ DESCRIPTION:Data:2018-06-28\nGodzina:\nOrgan administracji:Minister Energi
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Mazowiecki Oddział Wojewódzki Narodowego Funduszu Zdrowia - 
- II SAB/Wa 56/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180704T000000
-DESCRIPTION:Data:2018-07-04\nGodzina:\nOrgan administracji:Mazowiecki Oddz
- iał Wojewódzki Narodowego Funduszu Zdrowia\nPrzedmiot:Informacja publicz
- na\nPrzewodniczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSpr
- awozdawca:Iwona Maciejuk\nSygnatura akt:II SAB/Wa 56/18\nSymbol:658/6480\n
- Sędziowie:Iwona Maciejuk\, Przemysław Szustakiewicz\nTyp posiedzenia:Nie
- jawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 6 wrze
- śnia 2017 r. o udostępnienie informacji publicznej\nWydział orzeczniczy
- :II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Burmistrz Miasta i Gminy Glinojeck - II SAB/Wa 26/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180704T000000
 DESCRIPTION:Data:2018-07-04\nGodzina:\nOrgan administracji:Burmistrz Miast
@@ -539,6 +525,20 @@ DESCRIPTION:Data:2018-07-04\nGodzina:\nOrgan administracji:Prezydent m.st.
  Maria Werpachowska\nSygnatura akt:II SAB/Wa 59/18\nSymbol:658/6480\nSędzi
  owie:Iwona Maciejuk\, Przemysław Szustakiewicz\nTyp posiedzenia:Niejawne\
  nUwagi:\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Mazowiecki Oddział Wojewódzki Narodowego Funduszu Zdrowia - 
+ II SAB/Wa 56/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180704T000000
+DESCRIPTION:Data:2018-07-04\nGodzina:\nOrgan administracji:Mazowiecki Oddz
+ iał Wojewódzki Narodowego Funduszu Zdrowia\nPrzedmiot:Informacja publicz
+ na\nPrzewodniczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSpr
+ awozdawca:Iwona Maciejuk\nSygnatura akt:II SAB/Wa 56/18\nSymbol:658/6480\n
+ Sędziowie:Iwona Maciejuk\, Przemysław Szustakiewicz\nTyp posiedzenia:Nie
+ jawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 6 wrze
+ śnia 2017 r. o udostępnienie informacji publicznej\nWydział orzeczniczy
+ :II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -577,6 +577,18 @@ DESCRIPTION:Data:2018-07-11\nGodzina:\nOrgan administracji:Prezes Trybuna
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Krajowa Rada Radiofonii i Telewizji - II SAB/Wa 57/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180711T000000
+DESCRIPTION:Data:2018-07-11\nGodzina:\nOrgan administracji:Krajowa Rada Ra
+ diofonii i Telewizji\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Mari
+ a Werpachowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Stanisław M
+ arek Pietras\nSygnatura akt:II SAB/Wa 57/18\nSymbol:658/6480\nSędziowie:I
+ wona Maciejuk\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:
+ bezczynność w przedmiocie rozpoznania wniosku z dnia 12 grudnia 2017 r. 
+ o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa - II 
  SA/Wa 142/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180711T100000
@@ -600,26 +612,15 @@ DESCRIPTION:Data:2018-07-11\nGodzina:11:00\nOrgan administracji:Główny I
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezydent Miasta Ciechanowa - II SAB/Wa 24/18
+SUMMARY:[N] Polski Związek Tenisa Stołowego - II SAB/Wa 703/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180712T000000
-DESCRIPTION:Data:2018-07-12\nGodzina:\nOrgan administracji:Prezydent Miast
- a Ciechanowa\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Przemysław 
- Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Przemysław S
- zustakiewicz\nSygnatura akt:II SAB/Wa 24/18\nSymbol:658/6480\nSędziowie:D
- anuta Kania\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
- ć w przedmiocie rozpoznania wniosku z 13 listopada 2017 r. o udostępnien
- ie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Elewarr Sp. z o.o. z siedzibą w Warszawie - II SAB/Wa 204/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180712T000000
-DESCRIPTION:Data:2018-07-12\nGodzina:\nOrgan administracji:Elewarr Sp. z o
- .o. z siedzibą w Warszawie\nPrzedmiot:Informacja publiczna\; Informacja p
- ubliczna\nPrzewodniczący:Andrzej Kołodziej\nSala:Sala posiedzeń niejawn
- ych\nSprawozdawca:Andrzej Kołodziej\nSygnatura akt:II SAB/Wa 204/18\nSymb
- ol:658/6480\nSędziowie:Danuta Kania\, Janusz Walawski\nTyp posiedzenia:Ni
- ejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2018-07-12\nGodzina:\nOrgan administracji:Polski Związek
+  Tenisa Stołowego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrze
+ j Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\n
+ Sygnatura akt:II SAB/Wa 703/17\nSymbol:658/6480\nSędziowie:Danuta Kania\,
+  Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie 
+ rozpoznania wniosku z dnia 26 lipca 2016 r. o udostępnienie informacji pu
+ blicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -635,15 +636,26 @@ DESCRIPTION:Data:2018-07-12\nGodzina:\nOrgan administracji:Prezes Trybuna
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Polski Związek Tenisa Stołowego - II SAB/Wa 703/17
+SUMMARY:[N] Elewarr Sp. z o.o. z siedzibą w Warszawie - II SAB/Wa 204/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180712T000000
-DESCRIPTION:Data:2018-07-12\nGodzina:\nOrgan administracji:Polski Związek
-  Tenisa Stołowego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrze
- j Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\n
- Sygnatura akt:II SAB/Wa 703/17\nSymbol:658/6480\nSędziowie:Danuta Kania\,
-  Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie 
- rozpoznania wniosku z dnia 26 lipca 2016 r. o udostępnienie informacji pu
- blicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2018-07-12\nGodzina:\nOrgan administracji:Elewarr Sp. z o
+ .o. z siedzibą w Warszawie\nPrzedmiot:Informacja publiczna\; Informacja p
+ ubliczna\nPrzewodniczący:Andrzej Kołodziej\nSala:Sala posiedzeń niejawn
+ ych\nSprawozdawca:Andrzej Kołodziej\nSygnatura akt:II SAB/Wa 204/18\nSymb
+ ol:658/6480\nSędziowie:Danuta Kania\, Janusz Walawski\nTyp posiedzenia:Ni
+ ejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezydent Miasta Ciechanowa - II SAB/Wa 24/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180712T000000
+DESCRIPTION:Data:2018-07-12\nGodzina:\nOrgan administracji:Prezydent Miast
+ a Ciechanowa\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Przemysław 
+ Szustakiewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Przemysław S
+ zustakiewicz\nSygnatura akt:II SAB/Wa 24/18\nSymbol:658/6480\nSędziowie:D
+ anuta Kania\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
+ ć w przedmiocie rozpoznania wniosku z 13 listopada 2017 r. o udostępnien
+ ie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
