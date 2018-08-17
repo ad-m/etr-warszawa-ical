@@ -66,6 +66,18 @@ DESCRIPTION:Data:2018-07-19\nGodzina:11:20\nOrgan administracji:Prezes Są
 LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezes Trybunału Konstytucyjnego - II SAB/Wa 92/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180724T000000
+DESCRIPTION:Data:2018-07-24\nGodzina:\nOrgan administracji:Prezes Trybuna
+ łu Konstytucyjnego\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Stani
+ sław Marek Pietras\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta 
+ Kania\nSygnatura akt:II SAB/Wa 92/18\nSymbol:658/6480\nSędziowie:Sławomi
+ r Fularski\, Danuta Kania\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w
+  sprawie rozpoznania wniosku z dnia 06.11.2017 r. o udost.inf.publ. (skarg
+ i 10/2018)\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezes Polskiej Akademii Nauk - II SAB/Wa 178/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180724T000000
 DESCRIPTION:Data:2018-07-24\nGodzina:\nOrgan administracji:Prezes Polskiej
@@ -77,18 +89,6 @@ DESCRIPTION:Data:2018-07-24\nGodzina:\nOrgan administracji:Prezes Polskiej
  ienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano 
  ... i stwierdzono że bezczynność miała miejsce bez rażącego naruszen
  ia prawa |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Trybunału Konstytucyjnego - II SAB/Wa 92/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180724T000000
-DESCRIPTION:Data:2018-07-24\nGodzina:\nOrgan administracji:Prezes Trybuna
- łu Konstytucyjnego\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Stani
- sław Marek Pietras\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta 
- Kania\nSygnatura akt:II SAB/Wa 92/18\nSymbol:658/6480\nSędziowie:Sławomi
- r Fularski\, Danuta Kania\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w
-  sprawie rozpoznania wniosku z dnia 06.11.2017 r. o udost.inf.publ. (skarg
- i 10/2018)\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -221,18 +221,6 @@ DESCRIPTION:Data:2018-08-02\nGodzina:14:10\nOrgan administracji:Dyrektor N
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Telewizja Polska S.A. - II SAB/Wa 344/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180809T000000
-DESCRIPTION:Data:2018-08-09\nGodzina:\nOrgan administracji:Telewizja Polsk
- a S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSala:
- Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kube\nSygnatura akt:II SAB
- /Wa 344/18\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk\, Adam Lipińsk
- i\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpatrzeni
- a wniosku z dnia 27 kwietnia 2018 r. o udostępnienie informacji publiczne
- j\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Minister Finansów - II SAB/Wa 45/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180809T000000
 DESCRIPTION:Data:2018-08-09\nGodzina:\nOrgan administracji:Minister Finans
@@ -242,6 +230,18 @@ DESCRIPTION:Data:2018-08-09\nGodzina:\nOrgan administracji:Minister Finans
  \nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania wnio
  sku z dn. 24.11.2017 r. o udost.inf.publ.\nWydział orzeczniczy:II\nWyniki
  :Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Telewizja Polska S.A. - II SAB/Wa 344/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180809T000000
+DESCRIPTION:Data:2018-08-09\nGodzina:\nOrgan administracji:Telewizja Polsk
+ a S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSala:
+ Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kube\nSygnatura akt:II SAB
+ /Wa 344/18\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk\, Adam Lipińsk
+ i\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpatrzeni
+ a wniosku z dnia 27 kwietnia 2018 r. o udostępnienie informacji publiczne
+ j\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -450,18 +450,6 @@ DESCRIPTION:Data:2018-09-05\nGodzina:\nOrgan administracji:Zarząd Dróg P
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Klembów - II SAB/Wa 2/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180905T000000
-DESCRIPTION:Data:2018-09-05\nGodzina:\nOrgan administracji:Wójt Gminy Kle
- mbów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Piotr Borowiecki\nS
- ala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSygnatura a
- kt:II SAB/Wa 2/18\nSymbol:658/6480\nSędziowie:Iwona Maciejuk\, Janusz Wal
- awski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania
-  wniosku z dnia 24 września 2017 r. o udostępnienie informacji publiczne
- j\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Minister Sprawiedliwości - II SAB/Wa 61/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180905T000000
 DESCRIPTION:Data:2018-09-05\nGodzina:\nOrgan administracji:Minister Sprawi
@@ -471,6 +459,18 @@ DESCRIPTION:Data:2018-09-05\nGodzina:\nOrgan administracji:Minister Sprawi
  sz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpo
  znania wniosku z dnia 4 grudnia 2017 r. o udostępnienie informacji public
  znej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Klembów - II SAB/Wa 2/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180905T000000
+DESCRIPTION:Data:2018-09-05\nGodzina:\nOrgan administracji:Wójt Gminy Kle
+ mbów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Piotr Borowiecki\nS
+ ala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSygnatura a
+ kt:II SAB/Wa 2/18\nSymbol:658/6480\nSędziowie:Iwona Maciejuk\, Janusz Wal
+ awski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania
+  wniosku z dnia 24 września 2017 r. o udostępnienie informacji publiczne
+ j\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -486,18 +486,6 @@ DESCRIPTION:Data:2018-09-05\nGodzina:\nOrgan administracji:Minister Spraw
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Szef Urzędu do Spraw Cudzoziemców - II SAB/Wa 117/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180906T000000
-DESCRIPTION:Data:2018-09-06\nGodzina:\nOrgan administracji:Szef Urzędu do
-  Spraw Cudzoziemców\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa 
- Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam Lipiński\
- nSygnatura akt:II SAB/Wa 117/18\nSymbol:658/6480\nSędziowie:Andrzej Góra
- j\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
- iocie rozpoznania wniosku z 8 stycznia 2018 r. o udost.inf.publ. (dot.doś
- wiadczenia)\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Szef Urzędu do Spraw Cudzoziemców - II SAB/Wa 116/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180906T000000
 DESCRIPTION:Data:2018-09-06\nGodzina:\nOrgan administracji:Szef Urzędu do
@@ -510,15 +498,15 @@ DESCRIPTION:Data:2018-09-06\nGodzina:\nOrgan administracji:Szef Urzędu do
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Klembów - II SAB/Wa 19/18
+SUMMARY:[N] Szef Urzędu do Spraw Cudzoziemców - II SAB/Wa 117/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180906T000000
-DESCRIPTION:Data:2018-09-06\nGodzina:\nOrgan administracji:Wójt Gminy Kle
- mbów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Kwiecińska\nSa
- la:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura akt
- :II SAB/Wa 19/18\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Adam Lipiń
- ski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania w
- niosku z dnia 24 września 2017 r. o udostępnienie informacji publicznej 
- (10209/2017)\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2018-09-06\nGodzina:\nOrgan administracji:Szef Urzędu do
+  Spraw Cudzoziemców\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa 
+ Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam Lipiński\
+ nSygnatura akt:II SAB/Wa 117/18\nSymbol:658/6480\nSędziowie:Andrzej Góra
+ j\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
+ iocie rozpoznania wniosku z 8 stycznia 2018 r. o udost.inf.publ. (dot.doś
+ wiadczenia)\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -532,6 +520,18 @@ DESCRIPTION:Data:2018-09-06\nGodzina:\nOrgan administracji:Minister Przeds
  a:Niejawne\nUwagi:bezczynność w sprawie rozpoznania wniosku z dnia 03.10
  .2017 r. o ponowne wykorzystanie informacji sektora publicznego\nWydział 
  orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Klembów - II SAB/Wa 19/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180906T000000
+DESCRIPTION:Data:2018-09-06\nGodzina:\nOrgan administracji:Wójt Gminy Kle
+ mbów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Kwiecińska\nSa
+ la:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura akt
+ :II SAB/Wa 19/18\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Adam Lipiń
+ ski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania w
+ niosku z dnia 24 września 2017 r. o udostępnienie informacji publicznej 
+ (10209/2017)\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
