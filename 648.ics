@@ -1,49 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[N] Mazowiecki Wojewódzki Konserwator Zabytków - II SAB/Wa 141/1
- 8
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180822T000000
-DESCRIPTION:Data:2018-08-22\nGodzina:\nOrgan administracji:Mazowiecki Woje
- wódzki Konserwator Zabytków\nPrzedmiot:Bezczynność organu\nPrzewodnicz
- ący:Iwona Dąbrowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona
-  Dąbrowska\nSygnatura akt:II SAB/Wa 141/18\nSymbol:658/6480\nSędziowie:D
- anuta Kania\, Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynn
- ość w przedmiocie rozpoznania wniosku z dn.06.12.2017 r. o udost.inf.pub
- l.\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bez
- czynność miała miejsce bez rażącego naruszenia prawa |Oddalono wniose
- k o wymierzenie grzywny za bezczynność-art. 149 par. 2 P.PS.A. |Zasądzo
- no zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Szef Kancelarii Sejmu - II SAB/Wa 192/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180822T000000
-DESCRIPTION:Data:2018-08-22\nGodzina:\nOrgan administracji:Szef Kancelarii
-  Sejmu\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Dąbrowska\n
- Sala:Sala posiedzeń niejawnych\nSprawozdawca:Maria Werpachowska\nSygnatur
- a akt:II SAB/Wa 192/18\nSymbol:658/6480\nSędziowie:Danuta Kania\, Maria W
- erpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpo
- znania wniosku z dnia 20 lutego 2018 r. o udostępnienie informacji public
- znej (poz. 1720/2018)\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczyn
- ność postępowania i że bezczynność nie miała miejsca z rażącym na
- ruszeniem prawa |Oddalono wniosek o wymierzenie grzywny za bezczynność-a
- rt. 149 par. 2 P.PS.A. |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Główny Inspektor Pracy - II SA/Wa 147/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180828T000000
-DESCRIPTION:Data:2018-08-28\nGodzina:\nOrgan administracji:Główny Inspek
- tor Pracy\nPrzedmiot:Stwierdzenie niedopuszczalności odwołania\nPrzewodn
- iczący:Sławomir Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:
- Sławomir Antoniuk\nSygnatura akt:II SA/Wa 147/18\nSymbol:6480\nSędziowie
- :Iwona Dąbrowska\, Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:St
- wierdzenie niedopuszczalności odwołania\nWydział orzeczniczy:II\nWyniki
- :Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Wójt Gminy Klembów - II SAB/Wa 298/17
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180828T000000
 DESCRIPTION:Data:2018-08-28\nGodzina:\nOrgan administracji:Wójt Gminy Kle
@@ -60,14 +17,15 @@ DESCRIPTION:Data:2018-08-28\nGodzina:\nOrgan administracji:Wójt Gminy Kle
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Szef Kancelarii Prezydenta RP - II SAB/Wa 63/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180829T000000
-DESCRIPTION:Data:2018-08-29\nGodzina:\nOrgan administracji:Szef Kancelarii
-  Prezydenta RP\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrz
- ewodniczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca
- :Andrzej Góraj\nSygnatura akt:II SAB/Wa 63/18\nSymbol:658/6480\nSędziowi
- e:Adam Lipiński\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:\nWyd
- ział orzeczniczy:II\nWyniki:Oddalono skargę
+SUMMARY:[N] Główny Inspektor Pracy - II SA/Wa 147/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180828T000000
+DESCRIPTION:Data:2018-08-28\nGodzina:\nOrgan administracji:Główny Inspek
+ tor Pracy\nPrzedmiot:Stwierdzenie niedopuszczalności odwołania\nPrzewodn
+ iczący:Sławomir Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:
+ Sławomir Antoniuk\nSygnatura akt:II SA/Wa 147/18\nSymbol:6480\nSędziowie
+ :Iwona Dąbrowska\, Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:St
+ wierdzenie niedopuszczalności odwołania\nWydział orzeczniczy:II\nWyniki
+ :Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -83,15 +41,14 @@ DESCRIPTION:Data:2018-08-29\nGodzina:\nOrgan administracji:Prezes Trybuna
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Szef Kancelarii Sejmu - II SAB/Wa 194/18
+SUMMARY:[N] Szef Kancelarii Prezydenta RP - II SAB/Wa 63/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180829T000000
 DESCRIPTION:Data:2018-08-29\nGodzina:\nOrgan administracji:Szef Kancelarii
-  Sejmu\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowska\n
- Sala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatura 
- akt:II SAB/Wa 194/18\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Adam Li
- piński\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpo
- znania wniosku z dnia 25 stycznia 2018 r. o udostępnienie informacji publ
- icznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+  Prezydenta RP\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrz
+ ewodniczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca
+ :Andrzej Góraj\nSygnatura akt:II SAB/Wa 63/18\nSymbol:658/6480\nSędziowi
+ e:Adam Lipiński\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:\nWyd
+ ział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -105,6 +62,18 @@ DESCRIPTION:Data:2018-08-29\nGodzina:\nOrgan administracji:Wójt Gminy Kle
  zeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynność mia
  ła miejsce bez rażącego naruszenia prawa |Zasądzono zwrot kosztów pos
  tępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Szef Kancelarii Sejmu - II SAB/Wa 194/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180829T000000
+DESCRIPTION:Data:2018-08-29\nGodzina:\nOrgan administracji:Szef Kancelarii
+  Sejmu\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowska\n
+ Sala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatura 
+ akt:II SAB/Wa 194/18\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Adam Li
+ piński\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpo
+ znania wniosku z dnia 25 stycznia 2018 r. o udostępnienie informacji publ
+ icznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -152,20 +121,6 @@ DESCRIPTION:Data:2018-09-05\nGodzina:\nOrgan administracji:Rektor Uniwersy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Zarząd Dróg Powiatowych w Sierpcu - II SAB/Wa 156/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180905T000000
-DESCRIPTION:Data:2018-09-05\nGodzina:\nOrgan administracji:Zarząd Dróg P
- owiatowych w Sierpcu\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Piot
- r Borowiecki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Janusz Walawsk
- i\nSygnatura akt:II SAB/Wa 156/18\nSymbol:658/6480\nSędziowie:Iwona Macie
- juk\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
- edmiocie rozpoznania wniosku z dn.08.01.2018 r. o udostępnienie informacj
- i publ.\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono ż
- e bezczynność miała miejsce bez rażącego naruszenia prawa |Zasądzono
-  zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Wójt Gminy Klembów - II SAB/Wa 2/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180905T000000
 DESCRIPTION:Data:2018-09-05\nGodzina:\nOrgan administracji:Wójt Gminy Kle
@@ -177,6 +132,20 @@ DESCRIPTION:Data:2018-09-05\nGodzina:\nOrgan administracji:Wójt Gminy Kle
  j\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezc
  zynność miała miejsce bez rażącego naruszenia prawa |Oddalono skargę
   w części |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Zarząd Dróg Powiatowych w Sierpcu - II SAB/Wa 156/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180905T000000
+DESCRIPTION:Data:2018-09-05\nGodzina:\nOrgan administracji:Zarząd Dróg P
+ owiatowych w Sierpcu\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Piot
+ r Borowiecki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Janusz Walawsk
+ i\nSygnatura akt:II SAB/Wa 156/18\nSymbol:658/6480\nSędziowie:Iwona Macie
+ juk\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
+ edmiocie rozpoznania wniosku z dn.08.01.2018 r. o udostępnienie informacj
+ i publ.\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono ż
+ e bezczynność miała miejsce bez rażącego naruszenia prawa |Zasądzono
+  zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -218,18 +187,6 @@ DESCRIPTION:Data:2018-09-06\nGodzina:\nOrgan administracji:Minister Przeds
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Szef Urzędu do Spraw Cudzoziemców - II SAB/Wa 117/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180906T000000
-DESCRIPTION:Data:2018-09-06\nGodzina:\nOrgan administracji:Szef Urzędu do
-  Spraw Cudzoziemców\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Stan
- isław Marek Pietras\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam L
- ipiński\nSygnatura akt:II SAB/Wa 117/18\nSymbol:658/6480\nSędziowie:Ewa 
- Kwiecińska\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
- ć w przedmiocie rozpoznania wniosku z 8 stycznia 2018 r. o udost.inf.publ
- . (dot.doświadczenia)\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Wojskowa Izba Lekarska w Warszawie - II SAB/Wa 33/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180906T000000
 DESCRIPTION:Data:2018-09-06\nGodzina:\nOrgan administracji:Wojskowa Izba L
@@ -239,6 +196,18 @@ DESCRIPTION:Data:2018-09-06\nGodzina:\nOrgan administracji:Wojskowa Izba L
  iecińska\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynność 
  w przedmiocie udostępnienia informacji publicznej\nWydział orzeczniczy:I
  I\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Szef Urzędu do Spraw Cudzoziemców - II SAB/Wa 117/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180906T000000
+DESCRIPTION:Data:2018-09-06\nGodzina:\nOrgan administracji:Szef Urzędu do
+  Spraw Cudzoziemców\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Stan
+ isław Marek Pietras\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam L
+ ipiński\nSygnatura akt:II SAB/Wa 117/18\nSymbol:658/6480\nSędziowie:Ewa 
+ Kwiecińska\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
+ ć w przedmiocie rozpoznania wniosku z 8 stycznia 2018 r. o udost.inf.publ
+ . (dot.doświadczenia)\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -268,6 +237,18 @@ DESCRIPTION:Data:2018-09-06\nGodzina:\nOrgan administracji:Wójt Gminy Kle
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Minister Cyfryzacji - II SAB/Wa 112/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180906T000000
+DESCRIPTION:Data:2018-09-06\nGodzina:\nOrgan administracji:Minister Cyfryz
+ acji\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Stanisław Marek Pie
+ tras\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygna
+ tura akt:II SAB/Wa 112/18\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, A
+ dam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie
+  rozpatrzenia punktu 3 wniosku z dnia 31 sierpnia 2017 r. o udostępnienie
+  informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Szef Urzędu do Spraw Cudzoziemców - II SAB/Wa 118/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180906T000000
 DESCRIPTION:Data:2018-09-06\nGodzina:\nOrgan administracji:Szef Urzędu do
@@ -278,18 +259,6 @@ DESCRIPTION:Data:2018-09-06\nGodzina:\nOrgan administracji:Szef Urzędu do
  ć w przedmiocie rozpoznania wniosku z 8 stycznia 2018 r. o udost.inf.publ
  . (dot.członków komisji rekrutacyjnej)\nWydział orzeczniczy:II\nWyniki:
  Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Cyfryzacji - II SAB/Wa 112/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180906T000000
-DESCRIPTION:Data:2018-09-06\nGodzina:\nOrgan administracji:Minister Cyfryz
- acji\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Stanisław Marek Pie
- tras\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygna
- tura akt:II SAB/Wa 112/18\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, A
- dam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie
-  rozpatrzenia punktu 3 wniosku z dnia 31 sierpnia 2017 r. o udostępnienie
-  informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -381,6 +350,18 @@ DESCRIPTION:Data:2018-09-12\nGodzina:09:20\nOrgan administracji:Minister Z
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 69/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180914T000000
+DESCRIPTION:Data:2018-09-14\nGodzina:\nOrgan administracji:Prezes Rady Min
+ istrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Kwiecińska\n
+ Sala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura ak
+ t:II SAB/Wa 69/18\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Iwona Maci
+ ejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpozna
+ nia wniosku z dn. 18.12.2017 r. o udostępnienie inf.publicznej\nWydział 
+ orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Orange Polska S.A. z/s w Warszawie - II SA/Wa 182/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180914T000000
 DESCRIPTION:Data:2018-09-14\nGodzina:\nOrgan administracji:Orange Polska S
@@ -393,18 +374,6 @@ DESCRIPTION:Data:2018-09-14\nGodzina:\nOrgan administracji:Orange Polska S
  rt. 154 PoPPSA |Stwierdzono iż bezczynność nie miała miejsca z rażąc
  ym naruszeniem prawa |Oddalono skargę w części |Zasądzono zwrot koszt
  ów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 69/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180914T000000
-DESCRIPTION:Data:2018-09-14\nGodzina:\nOrgan administracji:Prezes Rady Min
- istrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Kwiecińska\n
- Sala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura ak
- t:II SAB/Wa 69/18\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Iwona Maci
- ejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpozna
- nia wniosku z dn. 18.12.2017 r. o udostępnienie inf.publicznej\nWydział 
- orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -516,7 +485,9 @@ DESCRIPTION:Data:2018-09-21\nGodzina:\nOrgan administracji:Prezes Trybuna
  sław Szustakiewicz\nSygnatura akt:II SAB/Wa 86/18\nSymbol:658/6480\nSędz
  iowie:Ewa Kwiecińska\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:
  bezczynność w przedmiocie rozpoznania wniosku z dnia 06.11.2017 r. o udo
- st.inf.publ. (dot.skargi nr 4/2018)\nWydział orzeczniczy:II\nWyniki:
+ st.inf.publ. (dot.skargi nr 4/2018)\nWydział orzeczniczy:II\nWyniki:Zobow
+ iązano ... i stwierdzono że bezczynność miała miejsce bez rażącego 
+ naruszenia prawa |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -527,7 +498,8 @@ DESCRIPTION:Data:2018-09-21\nGodzina:10:40\nOrgan administracji:Główny I
  rzemysław Szustakiewicz\nSala:Sala F\nSprawozdawca:Ewa Marcinkowska\nSygn
  atura akt:II SA/Wa 372/18\nSymbol:6480\nSędziowie:Ewa Kwiecińska\, Ewa M
  arcinkowska\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji
-  publicznej\nWydział orzeczniczy:II\nWyniki:
+  publicznej\nWydział orzeczniczy:II\nWyniki:Uchylono decyzję I i II inst
+ ancji |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -590,18 +562,6 @@ DESCRIPTION:Data:2018-09-27\nGodzina:\nOrgan administracji:Instytut Hemato
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Pacyna - II SAB/Wa 232/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180927T000000
-DESCRIPTION:Data:2018-09-27\nGodzina:\nOrgan administracji:Wójt Gminy Pac
- yna\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławomir Antoniuk\nS
- ala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura akt
- :II SAB/Wa 232/18\nSymbol:658/6480\nSędziowie:Iwona Dąbrowska\, Andrzej 
- Góraj\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznani
- a wniosku z dnia 28 grudnia 2017 r. o udzielenie informacji publicznej\nWy
- dział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Pierwszy Prezes Sądu Najwyższego - II SAB/Wa 241/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180927T000000
 DESCRIPTION:Data:2018-09-27\nGodzina:\nOrgan administracji:Pierwszy Prezes
@@ -611,6 +571,18 @@ DESCRIPTION:Data:2018-09-27\nGodzina:\nOrgan administracji:Pierwszy Prezes
  ąbrowska\, Andrzej Góraj\nTyp posiedzenia:Niejawne\nUwagi:bezczynność 
  w przemiocie rozpoznania wniosku z dnia 12 marca 2018 r. o udostępnienie 
  informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Pacyna - II SAB/Wa 232/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180927T000000
+DESCRIPTION:Data:2018-09-27\nGodzina:\nOrgan administracji:Wójt Gminy Pac
+ yna\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławomir Antoniuk\nS
+ ala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura akt
+ :II SAB/Wa 232/18\nSymbol:658/6480\nSędziowie:Iwona Dąbrowska\, Andrzej 
+ Góraj\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznani
+ a wniosku z dnia 28 grudnia 2017 r. o udzielenie informacji publicznej\nWy
+ dział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
