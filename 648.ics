@@ -1,6 +1,17 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
+SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 69/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180914T000000
+DESCRIPTION:Data:2018-09-14\nGodzina:\nOrgan administracji:Prezes Rady Min
+ istrów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnic
+ zący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona
+  Maciejuk\nSygnatura akt:II SAB/Wa 69/18\nSymbol:658/6480\nSędziowie:Andr
+ zej Góraj\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:\nWydział or
+ zeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Orange Polska S.A. z/s w Warszawie - II SA/Wa 182/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180914T000000
 DESCRIPTION:Data:2018-09-14\nGodzina:\nOrgan administracji:Orange Polska S
@@ -16,17 +27,6 @@ DESCRIPTION:Data:2018-09-14\nGodzina:\nOrgan administracji:Orange Polska S
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 69/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180914T000000
-DESCRIPTION:Data:2018-09-14\nGodzina:\nOrgan administracji:Prezes Rady Min
- istrów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnic
- zący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona
-  Maciejuk\nSygnatura akt:II SAB/Wa 69/18\nSymbol:658/6480\nSędziowie:Andr
- zej Góraj\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:\nWydział or
- zeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Szef Kancelarii Prezydenta RP - II SA/Wa 235/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180914T102000
 DESCRIPTION:Data:2018-09-14\nGodzina:10:20\nOrgan administracji:Szef Kance
@@ -35,18 +35,6 @@ DESCRIPTION:Data:2018-09-14\nGodzina:10:20\nOrgan administracji:Szef Kance
  /Wa 235/18\nSymbol:6480\nSędziowie:Andrzej Góraj\, Iwona Maciejuk\nTyp p
  osiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydzi
  ał orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Przedsiębiorczości i Technologii - II SAB/Wa 128/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180919T000000
-DESCRIPTION:Data:2018-09-19\nGodzina:\nOrgan administracji:Minister Przeds
- iębiorczości i Technologii\nPrzedmiot:Ponowne wykorzystanie informacji s
- ektora publicznego\; Ponowne wykorzystanie informacji sektora publicznego\
- nPrzewodniczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozd
- awca:Andrzej Góraj\nSygnatura akt:II SAB/Wa 128/18\nSymbol:658/6481\nSęd
- ziowie:Piotr Borowiecki\, Przemysław Szustakiewicz\nTyp posiedzenia:Nieja
- wne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -61,6 +49,18 @@ DESCRIPTION:Data:2018-09-19\nGodzina:\nOrgan administracji:Prezes Trybuna
  (dot.skargi 7/2018)\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i st
  wierdzono że bezczynność miała miejsce bez rażącego naruszenia prawa
   |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Przedsiębiorczości i Technologii - II SAB/Wa 128/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20180919T000000
+DESCRIPTION:Data:2018-09-19\nGodzina:\nOrgan administracji:Minister Przeds
+ iębiorczości i Technologii\nPrzedmiot:Ponowne wykorzystanie informacji s
+ ektora publicznego\; Ponowne wykorzystanie informacji sektora publicznego\
+ nPrzewodniczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozd
+ awca:Andrzej Góraj\nSygnatura akt:II SAB/Wa 128/18\nSymbol:658/6481\nSęd
+ ziowie:Piotr Borowiecki\, Przemysław Szustakiewicz\nTyp posiedzenia:Nieja
+ wne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -291,18 +291,15 @@ DESCRIPTION:Data:2018-10-04\nGodzina:\nOrgan administracji:Wójt Gminy Mag
 LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Egis Route-Scetauroute S.A. Oddział w Polsce - II SAB/Wa 135/
- 18
+SUMMARY:[N] Minister Sprawiedliwości - II SAB/Wa 38/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181005T000000
-DESCRIPTION:Data:2018-10-05\nGodzina:\nOrgan administracji:Egis Route-Scet
- auroute S.A. Oddział w Polsce\nPrzedmiot:Bezczynność organu\nPrzewodnic
- zący:Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karoli
- na Kisielewicz\nSygnatura akt:II SAB/Wa 135/18\nSymbol:658/6480\nSędziowi
- e:asesor Karolina Kisielewicz\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\
- nUwagi:bezczynność w przedmiocie rozpoznania wniosku z 25.07.2017 r. o u
- dost.inf.publ.\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierd
- zono że bezczynność miała miejsce bez rażącego naruszenia prawa |Zas
- ądzono zwrot kosztów postępowania
+DESCRIPTION:Data:2018-10-05\nGodzina:\nOrgan administracji:Minister Sprawi
+ edliwości\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwona Maciejuk
+ \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygn
+ atura akt:II SAB/Wa 38/18\nSymbol:658/6480\nSędziowie:asesor Karolina Kis
+ ielewicz\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność 
+ w przedmiocie rozpoznania wniosku z dn.08.11.2017 r. o udost.inf.publ.\nWy
+ dział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -318,15 +315,18 @@ DESCRIPTION:Data:2018-10-05\nGodzina:\nOrgan administracji:Minister Infras
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Sprawiedliwości - II SAB/Wa 38/18
+SUMMARY:[N] Egis Route-Scetauroute S.A. Oddział w Polsce - II SAB/Wa 135/
+ 18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181005T000000
-DESCRIPTION:Data:2018-10-05\nGodzina:\nOrgan administracji:Minister Sprawi
- edliwości\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwona Maciejuk
- \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygn
- atura akt:II SAB/Wa 38/18\nSymbol:658/6480\nSędziowie:asesor Karolina Kis
- ielewicz\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność 
- w przedmiocie rozpoznania wniosku z dn.08.11.2017 r. o udost.inf.publ.\nWy
- dział orzeczniczy:II\nWyniki:Oddalono skargę
+DESCRIPTION:Data:2018-10-05\nGodzina:\nOrgan administracji:Egis Route-Scet
+ auroute S.A. Oddział w Polsce\nPrzedmiot:Bezczynność organu\nPrzewodnic
+ zący:Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karoli
+ na Kisielewicz\nSygnatura akt:II SAB/Wa 135/18\nSymbol:658/6480\nSędziowi
+ e:asesor Karolina Kisielewicz\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\
+ nUwagi:bezczynność w przedmiocie rozpoznania wniosku z 25.07.2017 r. o u
+ dost.inf.publ.\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierd
+ zono że bezczynność miała miejsce bez rażącego naruszenia prawa |Zas
+ ądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -344,16 +344,16 @@ DESCRIPTION:Data:2018-10-08\nGodzina:\nOrgan administracji:Minister Finans
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Sprawiedliwości - Prokurator Generalny - II SAB/Wa 1
- 86/18
+SUMMARY:[N] Minister Sprawiedliwości - Prokurator Generalny - II SAB/Wa 2
+ 23/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181008T000000
 DESCRIPTION:Data:2018-10-08\nGodzina:\nOrgan administracji:Minister Sprawi
  edliwości - Prokurator Generalny\nPrzedmiot:Informacja publiczna\nPrzewod
- niczący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danut
- a Kania\nSygnatura akt:II SAB/Wa 186/18\nSymbol:658/6480\nSędziowie:Ewa K
- wiecińska\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
- ć w sprawie rozpoznania wniosku z dnia 9 listopada 2017 r. o udost.inf.pu
- blicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+ niczący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa K
+ wiecińska\nSygnatura akt:II SAB/Wa 223/18\nSymbol:658/6480\nSędziowie:Ew
+ a Kwiecińska\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
+ ść w sprawie rozpoznania wniosku o udostępnienie informacji publicznej\
+ nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -370,16 +370,16 @@ DESCRIPTION:Data:2018-10-08\nGodzina:\nOrgan administracji:Prezes Agencji
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Sprawiedliwości - Prokurator Generalny - II SAB/Wa 2
- 23/18
+SUMMARY:[N] Minister Sprawiedliwości - Prokurator Generalny - II SAB/Wa 1
+ 86/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181008T000000
 DESCRIPTION:Data:2018-10-08\nGodzina:\nOrgan administracji:Minister Sprawi
  edliwości - Prokurator Generalny\nPrzedmiot:Informacja publiczna\nPrzewod
- niczący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa K
- wiecińska\nSygnatura akt:II SAB/Wa 223/18\nSymbol:658/6480\nSędziowie:Ew
- a Kwiecińska\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
- ść w sprawie rozpoznania wniosku o udostępnienie informacji publicznej\
- nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+ niczący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danut
+ a Kania\nSygnatura akt:II SAB/Wa 186/18\nSymbol:658/6480\nSędziowie:Ewa K
+ wiecińska\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
+ ć w sprawie rozpoznania wniosku z dnia 9 listopada 2017 r. o udost.inf.pu
+ blicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -435,20 +435,6 @@ DESCRIPTION:Data:2018-10-10\nGodzina:\nOrgan administracji:Minister Infras
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Zakład Gospodarowania Nieruchomościami w Dzielnicy Bielany -
-  II SAB/Wa 220/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181010T000000
-DESCRIPTION:Data:2018-10-10\nGodzina:\nOrgan administracji:Zakład Gospoda
- rowania Nieruchomościami w Dzielnicy Bielany\nPrzedmiot:Bezczynność org
- anu\nPrzewodniczący:Maria Werpachowska\nSala:Sala posiedzeń niejawnych\n
- Sprawozdawca:Karolina Kisielewicz\nSygnatura akt:II SAB/Wa 220/18\nSymbol:
- 658/6480\nSędziowie:asesor Karolina Kisielewicz\, Iwona Maciejuk\nTyp pos
- iedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z
-  dn. 21.09.2017 r. o udostępnienie informacji publicznej\nWydział orzecz
- niczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 224/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181010T000000
 DESCRIPTION:Data:2018-10-10\nGodzina:\nOrgan administracji:Prezydent m.st.
@@ -461,6 +447,20 @@ DESCRIPTION:Data:2018-10-10\nGodzina:\nOrgan administracji:Prezydent m.st.
  ... i stwierdzono że bezczynność miała miejsce bez rażącego naruszen
  ia prawa |Oddalono skargę w części |Zasądzono zwrot kosztów postępow
  ania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Zakład Gospodarowania Nieruchomościami w Dzielnicy Bielany -
+  II SAB/Wa 220/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181010T000000
+DESCRIPTION:Data:2018-10-10\nGodzina:\nOrgan administracji:Zakład Gospoda
+ rowania Nieruchomościami w Dzielnicy Bielany\nPrzedmiot:Bezczynność org
+ anu\nPrzewodniczący:Maria Werpachowska\nSala:Sala posiedzeń niejawnych\n
+ Sprawozdawca:Karolina Kisielewicz\nSygnatura akt:II SAB/Wa 220/18\nSymbol:
+ 658/6480\nSędziowie:asesor Karolina Kisielewicz\, Iwona Maciejuk\nTyp pos
+ iedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z
+  dn. 21.09.2017 r. o udostępnienie informacji publicznej\nWydział orzecz
+ niczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -622,16 +622,16 @@ DESCRIPTION:Data:2018-10-17\nGodzina:\nOrgan administracji:Rada Gminy Klem
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Polska Spółka Gazownictwa Sp. z o.o. z/s w Warszawie - II SA
- B/Wa 296/18
+SUMMARY:[N] Polskie Koleje Państwowe S.A. z/s  w Warszawie - II SAB/Wa 18
+ 7/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181017T000000
-DESCRIPTION:Data:2018-10-17\nGodzina:\nOrgan administracji:Polska Spółka
-  Gazownictwa Sp. z o.o. z/s w Warszawie\nPrzedmiot:Informacja publiczna\nP
- rzewodniczący:Łukasz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozda
- wca:Łukasz Krzycki\nSygnatura akt:II SAB/Wa 296/18\nSymbol:658/6480\nSęd
- ziowie:Iwona Dąbrowska\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:
- bezczynność w przedmiocie rozpoznania wniosku z dnia17 stycznia 2018 r. 
- o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2018-10-17\nGodzina:\nOrgan administracji:Polskie Koleje 
+ Państwowe S.A. z/s w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodni
+ czący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam 
+ Lipiński\nSygnatura akt:II SAB/Wa 187/18\nSymbol:658/6480\nSędziowie:Iwo
+ na Dąbrowska\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
+ ść w sprawie rozpoznania wniosku z dnia 12.12.2017 r. o udostępnienie i
+ nformacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -647,16 +647,16 @@ DESCRIPTION:Data:2018-10-17\nGodzina:\nOrgan administracji:Wójt Gminy Kle
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Polskie Koleje Państwowe S.A. z/s  w Warszawie - II SAB/Wa 18
- 7/18
+SUMMARY:[N] Polska Spółka Gazownictwa Sp. z o.o. z/s w Warszawie - II SA
+ B/Wa 296/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181017T000000
-DESCRIPTION:Data:2018-10-17\nGodzina:\nOrgan administracji:Polskie Koleje 
- Państwowe S.A. z/s w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodni
- czący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam 
- Lipiński\nSygnatura akt:II SAB/Wa 187/18\nSymbol:658/6480\nSędziowie:Iwo
- na Dąbrowska\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
- ść w sprawie rozpoznania wniosku z dnia 12.12.2017 r. o udostępnienie i
- nformacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2018-10-17\nGodzina:\nOrgan administracji:Polska Spółka
+  Gazownictwa Sp. z o.o. z/s w Warszawie\nPrzedmiot:Informacja publiczna\nP
+ rzewodniczący:Łukasz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozda
+ wca:Łukasz Krzycki\nSygnatura akt:II SAB/Wa 296/18\nSymbol:658/6480\nSęd
+ ziowie:Iwona Dąbrowska\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:
+ bezczynność w przedmiocie rozpoznania wniosku z dnia17 stycznia 2018 r. 
+ o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -743,15 +743,16 @@ DESCRIPTION:Data:2018-10-19\nGodzina:13:40\nOrgan administracji:Komendant
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Burmistrz Miasta Milanówka - II SAB/Wa 329/18
+SUMMARY:[N] Polska Spółka Gazownictwa Sp. z o.o. z/s w Warszawie - II SA
+ B/Wa 323/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181023T000000
-DESCRIPTION:Data:2018-10-23\nGodzina:\nOrgan administracji:Burmistrz Miast
- a Milanówka\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łukasz Krzy
- cki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Łukasz Krzycki\nSygnat
- ura akt:II SAB/Wa 329/18\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Ada
- m Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie r
- ozpatrzenia wniosku z dnia 15 kwietni 2018 r. o udostępnienie informacji 
- publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2018-10-23\nGodzina:\nOrgan administracji:Polska Spółka
+  Gazownictwa Sp. z o.o. z/s w Warszawie\nPrzedmiot:Bezczynność organu\nP
+ rzewodniczący:Łukasz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozda
+ wca:Łukasz Krzycki\nSygnatura akt:II SAB/Wa 323/18\nSymbol:658/6480\nSęd
+ ziowie:Andrzej Góraj\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:be
+ zczynność w przedmiocie rozpoznania wniosku z dnia 19.01.2018 r. o udost
+ ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -767,16 +768,15 @@ DESCRIPTION:Data:2018-10-23\nGodzina:\nOrgan administracji:Minister Kultur
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Polska Spółka Gazownictwa Sp. z o.o. z/s w Warszawie - II SA
- B/Wa 323/18
+SUMMARY:[N] Burmistrz Miasta Milanówka - II SAB/Wa 329/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181023T000000
-DESCRIPTION:Data:2018-10-23\nGodzina:\nOrgan administracji:Polska Spółka
-  Gazownictwa Sp. z o.o. z/s w Warszawie\nPrzedmiot:Bezczynność organu\nP
- rzewodniczący:Łukasz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozda
- wca:Łukasz Krzycki\nSygnatura akt:II SAB/Wa 323/18\nSymbol:658/6480\nSęd
- ziowie:Andrzej Góraj\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:be
- zczynność w przedmiocie rozpoznania wniosku z dnia 19.01.2018 r. o udost
- ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2018-10-23\nGodzina:\nOrgan administracji:Burmistrz Miast
+ a Milanówka\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łukasz Krzy
+ cki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Łukasz Krzycki\nSygnat
+ ura akt:II SAB/Wa 329/18\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Ada
+ m Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie r
+ ozpatrzenia wniosku z dnia 15 kwietni 2018 r. o udostępnienie informacji 
+ publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -802,20 +802,6 @@ DESCRIPTION:Data:2018-10-23\nGodzina:10:30\nOrgan administracji:Minister F
  8\nSymbol:6480\nSędziowie:Andrzej Góraj\, Adam Lipiński\nTyp posiedzeni
  a:Jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzec
  zniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Izby Administracji Skarbowej w Warszawie - II SAB/Wa 
- 221/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181024T000000
-DESCRIPTION:Data:2018-10-24\nGodzina:\nOrgan administracji:Dyrektor Izby A
- dministracji Skarbowej w Warszawie\nPrzedmiot:Bezczynność organu\nPrzewo
- dniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:J
- anusz Walawski\nSygnatura akt:II SAB/Wa 221/18\nSymbol:658/6480\nSędziowi
- e:Piotr Borowiecki\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nU
- wagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 21 czerwca 201
- 7 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyni
- ki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -845,15 +831,17 @@ DESCRIPTION:Data:2018-10-24\nGodzina:\nOrgan administracji:Prokurator Gene
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Komendant Główny Policji - II SA/Wa 379/18
+SUMMARY:[N] Dyrektor Izby Administracji Skarbowej w Warszawie - II SAB/Wa 
+ 221/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181024T000000
-DESCRIPTION:Data:2018-10-24\nGodzina:\nOrgan administracji:Komendant Głó
- wny Policji\nPrzedmiot:Stwierdzenie niedopuszczalności odwołania\nPrzewo
- dniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:P
- iotr Borowiecki\nSygnatura akt:II SA/Wa 379/18\nSymbol:6480\nSędziowie:Pi
- otr Borowiecki\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi
- :Stwierdzenie niedopuszczalności odwołania\nWydział orzeczniczy:II\nWyn
- iki:
+DESCRIPTION:Data:2018-10-24\nGodzina:\nOrgan administracji:Dyrektor Izby A
+ dministracji Skarbowej w Warszawie\nPrzedmiot:Bezczynność organu\nPrzewo
+ dniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:J
+ anusz Walawski\nSygnatura akt:II SAB/Wa 221/18\nSymbol:658/6480\nSędziowi
+ e:Piotr Borowiecki\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nU
+ wagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 21 czerwca 201
+ 7 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyni
+ ki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -868,6 +856,18 @@ DESCRIPTION:Data:2018-10-24\nGodzina:\nOrgan administracji:Minister Infras
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Komendant Główny Policji - II SA/Wa 379/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181024T000000
+DESCRIPTION:Data:2018-10-24\nGodzina:\nOrgan administracji:Komendant Głó
+ wny Policji\nPrzedmiot:Stwierdzenie niedopuszczalności odwołania\nPrzewo
+ dniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:P
+ iotr Borowiecki\nSygnatura akt:II SA/Wa 379/18\nSymbol:6480\nSędziowie:Pi
+ otr Borowiecki\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi
+ :Stwierdzenie niedopuszczalności odwołania\nWydział orzeczniczy:II\nWyn
+ iki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Minister Finansów - II SA/Wa 487/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181024T090000
 DESCRIPTION:Data:2018-10-24\nGodzina:09:00\nOrgan administracji:Minister F
@@ -879,15 +879,15 @@ DESCRIPTION:Data:2018-10-24\nGodzina:09:00\nOrgan administracji:Minister F
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Rzecznik Praw Obywatelskich - II SAB/Wa 271/18
+SUMMARY:[N] Minister Sprawiedliwości - II SAB/Wa 260/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181026T000000
-DESCRIPTION:Data:2018-10-26\nGodzina:\nOrgan administracji:Rzecznik Praw O
- bywatelskich\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Maria Werpac
- howska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz
- \nSygnatura akt:II SAB/Wa 271/18\nSymbol:658/6480\nSędziowie:asesor Karol
- ina Kisielewicz\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczyn
- ność w przedmiocie rozpatrzenia wniosku z dnia 3 lutego 2017 r. o udost
- ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2018-10-26\nGodzina:\nOrgan administracji:Minister Sprawi
+ edliwości\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Maria Werpacho
+ wska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\n
+ Sygnatura akt:II SAB/Wa 260/18\nSymbol:658/6480\nSędziowie:asesor Karolin
+ a Kisielewicz\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
+ ść w przedmiocie rozpatrzenia wniosku z dnia 11 lutego 2018 r. o udostę
+ pnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -905,15 +905,15 @@ DESCRIPTION:Data:2018-10-26\nGodzina:\nOrgan administracji:Dyrektor Szkoł
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Sprawiedliwości - II SAB/Wa 260/18
+SUMMARY:[N] Rzecznik Praw Obywatelskich - II SAB/Wa 271/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181026T000000
-DESCRIPTION:Data:2018-10-26\nGodzina:\nOrgan administracji:Minister Sprawi
- edliwości\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Maria Werpacho
- wska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\n
- Sygnatura akt:II SAB/Wa 260/18\nSymbol:658/6480\nSędziowie:asesor Karolin
- a Kisielewicz\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
- ść w przedmiocie rozpatrzenia wniosku z dnia 11 lutego 2018 r. o udostę
- pnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2018-10-26\nGodzina:\nOrgan administracji:Rzecznik Praw O
+ bywatelskich\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Maria Werpac
+ howska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz
+ \nSygnatura akt:II SAB/Wa 271/18\nSymbol:658/6480\nSędziowie:asesor Karol
+ ina Kisielewicz\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczyn
+ ność w przedmiocie rozpatrzenia wniosku z dnia 3 lutego 2017 r. o udost
+ ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -999,6 +999,18 @@ DESCRIPTION:Data:2018-10-29\nGodzina:09:50\nOrgan administracji:Instytut
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Minister Infrastruktury - II SAB/Wa 351/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181030T000000
+DESCRIPTION:Data:2018-10-30\nGodzina:\nOrgan administracji:Minister Infras
+ truktury\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Łukasz Krzycki\
+ nSala:Sala posiedzeń niejawnych\nSprawozdawca:Łukasz Krzycki\nSygnatura 
+ akt:II SAB/Wa 351/18\nSymbol:658/6480\nSędziowie:Stanisław Marek Pietras
+ \, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
+ iocie rozpatrzenia wniosku z 12 lutego 2018 r. o udostępnienie informacji
+  publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Minister Gospodarki Morskiej i Żeglugi Śródlądowej - II SA
  B/Wa 354/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181030T000000
@@ -1010,18 +1022,6 @@ DESCRIPTION:Data:2018-10-30\nGodzina:\nOrgan administracji:Minister Gospod
  e\nUwagi:bezczynność w przedmiocie rozpatrzenia wniosku z 12 lutego 2018
   r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWynik
  i:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Infrastruktury - II SAB/Wa 351/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181030T000000
-DESCRIPTION:Data:2018-10-30\nGodzina:\nOrgan administracji:Minister Infras
- truktury\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Łukasz Krzycki\
- nSala:Sala posiedzeń niejawnych\nSprawozdawca:Łukasz Krzycki\nSygnatura 
- akt:II SAB/Wa 351/18\nSymbol:658/6480\nSędziowie:Stanisław Marek Pietras
- \, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
- iocie rozpatrzenia wniosku z 12 lutego 2018 r. o udostępnienie informacji
-  publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1048,19 +1048,6 @@ DESCRIPTION:Data:2018-10-30\nGodzina:10:10\nOrgan administracji:Minister N
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Spraw Wewnętrznych i Administracji - II SAB/Wa 423/1
- 8
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181105T000000
-DESCRIPTION:Data:2018-11-05\nGodzina:\nOrgan administracji:Minister Spraw 
- Wewnętrznych i Administracji\nPrzedmiot:Informacja publiczna\nPrzewodnicz
- ący:Łukasz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Łukas
- z Krzycki\nSygnatura akt:II SAB/Wa 423/18\nSymbol:658/6480\nSędziowie:Dan
- uta Kania\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:b
- ezczynność w przedmiocie rozpoznania wniosku z dnia 27 marca 2018 r. o u
- dpostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Mazowieckie Samorządowe Centrum Doskonalenia Nauczycieli w Wa
  rszawie - II SAB/Wa 324/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181105T000000
@@ -1072,6 +1059,19 @@ DESCRIPTION:Data:2018-11-05\nGodzina:\nOrgan administracji:Mazowieckie Sam
   posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpatrzenia wnio
  sku z dnia 3 kwietnia 2018 r. o udostępnienie informacji publicznej\nWydz
  iał orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Spraw Wewnętrznych i Administracji - II SAB/Wa 423/1
+ 8
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181105T000000
+DESCRIPTION:Data:2018-11-05\nGodzina:\nOrgan administracji:Minister Spraw 
+ Wewnętrznych i Administracji\nPrzedmiot:Informacja publiczna\nPrzewodnicz
+ ący:Łukasz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Łukas
+ z Krzycki\nSygnatura akt:II SAB/Wa 423/18\nSymbol:658/6480\nSędziowie:Dan
+ uta Kania\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:b
+ ezczynność w przedmiocie rozpoznania wniosku z dnia 27 marca 2018 r. o u
+ dpostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1126,68 +1126,6 @@ DESCRIPTION:Data:2018-11-06\nGodzina:\nOrgan administracji:Wojskowa Izba L
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Sprawiedliwości - II SA/Wa 651/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181106T000000
-DESCRIPTION:Data:2018-11-06\nGodzina:\nOrgan administracji:Minister Sprawi
- edliwości\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Góraj
- \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura 
- akt:II SA/Wa 651/18\nSymbol:644/6480\nSędziowie:Iwona Dąbrowska\, Adam L
- ipiński\nTyp posiedzenia:Niejawne\nUwagi:niewykonanie wyroku Wojewódzkie
- go Sądu Administracyjnego w Warszawie z dnia 16 listopada 2017 r. sygn. a
- kt II SAB/Wa 318/17\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Krajowego Zarządu Gospodarki Wodnej - II SAB/Wa 691/17
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181106T000000
-DESCRIPTION:Data:2018-11-06\nGodzina:\nOrgan administracji:Prezes Krajoweg
- o Zarządu Gospodarki Wodnej\nPrzedmiot:Informacja publiczna\nPrzewodnicz
- ący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona D
- ąbrowska\nSygnatura akt:II SAB/Wa 691/17\nSymbol:658/6480\nSędziowie:Iwo
- na Dąbrowska\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
- ść w sprawie rozpoznania wniosku z dnia 14 czerwca 2016 r. o udostępnie
- nie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Wojskowa Izba Lekarska w Warszawie - II SAB/Wa 278/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181106T000000
-DESCRIPTION:Data:2018-11-06\nGodzina:\nOrgan administracji:Wojskowa Izba L
- ekarska w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrz
- ej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam Lipiński\nS
- ygnatura akt:II SAB/Wa 278/18\nSymbol:658/6480\nSędziowie:Iwona Dąbrowsk
- a\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
- iocie rozpatrzenia wniosku z dnia 28 listopada 2017 r. o udostępnienie in
- formacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Wojskowa Izba Lekarska w Warszawie - II SAB/Wa 277/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181106T000000
-DESCRIPTION:Data:2018-11-06\nGodzina:\nOrgan administracji:Wojskowa Izba L
- ekarska w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrz
- ej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam Lipiński\nS
- ygnatura akt:II SAB/Wa 277/18\nSymbol:658/6480\nSędziowie:Iwona Dąbrowsk
- a\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
- iocie rozpatrzenia wniosku z dnia 23 listopada 2017 r. o udostępnienie in
- formacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Wojskowa Izba Lekarska w Warszawie - II SAB/Wa 276/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181106T000000
-DESCRIPTION:Data:2018-11-06\nGodzina:\nOrgan administracji:Wojskowa Izba L
- ekarska w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrz
- ej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam Lipiński\nS
- ygnatura akt:II SAB/Wa 276/18\nSymbol:658/6480\nSędziowie:Iwona Dąbrowsk
- a\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
- iocie rozpatrzenia wniosku z dnia 8 listopada 2017 r. o udostępnienie inf
- ormacji publicznej (dot. informacji na jakich kontach\, subkontach w akcja
- ch i obligacjach zabezpieczono środki pieniężne WIL)\nWydział orzeczni
- czy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Wojskowa Izba Lekarska w Warszawie - II SAB/Wa 274/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181106T000000
 DESCRIPTION:Data:2018-11-06\nGodzina:\nOrgan administracji:Wojskowa Izba L
@@ -1211,6 +1149,68 @@ DESCRIPTION:Data:2018-11-06\nGodzina:\nOrgan administracji:Wojskowa Izba L
  iocie rozpatrzenia wniosku z dnia 8 listopada 2017 r. o udostępnienie inf
  ormacji publicznej (dot. składek na WIL)\nWydział orzeczniczy:II\nWyniki
  :
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wojskowa Izba Lekarska w Warszawie - II SAB/Wa 276/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181106T000000
+DESCRIPTION:Data:2018-11-06\nGodzina:\nOrgan administracji:Wojskowa Izba L
+ ekarska w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrz
+ ej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam Lipiński\nS
+ ygnatura akt:II SAB/Wa 276/18\nSymbol:658/6480\nSędziowie:Iwona Dąbrowsk
+ a\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
+ iocie rozpatrzenia wniosku z dnia 8 listopada 2017 r. o udostępnienie inf
+ ormacji publicznej (dot. informacji na jakich kontach\, subkontach w akcja
+ ch i obligacjach zabezpieczono środki pieniężne WIL)\nWydział orzeczni
+ czy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wojskowa Izba Lekarska w Warszawie - II SAB/Wa 277/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181106T000000
+DESCRIPTION:Data:2018-11-06\nGodzina:\nOrgan administracji:Wojskowa Izba L
+ ekarska w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrz
+ ej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam Lipiński\nS
+ ygnatura akt:II SAB/Wa 277/18\nSymbol:658/6480\nSędziowie:Iwona Dąbrowsk
+ a\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
+ iocie rozpatrzenia wniosku z dnia 23 listopada 2017 r. o udostępnienie in
+ formacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wojskowa Izba Lekarska w Warszawie - II SAB/Wa 278/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181106T000000
+DESCRIPTION:Data:2018-11-06\nGodzina:\nOrgan administracji:Wojskowa Izba L
+ ekarska w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrz
+ ej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Adam Lipiński\nS
+ ygnatura akt:II SAB/Wa 278/18\nSymbol:658/6480\nSędziowie:Iwona Dąbrowsk
+ a\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
+ iocie rozpatrzenia wniosku z dnia 28 listopada 2017 r. o udostępnienie in
+ formacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Sprawiedliwości - II SA/Wa 651/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181106T000000
+DESCRIPTION:Data:2018-11-06\nGodzina:\nOrgan administracji:Minister Sprawi
+ edliwości\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Góraj
+ \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura 
+ akt:II SA/Wa 651/18\nSymbol:644/6480\nSędziowie:Iwona Dąbrowska\, Adam L
+ ipiński\nTyp posiedzenia:Niejawne\nUwagi:niewykonanie wyroku Wojewódzkie
+ go Sądu Administracyjnego w Warszawie z dnia 16 listopada 2017 r. sygn. a
+ kt II SAB/Wa 318/17\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Krajowego Zarządu Gospodarki Wodnej - II SAB/Wa 691/17
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181106T000000
+DESCRIPTION:Data:2018-11-06\nGodzina:\nOrgan administracji:Prezes Krajoweg
+ o Zarządu Gospodarki Wodnej\nPrzedmiot:Informacja publiczna\nPrzewodnicz
+ ący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona D
+ ąbrowska\nSygnatura akt:II SAB/Wa 691/17\nSymbol:658/6480\nSędziowie:Iwo
+ na Dąbrowska\, Adam Lipiński\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
+ ść w sprawie rozpoznania wniosku z dnia 14 czerwca 2016 r. o udostępnie
+ nie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1249,17 +1249,6 @@ DESCRIPTION:Data:2018-11-08\nGodzina:\nOrgan administracji:Rada Gminy Klem
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Polska Fundacja Narodowa - II SAB/Wa 486/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181108T000000
-DESCRIPTION:Data:2018-11-08\nGodzina:\nOrgan administracji:Polska Fundacja
-  Narodowa\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodn
- iczący:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:
- Andrzej Kołodziej\nSygnatura akt:II SAB/Wa 486/18\nSymbol:658/6480\nSędz
- iowie:Piotr Borowiecki\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:\
- nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 315/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181108T000000
 DESCRIPTION:Data:2018-11-08\nGodzina:\nOrgan administracji:Prezydent m.st.
@@ -1269,6 +1258,17 @@ DESCRIPTION:Data:2018-11-08\nGodzina:\nOrgan administracji:Prezydent m.st.
  ona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie 
  rozpoznania wniosku z 6 września 2017 r. o udostępnienie informacji publ
  icznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Polska Fundacja Narodowa - II SAB/Wa 486/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181108T000000
+DESCRIPTION:Data:2018-11-08\nGodzina:\nOrgan administracji:Polska Fundacja
+  Narodowa\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodn
+ iczący:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:
+ Andrzej Kołodziej\nSygnatura akt:II SAB/Wa 486/18\nSymbol:658/6480\nSędz
+ iowie:Piotr Borowiecki\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:\
+ nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1302,6 +1302,54 @@ DESCRIPTION:Data:2018-11-09\nGodzina:09:20\nOrgan administracji:Minister F
  \nSymbol:6480\nSędziowie:Ewa Kwiecińska\, Maria Werpachowska\nTyp posied
  zenia:Jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział o
  rzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Centralnej Komisji Egzaminacyjnej - II SAB/Wa 448/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181113T000000
+DESCRIPTION:Data:2018-11-13\nGodzina:\nOrgan administracji:Dyrektor Centra
+ lnej Komisji Egzaminacyjnej\nPrzedmiot:Bezczynność organu\nPrzewodniczą
+ cy:Sławomir Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Łuka
+ sz Krzycki\nSygnatura akt:II SAB/Wa 448/18\nSymbol:658/6480\nSędziowie:as
+ esor Karolina Kisielewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwa
+ gi:bezczynność w zakresie wniosku z dnia 26 czerwca 2018 r. o udostępni
+ enie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 327/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181113T000000
+DESCRIPTION:Data:2018-11-13\nGodzina:\nOrgan administracji:Prezydent m.st.
+  Warszawy\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir Anton
+ iuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nS
+ ygnatura akt:II SAB/Wa 327/18\nSymbol:658/6480\nSędziowie:asesor Karolina
+  Kisielewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
+ ść w przedmiocie rozpatrzenia wniosku z dnia 14 stycznia 2018 r. o udost
+ ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 460/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181113T000000
+DESCRIPTION:Data:2018-11-13\nGodzina:\nOrgan administracji:Komendant Głó
+ wny Policji\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodnic
+ zący:Sławomir Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ł
+ ukasz Krzycki\nSygnatura akt:II SAB/Wa 460/18\nSymbol:658/6480\nSędziowie
+ :asesor Karolina Kisielewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\n
+ Uwagi:bezczynność w przedmiocie rozpoznania wniosku z 23 lutego 2018 r. 
+ o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wyższy Sąd Dyscyplinarny Adwokatury - II SAB/Wa 338/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181113T000000
+DESCRIPTION:Data:2018-11-13\nGodzina:\nOrgan administracji:Wyższy Sąd Dy
+ scyplinarny Adwokatury\nPrzedmiot:Informacja publiczna\nPrzewodniczący:S
+ ławomir Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir
+  Antoniuk\nSygnatura akt:II SAB/Wa 338/18\nSymbol:658/6480\nSędziowie:ase
+ sor Karolina Kisielewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwag
+ i:bezczynność w sprawie rozpoznania wniosku z dnia 27 marca 2018 r. o ud
+ ostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
