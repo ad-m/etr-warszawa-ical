@@ -1,45 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[N] Prezydent Miasta Legionowo - II SAB/Wa 541/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181221T000000
-DESCRIPTION:Data:2018-12-21\nGodzina:\nOrgan administracji:Prezydent Miast
- a Legionowo\nPrzedmiot:Odmowa udzielenia informacji publicznej\; Odmowa ud
- zielenia informacji publicznej\nPrzewodniczący:Sławomir Antoniuk\nSala:S
- ala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura akt:II S
- AB/Wa 541/18\nSymbol:658/6480\nSędziowie:asesor Karolina Kisielewicz\, Iw
- ona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nW
- yniki:Stwierdzono bezczynność postępowania i że bezczynność nie mia
- ła miejsca z rażącym naruszeniem prawa |Oddalono skargę w części |Za
- sądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[J] Polskie Górnictwo Naftowe i Gazownictwo S.A. z/s w Warszawie 
- - II SA/Wa 955/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181221T090000
-DESCRIPTION:Data:2018-12-21\nGodzina:09:00\nOrgan administracji:Polskie G
- órnictwo Naftowe i Gazownictwo S.A. z/s w Warszawie\nPrzedmiot:Informacja
-  publiczna\nPrzewodniczący:Sławomir Antoniuk\nSala:Sala F\nSprawozdawca:
- Sławomir Antoniuk\nSygnatura akt:II SA/Wa 955/18\nSymbol:6480\nSędziowie
- :asesor Karolina Kisielewicz\, Iwona Maciejuk\nTyp posiedzenia:Jawne\nUwag
- i:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWy
- niki:Uchylono zaskarżoną decyzję |Zasądzono zwrot kosztów postępowan
- ia
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[J] Partia Prawo i Sprawiedliwość - II SA/Wa 669/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181221T093000
-DESCRIPTION:Data:2018-12-21\nGodzina:09:30\nOrgan administracji:Partia Pra
- wo i Sprawiedliwość\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sł
- awomir Antoniuk\nSala:Sala F\nSprawozdawca:Iwona Maciejuk\nSygnatura akt:I
- I SA/Wa 669/18\nSymbol:6480\nSędziowie:asesor Karolina Kisielewicz\, Iwon
- a Maciejuk\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji 
- publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Orange Polska S.A. z/s w Warszawie - II SAB/Wa 463/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181228T000000
 DESCRIPTION:Data:2018-12-28\nGodzina:\nOrgan administracji:Orange Polska S
@@ -98,18 +59,6 @@ DESCRIPTION:Data:2018-12-28\nGodzina:\nOrgan administracji:Prezes Sądu Ap
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 516/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181228T000000
-DESCRIPTION:Data:2018-12-28\nGodzina:\nOrgan administracji:PKP Polskie Lin
- ie Kolejowe S.A.\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nP
- rzewodniczący:Agnieszka Góra-Błaszczykowska\nSala:Sala posiedzeń nieja
- wnych\nSprawozdawca:Agnieszka Góra-Błaszczykowska\nSygnatura akt:II SAB/
- Wa 516/18\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk\, Joanna Kube\nT
- yp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono 
- skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Minister Sprawiedliwości - II SA/Wa 819/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181228T000000
 DESCRIPTION:Data:2018-12-28\nGodzina:\nOrgan administracji:Minister Sprawi
@@ -120,6 +69,18 @@ DESCRIPTION:Data:2018-12-28\nGodzina:\nOrgan administracji:Minister Sprawi
  Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orze
  czniczy:II\nWyniki:Uchylono zaskarżoną decyzję |Zasądzono zwrot koszt
  ów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 516/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20181228T000000
+DESCRIPTION:Data:2018-12-28\nGodzina:\nOrgan administracji:PKP Polskie Lin
+ ie Kolejowe S.A.\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nP
+ rzewodniczący:Agnieszka Góra-Błaszczykowska\nSala:Sala posiedzeń nieja
+ wnych\nSprawozdawca:Agnieszka Góra-Błaszczykowska\nSygnatura akt:II SAB/
+ Wa 516/18\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk\, Joanna Kube\nT
+ yp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono 
+ skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -409,19 +370,6 @@ DESCRIPTION:Data:2019-01-16\nGodzina:\nOrgan administracji:Komendant Głó
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 545/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190116T000000
-DESCRIPTION:Data:2019-01-16\nGodzina:\nOrgan administracji:Minister Spraw 
- Zagranicznych\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łukasz Krz
- ycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra-Błasz
- czykowska\nSygnatura akt:II SAB/Wa 545/18\nSymbol:658/6480\nSędziowie:Agn
- ieszka Góra-Błaszczykowska\, Danuta Kania\nTyp posiedzenia:Niejawne\nUwa
- gi:bezczynność w sprawie rozpatrzenia wniosku z dnia 13 lipca 2018 r. o 
- udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Odda
- lono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Minister Środowiska - II SAB/Wa 702/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190116T000000
 DESCRIPTION:Data:2019-01-16\nGodzina:\nOrgan administracji:Minister Środo
@@ -433,6 +381,19 @@ DESCRIPTION:Data:2019-01-16\nGodzina:\nOrgan administracji:Minister Środo
  \nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność postępowania 
  i że bezczynność nie miała miejsca z rażącym naruszeniem prawa |Odda
  lono skargę w części |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 545/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190116T000000
+DESCRIPTION:Data:2019-01-16\nGodzina:\nOrgan administracji:Minister Spraw 
+ Zagranicznych\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łukasz Krz
+ ycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra-Błasz
+ czykowska\nSygnatura akt:II SAB/Wa 545/18\nSymbol:658/6480\nSędziowie:Agn
+ ieszka Góra-Błaszczykowska\, Danuta Kania\nTyp posiedzenia:Niejawne\nUwa
+ gi:bezczynność w sprawie rozpatrzenia wniosku z dnia 13 lipca 2018 r. o 
+ udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Odda
+ lono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -687,18 +648,6 @@ DESCRIPTION:Data:2019-01-23\nGodzina:\nOrgan administracji:Okręgowa Rada
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Totalizator Sportowy Sp. z o.o. - II SAB/Wa 689/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190124T000000
-DESCRIPTION:Data:2019-01-24\nGodzina:\nOrgan administracji:Totalizator Spo
- rtowy Sp. z o.o.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Maria We
- rpachowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Maria Werpachows
- ka\nSygnatura akt:II SAB/Wa 689/18\nSymbol:658/6480\nSędziowie:asesor Kar
- olina Kisielewicz\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezcz
- ynność w przedmiocie rozpoznania wniosku z 25 czerwca 2018 r. o udostęp
- nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 442/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190124T000000
 DESCRIPTION:Data:2019-01-24\nGodzina:\nOrgan administracji:Komendant Głó
@@ -708,6 +657,18 @@ DESCRIPTION:Data:2019-01-24\nGodzina:\nOrgan administracji:Komendant Głó
   Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność nw przedmi
  ocie rozpoznania wniosku z 26 lutego 2018 r. o udostępnienie informacji p
  ublicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Totalizator Sportowy Sp. z o.o. - II SAB/Wa 689/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190124T000000
+DESCRIPTION:Data:2019-01-24\nGodzina:\nOrgan administracji:Totalizator Spo
+ rtowy Sp. z o.o.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Maria We
+ rpachowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Maria Werpachows
+ ka\nSygnatura akt:II SAB/Wa 689/18\nSymbol:658/6480\nSędziowie:asesor Kar
+ olina Kisielewicz\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezcz
+ ynność w przedmiocie rozpoznania wniosku z 25 czerwca 2018 r. o udostęp
+ nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -768,18 +729,6 @@ DESCRIPTION:Data:2019-01-25\nGodzina:12:40\nOrgan administracji:Minister S
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Polski Koncern Naftowy Orlen S.A. z siedzibą w Płocku - II S
- AB/Wa 591/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190128T000000
-DESCRIPTION:Data:2019-01-28\nGodzina:\nOrgan administracji:Polski Koncern 
- Naftowy Orlen S.A. z siedzibą w Płocku\nPrzedmiot:\nPrzewodniczący:Iwon
- a Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\n
- Sygnatura akt:II SAB/Wa 591/18\nSymbol:658/6480\nSędziowie:Piotr Borowiec
- ki\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:\nWydzia
- ł orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Komornik Sądowy przy Sądzie Rejonowym dla m.st. Warszawy Urs
  zula Kuczyńska - II SAB/Wa 602/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190128T000000
@@ -791,6 +740,18 @@ DESCRIPTION:Data:2019-01-28\nGodzina:\nOrgan administracji:Komornik Sądow
  lewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpat
  rzenia wniosku z 1 sierpnia 2018 r. o udostępnienie informacji publicznej
  \nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Polski Koncern Naftowy Orlen S.A. z siedzibą w Płocku - II S
+ AB/Wa 591/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190128T000000
+DESCRIPTION:Data:2019-01-28\nGodzina:\nOrgan administracji:Polski Koncern 
+ Naftowy Orlen S.A. z siedzibą w Płocku\nPrzedmiot:\nPrzewodniczący:Iwon
+ a Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\n
+ Sygnatura akt:II SAB/Wa 591/18\nSymbol:658/6480\nSędziowie:Piotr Borowiec
+ ki\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:\nWydzia
+ ł orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -954,17 +915,6 @@ DESCRIPTION:Data:2019-02-04\nGodzina:\nOrgan administracji:Fundacja Wielka
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Finansów - II SAB/Wa 621/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190208T000000
-DESCRIPTION:Data:2019-02-08\nGodzina:\nOrgan administracji:Minister Finans
- ów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Janusz Walawski\nSala
- :Sala posiedzeń niejawnych\nSprawozdawca:Maria Werpachowska\nSygnatura ak
- t:II SAB/Wa 621/18\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Maria We
- rpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie ro
- zpatrzenia wniosku z 17 lipca 2018 r.\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A. w Warszawi
  e - II SAB/Wa 666/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190208T000000
@@ -989,6 +939,17 @@ DESCRIPTION:Data:2019-02-08\nGodzina:\nOrgan administracji:Minister Rodzin
  ie:Ewa Kwiecińska\, Maria Werpachowska\nTyp posiedzenia:Niejawne\nUwagi:b
  ezczynność w przedmiocie rozpoznania wniosku z dnia 15 lutego 2018 r. o 
  udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Finansów - II SAB/Wa 621/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190208T000000
+DESCRIPTION:Data:2019-02-08\nGodzina:\nOrgan administracji:Minister Finans
+ ów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Janusz Walawski\nSala
+ :Sala posiedzeń niejawnych\nSprawozdawca:Maria Werpachowska\nSygnatura ak
+ t:II SAB/Wa 621/18\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Maria We
+ rpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie ro
+ zpatrzenia wniosku z 17 lipca 2018 r.\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1184,6 +1145,39 @@ DESCRIPTION:Data:2019-02-19\nGodzina:\nOrgan administracji:Prokurator Kraj
  ra akt:II SAB/Wa 573/18\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Danu
  ta Kania\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozp
  atrzenia wniosku z 30 lipca 2018 r.\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Polska Fundacja Narodowa - II SA/Wa 1657/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190220T000000
+DESCRIPTION:Data:2019-02-20\nGodzina:\nOrgan administracji:Polska Fundacja
+  Narodowa\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowsk
+ a\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatu
+ ra akt:II SA/Wa 1657/18\nSymbol:6480\nSędziowie:Joanna Kube\, Iwona Macie
+ juk\nTyp posiedzenia:Niejawne\nUwagi:zawieszenie postępowania w sprawie u
+ dostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[J] Szef Kancelarii Sejmu - II SA/Wa 1631/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190220T123000
+DESCRIPTION:Data:2019-02-20\nGodzina:12:30\nOrgan administracji:Szef Kance
+ larii Sejmu\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodnic
+ zący:Ewa Marcinkowska\nSala:Sala F\nSprawozdawca:Ewa Marcinkowska\nSygnat
+ ura akt:II SA/Wa 1631/18\nSymbol:6480\nSędziowie:Joanna Kube\, Iwona Maci
+ ejuk\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji public
+ znej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[J] Pierwszy Prezes Sądu Najwyższego - II SA/Wa 1504/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190220T125000
+DESCRIPTION:Data:2019-02-20\nGodzina:12:50\nOrgan administracji:Pierwszy P
+ rezes Sądu Najwyższego\nPrzedmiot:Odmowa udzielenia informacji publiczne
+ j\nPrzewodniczący:Ewa Marcinkowska\nSala:Sala F\nSprawozdawca:Iwona Macie
+ juk\nSygnatura akt:II SA/Wa 1504/18\nSymbol:6480\nSędziowie:Joanna Kube\,
+  Iwona Maciejuk\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia inform
+ acji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
