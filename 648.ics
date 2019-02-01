@@ -64,15 +64,14 @@ SUMMARY:[N] Centralna Komisja do Spraw Stopni i Tytułów - II SAB/Wa 503/
  18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190114T000000
 DESCRIPTION:Data:2019-01-14\nGodzina:\nOrgan administracji:Centralna Komis
- ja do Spraw Stopni i Tytułów\nPrzedmiot:Bezczynność organu\nPrzewodnic
- zący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozda
- wca:Izabela Głowacka-Klimas\nSygnatura akt:II SAB/Wa 503/18\nSymbol:658/6
- 480\nSędziowie:Przemysław Szustakiewicz\, Andrzej Wieczorek\nTyp posiedz
- enia:Niejawne\nUwagi:bezczynność w przedmiocie rozpatrzenia wniosku z 24
-  lutego 2018 r. o udostępnienie informacji publicznej\nWydział orzecznic
- zy:II\nWyniki:Stwierdzono bezczynność postępowania i że bezczynność 
- nie miała miejsca z rażącym naruszeniem prawa |Oddalono skargę w czę
- ści |Zasądzono zwrot kosztów postępowania
+ ja do Spraw Stopni i Tytułów\nPrzedmiot:Bezczynność organu\; Bezczynno
+ ść organu\nPrzewodniczący:Izabela Głowacka-Klimas\nSala:Sala posiedze
+ ń niejawnych\nSprawozdawca:Izabela Głowacka-Klimas\nSygnatura akt:II SAB
+ /Wa 503/18\nSymbol:658/6480\nSędziowie:Przemysław Szustakiewicz\, Andrze
+ j Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWy
+ niki:Stwierdzono bezczynność postępowania i że bezczynność nie miał
+ a miejsca z rażącym naruszeniem prawa |Oddalono skargę w części |Zas
+ ądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -98,8 +97,8 @@ DESCRIPTION:Data:2019-01-14\nGodzina:09:50\nOrgan administracji:Dziekan Wy
  6480\nSędziowie:Przemysław Szustakiewicz\, Andrzej Wieczorek\nTyp posied
  zenia:Jawne\nUwagi:niewykonanie wyroku Wojewódzkiego Sądu Administracyjn
  ego w Warszawie sygn. akt II SAB/Wa 533/17 z dnia 15 grudnia 2017 r.\nWydz
- iał orzeczniczy:II\nWyniki:Oddalono skargę w części |Odrzucono skargę
-  w części
+ iał orzeczniczy:II\nWyniki:Oddalono skargę o wymierzenie grzywny -art.15
+ 4 ustawy PoPPSA |Odrzucono skargę w części
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -188,19 +187,6 @@ DESCRIPTION:Data:2019-01-15\nGodzina:13:25\nOrgan administracji:Generalny
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 545/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190116T000000
-DESCRIPTION:Data:2019-01-16\nGodzina:\nOrgan administracji:Minister Spraw 
- Zagranicznych\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łukasz Krz
- ycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra-Błasz
- czykowska\nSygnatura akt:II SAB/Wa 545/18\nSymbol:658/6480\nSędziowie:Agn
- ieszka Góra-Błaszczykowska\, Danuta Kania\nTyp posiedzenia:Niejawne\nUwa
- gi:bezczynność w sprawie rozpatrzenia wniosku z dnia 13 lipca 2018 r. o 
- udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Odda
- lono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 696/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190116T000000
 DESCRIPTION:Data:2019-01-16\nGodzina:\nOrgan administracji:Komendant Głó
@@ -225,6 +211,19 @@ DESCRIPTION:Data:2019-01-16\nGodzina:\nOrgan administracji:Minister Środo
  \nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność postępowania 
  i że bezczynność nie miała miejsca z rażącym naruszeniem prawa |Odda
  lono skargę w części |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 545/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190116T000000
+DESCRIPTION:Data:2019-01-16\nGodzina:\nOrgan administracji:Minister Spraw 
+ Zagranicznych\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łukasz Krz
+ ycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra-Błasz
+ czykowska\nSygnatura akt:II SAB/Wa 545/18\nSymbol:658/6480\nSędziowie:Agn
+ ieszka Góra-Błaszczykowska\, Danuta Kania\nTyp posiedzenia:Niejawne\nUwa
+ gi:bezczynność w sprawie rozpatrzenia wniosku z dnia 13 lipca 2018 r. o 
+ udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Odda
+ lono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -384,15 +383,17 @@ DESCRIPTION:Data:2019-01-18\nGodzina:09:40\nOrgan administracji:Dyrektor P
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Środowiska - II SAB/Wa 559/18
+SUMMARY:[N] Przedsiębiorstwo Państwowe "Porty Lotnicze" - II SAB/Wa 561/
+ 18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190121T000000
-DESCRIPTION:Data:2019-01-21\nGodzina:\nOrgan administracji:Minister Środo
- wiska\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Danuta Kania\nSala:
- Sala posiedzeń niejawnych\nSprawozdawca:Konrad Łukaszewicz\nSygnatura ak
- t:II SAB/Wa 559/18\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\,
-  Konrad Łukaszewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prze
- dmiocie rozpatrzenia wniosku z dnia 13 sierpnia 2018 r.\nWydział orzeczni
- czy:II\nWyniki:Oddalono skargę
+DESCRIPTION:Data:2019-01-21\nGodzina:\nOrgan administracji:Przedsiębiorst
+ wo Państwowe "Porty Lotnicze"\nPrzedmiot:Informacja publiczna\nPrzewodnic
+ zący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Konrad 
+ Łukaszewicz\nSygnatura akt:II SAB/Wa 561/18\nSymbol:658/6480\nSędziowie:
+ Izabela Głowacka-Klimas\, Konrad Łukaszewicz\nTyp posiedzenia:Niejawne\n
+ Uwagi:bezczynność w sprawie udostępnienia informacji publicznej\nWydzia
+ ł orzeczniczy:II\nWyniki:Przekazano sprawę do rozpoznania na rozprawie -
+ art. 122
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -410,17 +411,14 @@ DESCRIPTION:Data:2019-01-21\nGodzina:\nOrgan administracji:Przedsiębiorst
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Przedsiębiorstwo Państwowe "Porty Lotnicze" - II SAB/Wa 561/
- 18
+SUMMARY:[N] Minister Środowiska - II SAB/Wa 559/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190121T000000
-DESCRIPTION:Data:2019-01-21\nGodzina:\nOrgan administracji:Przedsiębiorst
- wo Państwowe "Porty Lotnicze"\nPrzedmiot:Informacja publiczna\nPrzewodnic
- zący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Konrad 
- Łukaszewicz\nSygnatura akt:II SAB/Wa 561/18\nSymbol:658/6480\nSędziowie:
- Izabela Głowacka-Klimas\, Konrad Łukaszewicz\nTyp posiedzenia:Niejawne\n
- Uwagi:bezczynność w sprawie udostępnienia informacji publicznej\nWydzia
- ł orzeczniczy:II\nWyniki:Przekazano sprawę do rozpoznania na rozprawie -
- art. 122
+DESCRIPTION:Data:2019-01-21\nGodzina:\nOrgan administracji:Minister Środo
+ wiska\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicz
+ ący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Konrad Ł
+ ukaszewicz\nSygnatura akt:II SAB/Wa 559/18\nSymbol:658/6480\nSędziowie:Iz
+ abela Głowacka-Klimas\, Konrad Łukaszewicz\nTyp posiedzenia:Niejawne\nUw
+ agi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -615,14 +613,13 @@ BEGIN:VEVENT
 SUMMARY:[N] Polska Izba Inżynierów Budownictwa - II SAB/Wa 617/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190129T000000
 DESCRIPTION:Data:2019-01-29\nGodzina:\nOrgan administracji:Polska Izba In
- żynierów Budownictwa\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Da
- nuta Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSy
- gnatura akt:II SAB/Wa 617/18\nSymbol:658/6480\nSędziowie:Andrzej Góraj\,
-  Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w
-  sprawie rozpatrzenia wniosku z dnia 8 maja 2018 r. o udostępnienie infor
- macji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwie
- rdzono że bezczynność miała miejsce bez rażącego naruszenia prawa |O
- ddalono skargę w części |Zasądzono zwrot kosztów postępowania
+ żynierów Budownictwa\nPrzedmiot:Bezczynność organu\; Bezczynność org
+ anu\nPrzewodniczący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSprawo
+ zdawca:Danuta Kania\nSygnatura akt:II SAB/Wa 617/18\nSymbol:658/6480\nSęd
+ ziowie:Andrzej Góraj\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne
+ \nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono 
+ że bezczynność miała miejsce bez rażącego naruszenia prawa |Oddalono
+  skargę w części |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -641,15 +638,12 @@ BEGIN:VEVENT
 SUMMARY:[N] Starosta Powiatu Wołomińskiego - II SAB/Wa 353/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190130T000000
 DESCRIPTION:Data:2019-01-30\nGodzina:\nOrgan administracji:Starosta Powiat
- u Wołomińskiego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławom
- ir Fularski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra
- -Błaszczykowska\nSygnatura akt:II SAB/Wa 353/18\nSymbol:659/6480\nSędzio
- wie:Agnieszka Góra-Błaszczykowska\, Konrad Łukaszewicz\nTyp posiedzenia
- :Niejawne\nUwagi:przewlekłość postępowania w przedmiocie rozpatrzenia 
- wniosków z dni 31 grudnia 2017 r.\, 1 i 2 stycznia 2018 r. o udostępnien
- ie informacji publicznej (dotyczące dróg położonych na działkach w mi
- ejscowościach: Klembów\, Krusze\, Kraszew Stary\, Sitki\, Lip\nWydział 
- orzeczniczy:II\nWyniki:Oddalono skargę
+ u Wołomińskiego\nPrzedmiot:Informacja publiczna\; Informacja publiczna\n
+ Przewodniczący:Sławomir Fularski\nSala:Sala posiedzeń niejawnych\nSpraw
+ ozdawca:Agnieszka Góra-Błaszczykowska\nSygnatura akt:II SAB/Wa 353/18\nS
+ ymbol:658/6480\nSędziowie:Agnieszka Góra-Błaszczykowska\, Konrad Łukas
+ zewicz\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:
+ Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -700,7 +694,7 @@ DESCRIPTION:Data:2019-01-31\nGodzina:\nOrgan administracji:Minister Finans
  t:II SAB/Wa 472/18\nSymbol:658/6480\nSędziowie:Łukasz Krzycki\, Joanna K
  ube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznan
  ia wniosku z 29 czerwca 2018 r. o udostępnienie informacji publicznej\nWy
- dział orzeczniczy:II\nWyniki:
+ dział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -711,7 +705,8 @@ DESCRIPTION:Data:2019-01-31\nGodzina:\nOrgan administracji:Prezes NSA\nPrz
  siedzeń niejawnych\nSprawozdawca:Łukasz Krzycki\nSygnatura akt:II SAB/Wa
   700/18\nSymbol:658/6480\nSędziowie:Łukasz Krzycki\, Joanna Kube\nTyp po
  siedzenia:Niejawne\nUwagi:dostęp do informacji publicznej\nWydział orzec
- zniczy:II\nWyniki:
+ zniczy:II\nWyniki:Oddalono skargę |Nakazano ściągnięcie nieuiszczonej 
+ opłaty sądowej
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -721,7 +716,8 @@ DESCRIPTION:Data:2019-01-31\nGodzina:14:00\nOrgan administracji:SKO w Wars
  zawie\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicz
  ący:Konrad Łukaszewicz\nSala:Sala F\nSprawozdawca:Konrad Łukaszewicz\nS
  ygnatura akt:II SA/Wa 945/18\nSymbol:6480\nSędziowie:\nTyp posiedzenia:OG
- ŁOSZENIE ORZECZENIA\nUwagi:\nWydział orzeczniczy:II\nWyniki:
+ ŁOSZENIE ORZECZENIA\nUwagi:\nWydział orzeczniczy:II\nWyniki:Uchylono dec
+ yzję I i II instancji |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -763,14 +759,17 @@ DESCRIPTION:Data:2019-02-04\nGodzina:\nOrgan administracji:Fundacja Wielka
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Finansów - II SAB/Wa 621/18
+SUMMARY:[N] Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A. w Warszawi
+ e - II SAB/Wa 666/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190208T000000
-DESCRIPTION:Data:2019-02-08\nGodzina:\nOrgan administracji:Minister Finans
- ów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Janusz Walawski\nSala
- :Sala posiedzeń niejawnych\nSprawozdawca:Maria Werpachowska\nSygnatura ak
- t:II SAB/Wa 621/18\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Maria We
- rpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie ro
- zpatrzenia wniosku z 17 lipca 2018 r.\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2019-02-08\nGodzina:\nOrgan administracji:Operator Gazoci
+ ągów Przesyłowych GAZ-SYSTEM S.A. w Warszawie\nPrzedmiot:Odmowa udziele
+ nia informacji publicznej\nPrzewodniczący:Janusz Walawski\nSala:Sala posi
+ edzeń niejawnych\nSprawozdawca:Janusz Walawski\nSygnatura akt:II SAB/Wa 6
+ 66/18\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Maria Werpachowska\nT
+ yp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpatrzenia wn
+ iosku z 6 marca 2017 r. o udostępnienie informacji publicznej\nWydział o
+ rzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -787,17 +786,14 @@ DESCRIPTION:Data:2019-02-08\nGodzina:\nOrgan administracji:Minister Rodzin
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A. w Warszawi
- e - II SAB/Wa 666/18
+SUMMARY:[N] Minister Finansów - II SAB/Wa 621/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190208T000000
-DESCRIPTION:Data:2019-02-08\nGodzina:\nOrgan administracji:Operator Gazoci
- ągów Przesyłowych GAZ-SYSTEM S.A. w Warszawie\nPrzedmiot:Odmowa udziele
- nia informacji publicznej\nPrzewodniczący:Janusz Walawski\nSala:Sala posi
- edzeń niejawnych\nSprawozdawca:Janusz Walawski\nSygnatura akt:II SAB/Wa 6
- 66/18\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Maria Werpachowska\nT
- yp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpatrzenia wn
- iosku z 6 marca 2017 r. o udostępnienie informacji publicznej\nWydział o
- rzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2019-02-08\nGodzina:\nOrgan administracji:Minister Finans
+ ów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Janusz Walawski\nSala
+ :Sala posiedzeń niejawnych\nSprawozdawca:Maria Werpachowska\nSygnatura ak
+ t:II SAB/Wa 621/18\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Maria We
+ rpachowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie ro
+ zpatrzenia wniosku z 17 lipca 2018 r.\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -827,18 +823,6 @@ DESCRIPTION:Data:2019-02-13\nGodzina:\nOrgan administracji:Minister Sprawi
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 568/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190213T000000
-DESCRIPTION:Data:2019-02-13\nGodzina:\nOrgan administracji:Prezes Rady Min
- istrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Izabela Głowacka
- -Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Janusz Walawski\nSy
- gnatura akt:II SAB/Wa 568/18\nSymbol:658/6480\nSędziowie:Janusz Walawski\
- , Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przed
- miocie rozpoznania wniosku z 13 sierpnia 2018 r. o udostępnienie informac
- ji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Minister Spraw Wewnętrznych i Administracji - II SAB/Wa 571/1
  8
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190213T000000
@@ -849,6 +833,18 @@ DESCRIPTION:Data:2019-02-13\nGodzina:\nOrgan administracji:Minister Spraw
  iowie:Janusz Walawski\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi
  :bezczynność w przedmiocie rozpoznania wniosku z 13 sierpnia 2018 r. o u
  dostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 568/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190213T000000
+DESCRIPTION:Data:2019-02-13\nGodzina:\nOrgan administracji:Prezes Rady Min
+ istrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Izabela Głowacka
+ -Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Janusz Walawski\nSy
+ gnatura akt:II SAB/Wa 568/18\nSymbol:658/6480\nSędziowie:Janusz Walawski\
+ , Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przed
+ miocie rozpoznania wniosku z 13 sierpnia 2018 r. o udostępnienie informac
+ ji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -864,17 +860,6 @@ DESCRIPTION:Data:2019-02-14\nGodzina:\nOrgan administracji:Polska Fundacja
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Szef Kancelarii Prezydenta RP - II SA/Wa 1571/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190214T000000
-DESCRIPTION:Data:2019-02-14\nGodzina:\nOrgan administracji:Szef Kancelarii
-  Prezydenta RP\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Konrad Łu
- kaszewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Konrad Łukaszewi
- cz\nSygnatura akt:II SA/Wa 1571/18\nSymbol:6480\nSędziowie:Danuta Kania\,
-  Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostęp
- nienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Komornik Sądowy przy Sądzie Rejonowym w Legionowie – Adam 
  Wujek - II SAB/Wa 522/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190214T000000
@@ -886,6 +871,17 @@ DESCRIPTION:Data:2019-02-14\nGodzina:\nOrgan administracji:Komornik Sądow
  posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpatrzenia wnios
  ku z 12 kwietnia 2018 r. o udostępnienie informacji publicznej\nWydział 
  orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Szef Kancelarii Prezydenta RP - II SA/Wa 1571/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190214T000000
+DESCRIPTION:Data:2019-02-14\nGodzina:\nOrgan administracji:Szef Kancelarii
+  Prezydenta RP\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Konrad Łu
+ kaszewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Konrad Łukaszewi
+ cz\nSygnatura akt:II SA/Wa 1571/18\nSymbol:6480\nSędziowie:Danuta Kania\,
+  Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostęp
+ nienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
