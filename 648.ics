@@ -128,6 +128,19 @@ DESCRIPTION:Data:2019-01-15\nGodzina:13:25\nOrgan administracji:Generalny
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 696/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190116T000000
+DESCRIPTION:Data:2019-01-16\nGodzina:\nOrgan administracji:Komendant Głó
+ wny Policji\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Konrad Łukas
+ zewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Konrad Łukaszewicz\
+ nSygnatura akt:II SAB/Wa 696/18\nSymbol:658/6480\nSędziowie:Agnieszka Gó
+ ra-Błaszczykowska\, Danuta Kania\nTyp posiedzenia:Niejawne\nUwagi:bezczyn
+ ność w przedmiocie rozpoznania wniosku z 4 września 2018 r. o udostępn
+ ienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skar
+ gę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Minister Środowiska - II SAB/Wa 702/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190116T000000
 DESCRIPTION:Data:2019-01-16\nGodzina:\nOrgan administracji:Minister Środo
@@ -152,19 +165,6 @@ DESCRIPTION:Data:2019-01-16\nGodzina:\nOrgan administracji:Minister Spraw
  gi:bezczynność w sprawie rozpatrzenia wniosku z dnia 13 lipca 2018 r. o 
  udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Odda
  lono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 696/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190116T000000
-DESCRIPTION:Data:2019-01-16\nGodzina:\nOrgan administracji:Komendant Głó
- wny Policji\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Konrad Łukas
- zewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Konrad Łukaszewicz\
- nSygnatura akt:II SAB/Wa 696/18\nSymbol:658/6480\nSędziowie:Agnieszka Gó
- ra-Błaszczykowska\, Danuta Kania\nTyp posiedzenia:Niejawne\nUwagi:bezczyn
- ność w przedmiocie rozpoznania wniosku z 4 września 2018 r. o udostępn
- ienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skar
- gę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -772,18 +772,6 @@ DESCRIPTION:Data:2019-02-11\nGodzina:\nOrgan administracji:Partia Politycz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 568/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190213T000000
-DESCRIPTION:Data:2019-02-13\nGodzina:\nOrgan administracji:Prezes Rady Min
- istrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Izabela Głowacka
- -Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Janusz Walawski\nSy
- gnatura akt:II SAB/Wa 568/18\nSymbol:658/6480\nSędziowie:Janusz Walawski\
- , Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przed
- miocie rozpoznania wniosku z 13 sierpnia 2018 r. o udostępnienie informac
- ji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Minister Sprawiedliwości - II SAB/Wa 572/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190213T000000
 DESCRIPTION:Data:2019-02-13\nGodzina:\nOrgan administracji:Minister Sprawi
@@ -806,6 +794,18 @@ DESCRIPTION:Data:2019-02-13\nGodzina:\nOrgan administracji:Minister Spraw
  iowie:Janusz Walawski\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi
  :bezczynność w przedmiocie rozpoznania wniosku z 13 sierpnia 2018 r. o u
  dostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 568/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190213T000000
+DESCRIPTION:Data:2019-02-13\nGodzina:\nOrgan administracji:Prezes Rady Min
+ istrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Izabela Głowacka
+ -Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Janusz Walawski\nSy
+ gnatura akt:II SAB/Wa 568/18\nSymbol:658/6480\nSędziowie:Janusz Walawski\
+ , Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przed
+ miocie rozpoznania wniosku z 13 sierpnia 2018 r. o udostępnienie informac
+ ji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -996,9 +996,8 @@ DESCRIPTION:Data:2019-02-21\nGodzina:09:20\nOrgan administracji:Minister S
  praw Wewnętrznych i Administracji\nPrzedmiot:Odmowa udzielenia informacji
   publicznej\nPrzewodniczący:Sławomir Fularski\nSala:Sala F\nSprawozdawca
  :Sławomir Fularski\nSygnatura akt:II SA/Wa 1582/18\nSymbol:6480\nSędziow
- ie:Piotr Borowiecki\, Przemysław Szustakiewicz\nTyp posiedzenia:Jawne\nUw
- agi:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\n
- Wyniki:
+ ie:Piotr Borowiecki\, Danuta Kania\nTyp posiedzenia:Jawne\nUwagi:odmowa ud
+ ostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1006,10 +1005,10 @@ SUMMARY:[J] Szef Krajowej Administracji Skarbowej - II SA/Wa 821/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190221T095000
 DESCRIPTION:Data:2019-02-21\nGodzina:09:50\nOrgan administracji:Szef Krajo
  wej Administracji Skarbowej\nPrzedmiot:Informacja publiczna\nPrzewodniczą
- cy:Sławomir Fularski\nSala:Sala F\nSprawozdawca:Przemysław Szustakiewicz
- \nSygnatura akt:II SA/Wa 821/18\nSymbol:6480\nSędziowie:Piotr Borowiecki\
- , Przemysław Szustakiewicz\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępn
- ienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ cy:Sławomir Fularski\nSala:Sala F\nSprawozdawca:Danuta Kania\nSygnatura a
+ kt:II SA/Wa 821/18\nSymbol:6480\nSędziowie:Piotr Borowiecki\, Danuta Kani
+ a\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji publiczne
+ j\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1019,8 +1018,8 @@ DESCRIPTION:Data:2019-02-21\nGodzina:12:30\nOrgan administracji:Nadleśnic
  zy Nadleśnictwa Myszyniec\nPrzedmiot:Odmowa udzielenia informacji publicz
  nej\nPrzewodniczący:Sławomir Antoniuk\nSala:Sala F\nSprawozdawca:Sławom
  ir Antoniuk\nSygnatura akt:II SA/Wa 1834/18\nSymbol:6480\nSędziowie:Piotr
-  Borowiecki\, Przemysław Szustakiewicz\nTyp posiedzenia:Jawne\nUwagi:odmo
- wa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+  Borowiecki\, Danuta Kania\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępni
+ enia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1194,6 +1193,18 @@ DESCRIPTION:Data:2019-03-07\nGodzina:10:00\nOrgan administracji:Elewarr Sp
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Ochotnicza Straż Pożarna w Nadarzynie - II SAB/Wa 660/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190308T000000
+DESCRIPTION:Data:2019-03-08\nGodzina:\nOrgan administracji:Ochotnicza Stra
+ ż Pożarna w Nadarzynie\nPrzedmiot:Bezczynność organu\nPrzewodniczący:
+ Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwieci
+ ńska\nSygnatura akt:II SAB/Wa 660/18\nSymbol:658/6480\nSędziowie:Danuta 
+ Kania\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
+ rzedmiocie rozpatrzenia wniosku z dn. 30 maja 2018 r. o udostępnienie inf
+ ormacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Bank PKO BP SA - II SAB/Wa 716/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190308T000000
 DESCRIPTION:Data:2019-03-08\nGodzina:\nOrgan administracji:Bank PKO BP SA\
@@ -1206,15 +1217,15 @@ DESCRIPTION:Data:2019-03-08\nGodzina:\nOrgan administracji:Bank PKO BP SA\
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Ochotnicza Straż Pożarna w Nadarzynie - II SAB/Wa 660/18
+SUMMARY:[N] Burmistrz Miasta Mława - II SAB/Wa 688/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190308T000000
-DESCRIPTION:Data:2019-03-08\nGodzina:\nOrgan administracji:Ochotnicza Stra
- ż Pożarna w Nadarzynie\nPrzedmiot:Bezczynność organu\nPrzewodniczący:
- Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwieci
- ńska\nSygnatura akt:II SAB/Wa 660/18\nSymbol:658/6480\nSędziowie:Danuta 
- Kania\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
- rzedmiocie rozpatrzenia wniosku z dn. 30 maja 2018 r. o udostępnienie inf
- ormacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2019-03-08\nGodzina:\nOrgan administracji:Burmistrz Miast
+ a Mława\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowska
+ \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura
+  akt:II SAB/Wa 688/18\nSymbol:658/6480\nSędziowie:Danuta Kania\, Ewa Kwie
+ cińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpo
+ znania wniosku z 25 września 2018 r. o udostępnienie informacji publiczn
+ ej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1230,15 +1241,15 @@ DESCRIPTION:Data:2019-03-08\nGodzina:\nOrgan administracji:Minister Zdrowi
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Burmistrz Miasta Mława - II SAB/Wa 688/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190308T000000
-DESCRIPTION:Data:2019-03-08\nGodzina:\nOrgan administracji:Burmistrz Miast
- a Mława\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowska
- \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura
-  akt:II SAB/Wa 688/18\nSymbol:658/6480\nSędziowie:Danuta Kania\, Ewa Kwie
- cińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpo
- znania wniosku z 25 września 2018 r. o udostępnienie informacji publiczn
- ej\nWydział orzeczniczy:II\nWyniki:
+SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 709/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190312T000000
+DESCRIPTION:Data:2019-03-12\nGodzina:\nOrgan administracji:Prezydent m.st.
+  Warszawy\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Piotr Borowieck
+ i\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Konrad Łukaszewicz\nSygn
+ atura akt:II SAB/Wa 709/18\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, K
+ onrad Łukaszewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
+ iocie rozpatrzenia wniosku z 3 października 2018 r. o udostępnienie info
+ rmacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1299,6 +1310,20 @@ DESCRIPTION:Data:2019-03-13\nGodzina:10:40\nOrgan administracji:Dyrektor Z
  \nSymbol:6480\nSędziowie:Izabela Głowacka-Klimas\, Stanisław Marek Piet
  ras\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji publicz
  nej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Instytutu Pamięci Narodowej - Komisji Ścigania Zbrodn
+ i Przeciwko Narodowi Polskiemu - II SAB/Wa 672/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190314T000000
+DESCRIPTION:Data:2019-03-14\nGodzina:\nOrgan administracji:Prezes Instytut
+ u Pamięci Narodowej - Komisji Ścigania Zbrodni Przeciwko Narodowi Polski
+ emu\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSala:Sal
+ a posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatura akt:
+ II SAB/Wa 672/18\nSymbol:658/6480\nSędziowie:asesor Karolina Kisielewicz\
+ , Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w rozpozna
+ niu wniosku o udostępnienie informacji publicznej\nWydział orzeczniczy:I
+ I\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
