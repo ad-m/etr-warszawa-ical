@@ -1,43 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[N] Polska Fundacja Narodowa - II SA/Wa 1657/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190220T000000
-DESCRIPTION:Data:2019-02-20\nGodzina:\nOrgan administracji:Polska Fundacja
-  Narodowa\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowsk
- a\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatu
- ra akt:II SA/Wa 1657/18\nSymbol:6480\nSędziowie:Joanna Kube\, Iwona Macie
- juk\nTyp posiedzenia:Niejawne\nUwagi:zawieszenie postępowania w sprawie u
- dostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:Uchyl
- ono zaskarżone postanowienie |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[J] Szef Kancelarii Sejmu - II SA/Wa 1631/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190220T123000
-DESCRIPTION:Data:2019-02-20\nGodzina:12:30\nOrgan administracji:Szef Kance
- larii Sejmu\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodnic
- zący:Ewa Marcinkowska\nSala:Sala F\nSprawozdawca:Ewa Marcinkowska\nSygnat
- ura akt:II SA/Wa 1631/18\nSymbol:6480\nSędziowie:Joanna Kube\, Iwona Maci
- ejuk\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji public
- znej\nWydział orzeczniczy:II\nWyniki:Uchylono zaskarżoną decyzję w cz
- ęści |Oddalono skargę w części |Zasądzono zwrot kosztów postępowan
- ia
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[J] Pierwszy Prezes Sądu Najwyższego - II SA/Wa 1504/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190220T125000
-DESCRIPTION:Data:2019-02-20\nGodzina:12:50\nOrgan administracji:Pierwszy P
- rezes Sądu Najwyższego\nPrzedmiot:Odmowa udzielenia informacji publiczne
- j\nPrzewodniczący:Ewa Marcinkowska\nSala:Sala F\nSprawozdawca:Iwona Macie
- juk\nSygnatura akt:II SA/Wa 1504/18\nSymbol:6480\nSędziowie:Joanna Kube\,
-  Iwona Maciejuk\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia inform
- acji publicznej\nWydział orzeczniczy:II\nWyniki:Uchylono zaskarżoną dec
- yzję |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Minister Spraw Wewnętrznych i Administracji - II SA/Wa 1582/1
  8
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190221T092000
@@ -367,18 +330,6 @@ DESCRIPTION:Data:2019-03-08\nGodzina:\nOrgan administracji:Minister Zdrowi
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 709/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190312T000000
-DESCRIPTION:Data:2019-03-12\nGodzina:\nOrgan administracji:Prezydent m.st.
-  Warszawy\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Piotr Borowieck
- i\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Konrad Łukaszewicz\nSygn
- atura akt:II SAB/Wa 709/18\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, K
- onrad Łukaszewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
- iocie rozpatrzenia wniosku z 3 października 2018 r. o udostępnienie info
- rmacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Urzędu Patentowego RP - II SAB/Wa 705/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190312T000000
 DESCRIPTION:Data:2019-03-12\nGodzina:\nOrgan administracji:Prezes Urzędu 
@@ -388,6 +339,18 @@ DESCRIPTION:Data:2019-03-12\nGodzina:\nOrgan administracji:Prezes Urzędu
  j\, Konrad Łukaszewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
  rzedmiocie udostępnienia informacji publicznej na wniosek z dnia 30 kwiet
  nia 2018 r.\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 709/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190312T000000
+DESCRIPTION:Data:2019-03-12\nGodzina:\nOrgan administracji:Prezydent m.st.
+  Warszawy\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Piotr Borowieck
+ i\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Konrad Łukaszewicz\nSygn
+ atura akt:II SAB/Wa 709/18\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, K
+ onrad Łukaszewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
+ iocie rozpatrzenia wniosku z 3 października 2018 r. o udostępnienie info
+ rmacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -702,7 +665,9 @@ DESCRIPTION:Data:2019-03-22\nGodzina:\nOrgan administracji:Medigen Sp. z o
  I SAB/Wa 686/18\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Iwona Macie
  juk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznan
  ia wniosku z 19 czerwca 2018 r. o udostępnienie informacji publicznej\nWy
- dział orzeczniczy:II\nWyniki:
+ dział orzeczniczy:II\nWyniki:Stwierdzono bezczynność postępowania i ż
+ e bezczynność nie miała miejsca z rażącym naruszeniem prawa |Oddalono
+  skargę w części |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -926,11 +891,25 @@ SUMMARY:[J] Przedsiębiorstwo Państwowe "Porty Lotnicze" - II SAB/Wa 521/
  18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190410T092000
 DESCRIPTION:Data:2019-04-10\nGodzina:09:20\nOrgan administracji:Przedsięb
- iorstwo Państwowe "Porty Lotnicze"\nPrzedmiot:Bezczynność organu\; Bezc
- zynność organu\nPrzewodniczący:Andrzej Wieczorek\nSala:Sala F\nSprawozd
- awca:Izabela Głowacka-Klimas\nSygnatura akt:II SAB/Wa 521/18\nSymbol:658/
- 6480\nSędziowie:Izabela Głowacka-Klimas\, asesor Karolina Kisielewicz\nT
- yp posiedzenia:Jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:
+ iorstwo Państwowe "Porty Lotnicze"\nPrzedmiot:Bezczynność organu\nPrzew
+ odniczący:Andrzej Wieczorek\nSala:Sala F\nSprawozdawca:Izabela Głowacka-
+ Klimas\nSygnatura akt:II SAB/Wa 521/18\nSymbol:658/6480\nSędziowie:Izabel
+ a Głowacka-Klimas\, asesor Karolina Kisielewicz\nTyp posiedzenia:Jawne\nU
+ wagi:bezczynność w zakresie wniosku z dnia 27 kwietnia 2018 r. o udostę
+ pnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Rada Powiatu Wołomińskiego - II SAB/Wa 627/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190411T000000
+DESCRIPTION:Data:2019-04-11\nGodzina:\nOrgan administracji:Rada Powiatu Wo
+ łomińskiego\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łukasz Krz
+ ycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnatur
+ a akt:II SAB/Wa 627/18\nSymbol:658/6480\nSędziowie:Danuta Kania\, Stanis
+ ław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
+ iocie rozpatrzenia wniosku z dnia 31 grudnia 2017 r. o udostępnienie info
+ rmacji publicznej dotyczącego drogi na nieruchomości nr 453/2 w Woli Ras
+ ztowskiej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -945,19 +924,6 @@ DESCRIPTION:Data:2019-04-11\nGodzina:\nOrgan administracji:Komisja do spra
  nia:Niejawne\nUwagi:bezczynność w przedmiocie rozpatrzenia wniosku z dni
  a 19 października 2018 r. o udostępnienie informacji publicznej\nWydzia
  ł orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Rada Powiatu Wołomińskiego - II SAB/Wa 627/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190411T000000
-DESCRIPTION:Data:2019-04-11\nGodzina:\nOrgan administracji:Rada Powiatu Wo
- łomińskiego\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łukasz Krz
- ycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnatur
- a akt:II SAB/Wa 627/18\nSymbol:658/6480\nSędziowie:Danuta Kania\, Stanis
- ław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
- iocie rozpatrzenia wniosku z dnia 31 grudnia 2017 r. o udostępnienie info
- rmacji publicznej dotyczącego drogi na nieruchomości nr 453/2 w Woli Ras
- ztowskiej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -977,11 +943,11 @@ SUMMARY:[J] Przedsiębiorstwo Państwowe "Porty Lotnicze" - II SAB/Wa 561/
  18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190412T102000
 DESCRIPTION:Data:2019-04-12\nGodzina:10:20\nOrgan administracji:Przedsięb
- iorstwo Państwowe "Porty Lotnicze"\nPrzedmiot:Informacja publiczna\; Info
- rmacja publiczna\nPrzewodniczący:Joanna Kube\nSala:Sala F\nSprawozdawca:K
- onrad Łukaszewicz\nSygnatura akt:II SAB/Wa 561/18\nSymbol:658/6480\nSędz
- iowie:Ewa Kwiecińska\, Konrad Łukaszewicz\nTyp posiedzenia:Jawne\nUwagi:
- \nWydział orzeczniczy:II\nWyniki:
+ iorstwo Państwowe "Porty Lotnicze"\nPrzedmiot:Informacja publiczna\nPrzew
+ odniczący:Joanna Kube\nSala:Sala F\nSprawozdawca:Konrad Łukaszewicz\nSyg
+ natura akt:II SAB/Wa 561/18\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\,
+  Konrad Łukaszewicz\nTyp posiedzenia:Jawne\nUwagi:bezczynność w sprawie
+  udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
