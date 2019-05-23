@@ -78,6 +78,19 @@ DESCRIPTION:Data:2019-04-26\nGodzina:09:00\nOrgan administracji:Telewizja
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 757/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190507T000000
+DESCRIPTION:Data:2019-05-07\nGodzina:\nOrgan administracji:Prezydent m.st.
+  Warszawy\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Góraj\
+ nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kruszewska-Grońska\
+ nSygnatura akt:II SAB/Wa 757/18\nSymbol:658/6480\nSędziowie:asesor Joanna
+  Kruszewska-Grońska\, Konrad Łukaszewicz\nTyp posiedzenia:Niejawne\nUwag
+ i:bezczynność w przedmiocie nie udzielenia odpowiedzi na część pytań
+  zawartych we wniosku z 19 listopada 2018 r. o udostępnienie informacji p
+ ublicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Główny Inspektor Pracy - II SAB/Wa 55/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190507T000000
 DESCRIPTION:Data:2019-05-07\nGodzina:\nOrgan administracji:Główny Inspek
@@ -90,19 +103,6 @@ DESCRIPTION:Data:2019-05-07\nGodzina:\nOrgan administracji:Główny Inspek
  ynność postępowania i że bezczynność nie miała miejsca z rażącym 
  naruszeniem prawa |Oddalono skargę w części |Zasądzono zwrot kosztów 
  postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 757/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190507T000000
-DESCRIPTION:Data:2019-05-07\nGodzina:\nOrgan administracji:Prezydent m.st.
-  Warszawy\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Góraj\
- nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kruszewska-Grońska\
- nSygnatura akt:II SAB/Wa 757/18\nSymbol:658/6480\nSędziowie:asesor Joanna
-  Kruszewska-Grońska\, Konrad Łukaszewicz\nTyp posiedzenia:Niejawne\nUwag
- i:bezczynność w przedmiocie nie udzielenia odpowiedzi na część pytań
-  zawartych we wniosku z 19 listopada 2018 r. o udostępnienie informacji p
- ublicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -226,20 +226,18 @@ DESCRIPTION:Data:2019-05-13\nGodzina:\nOrgan administracji:Burmistrz Gminy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Państwowy Powiatowy Inspektor Sanitarny w Powiecie Warszawski
- m Zachodnim - II SAB/Wa 59/19
+SUMMARY:[N] Główny Inspektor Sanitarny - II SAB/Wa 60/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190515T000000
-DESCRIPTION:Data:2019-05-15\nGodzina:\nOrgan administracji:Państwowy Powi
- atowy Inspektor Sanitarny w Powiecie Warszawskim Zachodnim\nPrzedmiot:Bezc
- zynność organu\nPrzewodniczący:Izabela Głowacka-Klimas\nSala:Sala posi
- edzeń niejawnych\nSprawozdawca:Agnieszka Góra-Błaszczykowska\nSygnatura
-  akt:II SAB/Wa 59/19\nSymbol:658/6480\nSędziowie:Agnieszka Góra-Błaszcz
- ykowska\, Danuta Kania\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w pr
- zedmiocie rozpoznania wniosku z dn. 28 listopada 2018 r. o udzielenie info
- rmacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynnoś
- ć postępowania i że bezczynność nie miała miejsca z rażącym narusz
- eniem prawa |Oddalono skargę w części |Zasądzono zwrot kosztów postę
- powania
+DESCRIPTION:Data:2019-05-15\nGodzina:\nOrgan administracji:Główny Inspek
+ tor Sanitarny\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Agnieszka G
+ óra-Błaszczykowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna
+  Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 60/19\nSymbol:658/6480\nSęd
+ ziowie:Danuta Kania\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:N
+ iejawne\nUwagi:bezczynnośc w przedmiocie rozpoznania wniosku z dnia 21 li
+ stopada 2018 r. o udostępnienie informacji publicznej\nWydział orzecznic
+ zy:II\nWyniki:Stwierdzono bezczynność postępowania i że bezczynność 
+ nie miała miejsca z rażącym naruszeniem prawa |Zasądzono zwrot kosztó
+ w postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -257,32 +255,20 @@ DESCRIPTION:Data:2019-05-15\nGodzina:\nOrgan administracji:Generalny Dyrek
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Główny Inspektor Sanitarny - II SAB/Wa 60/19
+SUMMARY:[N] Państwowy Powiatowy Inspektor Sanitarny w Powiecie Warszawski
+ m Zachodnim - II SAB/Wa 59/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190515T000000
-DESCRIPTION:Data:2019-05-15\nGodzina:\nOrgan administracji:Główny Inspek
- tor Sanitarny\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Agnieszka G
- óra-Błaszczykowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna
-  Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 60/19\nSymbol:658/6480\nSęd
- ziowie:Danuta Kania\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:N
- iejawne\nUwagi:bezczynnośc w przedmiocie rozpoznania wniosku z dnia 21 li
- stopada 2018 r. o udostępnienie informacji publicznej\nWydział orzecznic
- zy:II\nWyniki:Stwierdzono bezczynność postępowania i że bezczynność 
- nie miała miejsca z rażącym naruszeniem prawa |Zasądzono zwrot kosztó
- w postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 764/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190516T000000
-DESCRIPTION:Data:2019-05-16\nGodzina:\nOrgan administracji:Prezydent m.st.
-  Warszawy\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Stanisław Mare
- k Pietras\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielew
- icz\nSygnatura akt:II SAB/Wa 764/18\nSymbol:658/6480\nSędziowie:asesor Ka
- rolina Kisielewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwagi:bezc
- zynność w przedmiocie rozpatrzenia wniosku z dnia 11 października 2018 
- r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki
- :Zobowiązano ... i stwierdzono że bezczynność miała miejsce bez raż
- ącego naruszenia prawa |Zasądzono zwrot kosztów postępowania
+DESCRIPTION:Data:2019-05-15\nGodzina:\nOrgan administracji:Państwowy Powi
+ atowy Inspektor Sanitarny w Powiecie Warszawskim Zachodnim\nPrzedmiot:Bezc
+ zynność organu\nPrzewodniczący:Izabela Głowacka-Klimas\nSala:Sala posi
+ edzeń niejawnych\nSprawozdawca:Agnieszka Góra-Błaszczykowska\nSygnatura
+  akt:II SAB/Wa 59/19\nSymbol:658/6480\nSędziowie:Agnieszka Góra-Błaszcz
+ ykowska\, Danuta Kania\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w pr
+ zedmiocie rozpoznania wniosku z dn. 28 listopada 2018 r. o udzielenie info
+ rmacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynnoś
+ ć postępowania i że bezczynność nie miała miejsca z rażącym narusz
+ eniem prawa |Oddalono skargę w części |Zasądzono zwrot kosztów postę
+ powania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -297,6 +283,20 @@ DESCRIPTION:Data:2019-05-16\nGodzina:\nOrgan administracji:Koło Łowiecki
  a 2018 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\
  nWyniki:Umorzono postępowanie z art. 161 ustawy -PoPPSA |Zasądzono zwrot
   kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 764/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190516T000000
+DESCRIPTION:Data:2019-05-16\nGodzina:\nOrgan administracji:Prezydent m.st.
+  Warszawy\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Stanisław Mare
+ k Pietras\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielew
+ icz\nSygnatura akt:II SAB/Wa 764/18\nSymbol:658/6480\nSędziowie:asesor Ka
+ rolina Kisielewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwagi:bezc
+ zynność w przedmiocie rozpatrzenia wniosku z dnia 11 października 2018 
+ r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki
+ :Zobowiązano ... i stwierdzono że bezczynność miała miejsce bez raż
+ ącego naruszenia prawa |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -325,6 +325,20 @@ DESCRIPTION:Data:2019-05-16\nGodzina:10:00\nOrgan administracji:Polska Age
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Burmistrz Gminy Konstancin Jeziorna - II SAB/Wa 712/18
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190517T000000
+DESCRIPTION:Data:2019-05-17\nGodzina:\nOrgan administracji:Burmistrz Gminy
+  Konstancin Jeziorna\nPrzedmiot:Informacja publiczna\; Informacja publiczn
+ a\; Informacja publiczna\nPrzewodniczący:Sławomir Antoniuk\nSala:Sala po
+ siedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nSygnatura akt:II SAB
+ /Wa 712/18\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Andrzej Wieczor
+ ek\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobo
+ wiązano ... i stwierdzono że bezczynność miała miejsce bez rażącego
+  naruszenia prawa |Odrzucono wniosek o wymierzenie grzywny za bezczynnoś
+ ć-art. 149 par. 2 P.PS.A. |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezes Narodowego Banku Polskiego - II SAB/Wa 70/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190517T000000
 DESCRIPTION:Data:2019-05-17\nGodzina:\nOrgan administracji:Prezes Narodowe
@@ -337,20 +351,6 @@ DESCRIPTION:Data:2019-05-17\nGodzina:\nOrgan administracji:Prezes Narodowe
  cznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że 
  bezczynność miała miejsce bez rażącego naruszenia prawa |Zasądzono z
  wrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Burmistrz Gminy Konstancin Jeziorna - II SAB/Wa 712/18
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190517T000000
-DESCRIPTION:Data:2019-05-17\nGodzina:\nOrgan administracji:Burmistrz Gminy
-  Konstancin Jeziorna\nPrzedmiot:Informacja publiczna\; Informacja publiczn
- a\; Informacja publiczna\nPrzewodniczący:Sławomir Antoniuk\nSala:Sala po
- siedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nSygnatura akt:II SAB
- /Wa 712/18\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Andrzej Wieczor
- ek\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobo
- wiązano ... i stwierdzono że bezczynność miała miejsce bez rażącego
-  naruszenia prawa |Odrzucono wniosek o wymierzenie grzywny za bezczynnoś
- ć-art. 149 par. 2 P.PS.A. |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -402,7 +402,8 @@ DESCRIPTION:Data:2019-05-22\nGodzina:\nOrgan administracji:Prezes Urzędu
  awca:Sławomir Fularski\nSygnatura akt:II SA/Wa 2249/18\nSymbol:6480\nSęd
  ziowie:Sławomir Fularski\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwa
  gi:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nW
- yniki:
+ yniki:Uchylono zaskarżoną decyzję |Zasądzono zwrot kosztów postępowa
+ nia
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -414,7 +415,7 @@ DESCRIPTION:Data:2019-05-22\nGodzina:\nOrgan administracji:Prezes Urzędu
  ycki\nSygnatura akt:II SAB/Wa 62/19\nSymbol:658/6480\nSędziowie:Sławomir
   Fularski\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwagi:bezczynność
   w przedmiocie rozpoznania wniosku z 20 grudnia 2018 r. o udostępniernie 
- danych osobowych\nWydział orzeczniczy:II\nWyniki:
+ danych osobowych\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -427,7 +428,10 @@ DESCRIPTION:Data:2019-05-22\nGodzina:\nOrgan administracji:Krajowa Rada Po
  :Janusz Walawski\nSygnatura akt:II SAB/Wa 692/18\nSymbol:658/6480\nSędzio
  wie:Sławomir Fularski\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwagi:
  bezczynność w przedmiocie rozpoznania wniosku z dnia 27 marca 2018 r. o 
- udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobo
+ wiązano ... i stwierdzono że bezczynność miała miejsce bez rażącego
+  naruszenia prawa |Oddalono skargę w części |Zasądzono zwrot kosztów 
+ postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -438,7 +442,8 @@ DESCRIPTION:Data:2019-05-22\nGodzina:09:40\nOrgan administracji:Minister F
  cy:Janusz Walawski\nSala:Sala F\nSprawozdawca:Sławomir Fularski\nSygnatur
  a akt:II SA/Wa 2276/18\nSymbol:6480\nSędziowie:Sławomir Fularski\, Łuka
  sz Krzycki\nTyp posiedzenia:Jawne\nUwagi:odmowa udzielenia informacji publ
- icznej\nWydział orzeczniczy:II\nWyniki:
+ icznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono nieważność zaskarż
+ onej decyzji |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -451,7 +456,8 @@ DESCRIPTION:Data:2019-05-23\nGodzina:\nOrgan administracji:Polska Fundacja
  eszka Góra-Błaszczykowska\, Stanisław Marek Pietras\nTyp posiedzenia:Ni
  ejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z 7 grudnia 
  2018 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nW
- yniki:
+ yniki:Zobowiązano ... i stwierdzono że bezczynność miała miejsce bez 
+ rażącego naruszenia prawa |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -464,7 +470,9 @@ DESCRIPTION:Data:2019-05-23\nGodzina:\nOrgan administracji:Minister Kultur
  iowie:Agnieszka Góra-Błaszczykowska\, Stanisław Marek Pietras\nTyp posi
  edzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z 
  7 grudnia 2018 r. o udostępnienie informacji publicznej\nWydział orzeczn
- iczy:II\nWyniki:
+ iczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynność miała mi
+ ejsce bez rażącego naruszenia prawa |Oddalono skargę w części |Zasąd
+ zono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -605,18 +613,6 @@ DESCRIPTION:Data:2019-05-31\nGodzina:12:55\nOrgan administracji:Prezes Urz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Polski Fundusz Rozwoju S.A. z/s w Warszawie - II SAB/Wa 145/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190603T000000
-DESCRIPTION:Data:2019-06-03\nGodzina:\nOrgan administracji:Polski Fundusz 
- Rozwoju S.A. z/s w Warszawie\nPrzedmiot:Bezczynność organu\nPrzewodnicz
- ący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joann
- a Kube\nSygnatura akt:II SAB/Wa 145/19\nSymbol:658/6480\nSędziowie:Łukas
- z Krzycki\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
- rzedmiocie rozpoznania wniosku z 7 grudnia 2018 r. o udostępnienie inform
- acji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Minister Finansów - II SAB/Wa 126/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190603T000000
 DESCRIPTION:Data:2019-06-03\nGodzina:\nOrgan administracji:Minister Finans
@@ -626,6 +622,18 @@ DESCRIPTION:Data:2019-06-03\nGodzina:\nOrgan administracji:Minister Finans
  yp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wni
  osku z 22 października 2018 r. o udostępnienie informacji publicznej\nWy
  dział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Polski Fundusz Rozwoju S.A. z/s w Warszawie - II SAB/Wa 145/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190603T000000
+DESCRIPTION:Data:2019-06-03\nGodzina:\nOrgan administracji:Polski Fundusz 
+ Rozwoju S.A. z/s w Warszawie\nPrzedmiot:Bezczynność organu\nPrzewodnicz
+ ący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joann
+ a Kube\nSygnatura akt:II SAB/Wa 145/19\nSymbol:658/6480\nSędziowie:Łukas
+ z Krzycki\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
+ rzedmiocie rozpoznania wniosku z 7 grudnia 2018 r. o udostępnienie inform
+ acji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -715,18 +723,6 @@ DESCRIPTION:Data:2019-06-10\nGodzina:10:00\nOrgan administracji:Prezes Nar
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Naczelna Rada Adwokacka - II SAB/Wa 51/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190611T000000
-DESCRIPTION:Data:2019-06-11\nGodzina:\nOrgan administracji:Naczelna Rada A
- dwokacka\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Konrad Łukaszew
- icz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Stanisław Marek Pietra
- s\nSygnatura akt:II SAB/Wa 51/19\nSymbol:658/6480\nSędziowie:Stanisław M
- arek Pietras\, Ewa Radziszewska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:bez
- czynność w przedmiocie rozpoznania wniosku z 4 listopada 2018 r. o udost
- ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Minister Sprawiedliwości - II SAB/Wa 252/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190611T000000
 DESCRIPTION:Data:2019-06-11\nGodzina:\nOrgan administracji:Minister Sprawi
@@ -736,6 +732,18 @@ DESCRIPTION:Data:2019-06-11\nGodzina:\nOrgan administracji:Minister Sprawi
  ek Pietras\, Ewa Radziszewska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:bezcz
  ynność w sprawie rozpoznania wniosku z dnia 9 marca 2016 r. o udostępni
  enie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Naczelna Rada Adwokacka - II SAB/Wa 51/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190611T000000
+DESCRIPTION:Data:2019-06-11\nGodzina:\nOrgan administracji:Naczelna Rada A
+ dwokacka\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Konrad Łukaszew
+ icz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Stanisław Marek Pietra
+ s\nSygnatura akt:II SAB/Wa 51/19\nSymbol:658/6480\nSędziowie:Stanisław M
+ arek Pietras\, Ewa Radziszewska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:bez
+ czynność w przedmiocie rozpoznania wniosku z 4 listopada 2018 r. o udost
+ ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -786,19 +794,6 @@ DESCRIPTION:Data:2019-06-12\nGodzina:09:20\nOrgan administracji:PGE Dystry
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Polski Holding Obronny Sp. z o.o. - II SAB/Wa 171/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190617T000000
-DESCRIPTION:Data:2019-06-17\nGodzina:\nOrgan administracji:Polski Holding 
- Obronny Sp. z o.o.\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Danuta
-  Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz
- \nSygnatura akt:II SAB/Wa 171/19\nSymbol:658/6480\nSędziowie:Agnieszka G
- óra-Błaszczykowska\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejaw
- ne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z 7 grudnia 2018
-  r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWynik
- i:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Polski Związek Lekkiej Atletyki - II SAB/Wa 169/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190617T000000
 DESCRIPTION:Data:2019-06-17\nGodzina:\nOrgan administracji:Polski Związek
@@ -809,6 +804,19 @@ DESCRIPTION:Data:2019-06-17\nGodzina:\nOrgan administracji:Polski Związek
  ia:Niejawne\nUwagi:bezczynność w przedmiocie udostępnienia informacji p
  ublicznej w sprawie z wniosku z dnia 21 stycznia 2019 r.\nWydział orzeczn
  iczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Polski Holding Obronny Sp. z o.o. - II SAB/Wa 171/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190617T000000
+DESCRIPTION:Data:2019-06-17\nGodzina:\nOrgan administracji:Polski Holding 
+ Obronny Sp. z o.o.\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Danuta
+  Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz
+ \nSygnatura akt:II SAB/Wa 171/19\nSymbol:658/6480\nSędziowie:Agnieszka G
+ óra-Błaszczykowska\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejaw
+ ne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z 7 grudnia 2018
+  r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWynik
+ i:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -885,17 +893,6 @@ DESCRIPTION:Data:2019-06-19\nGodzina:\nOrgan administracji:Prezes Rady Min
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[J] Minister Spraw Zagranicznych - II SA/Wa 377/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190619T090000
-DESCRIPTION:Data:2019-06-19\nGodzina:09:00\nOrgan administracji:Minister S
- praw Zagranicznych\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrz
- ewodniczący:Iwona Maciejuk\nSala:Sala B\nSprawozdawca:Joanna Kube\nSygnat
- ura akt:II SA/Wa 377/19\nSymbol:6480\nSędziowie:Sławomir Fularski\, Joan
- na Kube\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji pub
- licznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Kampania Przeciwko Homofobii - II SA/Wa 25/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190619T090000
 DESCRIPTION:Data:2019-06-19\nGodzina:09:00\nOrgan administracji:Kampania P
@@ -904,6 +901,17 @@ DESCRIPTION:Data:2019-06-19\nGodzina:09:00\nOrgan administracji:Kampania P
  natura akt:II SA/Wa 25/19\nSymbol:6480\nSędziowie:Izabela Głowacka-Klima
  s\, Janusz Walawski\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia in
  formacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[J] Minister Spraw Zagranicznych - II SA/Wa 377/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190619T090000
+DESCRIPTION:Data:2019-06-19\nGodzina:09:00\nOrgan administracji:Minister S
+ praw Zagranicznych\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrz
+ ewodniczący:Iwona Maciejuk\nSala:Sala B\nSprawozdawca:Joanna Kube\nSygnat
+ ura akt:II SA/Wa 377/19\nSymbol:6480\nSędziowie:Sławomir Fularski\, Joan
+ na Kube\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji pub
+ licznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
