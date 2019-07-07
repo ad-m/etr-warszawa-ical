@@ -39,6 +39,19 @@ DESCRIPTION:Data:2019-06-10\nGodzina:10:00\nOrgan administracji:Prezes Nar
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Naczelna Rada Adwokacka - II SAB/Wa 51/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190611T000000
+DESCRIPTION:Data:2019-06-11\nGodzina:\nOrgan administracji:Naczelna Rada A
+ dwokacka\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa Radziszewska
+ -Krupa\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Stanisław Marek Pie
+ tras\nSygnatura akt:II SAB/Wa 51/19\nSymbol:658/6480\nSędziowie:Konrad Ł
+ ukaszewicz\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bez
+ czynność w przedmiocie rozpoznania wniosku z 4 listopada 2018 r. o udost
+ ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono 
+ skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Minister Sprawiedliwości - II SAB/Wa 252/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190611T000000
 DESCRIPTION:Data:2019-06-11\nGodzina:\nOrgan administracji:Minister Sprawi
@@ -50,19 +63,6 @@ DESCRIPTION:Data:2019-06-11\nGodzina:\nOrgan administracji:Minister Sprawi
  enie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano .
  .. i stwierdzono że bezczynność miała miejsce bez rażącego naruszeni
  a prawa |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Naczelna Rada Adwokacka - II SAB/Wa 51/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190611T000000
-DESCRIPTION:Data:2019-06-11\nGodzina:\nOrgan administracji:Naczelna Rada A
- dwokacka\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa Radziszewska
- -Krupa\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Stanisław Marek Pie
- tras\nSygnatura akt:II SAB/Wa 51/19\nSymbol:658/6480\nSędziowie:Konrad Ł
- ukaszewicz\, Stanisław Marek Pietras\nTyp posiedzenia:Niejawne\nUwagi:bez
- czynność w przedmiocie rozpoznania wniosku z 4 listopada 2018 r. o udost
- ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono 
- skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -226,15 +226,17 @@ DESCRIPTION:Data:2019-06-18\nGodzina:12:50\nOrgan administracji:Prezes Nar
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Cyfryzacji - II SAB/Wa 281/19
+SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 259/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190619T000000
-DESCRIPTION:Data:2019-06-19\nGodzina:\nOrgan administracji:Minister Cyfryz
- acji\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmydt\nSala:
- Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II S
- AB/Wa 281/19\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Janusz Walawski
- \nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie udostępnien
- ia informacji publicznej w sprawie z wniosku z dnia 16 marca 2019 r.\nWydz
- iał orzeczniczy:II\nWyniki:Oddalono skargę
+DESCRIPTION:Data:2019-06-19\nGodzina:\nOrgan administracji:Prezes Rady Min
+ istrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Góraj\nS
+ ala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowacka-Klimas\nSyg
+ natura akt:II SAB/Wa 259/19\nSymbol:658/6480\nSędziowie:Izabela Głowacka
+ -Klimas\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w
+  przedmiocie udostępnienia informacji publicznej w sprawie z wniosku z dn
+ ia 1 grudnia 2015 r.\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i s
+ twierdzono że bezczynność miała miejsce bez rażącego naruszenia praw
+ a |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -252,17 +254,15 @@ DESCRIPTION:Data:2019-06-19\nGodzina:\nOrgan administracji:Polska Agencja
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 259/19
+SUMMARY:[N] Minister Cyfryzacji - II SAB/Wa 281/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190619T000000
-DESCRIPTION:Data:2019-06-19\nGodzina:\nOrgan administracji:Prezes Rady Min
- istrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Góraj\nS
- ala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowacka-Klimas\nSyg
- natura akt:II SAB/Wa 259/19\nSymbol:658/6480\nSędziowie:Izabela Głowacka
- -Klimas\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w
-  przedmiocie udostępnienia informacji publicznej w sprawie z wniosku z dn
- ia 1 grudnia 2015 r.\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i s
- twierdzono że bezczynność miała miejsce bez rażącego naruszenia praw
- a |Zasądzono zwrot kosztów postępowania
+DESCRIPTION:Data:2019-06-19\nGodzina:\nOrgan administracji:Minister Cyfryz
+ acji\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmydt\nSala:
+ Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II S
+ AB/Wa 281/19\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Janusz Walawski
+ \nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie udostępnien
+ ia informacji publicznej w sprawie z wniosku z dnia 16 marca 2019 r.\nWydz
+ iał orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -356,18 +356,6 @@ DESCRIPTION:Data:2019-06-24\nGodzina:\nOrgan administracji:Polski Związek
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Bank PKO BP SA - II SAB/Wa 159/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190624T000000
-DESCRIPTION:Data:2019-06-24\nGodzina:\nOrgan administracji:Bank PKO BP SA\
- nPrzedmiot:Bezczynność organu\nPrzewodniczący:Agnieszka Góra-Błaszczy
- kowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Łukasz Krzycki\nSyg
- natura akt:II SAB/Wa 159/19\nSymbol:658/6480\nSędziowie:Łukasz Krzycki\,
-  Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
- iocie rozpoznania wniosku z 7 grudnia 2018 r. o udostępnienie informacji 
- publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Starosta Wołomiński - II SAB/Wa 624/18
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190624T000000
 DESCRIPTION:Data:2019-06-24\nGodzina:\nOrgan administracji:Starosta Wołom
@@ -378,6 +366,18 @@ DESCRIPTION:Data:2019-06-24\nGodzina:\nOrgan administracji:Starosta Wołom
  ć w przedmiocie rozpoznania 22 wniosków z dnia 4 lutego 2018 r. o udost
  ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono 
  skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Bank PKO BP SA - II SAB/Wa 159/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190624T000000
+DESCRIPTION:Data:2019-06-24\nGodzina:\nOrgan administracji:Bank PKO BP SA\
+ nPrzedmiot:Bezczynność organu\nPrzewodniczący:Agnieszka Góra-Błaszczy
+ kowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Łukasz Krzycki\nSyg
+ natura akt:II SAB/Wa 159/19\nSymbol:658/6480\nSędziowie:Łukasz Krzycki\,
+  Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
+ iocie rozpoznania wniosku z 7 grudnia 2018 r. o udostępnienie informacji 
+ publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -557,6 +557,18 @@ DESCRIPTION:Data:2019-07-04\nGodzina:\nOrgan administracji:\nPrzedmiot:Inf
 LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Minister Środowiska - II SAB/Wa 129/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190709T000000
+DESCRIPTION:Data:2019-07-09\nGodzina:\nOrgan administracji:Minister Środo
+ wiska\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Kołodziej\
+ nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura a
+ kt:II SAB/Wa 129/19\nSymbol:658/6480\nSędziowie:Iwona Maciejuk\, Ewa Radz
+ iszewska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmioci
+ e rozpoznania wniosku z dnia 21 stycznia 2019 r. o udostępnienie informac
+ ji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 218/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190709T000000
 DESCRIPTION:Data:2019-07-09\nGodzina:\nOrgan administracji:Minister Kultur
@@ -567,18 +579,6 @@ DESCRIPTION:Data:2019-07-09\nGodzina:\nOrgan administracji:Minister Kultur
  ezczynność w przedmiocie rozpatrzenia wniosku z dnia 21 października 20
  18 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyn
  iki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Środowiska - II SAB/Wa 129/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190709T000000
-DESCRIPTION:Data:2019-07-09\nGodzina:\nOrgan administracji:Minister Środo
- wiska\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Kołodziej\
- nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura a
- kt:II SAB/Wa 129/19\nSymbol:658/6480\nSędziowie:Iwona Maciejuk\, Ewa Radz
- iszewska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmioci
- e rozpoznania wniosku z dnia 21 stycznia 2019 r. o udostępnienie informac
- ji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -769,15 +769,17 @@ DESCRIPTION:Data:2019-07-25\nGodzina:10:40\nOrgan administracji:Rzecznik P
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prokurator Generalny - II SAB/Wa 248/19
+SUMMARY:[N] Podkomisja ds. Ponownego Zbadania Wypadku Lotniczego - II SAB/
+ Wa 238/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190731T000000
-DESCRIPTION:Data:2019-07-31\nGodzina:\nOrgan administracji:Prokurator Gene
- ralny\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir Fularski\
- nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygna
- tura akt:II SAB/Wa 248/19\nSymbol:658/6480\nSędziowie:Agnieszka Góra-Bł
- aszczykowska\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwag
- i:bezczynność w sprawie rozpoznania wniosku z dnia 12 marca 2019 r. o ud
- ostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2019-07-31\nGodzina:\nOrgan administracji:Podkomisja ds. 
+ Ponownego Zbadania Wypadku Lotniczego\nPrzedmiot:Bezczynność organu\nPrz
+ ewodniczący:Sławomir Fularski\nSala:Sala posiedzeń niejawnych\nSprawozd
+ awca:Karolina Kisielewicz\nSygnatura akt:II SAB/Wa 238/19\nSymbol:658/6480
+ \nSędziowie:Agnieszka Góra-Błaszczykowska\, asesor Karolina Kisielewicz
+ \nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania 
+ wniosku z dnia 4 marca 2019 r. o udostępnienie informacji publicznej\nWyd
+ ział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -795,17 +797,15 @@ DESCRIPTION:Data:2019-07-31\nGodzina:\nOrgan administracji:Giełda Papier
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Podkomisja ds. Ponownego Zbadania Wypadku Lotniczego - II SAB/
- Wa 238/19
+SUMMARY:[N] Prokurator Generalny - II SAB/Wa 248/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190731T000000
-DESCRIPTION:Data:2019-07-31\nGodzina:\nOrgan administracji:Podkomisja ds. 
- Ponownego Zbadania Wypadku Lotniczego\nPrzedmiot:Bezczynność organu\nPrz
- ewodniczący:Sławomir Fularski\nSala:Sala posiedzeń niejawnych\nSprawozd
- awca:Karolina Kisielewicz\nSygnatura akt:II SAB/Wa 238/19\nSymbol:658/6480
- \nSędziowie:Agnieszka Góra-Błaszczykowska\, asesor Karolina Kisielewicz
- \nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania 
- wniosku z dnia 4 marca 2019 r. o udostępnienie informacji publicznej\nWyd
- ział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2019-07-31\nGodzina:\nOrgan administracji:Prokurator Gene
+ ralny\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir Fularski\
+ nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygna
+ tura akt:II SAB/Wa 248/19\nSymbol:658/6480\nSędziowie:Agnieszka Góra-Bł
+ aszczykowska\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwag
+ i:bezczynność w sprawie rozpoznania wniosku z dnia 12 marca 2019 r. o ud
+ ostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
