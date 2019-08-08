@@ -1,6 +1,17 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
+SUMMARY:[N] Minister Środowiska - II SAB/Wa 129/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190709T000000
+DESCRIPTION:Data:2019-07-09\nGodzina:\nOrgan administracji:Minister Środo
+ wiska\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicz
+ ący:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwo
+ na Maciejuk\nSygnatura akt:II SAB/Wa 129/19\nSymbol:658/6480\nSędziowie:I
+ wona Maciejuk\, Ewa Radziszewska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:\n
+ Wydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 218/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190709T000000
 DESCRIPTION:Data:2019-07-09\nGodzina:\nOrgan administracji:Minister Kultur
@@ -13,17 +24,6 @@ DESCRIPTION:Data:2019-07-09\nGodzina:\nOrgan administracji:Minister Kultur
  iki:Stwierdzono bezczynność postępowania i że bezczynność nie miała
   miejsca z rażącym naruszeniem prawa |Zasądzono zwrot kosztów postępo
  wania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Środowiska - II SAB/Wa 129/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190709T000000
-DESCRIPTION:Data:2019-07-09\nGodzina:\nOrgan administracji:Minister Środo
- wiska\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicz
- ący:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwo
- na Maciejuk\nSygnatura akt:II SAB/Wa 129/19\nSymbol:658/6480\nSędziowie:I
- wona Maciejuk\, Ewa Radziszewska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:\n
- Wydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -173,19 +173,6 @@ DESCRIPTION:Data:2019-07-23\nGodzina:\nOrgan administracji:Kierownik Gminn
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Przedsiębiorstwo Państwowe "Porty Lotnicze" - II SAB/Wa 49/1
- 9
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190724T000000
-DESCRIPTION:Data:2019-07-24\nGodzina:\nOrgan administracji:Przedsiębiorst
- wo Państwowe "Porty Lotnicze"\nPrzedmiot:Bezczynność organu\; Bezczynno
- ść organu\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawny
- ch\nSprawozdawca:Iwona Maciejuk\nSygnatura akt:II SAB/Wa 49/19\nSymbol:658
- /6480\nSędziowie:Sławomir Fularski\, asesor Karolina Kisielewicz\nTyp po
- siedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skarg
- ę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Szkoły Podstawowej z Oddziałami Integracyjnymi nr 2
  3 im. Armii Krajowej - II SAB/Wa 197/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190724T000000
@@ -213,6 +200,19 @@ DESCRIPTION:Data:2019-07-24\nGodzina:\nOrgan administracji:Dyrektor Szkoł
  wne\nUwagi:bezczynność w przedmiocie udostępnienia informacji publiczne
  j w sprawie z wniosku z dnia 18 marca 2019 r.\nWydział orzeczniczy:II\nWy
  niki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Przedsiębiorstwo Państwowe "Porty Lotnicze" - II SAB/Wa 49/1
+ 9
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190724T000000
+DESCRIPTION:Data:2019-07-24\nGodzina:\nOrgan administracji:Przedsiębiorst
+ wo Państwowe "Porty Lotnicze"\nPrzedmiot:Bezczynność organu\; Bezczynno
+ ść organu\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawny
+ ch\nSprawozdawca:Iwona Maciejuk\nSygnatura akt:II SAB/Wa 49/19\nSymbol:658
+ /6480\nSędziowie:Sławomir Fularski\, asesor Karolina Kisielewicz\nTyp po
+ siedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skarg
+ ę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -344,6 +344,8 @@ DESCRIPTION:Data:2019-08-07\nGodzina:\nOrgan administracji:Komendant Stoł
  Karolina Kisielewicz\, Konrad Łukaszewicz\nTyp posiedzenia:Niejawne\nUwag
  i:bezczynnośc w przedmiocie rozpoznania wniosku z dnia 8 września 2015 r
  . o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ Zobowiązano ... i stwierdzono że bezczynność miała miejsce bez rażą
+ cego naruszenia prawa |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -355,7 +357,9 @@ DESCRIPTION:Data:2019-08-07\nGodzina:\nOrgan administracji:Minister Cyfryz
  II SAB/Wa 310/19\nSymbol:658/6480\nSędziowie:asesor Karolina Kisielewicz\
  , Konrad Łukaszewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
  edmiocie rozpatrzenia wniosku z dnia 4 stycznia 2019 r. o udostępnienie i
- nformacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ nformacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i s
+ twierdzono że bezczynność miała miejsce bez rażącego naruszenia praw
+ a |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -367,7 +371,9 @@ DESCRIPTION:Data:2019-08-07\nGodzina:\nOrgan administracji:Prezes ZUS w Wa
  ura akt:II SAB/Wa 217/19\nSymbol:658/6480\nSędziowie:asesor Karolina Kisi
  elewicz\, Konrad Łukaszewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
  ć w przedmiocie rozpatrzenia wniosku z dnia 30 grudnia 2018 r. o udostęp
- nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono 
+ bezczynność postępowania i że bezczynność nie miała miejsca z raż
+ ącym naruszeniem prawa |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -376,11 +382,12 @@ SUMMARY:[J] Polskie Górnictwo Naftowe i Gazownictwo S.A. z/s w Warszawie
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190807T090000
 DESCRIPTION:Data:2019-08-07\nGodzina:09:00\nOrgan administracji:Polskie G
  órnictwo Naftowe i Gazownictwo S.A. z/s w Warszawie\nPrzedmiot:Odmowa udz
- ielenia informacji publicznej\nPrzewodniczący:Łukasz Krzycki\nSala:Sala 
- F\nSprawozdawca:Karolina Kisielewicz\nSygnatura akt:II SA/Wa 549/19\nSymbo
- l:6480\nSędziowie:asesor Karolina Kisielewicz\, Konrad Łukaszewicz\nTyp 
- posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydz
- iał orzeczniczy:II\nWyniki:
+ ielenia informacji publicznej\; Odmowa udzielenia informacji publicznej\nP
+ rzewodniczący:Łukasz Krzycki\nSala:Sala F\nSprawozdawca:Karolina Kisiele
+ wicz\nSygnatura akt:II SA/Wa 549/19\nSymbol:6480\nSędziowie:asesor Karoli
+ na Kisielewicz\, Konrad Łukaszewicz\nTyp posiedzenia:Jawne\nUwagi:\nWydzi
+ ał orzeczniczy:II\nWyniki:Odroczono ogłoszenie orzeczenia na dzień 2019
+ -08-13
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -458,6 +465,19 @@ DESCRIPTION:Data:2019-08-13\nGodzina:\nOrgan administracji:Zarząd Związk
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[?] Polskie Górnictwo Naftowe i Gazownictwo S.A. z/s w Warszawie 
+ - II SA/Wa 549/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190813T085000
+DESCRIPTION:Data:2019-08-13\nGodzina:08:50\nOrgan administracji:Polskie G
+ órnictwo Naftowe i Gazownictwo S.A. z/s w Warszawie\nPrzedmiot:Odmowa udz
+ ielenia informacji publicznej\; Odmowa udzielenia informacji publicznej\nP
+ rzewodniczący:asesor Karolina Kisielewicz\nSala:Sala F\nSprawozdawca:Karo
+ lina Kisielewicz\nSygnatura akt:II SA/Wa 549/19\nSymbol:6480\nSędziowie:\
+ nTyp posiedzenia:OGŁOSZENIE ORZECZENIA\nUwagi:\nWydział orzeczniczy:II\n
+ Wyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Polska Agencja Rozwoju Przedsiębiorczości - II SA/Wa 6/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190813T090000
 DESCRIPTION:Data:2019-08-13\nGodzina:09:00\nOrgan administracji:Polska Age
@@ -529,15 +549,15 @@ DESCRIPTION:Data:2019-08-28\nGodzina:\nOrgan administracji:Prezes Sądu Ok
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Główny Inspektor Nadzoru Budowlanego - II SAB/Wa 242/19
+SUMMARY:[N] Wójt Gminy Ojrzeń - II SAB/Wa 228/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190828T000000
-DESCRIPTION:Data:2019-08-28\nGodzina:\nOrgan administracji:Główny Inspek
- tor Nadzoru Budowlanego\nPrzedmiot:Bezczynność organu\nPrzewodniczący:E
- wa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marcink
- owska\nSygnatura akt:II SAB/Wa 242/19\nSymbol:658/6480\nSędziowie:Sławom
- ir Antoniuk\, Agnieszka Góra-Błaszczykowska\nTyp posiedzenia:Niejawne\nU
- wagi:bezczynność w zakresie rozpoznania wniosku o udostępnienie informa
- cji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2019-08-28\nGodzina:\nOrgan administracji:Wójt Gminy Ojr
+ zeń\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa Marcinkowska\nSa
+ la:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nSygnatura 
+ akt:II SAB/Wa 228/19\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk\, Agn
+ ieszka Góra-Błaszczykowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
+ ć w przedmiocie rozpoznania wniosku z dnia 15 stycznia 2018 r. o udostęp
+ nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -555,15 +575,15 @@ DESCRIPTION:Data:2019-08-28\nGodzina:\nOrgan administracji:Dyrektor Instyt
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Ojrzeń - II SAB/Wa 228/19
+SUMMARY:[N] Główny Inspektor Nadzoru Budowlanego - II SAB/Wa 242/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190828T000000
-DESCRIPTION:Data:2019-08-28\nGodzina:\nOrgan administracji:Wójt Gminy Ojr
- zeń\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa Marcinkowska\nSa
- la:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nSygnatura 
- akt:II SAB/Wa 228/19\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk\, Agn
- ieszka Góra-Błaszczykowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
- ć w przedmiocie rozpoznania wniosku z dnia 15 stycznia 2018 r. o udostęp
- nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2019-08-28\nGodzina:\nOrgan administracji:Główny Inspek
+ tor Nadzoru Budowlanego\nPrzedmiot:Bezczynność organu\nPrzewodniczący:E
+ wa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marcink
+ owska\nSygnatura akt:II SAB/Wa 242/19\nSymbol:658/6480\nSędziowie:Sławom
+ ir Antoniuk\, Agnieszka Góra-Błaszczykowska\nTyp posiedzenia:Niejawne\nU
+ wagi:bezczynność w zakresie rozpoznania wniosku o udostępnienie informa
+ cji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -579,18 +599,6 @@ DESCRIPTION:Data:2019-08-29\nGodzina:09:00\nOrgan administracji:Główny G
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Cyfryzacji - II SAB/Wa 293/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190904T000000
-DESCRIPTION:Data:2019-09-04\nGodzina:\nOrgan administracji:Minister Cyfryz
- acji\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Danuta Kania\nSala:S
- ala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnatura akt:II SAB
- /Wa 293/19\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Iwona Maciejuk\nT
- yp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wni
- osku z 18 marca 2019 r. o udostępnienie informacji publicznej\nWydział o
- rzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Minister Sprawiedliwości - II SAB/Wa 294/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190904T000000
 DESCRIPTION:Data:2019-09-04\nGodzina:\nOrgan administracji:Minister Sprawi
@@ -600,6 +608,18 @@ DESCRIPTION:Data:2019-09-04\nGodzina:\nOrgan administracji:Minister Sprawi
  a Kruszewska-Grońska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:be
  zczynnośc w sprawie rozpoznania wniosku z dnia 18 lutego 2019 r. o udost
  ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Cyfryzacji - II SAB/Wa 293/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190904T000000
+DESCRIPTION:Data:2019-09-04\nGodzina:\nOrgan administracji:Minister Cyfryz
+ acji\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Danuta Kania\nSala:S
+ ala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnatura akt:II SAB
+ /Wa 293/19\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Iwona Maciejuk\nT
+ yp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wni
+ osku z 18 marca 2019 r. o udostępnienie informacji publicznej\nWydział o
+ rzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
