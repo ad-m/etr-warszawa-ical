@@ -1,18 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[N] Minister Obrony Narodowej - II SAB/Wa 224/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190716T000000
-DESCRIPTION:Data:2019-07-16\nGodzina:\nOrgan administracji:Minister Obrony
-  Narodowej\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewod
- niczący:Ewa Radziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSprawozd
- awca:Ewa Radziszewska-Krupa\nSygnatura akt:II SAB/Wa 224/19\nSymbol:658/64
- 80\nSędziowie:Piotr Borowiecki\, Agnieszka Góra-Błaszczykowska\nTyp pos
- iedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skarg
- ę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Komisja Nadzoru Finansowego - II SAB/Wa 246/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190716T000000
 DESCRIPTION:Data:2019-07-16\nGodzina:\nOrgan administracji:Komisja Nadzoru
@@ -24,6 +12,18 @@ DESCRIPTION:Data:2019-07-16\nGodzina:\nOrgan administracji:Komisja Nadzoru
  erdzono bezczynność postępowania i że bezczynność nie miała miejsca
   z rażącym naruszeniem prawa |Oddalono skargę w części |Zasądzono zw
  rot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Obrony Narodowej - II SAB/Wa 224/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190716T000000
+DESCRIPTION:Data:2019-07-16\nGodzina:\nOrgan administracji:Minister Obrony
+  Narodowej\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewod
+ niczący:Ewa Radziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSprawozd
+ awca:Ewa Radziszewska-Krupa\nSygnatura akt:II SAB/Wa 224/19\nSymbol:658/64
+ 80\nSędziowie:Piotr Borowiecki\, Agnieszka Góra-Błaszczykowska\nTyp pos
+ iedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skarg
+ ę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -561,18 +561,6 @@ DESCRIPTION:Data:2019-09-04\nGodzina:12:30\nOrgan administracji:Prezes Age
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Główna Biblioteka Lekarska - II SAB/Wa 353/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190906T000000
-DESCRIPTION:Data:2019-09-06\nGodzina:\nOrgan administracji:Główna Biblio
- teka Lekarska\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Radzisz
- ewska-Krupa\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Radziszewsk
- a-Krupa\nSygnatura akt:II SAB/Wa 353/19\nSymbol:658/6480\nSędziowie:Łuka
- sz Krzycki\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
- ść w sprawie rozpoznania wniosku z dnia 23 kwietnia 2019 r. o udostępni
- enie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Agencja Rozwoju Przemysłu S.A. - II SAB/Wa 150/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190906T000000
 DESCRIPTION:Data:2019-09-06\nGodzina:\nOrgan administracji:Agencja Rozwoju
@@ -582,6 +570,18 @@ DESCRIPTION:Data:2019-09-06\nGodzina:\nOrgan administracji:Agencja Rozwoju
  i\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
  edmiocie rozpoznania wniosku z 14 stycznia 2019 r. o udostępnienie inform
  acji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Główna Biblioteka Lekarska - II SAB/Wa 353/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190906T000000
+DESCRIPTION:Data:2019-09-06\nGodzina:\nOrgan administracji:Główna Biblio
+ teka Lekarska\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Radzisz
+ ewska-Krupa\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Radziszewsk
+ a-Krupa\nSygnatura akt:II SAB/Wa 353/19\nSymbol:658/6480\nSędziowie:Łuka
+ sz Krzycki\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
+ ść w sprawie rozpoznania wniosku z dnia 23 kwietnia 2019 r. o udostępni
+ enie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -607,6 +607,56 @@ DESCRIPTION:Data:2019-09-09\nGodzina:09:00\nOrgan administracji:Prezes Age
  480\nSędziowie:Izabela Głowacka-Klimas\, asesor Joanna Kruszewska-Grońs
  ka\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji publiczn
  ej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Instytutu Fizjologii i Patologii Słuchu - II SAB/Wa 
+ 289/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190910T000000
+DESCRIPTION:Data:2019-09-10\nGodzina:\nOrgan administracji:Dyrektor Instyt
+ utu Fizjologii i Patologii Słuchu\nPrzedmiot:Bezczynność organu\nPrzewo
+ dniczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:
+ Sławomir Antoniuk\nSygnatura akt:II SAB/Wa 289/19\nSymbol:658/6480\nSędz
+ iowie:Sławomir Antoniuk\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi
+ :bezczynność w przedmiocie rozpoznania wniosku z 21 grudnia 2018 r. o ud
+ ostępnienie danych osobowych\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Rolnictwa i Rozwoju Wsi - II SAB/Wa 96/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190910T000000
+DESCRIPTION:Data:2019-09-10\nGodzina:\nOrgan administracji:Minister Rolnic
+ twa i Rozwoju Wsi\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Mar
+ cinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nS
+ ygnatura akt:II SAB/Wa 96/19\nSymbol:658/6480\nSędziowie:Sławomir Antoni
+ uk\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w spraw
+ ie rozpoznania wniosku z dnia 3 stycznia 2019 r. o udostępnienie informac
+ ji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[J] Fundacja Lux Veritatis z siedzibą w Warszawie - II SA/Wa 542/
+ 19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190910T090000
+DESCRIPTION:Data:2019-09-10\nGodzina:09:00\nOrgan administracji:Fundacja L
+ ux Veritatis z siedzibą w Warszawie\nPrzedmiot:Odmowa udzielenia informac
+ ji publicznej\nPrzewodniczący:Ewa Marcinkowska\nSala:Sala F\nSprawozdawca
+ :Sławomir Antoniuk\nSygnatura akt:II SA/Wa 542/19\nSymbol:6480\nSędziowi
+ e:Sławomir Antoniuk\, Iwona Maciejuk\nTyp posiedzenia:Jawne\nUwagi:odmowa
+  udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[J] Kierownik Gminnego Ośrodka Pomocy Społecznej w Raszynie - II
+  SA/Wa 323/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20190910T093000
+DESCRIPTION:Data:2019-09-10\nGodzina:09:30\nOrgan administracji:Kierownik 
+ Gminnego Ośrodka Pomocy Społecznej w Raszynie\nPrzedmiot:Odmowa udzielen
+ ia informacji publicznej\nPrzewodniczący:Ewa Marcinkowska\nSala:Sala F\nS
+ prawozdawca:Iwona Maciejuk\nSygnatura akt:II SA/Wa 323/19\nSymbol:6480\nS
+ ędziowie:Sławomir Antoniuk\, Iwona Maciejuk\nTyp posiedzenia:Jawne\nUwag
+ i:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWy
+ niki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
