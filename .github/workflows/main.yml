@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+  schedule:
+  - cron: 0 12 * * *
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: "3.7"
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+    - name: Update data
+      run: python3 main.py
+      env:
+        DSN_URL: ${{ secrets.DSN_URL }}
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "Update by GitHub Action" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
