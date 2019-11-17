@@ -31,18 +31,20 @@ def row_to_text(row):
 
 
 def etr_query(**kwargs):
-    data = {'sygnatura': '',
-            'data_posiedzenia': (datetime.datetime.now() - datetime.timedelta(days=30)).strftime('%Y-%m-%d'),
-            'data_posiedzenia_do': '',
-            'sala_rozpraw': '---',
-            'typ_posiedzenia': "'N', 'J', 'P'",
-            'wydzial_orzeczniczy': '---',
-            'symbol': '648',
-            'opis': '',
-            'wynik': '',
-            'sortowanie': '3',
-            'act': 'szukaj',
-            'get_csv': '1'}
+    data = {
+        'sygnatura': '',
+        'data_posiedzenia': (datetime.datetime.now() - datetime.timedelta(days=30)).strftime('%Y-%m-%d'),
+        'data_posiedzenia_do': '',
+        'sala_rozpraw': 'Wszystkie',
+        'typ_posiedzenia': "'N',+'J',+'P'",
+        'wydzial_orzeczniczy': 'Wszystkie',
+        'symbol': '648',
+        'opis': '',
+        'wynik': '',
+        'sortowanie': '3',
+        'act': 'szukaj',
+        'get_csv': '1'
+    }
     data.update(kwargs)
     soup = BeautifulSoup(requests.post(ETR_URL, data=data).text, "html.parser")
     csv_text = soup.find('div', attrs={'id': 'csv_text'}).text
