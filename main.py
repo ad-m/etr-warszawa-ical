@@ -105,7 +105,8 @@ if "DSN_URL" in os.environ:
     )
     try:
         main()
-    except:
+    except Exception:
         client.captureException()
+        raise
 else:
     main()
