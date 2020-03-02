@@ -33,24 +33,24 @@ def row_to_text(row):
 
 
 def etr_query(**kwargs):
- 
-    time_start = (
-            datetime.datetime.now() - datetime.timedelta(days=30)
-        ).strftime("%Y-%m-%d");
-    time_end =datetime.datetime.now() .strftime("%Y-%m-%d");
+
+    time_start = (datetime.datetime.now() - datetime.timedelta(days=30)).strftime(
+        "%Y-%m-%d"
+    )
+    time_end = datetime.datetime.now().strftime("%Y-%m-%d")
     data = {
-        'sygnatura':'',
-        'data_posiedzenia':time_start,
-        'data_posiedzenia_do':time_end,
-        'sala_rozpraw':'Wszystkie',
-        'typ_posiedzenia':"'N', 'J', 'P'",
-        'wydzial_orzeczniczy':'Wszystkie',
-        'opis':'',
-        'wynik':'',
-        'sortowanie':'3',
-        'act':'szukaj',
-        'get_csv':'1',
-        'guzik':'Filtruj / Sortuj'
+        "sygnatura": "",
+        "data_posiedzenia": time_start,
+        "data_posiedzenia_do": time_end,
+        "sala_rozpraw": "Wszystkie",
+        "typ_posiedzenia": "'N', 'J', 'P'",
+        "wydzial_orzeczniczy": "Wszystkie",
+        "opis": "",
+        "wynik": "",
+        "sortowanie": "3",
+        "act": "szukaj",
+        "get_csv": "1",
+        "guzik": "Filtruj / Sortuj",
     }
     data.update(kwargs)
     soup = BeautifulSoup(requests.post(ETR_URL, data=data).text, "html.parser")
@@ -91,9 +91,7 @@ def make_cal(data):
 def main():
     cal = make_cal(
         itertools.chain(
-            etr_query(symbol=648),
-            etr_query(symbol=6480),
-            etr_query(symbol=6481)
+            etr_query(symbol=648), etr_query(symbol=6480), etr_query(symbol=6481)
         )
     )
     open("648.ics", "wb").write(cal.to_ical())
