@@ -15,13 +15,11 @@ jobs:
       with:
         python-version: "3.7"
     - name: Lint via Black
-      run: |
-        pip install black
-        black --check .
+      run: make lint
     - name: Install dependencies
-      run: pip install -r requirements.txt
+      run: make install
     - name: Update data
-      run: python3 main.py
+      run: make update
       env:
         DSN_URL: ${{ secrets.DSN_URL }}
     - name: Commit files
