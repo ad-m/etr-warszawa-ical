@@ -5,6 +5,7 @@ import datetime
 import os
 import re
 from time import strptime
+import itertools
 
 import requests
 from bs4 import BeautifulSoup
@@ -32,21 +33,24 @@ def row_to_text(row):
 
 
 def etr_query(**kwargs):
-    data = {
-        "sygnatura": "",
-        "data_posiedzenia": (
+ 
+    time_start = (
             datetime.datetime.now() - datetime.timedelta(days=30)
-        ).strftime("%Y-%m-%d"),
-        "data_posiedzenia_do": "",
-        "sala_rozpraw": "Wszystkie",
-        "typ_posiedzenia": "'N',+'J',+'P'",
-        "wydzial_orzeczniczy": "Wszystkie",
-        "symbol": "648",
-        "opis": "",
-        "wynik": "",
-        "sortowanie": "3",
-        "act": "szukaj",
-        "get_csv": "1",
+        ).strftime("%Y-%m-%d");
+    time_end =datetime.datetime.now() .strftime("%Y-%m-%d");
+    data = {
+        'sygnatura':'',
+        'data_posiedzenia':time_start,
+        'data_posiedzenia_do':time_end,
+        'sala_rozpraw':'Wszystkie',
+        'typ_posiedzenia':"'N', 'J', 'P'",
+        'wydzial_orzeczniczy':'Wszystkie',
+        'opis':'',
+        'wynik':'',
+        'sortowanie':'3',
+        'act':'szukaj',
+        'get_csv':'1',
+        'guzik':'Filtruj / Sortuj'
     }
     data.update(kwargs)
     soup = BeautifulSoup(requests.post(ETR_URL, data=data).text, "html.parser")
@@ -58,7 +62,8 @@ def etr_query(**kwargs):
 def make_cal(data):
     cal = Calendar()
     cal["summary"] = "Cases of Freedom of Information in Warsaw"
-
+    if not data:
+        raise Exception("Not found any events")
     for row in data:
         event = Event()
         try:
@@ -84,8 +89,13 @@ def make_cal(data):
 
 
 def main():
-    data = etr_query()
-    cal = make_cal(data)
+    cal = make_cal(
+        itertools.chain(
+            etr_query(symbol=648),
+            etr_query(symbol=6480),
+            etr_query(symbol=6481)
+        )
+    )
     open("648.ics", "wb").write(cal.to_ical())
 
 
