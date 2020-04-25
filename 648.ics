@@ -1,29 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[N] PINB dla m. st. Warszawy - II SAB/Wa 835/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200325T000000
-DESCRIPTION:Data:2020-03-25\nGodzina:\nOrgan administracji:PINB dla m. st.
-  Warszawy\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławomir Fular
- ski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Fularski\nSyg
- natura akt:II SAB/Wa 835/19\nSymbol:658/6480\nSędziowie:Iwona Maciejuk\, 
- Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność organu w z
- akresie wniosku z dnia 7 listopada 2019 r. o udostępnienie informacji pub
- licznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[J] SKO w Radomiu - VIII SA/Wa 908/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200325T113000
-DESCRIPTION:Data:2020-03-25\nGodzina:11:30\nOrgan administracji:SKO w Rado
- miu\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Marek Wroczyński\nSa
- la:Sala B Radom\nSprawozdawca:Marek Wroczyński\nSygnatura akt:VIII SA/Wa 
- 908/19\nSymbol:6480\nSędziowie:Leszek Kobylski\, Justyna Mazur\nTyp posie
- dzenia:Jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział 
- orzeczniczy:VIII\nWyniki:
-LOCATION:Wydzial VIII\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 82/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200326T000000
 DESCRIPTION:Data:2020-03-26\nGodzina:\nOrgan administracji:Komendant Głó
@@ -43,19 +20,6 @@ DESCRIPTION:Data:2020-03-26\nGodzina:09:20\nOrgan administracji:Minister S
  t:II SA/Wa 2841/19\nSymbol:6480\nSędziowie:asesor Karolina Kisielewicz\, 
  Andrzej Wieczorek\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia info
  rmacji publicznej\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Gospodarki Morskiej i Żeglugi Śródlądowej - II SA
- B/Wa 754/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200327T000000
-DESCRIPTION:Data:2020-03-27\nGodzina:\nOrgan administracji:Minister Gospod
- arki Morskiej i Żeglugi Śródlądowej\nPrzedmiot:Bezczynność organu\; 
- Bezczynność organu\nPrzewodniczący:Sławomir Antoniuk\nSala:Sala posied
- zeń niejawnych\nSprawozdawca:Ewa Radziszewska-Krupa\nSygnatura akt:II SAB
- /Wa 754/19\nSymbol:658/6480\nSędziowie:Andrzej Kołodziej\, Ewa Radziszew
- ska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyni
- ki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -79,6 +43,19 @@ DESCRIPTION:Data:2020-03-27\nGodzina:\nOrgan administracji:Prokurator Regi
  wozdawca:Sławomir Antoniuk\nSygnatura akt:II SAB/Wa 791/19\nSymbol:658/64
  80\nSędziowie:Andrzej Kołodziej\, Ewa Radziszewska-Krupa\nTyp posiedzeni
  a:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Gospodarki Morskiej i Żeglugi Śródlądowej - II SA
+ B/Wa 754/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200327T000000
+DESCRIPTION:Data:2020-03-27\nGodzina:\nOrgan administracji:Minister Gospod
+ arki Morskiej i Żeglugi Śródlądowej\nPrzedmiot:Bezczynność organu\; 
+ Bezczynność organu\nPrzewodniczący:Sławomir Antoniuk\nSala:Sala posied
+ zeń niejawnych\nSprawozdawca:Ewa Radziszewska-Krupa\nSygnatura akt:II SAB
+ /Wa 754/19\nSymbol:658/6480\nSędziowie:Andrzej Kołodziej\, Ewa Radziszew
+ ska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyni
+ ki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -106,18 +83,6 @@ DESCRIPTION:Data:2020-03-27\nGodzina:09:20\nOrgan administracji:Generalny
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Związek Banków Polskich - II SAB/Wa 794/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200330T000000
-DESCRIPTION:Data:2020-03-30\nGodzina:\nOrgan administracji:Związek Bankó
- w Polskich\nPrzedmiot:Bezczynność organu\; Bezczynność organu\; Bezczy
- nność organu\nPrzewodniczący:Agnieszka Góra-Błaszczykowska\nSala:Sala
-  posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra-Błaszczykowska\nSygn
- atura akt:II SAB/Wa 794/19\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk
- \, Andrzej Kołodziej\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczni
- czy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Polskie Sieci Elektroenergetyczne S.A. - II SAB/Wa 694/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200330T000000
 DESCRIPTION:Data:2020-03-30\nGodzina:\nOrgan administracji:Polskie Sieci E
@@ -130,15 +95,15 @@ DESCRIPTION:Data:2020-03-30\nGodzina:\nOrgan administracji:Polskie Sieci E
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Zarząd Zieleni m.st. Warszawy - II SAB/Wa 775/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200331T000000
-DESCRIPTION:Data:2020-03-31\nGodzina:\nOrgan administracji:Zarząd Zieleni
-  m.st. Warszawy\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPr
- zewodniczący:Agnieszka Góra-Błaszczykowska\nSala:Sala posiedzeń niejaw
- nych\nSprawozdawca:Agnieszka Góra-Błaszczykowska\nSygnatura akt:II SAB/W
- a 775/19\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk\, Andrzej Kołodz
- iej\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdj
- ęto z wokandy
+SUMMARY:[N] Związek Banków Polskich - II SAB/Wa 794/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200330T000000
+DESCRIPTION:Data:2020-03-30\nGodzina:\nOrgan administracji:Związek Bankó
+ w Polskich\nPrzedmiot:Bezczynność organu\; Bezczynność organu\; Bezczy
+ nność organu\nPrzewodniczący:Agnieszka Góra-Błaszczykowska\nSala:Sala
+  posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra-Błaszczykowska\nSygn
+ atura akt:II SAB/Wa 794/19\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk
+ \, Andrzej Kołodziej\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczni
+ czy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -152,6 +117,18 @@ DESCRIPTION:Data:2020-03-31\nGodzina:\nOrgan administracji:PGE Polska Grup
  wska\nSygnatura akt:II SAB/Wa 861/19\nSymbol:658/6480\nSędziowie:Sławomi
  r Antoniuk\, Andrzej Kołodziej\nTyp posiedzenia:Niejawne\nUwagi:\nWydzia
  ł orzeczniczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Zarząd Zieleni m.st. Warszawy - II SAB/Wa 775/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200331T000000
+DESCRIPTION:Data:2020-03-31\nGodzina:\nOrgan administracji:Zarząd Zieleni
+  m.st. Warszawy\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPr
+ zewodniczący:Agnieszka Góra-Błaszczykowska\nSala:Sala posiedzeń niejaw
+ nych\nSprawozdawca:Agnieszka Góra-Błaszczykowska\nSygnatura akt:II SAB/W
+ a 775/19\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk\, Andrzej Kołodz
+ iej\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdj
+ ęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -224,25 +201,15 @@ DESCRIPTION:Data:2020-04-02\nGodzina:09:20\nOrgan administracji:Miejskie P
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Komisja Nadzoru Finansowego - II SAB/Wa 69/20
+SUMMARY:[N] Dyrektor Miejskiego Domu Kultury W Sulejówku - II SAB/Wa 803/
+ 19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200403T000000
-DESCRIPTION:Data:2020-04-03\nGodzina:\nOrgan administracji:Komisja Nadzoru
-  Finansowego\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzew
- odniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:An
- drzej Wieczorek\nSygnatura akt:II SAB/Wa 69/20\nSymbol:659/6480\nSędziowi
- e:Izabela Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\n
- Uwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Burmistrz Kałuszyna - II SAB/Wa 12/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200403T000000
-DESCRIPTION:Data:2020-04-03\nGodzina:\nOrgan administracji:Burmistrz Kału
- szyna\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicz
- ący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej 
- Wieczorek\nSygnatura akt:II SAB/Wa 12/20\nSymbol:658/6480\nSędziowie:Izab
- ela Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:
- \nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+DESCRIPTION:Data:2020-04-03\nGodzina:\nOrgan administracji:Dyrektor Miejsk
+ iego Domu Kultury W Sulejówku\nPrzedmiot:Bezczynność organu\; Bezczynno
+ ść organu\nPrzewodniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnyc
+ h\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 803/19\nSymbol:658/
+ 6480\nSędziowie:Izabela Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedz
+ enia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -259,15 +226,25 @@ DESCRIPTION:Data:2020-04-03\nGodzina:\nOrgan administracji:Dyrektor Gminne
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Miejskiego Domu Kultury W Sulejówku - II SAB/Wa 803/
- 19
+SUMMARY:[N] Burmistrz Kałuszyna - II SAB/Wa 12/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200403T000000
-DESCRIPTION:Data:2020-04-03\nGodzina:\nOrgan administracji:Dyrektor Miejsk
- iego Domu Kultury W Sulejówku\nPrzedmiot:Bezczynność organu\; Bezczynno
- ść organu\nPrzewodniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnyc
- h\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 803/19\nSymbol:658/
- 6480\nSędziowie:Izabela Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedz
- enia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+DESCRIPTION:Data:2020-04-03\nGodzina:\nOrgan administracji:Burmistrz Kału
+ szyna\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicz
+ ący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej 
+ Wieczorek\nSygnatura akt:II SAB/Wa 12/20\nSymbol:658/6480\nSędziowie:Izab
+ ela Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:
+ \nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Komisja Nadzoru Finansowego - II SAB/Wa 69/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200403T000000
+DESCRIPTION:Data:2020-04-03\nGodzina:\nOrgan administracji:Komisja Nadzoru
+  Finansowego\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzew
+ odniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:An
+ drzej Wieczorek\nSygnatura akt:II SAB/Wa 69/20\nSymbol:659/6480\nSędziowi
+ e:Izabela Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\n
+ Uwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -499,18 +476,6 @@ DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Prawo i Sprawie
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Małkinia Górna - II SAB/Wa 591/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200422T000000
-DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Wójt Gminy Ma
- łkinia Górna\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrz
- ewodniczący:Ewa Radziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSpra
- wozdawca:Ewa Radziszewska-Krupa\nSygnatura akt:II SAB/Wa 591/19\nSymbol:65
- 8/6480\nSędziowie:Piotr Borowiecki\, asesor Joanna Kruszewska-Grońska\nT
- yp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z
-  wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 533/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200422T000000
 DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Prezydent m.st.
@@ -523,6 +488,18 @@ DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Prezydent m.st.
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Małkinia Górna - II SAB/Wa 591/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200422T000000
+DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Wójt Gminy Ma
+ łkinia Górna\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrz
+ ewodniczący:Ewa Radziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSpra
+ wozdawca:Ewa Radziszewska-Krupa\nSygnatura akt:II SAB/Wa 591/19\nSymbol:65
+ 8/6480\nSędziowie:Piotr Borowiecki\, asesor Joanna Kruszewska-Grońska\nT
+ yp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z
+  wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Rada Miasta Otwocka - II SAB/Wa 847/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200422T000000
 DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Rada Miasta Otw
@@ -531,6 +508,17 @@ DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Rada Miasta Otw
  ej Kołodziej\nSygnatura akt:II SAB/Wa 847/19\nSymbol:658/6480\nSędziowie
  :Piotr Borowiecki\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Nie
  jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 845/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200423T000000
+DESCRIPTION:Data:2020-04-23\nGodzina:\nOrgan administracji:Minister Kultur
+ y i Dziedzictwa Narodowego\nPrzedmiot:Bezczynność organu\; Bezczynność
+  organu\nPrzewodniczący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSp
+ rawozdawca:Danuta Kania\nSygnatura akt:II SAB/Wa 845/19\nSymbol:658/6480\n
+ Sędziowie:Iwona Maciejuk\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwa
+ gi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -622,17 +610,6 @@ DESCRIPTION:Data:2020-04-23\nGodzina:\nOrgan administracji:Minister Sprawi
  awca:Andrzej Góraj\nSygnatura akt:II SAB/Wa 844/19\nSymbol:658/6480\nSęd
  ziowie:Sławomir Antoniuk\, Andrzej Góraj\nTyp posiedzenia:Niejawne\nUwag
  i:\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 845/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200423T000000
-DESCRIPTION:Data:2020-04-23\nGodzina:\nOrgan administracji:Minister Kultur
- y i Dziedzictwa Narodowego\nPrzedmiot:Bezczynność organu\; Bezczynność
-  organu\nPrzewodniczący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSp
- rawozdawca:Danuta Kania\nSygnatura akt:II SAB/Wa 845/19\nSymbol:658/6480\n
- Sędziowie:Iwona Maciejuk\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwa
- gi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -669,29 +646,6 @@ DESCRIPTION:Data:2020-04-24\nGodzina:09:20\nOrgan administracji:Minister O
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] PINB dla m. st. Warszawy - II SAB/Wa 835/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200325T000000
-DESCRIPTION:Data:2020-03-25\nGodzina:\nOrgan administracji:PINB dla m. st.
-  Warszawy\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławomir Fular
- ski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Fularski\nSyg
- natura akt:II SAB/Wa 835/19\nSymbol:658/6480\nSędziowie:Iwona Maciejuk\, 
- Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność organu w z
- akresie wniosku z dnia 7 listopada 2019 r. o udostępnienie informacji pub
- licznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[J] SKO w Radomiu - VIII SA/Wa 908/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200325T113000
-DESCRIPTION:Data:2020-03-25\nGodzina:11:30\nOrgan administracji:SKO w Rado
- miu\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Marek Wroczyński\nSa
- la:Sala B Radom\nSprawozdawca:Marek Wroczyński\nSygnatura akt:VIII SA/Wa 
- 908/19\nSymbol:6480\nSędziowie:Leszek Kobylski\, Justyna Mazur\nTyp posie
- dzenia:Jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział 
- orzeczniczy:VIII\nWyniki:
-LOCATION:Wydzial VIII\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 82/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200326T000000
 DESCRIPTION:Data:2020-03-26\nGodzina:\nOrgan administracji:Komendant Głó
@@ -711,19 +665,6 @@ DESCRIPTION:Data:2020-03-26\nGodzina:09:20\nOrgan administracji:Minister S
  t:II SA/Wa 2841/19\nSymbol:6480\nSędziowie:asesor Karolina Kisielewicz\, 
  Andrzej Wieczorek\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia info
  rmacji publicznej\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Gospodarki Morskiej i Żeglugi Śródlądowej - II SA
- B/Wa 754/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200327T000000
-DESCRIPTION:Data:2020-03-27\nGodzina:\nOrgan administracji:Minister Gospod
- arki Morskiej i Żeglugi Śródlądowej\nPrzedmiot:Bezczynność organu\; 
- Bezczynność organu\nPrzewodniczący:Sławomir Antoniuk\nSala:Sala posied
- zeń niejawnych\nSprawozdawca:Ewa Radziszewska-Krupa\nSygnatura akt:II SAB
- /Wa 754/19\nSymbol:658/6480\nSędziowie:Andrzej Kołodziej\, Ewa Radziszew
- ska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyni
- ki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -747,6 +688,19 @@ DESCRIPTION:Data:2020-03-27\nGodzina:\nOrgan administracji:Prokurator Regi
  wozdawca:Sławomir Antoniuk\nSygnatura akt:II SAB/Wa 791/19\nSymbol:658/64
  80\nSędziowie:Andrzej Kołodziej\, Ewa Radziszewska-Krupa\nTyp posiedzeni
  a:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Gospodarki Morskiej i Żeglugi Śródlądowej - II SA
+ B/Wa 754/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200327T000000
+DESCRIPTION:Data:2020-03-27\nGodzina:\nOrgan administracji:Minister Gospod
+ arki Morskiej i Żeglugi Śródlądowej\nPrzedmiot:Bezczynność organu\; 
+ Bezczynność organu\nPrzewodniczący:Sławomir Antoniuk\nSala:Sala posied
+ zeń niejawnych\nSprawozdawca:Ewa Radziszewska-Krupa\nSygnatura akt:II SAB
+ /Wa 754/19\nSymbol:658/6480\nSędziowie:Andrzej Kołodziej\, Ewa Radziszew
+ ska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyni
+ ki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -774,18 +728,6 @@ DESCRIPTION:Data:2020-03-27\nGodzina:09:20\nOrgan administracji:Generalny
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Związek Banków Polskich - II SAB/Wa 794/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200330T000000
-DESCRIPTION:Data:2020-03-30\nGodzina:\nOrgan administracji:Związek Bankó
- w Polskich\nPrzedmiot:Bezczynność organu\; Bezczynność organu\; Bezczy
- nność organu\nPrzewodniczący:Agnieszka Góra-Błaszczykowska\nSala:Sala
-  posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra-Błaszczykowska\nSygn
- atura akt:II SAB/Wa 794/19\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk
- \, Andrzej Kołodziej\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczni
- czy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Polskie Sieci Elektroenergetyczne S.A. - II SAB/Wa 694/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200330T000000
 DESCRIPTION:Data:2020-03-30\nGodzina:\nOrgan administracji:Polskie Sieci E
@@ -798,15 +740,15 @@ DESCRIPTION:Data:2020-03-30\nGodzina:\nOrgan administracji:Polskie Sieci E
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Zarząd Zieleni m.st. Warszawy - II SAB/Wa 775/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200331T000000
-DESCRIPTION:Data:2020-03-31\nGodzina:\nOrgan administracji:Zarząd Zieleni
-  m.st. Warszawy\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPr
- zewodniczący:Agnieszka Góra-Błaszczykowska\nSala:Sala posiedzeń niejaw
- nych\nSprawozdawca:Agnieszka Góra-Błaszczykowska\nSygnatura akt:II SAB/W
- a 775/19\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk\, Andrzej Kołodz
- iej\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdj
- ęto z wokandy
+SUMMARY:[N] Związek Banków Polskich - II SAB/Wa 794/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200330T000000
+DESCRIPTION:Data:2020-03-30\nGodzina:\nOrgan administracji:Związek Bankó
+ w Polskich\nPrzedmiot:Bezczynność organu\; Bezczynność organu\; Bezczy
+ nność organu\nPrzewodniczący:Agnieszka Góra-Błaszczykowska\nSala:Sala
+  posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra-Błaszczykowska\nSygn
+ atura akt:II SAB/Wa 794/19\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk
+ \, Andrzej Kołodziej\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczni
+ czy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -820,6 +762,18 @@ DESCRIPTION:Data:2020-03-31\nGodzina:\nOrgan administracji:PGE Polska Grup
  wska\nSygnatura akt:II SAB/Wa 861/19\nSymbol:658/6480\nSędziowie:Sławomi
  r Antoniuk\, Andrzej Kołodziej\nTyp posiedzenia:Niejawne\nUwagi:\nWydzia
  ł orzeczniczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Zarząd Zieleni m.st. Warszawy - II SAB/Wa 775/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200331T000000
+DESCRIPTION:Data:2020-03-31\nGodzina:\nOrgan administracji:Zarząd Zieleni
+  m.st. Warszawy\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPr
+ zewodniczący:Agnieszka Góra-Błaszczykowska\nSala:Sala posiedzeń niejaw
+ nych\nSprawozdawca:Agnieszka Góra-Błaszczykowska\nSygnatura akt:II SAB/W
+ a 775/19\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk\, Andrzej Kołodz
+ iej\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdj
+ ęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -892,25 +846,15 @@ DESCRIPTION:Data:2020-04-02\nGodzina:09:20\nOrgan administracji:Miejskie P
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Komisja Nadzoru Finansowego - II SAB/Wa 69/20
+SUMMARY:[N] Dyrektor Miejskiego Domu Kultury W Sulejówku - II SAB/Wa 803/
+ 19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200403T000000
-DESCRIPTION:Data:2020-04-03\nGodzina:\nOrgan administracji:Komisja Nadzoru
-  Finansowego\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzew
- odniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:An
- drzej Wieczorek\nSygnatura akt:II SAB/Wa 69/20\nSymbol:659/6480\nSędziowi
- e:Izabela Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\n
- Uwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Burmistrz Kałuszyna - II SAB/Wa 12/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200403T000000
-DESCRIPTION:Data:2020-04-03\nGodzina:\nOrgan administracji:Burmistrz Kału
- szyna\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicz
- ący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej 
- Wieczorek\nSygnatura akt:II SAB/Wa 12/20\nSymbol:658/6480\nSędziowie:Izab
- ela Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:
- \nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+DESCRIPTION:Data:2020-04-03\nGodzina:\nOrgan administracji:Dyrektor Miejsk
+ iego Domu Kultury W Sulejówku\nPrzedmiot:Bezczynność organu\; Bezczynno
+ ść organu\nPrzewodniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnyc
+ h\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 803/19\nSymbol:658/
+ 6480\nSędziowie:Izabela Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedz
+ enia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -927,15 +871,25 @@ DESCRIPTION:Data:2020-04-03\nGodzina:\nOrgan administracji:Dyrektor Gminne
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Miejskiego Domu Kultury W Sulejówku - II SAB/Wa 803/
- 19
+SUMMARY:[N] Burmistrz Kałuszyna - II SAB/Wa 12/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200403T000000
-DESCRIPTION:Data:2020-04-03\nGodzina:\nOrgan administracji:Dyrektor Miejsk
- iego Domu Kultury W Sulejówku\nPrzedmiot:Bezczynność organu\; Bezczynno
- ść organu\nPrzewodniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnyc
- h\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 803/19\nSymbol:658/
- 6480\nSędziowie:Izabela Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedz
- enia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+DESCRIPTION:Data:2020-04-03\nGodzina:\nOrgan administracji:Burmistrz Kału
+ szyna\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicz
+ ący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej 
+ Wieczorek\nSygnatura akt:II SAB/Wa 12/20\nSymbol:658/6480\nSędziowie:Izab
+ ela Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:
+ \nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Komisja Nadzoru Finansowego - II SAB/Wa 69/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200403T000000
+DESCRIPTION:Data:2020-04-03\nGodzina:\nOrgan administracji:Komisja Nadzoru
+  Finansowego\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzew
+ odniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:An
+ drzej Wieczorek\nSygnatura akt:II SAB/Wa 69/20\nSymbol:659/6480\nSędziowi
+ e:Izabela Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\n
+ Uwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1167,18 +1121,6 @@ DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Prawo i Sprawie
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Małkinia Górna - II SAB/Wa 591/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200422T000000
-DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Wójt Gminy Ma
- łkinia Górna\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrz
- ewodniczący:Ewa Radziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSpra
- wozdawca:Ewa Radziszewska-Krupa\nSygnatura akt:II SAB/Wa 591/19\nSymbol:65
- 8/6480\nSędziowie:Piotr Borowiecki\, asesor Joanna Kruszewska-Grońska\nT
- yp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z
-  wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 533/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200422T000000
 DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Prezydent m.st.
@@ -1191,6 +1133,18 @@ DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Prezydent m.st.
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Małkinia Górna - II SAB/Wa 591/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200422T000000
+DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Wójt Gminy Ma
+ łkinia Górna\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrz
+ ewodniczący:Ewa Radziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSpra
+ wozdawca:Ewa Radziszewska-Krupa\nSygnatura akt:II SAB/Wa 591/19\nSymbol:65
+ 8/6480\nSędziowie:Piotr Borowiecki\, asesor Joanna Kruszewska-Grońska\nT
+ yp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z
+  wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Rada Miasta Otwocka - II SAB/Wa 847/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200422T000000
 DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Rada Miasta Otw
@@ -1199,6 +1153,17 @@ DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Rada Miasta Otw
  ej Kołodziej\nSygnatura akt:II SAB/Wa 847/19\nSymbol:658/6480\nSędziowie
  :Piotr Borowiecki\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Nie
  jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 845/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200423T000000
+DESCRIPTION:Data:2020-04-23\nGodzina:\nOrgan administracji:Minister Kultur
+ y i Dziedzictwa Narodowego\nPrzedmiot:Bezczynność organu\; Bezczynność
+  organu\nPrzewodniczący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSp
+ rawozdawca:Danuta Kania\nSygnatura akt:II SAB/Wa 845/19\nSymbol:658/6480\n
+ Sędziowie:Iwona Maciejuk\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwa
+ gi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1290,17 +1255,6 @@ DESCRIPTION:Data:2020-04-23\nGodzina:\nOrgan administracji:Minister Sprawi
  awca:Andrzej Góraj\nSygnatura akt:II SAB/Wa 844/19\nSymbol:658/6480\nSęd
  ziowie:Sławomir Antoniuk\, Andrzej Góraj\nTyp posiedzenia:Niejawne\nUwag
  i:\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 845/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200423T000000
-DESCRIPTION:Data:2020-04-23\nGodzina:\nOrgan administracji:Minister Kultur
- y i Dziedzictwa Narodowego\nPrzedmiot:Bezczynność organu\; Bezczynność
-  organu\nPrzewodniczący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSp
- rawozdawca:Danuta Kania\nSygnatura akt:II SAB/Wa 845/19\nSymbol:658/6480\n
- Sędziowie:Iwona Maciejuk\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwa
- gi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
