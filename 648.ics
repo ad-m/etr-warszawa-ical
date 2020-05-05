@@ -160,6 +160,17 @@ DESCRIPTION:Data:2020-04-20\nGodzina:09:00\nOrgan administracji:Prezes Są
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Minister Finansów - II SAB/Wa 787/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200421T000000
+DESCRIPTION:Data:2020-04-21\nGodzina:\nOrgan administracji:Minister Finans
+ ów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicząc
+ y:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt
+ \nSygnatura akt:II SAB/Wa 787/19\nSymbol:658/6480\nSędziowie:Sławomir Fu
+ larski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczn
+ iczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 1/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200421T000000
 DESCRIPTION:Data:2020-04-21\nGodzina:\nOrgan administracji:Prezydent m.st.
@@ -180,17 +191,6 @@ DESCRIPTION:Data:2020-04-21\nGodzina:\nOrgan administracji:Dyr. Mazowiecki
   niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 855/19\nS
  ymbol:658/6480\nSędziowie:Sławomir Fularski\, Tomasz Szmydt\nTyp posiedz
  enia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Finansów - II SAB/Wa 787/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200421T000000
-DESCRIPTION:Data:2020-04-21\nGodzina:\nOrgan administracji:Minister Finans
- ów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicząc
- y:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt
- \nSygnatura akt:II SAB/Wa 787/19\nSymbol:658/6480\nSędziowie:Sławomir Fu
- larski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczn
- iczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -368,23 +368,23 @@ DESCRIPTION:Data:2020-04-23\nGodzina:\nOrgan administracji:Minister Sprawi
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 5/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200424T000000
-DESCRIPTION:Data:2020-04-24\nGodzina:\nOrgan administracji:PKP Polskie Lin
- ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
- rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
- wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 5/20\nSymbol:658/6480\nSędzi
- owie:asesor Karolina Kisielewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejaw
- ne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 4/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200424T000000
 DESCRIPTION:Data:2020-04-24\nGodzina:\nOrgan administracji:PKP Polskie Lin
  ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
  rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
  wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 4/20\nSymbol:658/6480\nSędzi
+ owie:asesor Karolina Kisielewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejaw
+ ne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 5/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200424T000000
+DESCRIPTION:Data:2020-04-24\nGodzina:\nOrgan administracji:PKP Polskie Lin
+ ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
+ rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
+ wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 5/20\nSymbol:658/6480\nSędzi
  owie:asesor Karolina Kisielewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejaw
  ne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
@@ -398,6 +398,54 @@ DESCRIPTION:Data:2020-04-24\nGodzina:09:20\nOrgan administracji:Minister O
  2850/19\nSymbol:6480\nSędziowie:asesor Karolina Kisielewicz\, Łukasz Krz
  ycki\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji public
  znej\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 1/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
+DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Prezydent m.st.
+  Warszawy\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodn
+ iczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Jo
+ anna Kube\nSygnatura akt:II SAB/Wa 1/20\nSymbol:658/6480\nSędziowie:Danut
+ a Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczni
+ czy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 478/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
+DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Prezydent m.st.
+  Warszawy\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodn
+ iczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Da
+ nuta Kania\nSygnatura akt:II SAB/Wa 478/19\nSymbol:658/6480\nSędziowie:Da
+ nuta Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzec
+ zniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 845/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
+DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Minister Kultur
+ y i Dziedzictwa Narodowego\nPrzedmiot:Bezczynność organu\; Bezczynność
+  organu\nPrzewodniczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych
+ \nSprawozdawca:Danuta Kania\nSygnatura akt:II SAB/Wa 845/19\nSymbol:658/64
+ 80\nSędziowie:Danuta Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi
+ :\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Polska Spółka Gazownictwa Sp. z o.o. z/s w Warszawie - II SA
+ B/Wa 58/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
+DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Polska Spółka
+  Gazownictwa Sp. z o.o. z/s w Warszawie\nPrzedmiot:Bezczynność organu\; 
+ Bezczynność organu\nPrzewodniczący:Ewa Marcinkowska\nSala:Sala posiedze
+ ń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatura akt:II SAB/Wa 58/2
+ 0\nSymbol:658/6480\nSędziowie:Danuta Kania\, Joanna Kube\nTyp posiedzenia
+ :Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynnoś
+ ć postępowania i że bezczynność nie miała miejsca z rażącym narusz
+ eniem prawa |Oddalono skargę w części |Zasądzono zwrot kosztów postę
+ powania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -417,51 +465,14 @@ DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Prezes Krajowej
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Polska Spółka Gazownictwa Sp. z o.o. z/s w Warszawie - II SA
- B/Wa 58/20
+SUMMARY:[N] Komisja Nadzoru Finansowego - II SAB/Wa 69/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
-DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Polska Spółka
-  Gazownictwa Sp. z o.o. z/s w Warszawie\nPrzedmiot:Bezczynność organu\; 
- Bezczynność organu\nPrzewodniczący:Ewa Marcinkowska\nSala:Sala posiedze
- ń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatura akt:II SAB/Wa 58/2
- 0\nSymbol:658/6480\nSędziowie:Danuta Kania\, Joanna Kube\nTyp posiedzenia
- :Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynnoś
- ć postępowania i że bezczynność nie miała miejsca z rażącym narusz
- eniem prawa |Oddalono skargę w części |Zasądzono zwrot kosztów postę
- powania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 845/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
-DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Minister Kultur
- y i Dziedzictwa Narodowego\nPrzedmiot:Bezczynność organu\; Bezczynność
-  organu\nPrzewodniczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych
- \nSprawozdawca:Danuta Kania\nSygnatura akt:II SAB/Wa 845/19\nSymbol:658/64
- 80\nSędziowie:Danuta Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi
- :\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 478/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
-DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Prezydent m.st.
-  Warszawy\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodn
- iczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Da
- nuta Kania\nSygnatura akt:II SAB/Wa 478/19\nSymbol:658/6480\nSędziowie:Da
- nuta Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzec
- zniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 1/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
-DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Prezydent m.st.
-  Warszawy\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodn
- iczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Jo
- anna Kube\nSygnatura akt:II SAB/Wa 1/20\nSymbol:658/6480\nSędziowie:Danut
- a Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczni
- czy:II\nWyniki:Oddalono skargę
+DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Komisja Nadzoru
+  Finansowego\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzew
+ odniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSpra
+ wozdawca:Andrzej Wieczorek\nSygnatura akt:II SAB/Wa 69/20\nSymbol:659/6480
+ \nSędziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posiedze
+ nia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -475,28 +486,6 @@ DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Komendant Głó
  zenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i
   stwierdzono że bezczynność miała miejsce bez rażącego naruszenia pr
  awa |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Komisja Nadzoru Finansowego - II SAB/Wa 69/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
-DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Komisja Nadzoru
-  Finansowego\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzew
- odniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSpra
- wozdawca:Andrzej Wieczorek\nSygnatura akt:II SAB/Wa 69/20\nSymbol:659/6480
- \nSędziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posiedze
- nia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Burmistrz Kałuszyna - II SAB/Wa 12/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
-DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Burmistrz Kału
- szyna\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicz
- ący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdaw
- ca:Andrzej Wieczorek\nSygnatura akt:II SAB/Wa 12/20\nSymbol:658/6480\nSęd
- ziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posiedzenia:Ni
- ejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -527,6 +516,17 @@ DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Dyrektor Izby A
  \nWyniki:Stwierdzono bezczynność postępowania i że bezczynność nie m
  iała miejsca z rażącym naruszeniem prawa |Przyznano sumę pieniężną 
  |Oddalono skargę w części |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Burmistrz Kałuszyna - II SAB/Wa 12/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
+DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Burmistrz Kału
+ szyna\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicz
+ ący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdaw
+ ca:Andrzej Wieczorek\nSygnatura akt:II SAB/Wa 12/20\nSymbol:658/6480\nSęd
+ ziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posiedzenia:Ni
+ ejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -569,16 +569,30 @@ DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Instytut Badań
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Sądu Rejonowego w Otwocku - II SAB/Wa 873/19
+SUMMARY:[N] Rada Miasta Otwocka - II SAB/Wa 847/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
-DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Prezes Sądu Re
- jonowego w Otwocku\nPrzedmiot:Informacja publiczna\; Informacja publiczna\
- nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
- dawca:Janusz Walawski\nSygnatura akt:II SAB/Wa 873/19\nSymbol:658/6480\nS
- ędziowie:Andrzej Kołodziej\, asesor Joanna Kruszewska-Grońska\nTyp posi
- edzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ...
-  i stwierdzono że bezczynność miała miejsce bez rażącego naruszenia 
- prawa |Zasądzono zwrot kosztów postępowania
+DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Rada Miasta Otw
+ ocka\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczą
+ cy:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrz
+ ej Kołodziej\nSygnatura akt:II SAB/Wa 847/19\nSymbol:658/6480\nSędziowie
+ :Sławomir Fularski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWyd
+ ział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynno
+ ść miała miejsce bez rażącego naruszenia prawa |Oddalono skargę w cz
+ ęści |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Miejskiego Domu Kultury W Sulejówku - II SAB/Wa 803/
+ 19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
+DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Dyrektor Miejsk
+ iego Domu Kultury W Sulejówku\nPrzedmiot:Bezczynność organu\; Bezczynno
+ ść organu\nPrzewodniczący:Andrzej Kołodziej\nSala:Sala posiedzeń niej
+ awnych\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 803/19\nSymbol
+ :658/6480\nSędziowie:Sławomir Fularski\, Tomasz Szmydt\nTyp posiedzenia:
+ Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynnoś
+ ć postępowania i że bezczynność nie miała miejsca z rażącym narusz
+ eniem prawa |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -606,30 +620,16 @@ DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Dyr. Mazowiecki
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Rada Miasta Otwocka - II SAB/Wa 847/19
+SUMMARY:[N] Prezes Sądu Rejonowego w Otwocku - II SAB/Wa 873/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
-DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Rada Miasta Otw
- ocka\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczą
- cy:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrz
- ej Kołodziej\nSygnatura akt:II SAB/Wa 847/19\nSymbol:658/6480\nSędziowie
- :Sławomir Fularski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWyd
- ział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynno
- ść miała miejsce bez rażącego naruszenia prawa |Oddalono skargę w cz
- ęści |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Miejskiego Domu Kultury W Sulejówku - II SAB/Wa 803/
- 19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
-DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Dyrektor Miejsk
- iego Domu Kultury W Sulejówku\nPrzedmiot:Bezczynność organu\; Bezczynno
- ść organu\nPrzewodniczący:Andrzej Kołodziej\nSala:Sala posiedzeń niej
- awnych\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 803/19\nSymbol
- :658/6480\nSędziowie:Sławomir Fularski\, Tomasz Szmydt\nTyp posiedzenia:
- Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynnoś
- ć postępowania i że bezczynność nie miała miejsca z rażącym narusz
- eniem prawa |Zasądzono zwrot kosztów postępowania
+DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Prezes Sądu Re
+ jonowego w Otwocku\nPrzedmiot:Informacja publiczna\; Informacja publiczna\
+ nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
+ dawca:Janusz Walawski\nSygnatura akt:II SAB/Wa 873/19\nSymbol:658/6480\nS
+ ędziowie:Andrzej Kołodziej\, asesor Joanna Kruszewska-Grońska\nTyp posi
+ edzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ...
+  i stwierdzono że bezczynność miała miejsce bez rażącego naruszenia 
+ prawa |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -663,19 +663,6 @@ DESCRIPTION:Data:2020-04-28\nGodzina:10:00\nOrgan administracji:Prezes Urz
  a akt:II SA/Wa 2866/19\nSymbol:6480\nSędziowie:Danuta Kania\, asesor Karo
  lina Kisielewicz\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia infor
  macji publicznej\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 5/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200429T000000
-DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:PKP Polskie Lin
- ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
- rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
- wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 5/20\nSymbol:658/6480\nSędzi
- owie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Nie
- jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdz
- ono że bezczynność miała miejsce bez rażącego naruszenia prawa |Odda
- lono skargę w części |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -713,6 +700,19 @@ DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:PKP Polskie Lin
  ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
  rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
  wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 4/20\nSymbol:658/6480\nSędzi
+ owie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Nie
+ jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdz
+ ono że bezczynność miała miejsce bez rażącego naruszenia prawa |Odda
+ lono skargę w części |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 5/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200429T000000
+DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:PKP Polskie Lin
+ ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
+ rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
+ wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 5/20\nSymbol:658/6480\nSędzi
  owie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Nie
  jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdz
  ono że bezczynność miała miejsce bez rażącego naruszenia prawa |Odda
@@ -943,6 +943,17 @@ DESCRIPTION:Data:2020-04-20\nGodzina:09:00\nOrgan administracji:Prezes Są
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Minister Finansów - II SAB/Wa 787/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200421T000000
+DESCRIPTION:Data:2020-04-21\nGodzina:\nOrgan administracji:Minister Finans
+ ów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicząc
+ y:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt
+ \nSygnatura akt:II SAB/Wa 787/19\nSymbol:658/6480\nSędziowie:Sławomir Fu
+ larski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczn
+ iczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 1/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200421T000000
 DESCRIPTION:Data:2020-04-21\nGodzina:\nOrgan administracji:Prezydent m.st.
@@ -963,17 +974,6 @@ DESCRIPTION:Data:2020-04-21\nGodzina:\nOrgan administracji:Dyr. Mazowiecki
   niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 855/19\nS
  ymbol:658/6480\nSędziowie:Sławomir Fularski\, Tomasz Szmydt\nTyp posiedz
  enia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Finansów - II SAB/Wa 787/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200421T000000
-DESCRIPTION:Data:2020-04-21\nGodzina:\nOrgan administracji:Minister Finans
- ów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicząc
- y:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt
- \nSygnatura akt:II SAB/Wa 787/19\nSymbol:658/6480\nSędziowie:Sławomir Fu
- larski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczn
- iczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1151,23 +1151,23 @@ DESCRIPTION:Data:2020-04-23\nGodzina:\nOrgan administracji:Minister Sprawi
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 5/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200424T000000
-DESCRIPTION:Data:2020-04-24\nGodzina:\nOrgan administracji:PKP Polskie Lin
- ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
- rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
- wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 5/20\nSymbol:658/6480\nSędzi
- owie:asesor Karolina Kisielewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejaw
- ne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 4/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200424T000000
 DESCRIPTION:Data:2020-04-24\nGodzina:\nOrgan administracji:PKP Polskie Lin
  ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
  rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
  wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 4/20\nSymbol:658/6480\nSędzi
+ owie:asesor Karolina Kisielewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejaw
+ ne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 5/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200424T000000
+DESCRIPTION:Data:2020-04-24\nGodzina:\nOrgan administracji:PKP Polskie Lin
+ ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
+ rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
+ wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 5/20\nSymbol:658/6480\nSędzi
  owie:asesor Karolina Kisielewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejaw
  ne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
@@ -1181,6 +1181,54 @@ DESCRIPTION:Data:2020-04-24\nGodzina:09:20\nOrgan administracji:Minister O
  2850/19\nSymbol:6480\nSędziowie:asesor Karolina Kisielewicz\, Łukasz Krz
  ycki\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji public
  znej\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 1/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
+DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Prezydent m.st.
+  Warszawy\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodn
+ iczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Jo
+ anna Kube\nSygnatura akt:II SAB/Wa 1/20\nSymbol:658/6480\nSędziowie:Danut
+ a Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczni
+ czy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 478/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
+DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Prezydent m.st.
+  Warszawy\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodn
+ iczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Da
+ nuta Kania\nSygnatura akt:II SAB/Wa 478/19\nSymbol:658/6480\nSędziowie:Da
+ nuta Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzec
+ zniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 845/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
+DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Minister Kultur
+ y i Dziedzictwa Narodowego\nPrzedmiot:Bezczynność organu\; Bezczynność
+  organu\nPrzewodniczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych
+ \nSprawozdawca:Danuta Kania\nSygnatura akt:II SAB/Wa 845/19\nSymbol:658/64
+ 80\nSędziowie:Danuta Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi
+ :\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Polska Spółka Gazownictwa Sp. z o.o. z/s w Warszawie - II SA
+ B/Wa 58/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
+DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Polska Spółka
+  Gazownictwa Sp. z o.o. z/s w Warszawie\nPrzedmiot:Bezczynność organu\; 
+ Bezczynność organu\nPrzewodniczący:Ewa Marcinkowska\nSala:Sala posiedze
+ ń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatura akt:II SAB/Wa 58/2
+ 0\nSymbol:658/6480\nSędziowie:Danuta Kania\, Joanna Kube\nTyp posiedzenia
+ :Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynnoś
+ ć postępowania i że bezczynność nie miała miejsca z rażącym narusz
+ eniem prawa |Oddalono skargę w części |Zasądzono zwrot kosztów postę
+ powania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1200,51 +1248,14 @@ DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Prezes Krajowej
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Polska Spółka Gazownictwa Sp. z o.o. z/s w Warszawie - II SA
- B/Wa 58/20
+SUMMARY:[N] Komisja Nadzoru Finansowego - II SAB/Wa 69/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
-DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Polska Spółka
-  Gazownictwa Sp. z o.o. z/s w Warszawie\nPrzedmiot:Bezczynność organu\; 
- Bezczynność organu\nPrzewodniczący:Ewa Marcinkowska\nSala:Sala posiedze
- ń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatura akt:II SAB/Wa 58/2
- 0\nSymbol:658/6480\nSędziowie:Danuta Kania\, Joanna Kube\nTyp posiedzenia
- :Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynnoś
- ć postępowania i że bezczynność nie miała miejsca z rażącym narusz
- eniem prawa |Oddalono skargę w części |Zasądzono zwrot kosztów postę
- powania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 845/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
-DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Minister Kultur
- y i Dziedzictwa Narodowego\nPrzedmiot:Bezczynność organu\; Bezczynność
-  organu\nPrzewodniczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych
- \nSprawozdawca:Danuta Kania\nSygnatura akt:II SAB/Wa 845/19\nSymbol:658/64
- 80\nSędziowie:Danuta Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi
- :\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 478/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
-DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Prezydent m.st.
-  Warszawy\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodn
- iczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Da
- nuta Kania\nSygnatura akt:II SAB/Wa 478/19\nSymbol:658/6480\nSędziowie:Da
- nuta Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzec
- zniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 1/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
-DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Prezydent m.st.
-  Warszawy\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodn
- iczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Jo
- anna Kube\nSygnatura akt:II SAB/Wa 1/20\nSymbol:658/6480\nSędziowie:Danut
- a Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczni
- czy:II\nWyniki:Oddalono skargę
+DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Komisja Nadzoru
+  Finansowego\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzew
+ odniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSpra
+ wozdawca:Andrzej Wieczorek\nSygnatura akt:II SAB/Wa 69/20\nSymbol:659/6480
+ \nSędziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posiedze
+ nia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1258,28 +1269,6 @@ DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Komendant Głó
  zenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i
   stwierdzono że bezczynność miała miejsce bez rażącego naruszenia pr
  awa |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Komisja Nadzoru Finansowego - II SAB/Wa 69/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
-DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Komisja Nadzoru
-  Finansowego\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzew
- odniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSpra
- wozdawca:Andrzej Wieczorek\nSygnatura akt:II SAB/Wa 69/20\nSymbol:659/6480
- \nSędziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posiedze
- nia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Burmistrz Kałuszyna - II SAB/Wa 12/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
-DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Burmistrz Kału
- szyna\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicz
- ący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdaw
- ca:Andrzej Wieczorek\nSygnatura akt:II SAB/Wa 12/20\nSymbol:658/6480\nSęd
- ziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posiedzenia:Ni
- ejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1310,6 +1299,17 @@ DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Dyrektor Izby A
  \nWyniki:Stwierdzono bezczynność postępowania i że bezczynność nie m
  iała miejsca z rażącym naruszeniem prawa |Przyznano sumę pieniężną 
  |Oddalono skargę w części |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Burmistrz Kałuszyna - II SAB/Wa 12/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
+DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Burmistrz Kału
+ szyna\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicz
+ ący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdaw
+ ca:Andrzej Wieczorek\nSygnatura akt:II SAB/Wa 12/20\nSymbol:658/6480\nSęd
+ ziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posiedzenia:Ni
+ ejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1352,16 +1352,30 @@ DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Instytut Badań
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Sądu Rejonowego w Otwocku - II SAB/Wa 873/19
+SUMMARY:[N] Rada Miasta Otwocka - II SAB/Wa 847/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
-DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Prezes Sądu Re
- jonowego w Otwocku\nPrzedmiot:Informacja publiczna\; Informacja publiczna\
- nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
- dawca:Janusz Walawski\nSygnatura akt:II SAB/Wa 873/19\nSymbol:658/6480\nS
- ędziowie:Andrzej Kołodziej\, asesor Joanna Kruszewska-Grońska\nTyp posi
- edzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ...
-  i stwierdzono że bezczynność miała miejsce bez rażącego naruszenia 
- prawa |Zasądzono zwrot kosztów postępowania
+DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Rada Miasta Otw
+ ocka\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczą
+ cy:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrz
+ ej Kołodziej\nSygnatura akt:II SAB/Wa 847/19\nSymbol:658/6480\nSędziowie
+ :Sławomir Fularski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWyd
+ ział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynno
+ ść miała miejsce bez rażącego naruszenia prawa |Oddalono skargę w cz
+ ęści |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Miejskiego Domu Kultury W Sulejówku - II SAB/Wa 803/
+ 19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
+DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Dyrektor Miejsk
+ iego Domu Kultury W Sulejówku\nPrzedmiot:Bezczynność organu\; Bezczynno
+ ść organu\nPrzewodniczący:Andrzej Kołodziej\nSala:Sala posiedzeń niej
+ awnych\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 803/19\nSymbol
+ :658/6480\nSędziowie:Sławomir Fularski\, Tomasz Szmydt\nTyp posiedzenia:
+ Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynnoś
+ ć postępowania i że bezczynność nie miała miejsca z rażącym narusz
+ eniem prawa |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1389,30 +1403,16 @@ DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Dyr. Mazowiecki
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Rada Miasta Otwocka - II SAB/Wa 847/19
+SUMMARY:[N] Prezes Sądu Rejonowego w Otwocku - II SAB/Wa 873/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
-DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Rada Miasta Otw
- ocka\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczą
- cy:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrz
- ej Kołodziej\nSygnatura akt:II SAB/Wa 847/19\nSymbol:658/6480\nSędziowie
- :Sławomir Fularski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWyd
- ział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynno
- ść miała miejsce bez rażącego naruszenia prawa |Oddalono skargę w cz
- ęści |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Miejskiego Domu Kultury W Sulejówku - II SAB/Wa 803/
- 19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
-DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Dyrektor Miejsk
- iego Domu Kultury W Sulejówku\nPrzedmiot:Bezczynność organu\; Bezczynno
- ść organu\nPrzewodniczący:Andrzej Kołodziej\nSala:Sala posiedzeń niej
- awnych\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 803/19\nSymbol
- :658/6480\nSędziowie:Sławomir Fularski\, Tomasz Szmydt\nTyp posiedzenia:
- Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynnoś
- ć postępowania i że bezczynność nie miała miejsca z rażącym narusz
- eniem prawa |Zasądzono zwrot kosztów postępowania
+DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Prezes Sądu Re
+ jonowego w Otwocku\nPrzedmiot:Informacja publiczna\; Informacja publiczna\
+ nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
+ dawca:Janusz Walawski\nSygnatura akt:II SAB/Wa 873/19\nSymbol:658/6480\nS
+ ędziowie:Andrzej Kołodziej\, asesor Joanna Kruszewska-Grońska\nTyp posi
+ edzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ...
+  i stwierdzono że bezczynność miała miejsce bez rażącego naruszenia 
+ prawa |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1446,19 +1446,6 @@ DESCRIPTION:Data:2020-04-28\nGodzina:10:00\nOrgan administracji:Prezes Urz
  a akt:II SA/Wa 2866/19\nSymbol:6480\nSędziowie:Danuta Kania\, asesor Karo
  lina Kisielewicz\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia infor
  macji publicznej\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 5/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200429T000000
-DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:PKP Polskie Lin
- ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
- rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
- wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 5/20\nSymbol:658/6480\nSędzi
- owie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Nie
- jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdz
- ono że bezczynność miała miejsce bez rażącego naruszenia prawa |Odda
- lono skargę w części |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1496,6 +1483,19 @@ DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:PKP Polskie Lin
  ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
  rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
  wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 4/20\nSymbol:658/6480\nSędzi
+ owie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Nie
+ jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdz
+ ono że bezczynność miała miejsce bez rażącego naruszenia prawa |Odda
+ lono skargę w części |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 5/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200429T000000
+DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:PKP Polskie Lin
+ ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
+ rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
+ wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 5/20\nSymbol:658/6480\nSędzi
  owie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Nie
  jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdz
  ono że bezczynność miała miejsce bez rażącego naruszenia prawa |Odda
