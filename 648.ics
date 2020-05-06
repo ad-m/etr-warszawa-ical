@@ -160,17 +160,6 @@ DESCRIPTION:Data:2020-04-20\nGodzina:09:00\nOrgan administracji:Prezes Są
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Finansów - II SAB/Wa 787/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200421T000000
-DESCRIPTION:Data:2020-04-21\nGodzina:\nOrgan administracji:Minister Finans
- ów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicząc
- y:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt
- \nSygnatura akt:II SAB/Wa 787/19\nSymbol:658/6480\nSędziowie:Sławomir Fu
- larski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczn
- iczy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 1/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200421T000000
 DESCRIPTION:Data:2020-04-21\nGodzina:\nOrgan administracji:Prezydent m.st.
@@ -194,6 +183,17 @@ DESCRIPTION:Data:2020-04-21\nGodzina:\nOrgan administracji:Dyr. Mazowiecki
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Minister Finansów - II SAB/Wa 787/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200421T000000
+DESCRIPTION:Data:2020-04-21\nGodzina:\nOrgan administracji:Minister Finans
+ ów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicząc
+ y:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt
+ \nSygnatura akt:II SAB/Wa 787/19\nSymbol:658/6480\nSędziowie:Sławomir Fu
+ larski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczn
+ iczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Polska Wytwórnia Papierów Wartościowych - II SA/Wa 1443/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200421T125000
 DESCRIPTION:Data:2020-04-21\nGodzina:12:50\nOrgan administracji:Polska Wyt
@@ -206,14 +206,15 @@ DESCRIPTION:Data:2020-04-21\nGodzina:12:50\nOrgan administracji:Polska Wyt
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Rada Miasta Otwocka - II SAB/Wa 847/19
+SUMMARY:[N] Wójt Gminy Małkinia Górna - II SAB/Wa 591/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200422T000000
-DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Rada Miasta Otw
- ocka\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczą
- cy:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrz
- ej Kołodziej\nSygnatura akt:II SAB/Wa 847/19\nSymbol:658/6480\nSędziowie
- :Piotr Borowiecki\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Nie
- jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Wójt Gminy Ma
+ łkinia Górna\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrz
+ ewodniczący:Ewa Radziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSpra
+ wozdawca:Ewa Radziszewska-Krupa\nSygnatura akt:II SAB/Wa 591/19\nSymbol:65
+ 8/6480\nSędziowie:Piotr Borowiecki\, asesor Joanna Kruszewska-Grońska\nT
+ yp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z
+  wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -241,15 +242,14 @@ DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Prezydent m.st.
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Małkinia Górna - II SAB/Wa 591/19
+SUMMARY:[N] Rada Miasta Otwocka - II SAB/Wa 847/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200422T000000
-DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Wójt Gminy Ma
- łkinia Górna\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrz
- ewodniczący:Ewa Radziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSpra
- wozdawca:Ewa Radziszewska-Krupa\nSygnatura akt:II SAB/Wa 591/19\nSymbol:65
- 8/6480\nSędziowie:Piotr Borowiecki\, asesor Joanna Kruszewska-Grońska\nT
- yp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z
-  wokandy
+DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Rada Miasta Otw
+ ocka\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczą
+ cy:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrz
+ ej Kołodziej\nSygnatura akt:II SAB/Wa 847/19\nSymbol:658/6480\nSędziowie
+ :Piotr Borowiecki\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Nie
+ jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -401,6 +401,22 @@ DESCRIPTION:Data:2020-04-24\nGodzina:09:20\nOrgan administracji:Minister O
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezes Krajowej Izby Diagnostów Laboratoryjnych - II SAB/Wa 5
+ 2/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
+DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Prezes Krajowej
+  Izby Diagnostów Laboratoryjnych\nPrzedmiot:Bezczynność organu\nPrzewod
+ niczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:D
+ anuta Kania\nSygnatura akt:II SAB/Wa 52/20\nSymbol:658/6480\nSędziowie:Da
+ nuta Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
+ przedmiocie rozpoznania wniosku z dnia 30 września 2019 r. o udostępnien
+ ie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezc
+ zynność postępowania i że bezczynność nie miała miejsca z rażącym
+  naruszeniem prawa |Oddalono skargę w części |Zasądzono zwrot kosztów
+  postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 1/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
 DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Prezydent m.st.
@@ -449,46 +465,6 @@ DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Polska Spółka
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Krajowej Izby Diagnostów Laboratoryjnych - II SAB/Wa 5
- 2/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
-DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Prezes Krajowej
-  Izby Diagnostów Laboratoryjnych\nPrzedmiot:Bezczynność organu\nPrzewod
- niczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:D
- anuta Kania\nSygnatura akt:II SAB/Wa 52/20\nSymbol:658/6480\nSędziowie:Da
- nuta Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
- przedmiocie rozpoznania wniosku z dnia 30 września 2019 r. o udostępnien
- ie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezc
- zynność postępowania i że bezczynność nie miała miejsca z rażącym
-  naruszeniem prawa |Oddalono skargę w części |Zasądzono zwrot kosztów
-  postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Komisja Nadzoru Finansowego - II SAB/Wa 69/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
-DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Komisja Nadzoru
-  Finansowego\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzew
- odniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSpra
- wozdawca:Andrzej Wieczorek\nSygnatura akt:II SAB/Wa 69/20\nSymbol:659/6480
- \nSędziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posiedze
- nia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 82/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
-DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Komendant Głó
- wny Policji\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewo
- dniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSpraw
- ozdawca:Karolina Kisielewicz\nSygnatura akt:II SAB/Wa 82/20\nSymbol:658/64
- 80\nSędziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posied
- zenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i
-  stwierdzono że bezczynność miała miejsce bez rażącego naruszenia pr
- awa |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Gminnej Biblioteki Publicznej w Jaktorowie - II SAB/W
  a 14/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
@@ -530,29 +506,40 @@ DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Burmistrz Kału
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Zespołu Szkół Centrum Edukacji im. I. Łukasiewicz
- a w Płocku - II SAB/Wa 40/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
-DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Dyrektor Zespo
- łu Szkół Centrum Edukacji im. I. Łukasiewicza w Płocku\nPrzedmiot:Bez
- czynność organu\; Bezczynność organu\nPrzewodniczący:Janusz Walawski\
- nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kruszewska-Grońska\
- nSygnatura akt:II SAB/Wa 40/20\nSymbol:658/6480\nSędziowie:Andrzej Kołod
- ziej\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:
- \nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+SUMMARY:[N] Komisja Nadzoru Finansowego - II SAB/Wa 69/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
+DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Komisja Nadzoru
+  Finansowego\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzew
+ odniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSpra
+ wozdawca:Andrzej Wieczorek\nSygnatura akt:II SAB/Wa 69/20\nSymbol:659/6480
+ \nSędziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posiedze
+ nia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prawo i Sprawiedliwość - II SAB/Wa 54/20
+SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 82/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
+DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Komendant Głó
+ wny Policji\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewo
+ dniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSpraw
+ ozdawca:Karolina Kisielewicz\nSygnatura akt:II SAB/Wa 82/20\nSymbol:658/64
+ 80\nSędziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posied
+ zenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i
+  stwierdzono że bezczynność miała miejsce bez rażącego naruszenia pr
+ awa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Sądu Rejonowego w Otwocku - II SAB/Wa 873/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
-DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Prawo i Sprawie
- dliwość\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodn
- iczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joa
- nna Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 54/20\nSymbol:658/6480\nS
+DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Prezes Sądu Re
+ jonowego w Otwocku\nPrzedmiot:Informacja publiczna\; Informacja publiczna\
+ nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
+ dawca:Janusz Walawski\nSygnatura akt:II SAB/Wa 873/19\nSymbol:658/6480\nS
  ędziowie:Andrzej Kołodziej\, asesor Joanna Kruszewska-Grońska\nTyp posi
- edzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezc
- zynność postępowania i że bezczynność nie miała miejsca z rażącym
-  naruszeniem prawa |Zasądzono zwrot kosztów postępowania
+ edzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ...
+  i stwierdzono że bezczynność miała miejsce bez rażącego naruszenia 
+ prawa |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -569,16 +556,53 @@ DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Instytut Badań
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Rada Miasta Otwocka - II SAB/Wa 847/19
+SUMMARY:[N] Prawo i Sprawiedliwość - II SAB/Wa 54/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
-DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Rada Miasta Otw
- ocka\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczą
- cy:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrz
- ej Kołodziej\nSygnatura akt:II SAB/Wa 847/19\nSymbol:658/6480\nSędziowie
- :Sławomir Fularski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWyd
- ział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynno
- ść miała miejsce bez rażącego naruszenia prawa |Oddalono skargę w cz
- ęści |Zasądzono zwrot kosztów postępowania
+DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Prawo i Sprawie
+ dliwość\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodn
+ iczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joa
+ nna Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 54/20\nSymbol:658/6480\nS
+ ędziowie:Andrzej Kołodziej\, asesor Joanna Kruszewska-Grońska\nTyp posi
+ edzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezc
+ zynność postępowania i że bezczynność nie miała miejsca z rażącym
+  naruszeniem prawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Zespołu Szkół Centrum Edukacji im. I. Łukasiewicz
+ a w Płocku - II SAB/Wa 40/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
+DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Dyrektor Zespo
+ łu Szkół Centrum Edukacji im. I. Łukasiewicza w Płocku\nPrzedmiot:Bez
+ czynność organu\; Bezczynność organu\nPrzewodniczący:Janusz Walawski\
+ nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kruszewska-Grońska\
+ nSygnatura akt:II SAB/Wa 40/20\nSymbol:658/6480\nSędziowie:Andrzej Kołod
+ ziej\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:
+ \nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyr. Mazowieckiego Od. Wojew. Narodowego funduszu Zdrowia - II
+  SAB/Wa 855/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
+DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Dyr. Mazowiecki
+ ego Od. Wojew. Narodowego funduszu Zdrowia\nPrzedmiot:Bezczynność organu
+ \; Bezczynność organu\nPrzewodniczący:Andrzej Kołodziej\nSala:Sala pos
+ iedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 85
+ 5/19\nSymbol:658/6480\nSędziowie:Sławomir Fularski\, Tomasz Szmydt\nTyp 
+ posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono ska
+ rgę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Finansów - II SAB/Wa 787/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
+DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Minister Finans
+ ów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicząc
+ y:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz
+  Szmydt\nSygnatura akt:II SAB/Wa 787/19\nSymbol:658/6480\nSędziowie:Sław
+ omir Fularski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWydział 
+ orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -596,40 +620,16 @@ DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Dyrektor Miejsk
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Finansów - II SAB/Wa 787/19
+SUMMARY:[N] Rada Miasta Otwocka - II SAB/Wa 847/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
-DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Minister Finans
- ów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicząc
- y:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz
-  Szmydt\nSygnatura akt:II SAB/Wa 787/19\nSymbol:658/6480\nSędziowie:Sław
- omir Fularski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWydział 
- orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Dyr. Mazowieckiego Od. Wojew. Narodowego funduszu Zdrowia - II
-  SAB/Wa 855/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
-DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Dyr. Mazowiecki
- ego Od. Wojew. Narodowego funduszu Zdrowia\nPrzedmiot:Bezczynność organu
- \; Bezczynność organu\nPrzewodniczący:Andrzej Kołodziej\nSala:Sala pos
- iedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 85
- 5/19\nSymbol:658/6480\nSędziowie:Sławomir Fularski\, Tomasz Szmydt\nTyp 
- posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono ska
- rgę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Sądu Rejonowego w Otwocku - II SAB/Wa 873/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
-DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Prezes Sądu Re
- jonowego w Otwocku\nPrzedmiot:Informacja publiczna\; Informacja publiczna\
- nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
- dawca:Janusz Walawski\nSygnatura akt:II SAB/Wa 873/19\nSymbol:658/6480\nS
- ędziowie:Andrzej Kołodziej\, asesor Joanna Kruszewska-Grońska\nTyp posi
- edzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ...
-  i stwierdzono że bezczynność miała miejsce bez rażącego naruszenia 
- prawa |Zasądzono zwrot kosztów postępowania
+DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Rada Miasta Otw
+ ocka\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczą
+ cy:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrz
+ ej Kołodziej\nSygnatura akt:II SAB/Wa 847/19\nSymbol:658/6480\nSędziowie
+ :Sławomir Fularski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWyd
+ ział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynno
+ ść miała miejsce bez rażącego naruszenia prawa |Oddalono skargę w cz
+ ęści |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -666,6 +666,32 @@ DESCRIPTION:Data:2020-04-28\nGodzina:10:00\nOrgan administracji:Prezes Urz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 5/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200429T000000
+DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:PKP Polskie Lin
+ ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
+ rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
+ wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 5/20\nSymbol:658/6480\nSędzi
+ owie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Nie
+ jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdz
+ ono że bezczynność miała miejsce bez rażącego naruszenia prawa |Odda
+ lono skargę w części |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 4/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200429T000000
+DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:PKP Polskie Lin
+ ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
+ rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
+ wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 4/20\nSymbol:658/6480\nSędzi
+ owie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Nie
+ jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdz
+ ono że bezczynność miała miejsce bez rażącego naruszenia prawa |Odda
+ lono skargę w części |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Związek Banków Polskich - II SAB/Wa 794/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200429T000000
 DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:Związek Bankó
@@ -694,29 +720,15 @@ DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:Polskie Sieci E
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 4/20
+SUMMARY:[N] Zarząd Zieleni m.st. Warszawy - II SAB/Wa 775/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200429T000000
-DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:PKP Polskie Lin
- ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
- rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
- wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 4/20\nSymbol:658/6480\nSędzi
- owie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Nie
- jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdz
- ono że bezczynność miała miejsce bez rażącego naruszenia prawa |Odda
- lono skargę w części |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 5/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200429T000000
-DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:PKP Polskie Lin
- ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
- rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
- wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 5/20\nSymbol:658/6480\nSędzi
- owie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Nie
- jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdz
- ono że bezczynność miała miejsce bez rażącego naruszenia prawa |Odda
- lono skargę w części |Zasądzono zwrot kosztów postępowania
+DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:Zarząd Zieleni
+  m.st. Warszawy\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPr
+ zewodniczący:Konrad Łukaszewicz\nSala:Sala posiedzeń niejawnych\nSprawo
+ zdawca:Agnieszka Góra-Błaszczykowska\nSygnatura akt:II SAB/Wa 775/19\nSy
+ mbol:658/6480\nSędziowie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk
+ \nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalo
+ no skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -730,18 +742,6 @@ DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:PGE Polska Grup
  ura akt:II SAB/Wa 861/19\nSymbol:658/6480\nSędziowie:Agnieszka Góra-Bła
  szczykowska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:\nWydział o
  rzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Zarząd Zieleni m.st. Warszawy - II SAB/Wa 775/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200429T000000
-DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:Zarząd Zieleni
-  m.st. Warszawy\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPr
- zewodniczący:Konrad Łukaszewicz\nSala:Sala posiedzeń niejawnych\nSprawo
- zdawca:Agnieszka Góra-Błaszczykowska\nSygnatura akt:II SAB/Wa 775/19\nSy
- mbol:658/6480\nSędziowie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk
- \nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalo
- no skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -943,17 +943,6 @@ DESCRIPTION:Data:2020-04-20\nGodzina:09:00\nOrgan administracji:Prezes Są
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Finansów - II SAB/Wa 787/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200421T000000
-DESCRIPTION:Data:2020-04-21\nGodzina:\nOrgan administracji:Minister Finans
- ów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicząc
- y:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt
- \nSygnatura akt:II SAB/Wa 787/19\nSymbol:658/6480\nSędziowie:Sławomir Fu
- larski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczn
- iczy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 1/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200421T000000
 DESCRIPTION:Data:2020-04-21\nGodzina:\nOrgan administracji:Prezydent m.st.
@@ -977,6 +966,17 @@ DESCRIPTION:Data:2020-04-21\nGodzina:\nOrgan administracji:Dyr. Mazowiecki
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Minister Finansów - II SAB/Wa 787/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200421T000000
+DESCRIPTION:Data:2020-04-21\nGodzina:\nOrgan administracji:Minister Finans
+ ów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicząc
+ y:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt
+ \nSygnatura akt:II SAB/Wa 787/19\nSymbol:658/6480\nSędziowie:Sławomir Fu
+ larski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczn
+ iczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Polska Wytwórnia Papierów Wartościowych - II SA/Wa 1443/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200421T125000
 DESCRIPTION:Data:2020-04-21\nGodzina:12:50\nOrgan administracji:Polska Wyt
@@ -989,14 +989,15 @@ DESCRIPTION:Data:2020-04-21\nGodzina:12:50\nOrgan administracji:Polska Wyt
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Rada Miasta Otwocka - II SAB/Wa 847/19
+SUMMARY:[N] Wójt Gminy Małkinia Górna - II SAB/Wa 591/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200422T000000
-DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Rada Miasta Otw
- ocka\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczą
- cy:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrz
- ej Kołodziej\nSygnatura akt:II SAB/Wa 847/19\nSymbol:658/6480\nSędziowie
- :Piotr Borowiecki\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Nie
- jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Wójt Gminy Ma
+ łkinia Górna\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrz
+ ewodniczący:Ewa Radziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSpra
+ wozdawca:Ewa Radziszewska-Krupa\nSygnatura akt:II SAB/Wa 591/19\nSymbol:65
+ 8/6480\nSędziowie:Piotr Borowiecki\, asesor Joanna Kruszewska-Grońska\nT
+ yp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z
+  wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1024,15 +1025,14 @@ DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Prezydent m.st.
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Małkinia Górna - II SAB/Wa 591/19
+SUMMARY:[N] Rada Miasta Otwocka - II SAB/Wa 847/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200422T000000
-DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Wójt Gminy Ma
- łkinia Górna\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrz
- ewodniczący:Ewa Radziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSpra
- wozdawca:Ewa Radziszewska-Krupa\nSygnatura akt:II SAB/Wa 591/19\nSymbol:65
- 8/6480\nSędziowie:Piotr Borowiecki\, asesor Joanna Kruszewska-Grońska\nT
- yp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z
-  wokandy
+DESCRIPTION:Data:2020-04-22\nGodzina:\nOrgan administracji:Rada Miasta Otw
+ ocka\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczą
+ cy:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrz
+ ej Kołodziej\nSygnatura akt:II SAB/Wa 847/19\nSymbol:658/6480\nSędziowie
+ :Piotr Borowiecki\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Nie
+ jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1184,6 +1184,22 @@ DESCRIPTION:Data:2020-04-24\nGodzina:09:20\nOrgan administracji:Minister O
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezes Krajowej Izby Diagnostów Laboratoryjnych - II SAB/Wa 5
+ 2/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
+DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Prezes Krajowej
+  Izby Diagnostów Laboratoryjnych\nPrzedmiot:Bezczynność organu\nPrzewod
+ niczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:D
+ anuta Kania\nSygnatura akt:II SAB/Wa 52/20\nSymbol:658/6480\nSędziowie:Da
+ nuta Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
+ przedmiocie rozpoznania wniosku z dnia 30 września 2019 r. o udostępnien
+ ie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezc
+ zynność postępowania i że bezczynność nie miała miejsca z rażącym
+  naruszeniem prawa |Oddalono skargę w części |Zasądzono zwrot kosztów
+  postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 1/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
 DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Prezydent m.st.
@@ -1232,46 +1248,6 @@ DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Polska Spółka
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Krajowej Izby Diagnostów Laboratoryjnych - II SAB/Wa 5
- 2/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
-DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Prezes Krajowej
-  Izby Diagnostów Laboratoryjnych\nPrzedmiot:Bezczynność organu\nPrzewod
- niczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:D
- anuta Kania\nSygnatura akt:II SAB/Wa 52/20\nSymbol:658/6480\nSędziowie:Da
- nuta Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
- przedmiocie rozpoznania wniosku z dnia 30 września 2019 r. o udostępnien
- ie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezc
- zynność postępowania i że bezczynność nie miała miejsca z rażącym
-  naruszeniem prawa |Oddalono skargę w części |Zasądzono zwrot kosztów
-  postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Komisja Nadzoru Finansowego - II SAB/Wa 69/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
-DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Komisja Nadzoru
-  Finansowego\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzew
- odniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSpra
- wozdawca:Andrzej Wieczorek\nSygnatura akt:II SAB/Wa 69/20\nSymbol:659/6480
- \nSędziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posiedze
- nia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 82/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
-DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Komendant Głó
- wny Policji\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewo
- dniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSpraw
- ozdawca:Karolina Kisielewicz\nSygnatura akt:II SAB/Wa 82/20\nSymbol:658/64
- 80\nSędziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posied
- zenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i
-  stwierdzono że bezczynność miała miejsce bez rażącego naruszenia pr
- awa |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Gminnej Biblioteki Publicznej w Jaktorowie - II SAB/W
  a 14/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
@@ -1313,29 +1289,40 @@ DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Burmistrz Kału
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Zespołu Szkół Centrum Edukacji im. I. Łukasiewicz
- a w Płocku - II SAB/Wa 40/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
-DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Dyrektor Zespo
- łu Szkół Centrum Edukacji im. I. Łukasiewicza w Płocku\nPrzedmiot:Bez
- czynność organu\; Bezczynność organu\nPrzewodniczący:Janusz Walawski\
- nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kruszewska-Grońska\
- nSygnatura akt:II SAB/Wa 40/20\nSymbol:658/6480\nSędziowie:Andrzej Kołod
- ziej\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:
- \nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+SUMMARY:[N] Komisja Nadzoru Finansowego - II SAB/Wa 69/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
+DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Komisja Nadzoru
+  Finansowego\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzew
+ odniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSpra
+ wozdawca:Andrzej Wieczorek\nSygnatura akt:II SAB/Wa 69/20\nSymbol:659/6480
+ \nSędziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posiedze
+ nia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prawo i Sprawiedliwość - II SAB/Wa 54/20
+SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 82/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200427T000000
+DESCRIPTION:Data:2020-04-27\nGodzina:\nOrgan administracji:Komendant Głó
+ wny Policji\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewo
+ dniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSpraw
+ ozdawca:Karolina Kisielewicz\nSygnatura akt:II SAB/Wa 82/20\nSymbol:658/64
+ 80\nSędziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posied
+ zenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i
+  stwierdzono że bezczynność miała miejsce bez rażącego naruszenia pr
+ awa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Sądu Rejonowego w Otwocku - II SAB/Wa 873/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
-DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Prawo i Sprawie
- dliwość\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodn
- iczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joa
- nna Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 54/20\nSymbol:658/6480\nS
+DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Prezes Sądu Re
+ jonowego w Otwocku\nPrzedmiot:Informacja publiczna\; Informacja publiczna\
+ nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
+ dawca:Janusz Walawski\nSygnatura akt:II SAB/Wa 873/19\nSymbol:658/6480\nS
  ędziowie:Andrzej Kołodziej\, asesor Joanna Kruszewska-Grońska\nTyp posi
- edzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezc
- zynność postępowania i że bezczynność nie miała miejsca z rażącym
-  naruszeniem prawa |Zasądzono zwrot kosztów postępowania
+ edzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ...
+  i stwierdzono że bezczynność miała miejsce bez rażącego naruszenia 
+ prawa |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1352,16 +1339,53 @@ DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Instytut Badań
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Rada Miasta Otwocka - II SAB/Wa 847/19
+SUMMARY:[N] Prawo i Sprawiedliwość - II SAB/Wa 54/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
-DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Rada Miasta Otw
- ocka\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczą
- cy:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrz
- ej Kołodziej\nSygnatura akt:II SAB/Wa 847/19\nSymbol:658/6480\nSędziowie
- :Sławomir Fularski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWyd
- ział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynno
- ść miała miejsce bez rażącego naruszenia prawa |Oddalono skargę w cz
- ęści |Zasądzono zwrot kosztów postępowania
+DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Prawo i Sprawie
+ dliwość\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodn
+ iczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joa
+ nna Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 54/20\nSymbol:658/6480\nS
+ ędziowie:Andrzej Kołodziej\, asesor Joanna Kruszewska-Grońska\nTyp posi
+ edzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezc
+ zynność postępowania i że bezczynność nie miała miejsca z rażącym
+  naruszeniem prawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Zespołu Szkół Centrum Edukacji im. I. Łukasiewicz
+ a w Płocku - II SAB/Wa 40/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
+DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Dyrektor Zespo
+ łu Szkół Centrum Edukacji im. I. Łukasiewicza w Płocku\nPrzedmiot:Bez
+ czynność organu\; Bezczynność organu\nPrzewodniczący:Janusz Walawski\
+ nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kruszewska-Grońska\
+ nSygnatura akt:II SAB/Wa 40/20\nSymbol:658/6480\nSędziowie:Andrzej Kołod
+ ziej\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:
+ \nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyr. Mazowieckiego Od. Wojew. Narodowego funduszu Zdrowia - II
+  SAB/Wa 855/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
+DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Dyr. Mazowiecki
+ ego Od. Wojew. Narodowego funduszu Zdrowia\nPrzedmiot:Bezczynność organu
+ \; Bezczynność organu\nPrzewodniczący:Andrzej Kołodziej\nSala:Sala pos
+ iedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 85
+ 5/19\nSymbol:658/6480\nSędziowie:Sławomir Fularski\, Tomasz Szmydt\nTyp 
+ posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono ska
+ rgę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Finansów - II SAB/Wa 787/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
+DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Minister Finans
+ ów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicząc
+ y:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz
+  Szmydt\nSygnatura akt:II SAB/Wa 787/19\nSymbol:658/6480\nSędziowie:Sław
+ omir Fularski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWydział 
+ orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1379,40 +1403,16 @@ DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Dyrektor Miejsk
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Finansów - II SAB/Wa 787/19
+SUMMARY:[N] Rada Miasta Otwocka - II SAB/Wa 847/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
-DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Minister Finans
- ów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicząc
- y:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz
-  Szmydt\nSygnatura akt:II SAB/Wa 787/19\nSymbol:658/6480\nSędziowie:Sław
- omir Fularski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWydział 
- orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Dyr. Mazowieckiego Od. Wojew. Narodowego funduszu Zdrowia - II
-  SAB/Wa 855/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
-DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Dyr. Mazowiecki
- ego Od. Wojew. Narodowego funduszu Zdrowia\nPrzedmiot:Bezczynność organu
- \; Bezczynność organu\nPrzewodniczący:Andrzej Kołodziej\nSala:Sala pos
- iedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 85
- 5/19\nSymbol:658/6480\nSędziowie:Sławomir Fularski\, Tomasz Szmydt\nTyp 
- posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono ska
- rgę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Sądu Rejonowego w Otwocku - II SAB/Wa 873/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200428T000000
-DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Prezes Sądu Re
- jonowego w Otwocku\nPrzedmiot:Informacja publiczna\; Informacja publiczna\
- nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
- dawca:Janusz Walawski\nSygnatura akt:II SAB/Wa 873/19\nSymbol:658/6480\nS
- ędziowie:Andrzej Kołodziej\, asesor Joanna Kruszewska-Grońska\nTyp posi
- edzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ...
-  i stwierdzono że bezczynność miała miejsce bez rażącego naruszenia 
- prawa |Zasądzono zwrot kosztów postępowania
+DESCRIPTION:Data:2020-04-28\nGodzina:\nOrgan administracji:Rada Miasta Otw
+ ocka\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczą
+ cy:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrz
+ ej Kołodziej\nSygnatura akt:II SAB/Wa 847/19\nSymbol:658/6480\nSędziowie
+ :Sławomir Fularski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:\nWyd
+ ział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynno
+ ść miała miejsce bez rażącego naruszenia prawa |Oddalono skargę w cz
+ ęści |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1449,6 +1449,32 @@ DESCRIPTION:Data:2020-04-28\nGodzina:10:00\nOrgan administracji:Prezes Urz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 5/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200429T000000
+DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:PKP Polskie Lin
+ ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
+ rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
+ wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 5/20\nSymbol:658/6480\nSędzi
+ owie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Nie
+ jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdz
+ ono że bezczynność miała miejsce bez rażącego naruszenia prawa |Odda
+ lono skargę w części |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 4/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200429T000000
+DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:PKP Polskie Lin
+ ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
+ rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
+ wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 4/20\nSymbol:658/6480\nSędzi
+ owie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Nie
+ jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdz
+ ono że bezczynność miała miejsce bez rażącego naruszenia prawa |Odda
+ lono skargę w części |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Związek Banków Polskich - II SAB/Wa 794/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200429T000000
 DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:Związek Bankó
@@ -1477,29 +1503,15 @@ DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:Polskie Sieci E
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 4/20
+SUMMARY:[N] Zarząd Zieleni m.st. Warszawy - II SAB/Wa 775/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200429T000000
-DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:PKP Polskie Lin
- ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
- rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
- wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 4/20\nSymbol:658/6480\nSędzi
- owie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Nie
- jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdz
- ono że bezczynność miała miejsce bez rażącego naruszenia prawa |Odda
- lono skargę w części |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 5/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200429T000000
-DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:PKP Polskie Lin
- ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
- rzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozda
- wca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 5/20\nSymbol:658/6480\nSędzi
- owie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Nie
- jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdz
- ono że bezczynność miała miejsce bez rażącego naruszenia prawa |Odda
- lono skargę w części |Zasądzono zwrot kosztów postępowania
+DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:Zarząd Zieleni
+  m.st. Warszawy\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPr
+ zewodniczący:Konrad Łukaszewicz\nSala:Sala posiedzeń niejawnych\nSprawo
+ zdawca:Agnieszka Góra-Błaszczykowska\nSygnatura akt:II SAB/Wa 775/19\nSy
+ mbol:658/6480\nSędziowie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk
+ \nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalo
+ no skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1513,18 +1525,6 @@ DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:PGE Polska Grup
  ura akt:II SAB/Wa 861/19\nSymbol:658/6480\nSędziowie:Agnieszka Góra-Bła
  szczykowska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:\nWydział o
  rzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Zarząd Zieleni m.st. Warszawy - II SAB/Wa 775/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200429T000000
-DESCRIPTION:Data:2020-04-29\nGodzina:\nOrgan administracji:Zarząd Zieleni
-  m.st. Warszawy\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPr
- zewodniczący:Konrad Łukaszewicz\nSala:Sala posiedzeń niejawnych\nSprawo
- zdawca:Agnieszka Góra-Błaszczykowska\nSygnatura akt:II SAB/Wa 775/19\nSy
- mbol:658/6480\nSędziowie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk
- \nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalo
- no skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
