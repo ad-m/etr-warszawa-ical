@@ -1,16 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[J] Wójt Gminy Mochowo - II SAB/Wa 201/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200504T000000
-DESCRIPTION:Data:2020-05-04\nGodzina:\nOrgan administracji:Wójt Gminy Moc
- howo\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczą
- cy:Andrzej Kołodziej\nSala:666\nSprawozdawca:Andrzej Kołodziej\nSygnatur
- a akt:II SAB/Wa 201/20\nSymbol:658/6480\nSędziowie:\nTyp posiedzenia:Jawn
- e\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zarządzenie Przewodniczącego
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Komendant Rejonowy Policji Warszawa I - II SAB/Wa 834/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200519T000000
 DESCRIPTION:Data:2020-05-19\nGodzina:\nOrgan administracji:Komendant Rejon
@@ -84,20 +74,6 @@ DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Prezes Agencji
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Zdrowia - II SAB/Wa 186/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
-DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Minister Zdrowi
- a\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Góraj\nSala:Sa
- la posiedzeń niejawnych\nSprawozdawca:Andrzej Wieczorek\nSygnatura akt:II
-  SAB/Wa 186/20\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\, And
- rzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w rozpoznani
- u wniosku z dnia 18 listopada 2019 r. o udostępnienie informacji publiczn
- ej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bez
- czynność miała miejsce bez rażącego naruszenia prawa |Zasądzono zwro
- t kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Narodowego Instytutu Wolności – Centrum Rozwoju Sp
  ołeczeństwa Obywatelskiego - II SAB/Wa 46/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
@@ -112,17 +88,17 @@ DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Dyrektor Narodo
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Rektor Uniwersytetu Muzycznego Fryderyka Chopina - II SAB/Wa 6
- 5/20
+SUMMARY:[N] Minister Zdrowia - II SAB/Wa 186/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
-DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Rektor Uniwersy
- tetu Muzycznego Fryderyka Chopina\nPrzedmiot:Informacja publiczna\nPrzewod
- niczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:And
- rzej Góraj\nSygnatura akt:II SAB/Wa 65/20\nSymbol:658/6480\nSędziowie:Iz
- abela Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwag
- i:bezczynność w przedmiocie rozpoznania wniosku z dnia 29 grudnia 2019 r
- . o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
- Oddalono skargę
+DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Minister Zdrowi
+ a\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Góraj\nSala:Sa
+ la posiedzeń niejawnych\nSprawozdawca:Andrzej Wieczorek\nSygnatura akt:II
+  SAB/Wa 186/20\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\, And
+ rzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w rozpoznani
+ u wniosku z dnia 18 listopada 2019 r. o udostępnienie informacji publiczn
+ ej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bez
+ czynność miała miejsce bez rażącego naruszenia prawa |Zasądzono zwro
+ t kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -135,6 +111,20 @@ DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Szef Centralneg
   Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bez
  czynność w rozpoznaniu wniosku z dnia 17 grudnia 2019 r.\nWydział orzec
  zniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Rektor Uniwersytetu Muzycznego Fryderyka Chopina - II SAB/Wa 6
+ 5/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
+DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Rektor Uniwersy
+ tetu Muzycznego Fryderyka Chopina\nPrzedmiot:Informacja publiczna\nPrzewod
+ niczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:And
+ rzej Góraj\nSygnatura akt:II SAB/Wa 65/20\nSymbol:658/6480\nSędziowie:Iz
+ abela Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwag
+ i:bezczynność w przedmiocie rozpoznania wniosku z dnia 29 grudnia 2019 r
+ . o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -490,6 +480,20 @@ DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Operator Gazoci
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Oddziału Regionalnego Agencji Mienia Wojskowego w Wa
+ rszawie - II SAB/Wa 136/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T000000
+DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Dyrektor Oddzia
+ łu Regionalnego Agencji Mienia Wojskowego w Warszawie\nPrzedmiot:Bezczynn
+ ość organu\nPrzewodniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawny
+ ch\nSprawozdawca:Łukasz Krzycki\nSygnatura akt:II SAB/Wa 136/20\nSymbol:6
+ 58/6480\nSędziowie:Sławomir Fularski\, Łukasz Krzycki\nTyp posiedzenia:
+ Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 5 g
+ rudnia 2019 r. o udostępnienie informacji publicznej\nWydział orzecznicz
+ y:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa - II 
  SAB/Wa 181/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T000000
@@ -519,20 +523,6 @@ DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Platforma Obywa
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Oddziału Regionalnego Agencji Mienia Wojskowego w Wa
- rszawie - II SAB/Wa 136/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T000000
-DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Dyrektor Oddzia
- łu Regionalnego Agencji Mienia Wojskowego w Warszawie\nPrzedmiot:Bezczynn
- ość organu\nPrzewodniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawny
- ch\nSprawozdawca:Łukasz Krzycki\nSygnatura akt:II SAB/Wa 136/20\nSymbol:6
- 58/6480\nSędziowie:Sławomir Fularski\, Łukasz Krzycki\nTyp posiedzenia:
- Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 5 g
- rudnia 2019 r. o udostępnienie informacji publicznej\nWydział orzecznicz
- y:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] SKO w Radomiu - VIII SA/Wa 908/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T123000
 DESCRIPTION:Data:2020-05-27\nGodzina:12:30\nOrgan administracji:SKO w Rado
@@ -545,14 +535,16 @@ DESCRIPTION:Data:2020-05-27\nGodzina:12:30\nOrgan administracji:SKO w Rado
 LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] SKO w Warszawie - II SA/Wa 592/20
+SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 47/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200528T000000
-DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:SKO w Warszawie
- \nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSala:Sala p
- osiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatura akt:II 
- SA/Wa 592/20\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, asesor Karolina
-  Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:niedopuszczalność odwołan
- ia\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:Prezydent m.st.
+  Warszawy\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSa
+ la:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nSygnatura 
+ akt:II SAB/Wa 47/20\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk\, ases
+ or Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
+ rzedmiocie rozpoznania wniosku z dnia 28 października 2019 r. o udostępn
+ ienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skar
+ gę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -568,16 +560,14 @@ DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:Minister Fundus
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 47/20
+SUMMARY:[N] SKO w Warszawie - II SA/Wa 592/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200528T000000
-DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:Prezydent m.st.
-  Warszawy\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSa
- la:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nSygnatura 
- akt:II SAB/Wa 47/20\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk\, ases
- or Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
- rzedmiocie rozpoznania wniosku z dnia 28 października 2019 r. o udostępn
- ienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skar
- gę
+DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:SKO w Warszawie
+ \nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSala:Sala p
+ osiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatura akt:II 
+ SA/Wa 592/20\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, asesor Karolina
+  Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:niedopuszczalność odwołan
+ ia\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -645,16 +635,6 @@ DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Wójt Gminy Ma
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[J] Wójt Gminy Mochowo - II SAB/Wa 201/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200504T000000
-DESCRIPTION:Data:2020-05-04\nGodzina:\nOrgan administracji:Wójt Gminy Moc
- howo\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczą
- cy:Andrzej Kołodziej\nSala:666\nSprawozdawca:Andrzej Kołodziej\nSygnatur
- a akt:II SAB/Wa 201/20\nSymbol:658/6480\nSędziowie:\nTyp posiedzenia:Jawn
- e\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zarządzenie Przewodniczącego
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Komendant Rejonowy Policji Warszawa I - II SAB/Wa 834/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200519T000000
 DESCRIPTION:Data:2020-05-19\nGodzina:\nOrgan administracji:Komendant Rejon
@@ -728,20 +708,6 @@ DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Prezes Agencji
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Zdrowia - II SAB/Wa 186/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
-DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Minister Zdrowi
- a\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Góraj\nSala:Sa
- la posiedzeń niejawnych\nSprawozdawca:Andrzej Wieczorek\nSygnatura akt:II
-  SAB/Wa 186/20\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\, And
- rzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w rozpoznani
- u wniosku z dnia 18 listopada 2019 r. o udostępnienie informacji publiczn
- ej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bez
- czynność miała miejsce bez rażącego naruszenia prawa |Zasądzono zwro
- t kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Narodowego Instytutu Wolności – Centrum Rozwoju Sp
  ołeczeństwa Obywatelskiego - II SAB/Wa 46/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
@@ -756,17 +722,17 @@ DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Dyrektor Narodo
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Rektor Uniwersytetu Muzycznego Fryderyka Chopina - II SAB/Wa 6
- 5/20
+SUMMARY:[N] Minister Zdrowia - II SAB/Wa 186/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
-DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Rektor Uniwersy
- tetu Muzycznego Fryderyka Chopina\nPrzedmiot:Informacja publiczna\nPrzewod
- niczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:And
- rzej Góraj\nSygnatura akt:II SAB/Wa 65/20\nSymbol:658/6480\nSędziowie:Iz
- abela Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwag
- i:bezczynność w przedmiocie rozpoznania wniosku z dnia 29 grudnia 2019 r
- . o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
- Oddalono skargę
+DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Minister Zdrowi
+ a\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Góraj\nSala:Sa
+ la posiedzeń niejawnych\nSprawozdawca:Andrzej Wieczorek\nSygnatura akt:II
+  SAB/Wa 186/20\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\, And
+ rzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w rozpoznani
+ u wniosku z dnia 18 listopada 2019 r. o udostępnienie informacji publiczn
+ ej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bez
+ czynność miała miejsce bez rażącego naruszenia prawa |Zasądzono zwro
+ t kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -779,6 +745,20 @@ DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Szef Centralneg
   Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bez
  czynność w rozpoznaniu wniosku z dnia 17 grudnia 2019 r.\nWydział orzec
  zniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Rektor Uniwersytetu Muzycznego Fryderyka Chopina - II SAB/Wa 6
+ 5/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
+DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Rektor Uniwersy
+ tetu Muzycznego Fryderyka Chopina\nPrzedmiot:Informacja publiczna\nPrzewod
+ niczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:And
+ rzej Góraj\nSygnatura akt:II SAB/Wa 65/20\nSymbol:658/6480\nSędziowie:Iz
+ abela Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwag
+ i:bezczynność w przedmiocie rozpoznania wniosku z dnia 29 grudnia 2019 r
+ . o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1134,6 +1114,20 @@ DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Operator Gazoci
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Oddziału Regionalnego Agencji Mienia Wojskowego w Wa
+ rszawie - II SAB/Wa 136/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T000000
+DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Dyrektor Oddzia
+ łu Regionalnego Agencji Mienia Wojskowego w Warszawie\nPrzedmiot:Bezczynn
+ ość organu\nPrzewodniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawny
+ ch\nSprawozdawca:Łukasz Krzycki\nSygnatura akt:II SAB/Wa 136/20\nSymbol:6
+ 58/6480\nSędziowie:Sławomir Fularski\, Łukasz Krzycki\nTyp posiedzenia:
+ Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 5 g
+ rudnia 2019 r. o udostępnienie informacji publicznej\nWydział orzecznicz
+ y:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa - II 
  SAB/Wa 181/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T000000
@@ -1163,20 +1157,6 @@ DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Platforma Obywa
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Oddziału Regionalnego Agencji Mienia Wojskowego w Wa
- rszawie - II SAB/Wa 136/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T000000
-DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Dyrektor Oddzia
- łu Regionalnego Agencji Mienia Wojskowego w Warszawie\nPrzedmiot:Bezczynn
- ość organu\nPrzewodniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawny
- ch\nSprawozdawca:Łukasz Krzycki\nSygnatura akt:II SAB/Wa 136/20\nSymbol:6
- 58/6480\nSędziowie:Sławomir Fularski\, Łukasz Krzycki\nTyp posiedzenia:
- Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 5 g
- rudnia 2019 r. o udostępnienie informacji publicznej\nWydział orzecznicz
- y:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] SKO w Radomiu - VIII SA/Wa 908/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T123000
 DESCRIPTION:Data:2020-05-27\nGodzina:12:30\nOrgan administracji:SKO w Rado
@@ -1189,14 +1169,16 @@ DESCRIPTION:Data:2020-05-27\nGodzina:12:30\nOrgan administracji:SKO w Rado
 LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] SKO w Warszawie - II SA/Wa 592/20
+SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 47/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200528T000000
-DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:SKO w Warszawie
- \nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSala:Sala p
- osiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatura akt:II 
- SA/Wa 592/20\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, asesor Karolina
-  Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:niedopuszczalność odwołan
- ia\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:Prezydent m.st.
+  Warszawy\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSa
+ la:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nSygnatura 
+ akt:II SAB/Wa 47/20\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk\, ases
+ or Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
+ rzedmiocie rozpoznania wniosku z dnia 28 października 2019 r. o udostępn
+ ienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skar
+ gę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1212,16 +1194,14 @@ DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:Minister Fundus
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 47/20
+SUMMARY:[N] SKO w Warszawie - II SA/Wa 592/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200528T000000
-DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:Prezydent m.st.
-  Warszawy\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSa
- la:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nSygnatura 
- akt:II SAB/Wa 47/20\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk\, ases
- or Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
- rzedmiocie rozpoznania wniosku z dnia 28 października 2019 r. o udostępn
- ienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skar
- gę
+DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:SKO w Warszawie
+ \nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSala:Sala p
+ osiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatura akt:II 
+ SA/Wa 592/20\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, asesor Karolina
+  Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:niedopuszczalność odwołan
+ ia\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
