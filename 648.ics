@@ -51,17 +51,6 @@ DESCRIPTION:Data:2020-05-19\nGodzina:\nOrgan administracji:Prezes Sądu Re
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 875/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
-DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Prezydent m.st.
-  Warszawy\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodn
- iczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andr
- zej Góraj\nSygnatura akt:II SAB/Wa 875/19\nSymbol:658/6480\nSędziowie:as
- esor Karolina Kisielewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwa
- gi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Agencji Mienia Wojskowego w Warszawie - II SA/Wa 512/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
 DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Prezes Agencji 
@@ -71,6 +60,17 @@ DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Prezes Agencji
  ędziowie:asesor Karolina Kisielewicz\, Łukasz Krzycki\nTyp posiedzenia:N
  iejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzec
  zniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 875/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
+DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Prezydent m.st.
+  Warszawy\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodn
+ iczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andr
+ zej Góraj\nSygnatura akt:II SAB/Wa 875/19\nSymbol:658/6480\nSędziowie:as
+ esor Karolina Kisielewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwa
+ gi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -480,20 +480,6 @@ DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Operator Gazoci
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Oddziału Regionalnego Agencji Mienia Wojskowego w Wa
- rszawie - II SAB/Wa 136/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T000000
-DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Dyrektor Oddzia
- łu Regionalnego Agencji Mienia Wojskowego w Warszawie\nPrzedmiot:Bezczynn
- ość organu\nPrzewodniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawny
- ch\nSprawozdawca:Łukasz Krzycki\nSygnatura akt:II SAB/Wa 136/20\nSymbol:6
- 58/6480\nSędziowie:Sławomir Fularski\, Łukasz Krzycki\nTyp posiedzenia:
- Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 5 g
- rudnia 2019 r. o udostępnienie informacji publicznej\nWydział orzecznicz
- y:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa - II 
  SAB/Wa 181/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T000000
@@ -523,6 +509,20 @@ DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Platforma Obywa
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Oddziału Regionalnego Agencji Mienia Wojskowego w Wa
+ rszawie - II SAB/Wa 136/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T000000
+DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Dyrektor Oddzia
+ łu Regionalnego Agencji Mienia Wojskowego w Warszawie\nPrzedmiot:Bezczynn
+ ość organu\nPrzewodniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawny
+ ch\nSprawozdawca:Łukasz Krzycki\nSygnatura akt:II SAB/Wa 136/20\nSymbol:6
+ 58/6480\nSędziowie:Sławomir Fularski\, Łukasz Krzycki\nTyp posiedzenia:
+ Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 5 g
+ rudnia 2019 r. o udostępnienie informacji publicznej\nWydział orzecznicz
+ y:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] SKO w Radomiu - VIII SA/Wa 908/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T123000
 DESCRIPTION:Data:2020-05-27\nGodzina:12:30\nOrgan administracji:SKO w Rado
@@ -533,29 +533,6 @@ DESCRIPTION:Data:2020-05-27\nGodzina:12:30\nOrgan administracji:SKO w Rado
  nWydział orzeczniczy:VIII\nWyniki:Uchylono zaskarżoną decyzję i poprze
  dzającą ją decyzję |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial VIII\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] SKO w Warszawie - II SA/Wa 592/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200528T000000
-DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:SKO w Warszawie
- \nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSala:Sala p
- osiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatura akt:II 
- SA/Wa 592/20\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, asesor Karolina
-  Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:niedopuszczalność odwołan
- ia\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Funduszy i Polityki Regionalnej - II SAB/Wa 437/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200528T000000
-DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:Minister Fundus
- zy i Polityki Regionalnej\nPrzedmiot:Bezczynność organu\nPrzewodniczący
- :Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisie
- lewicz\nSygnatura akt:II SAB/Wa 437/19\nSymbol:658/6480\nSędziowie:Sławo
- mir Antoniuk\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwag
- i:bezczynność w zakresie rozpoznania wniosków o udostępnienie informac
- ji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 47/20
@@ -571,16 +548,26 @@ DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:Prezydent m.st.
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Filharmonii Narodowej w Warszawie - II SA/Wa 84/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200529T000000
-DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Dyrektor Filhar
- monii Narodowej w Warszawie\nPrzedmiot:Odmowa udzielenia informacji public
- znej\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\nSpr
- awozdawca:Ewa Kwiecińska\nSygnatura akt:II SA/Wa 84/20\nSymbol:6480\nSęd
- ziowie:Ewa Kwiecińska\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi
- :odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyn
- iki:Uchylono zaskarżoną decyzję |Zasądzono zwrot kosztów postępowani
- a
+SUMMARY:[N] Minister Funduszy i Polityki Regionalnej - II SAB/Wa 437/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200528T000000
+DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:Minister Fundus
+ zy i Polityki Regionalnej\nPrzedmiot:Bezczynność organu\nPrzewodniczący
+ :Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisie
+ lewicz\nSygnatura akt:II SAB/Wa 437/19\nSymbol:658/6480\nSędziowie:Sławo
+ mir Antoniuk\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwag
+ i:bezczynność w zakresie rozpoznania wniosków o udostępnienie informac
+ ji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] SKO w Warszawie - II SA/Wa 592/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200528T000000
+DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:SKO w Warszawie
+ \nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSala:Sala p
+ osiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatura akt:II 
+ SA/Wa 592/20\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, asesor Karolina
+  Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:niedopuszczalność odwołan
+ ia\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -618,6 +605,19 @@ DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Prezydent Miast
   Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie
   rozpoznania wniosku z dnia 2 grudnia 2019 r. o udostępnienie informacji 
  publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Filharmonii Narodowej w Warszawie - II SA/Wa 84/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200529T000000
+DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Dyrektor Filhar
+ monii Narodowej w Warszawie\nPrzedmiot:Odmowa udzielenia informacji public
+ znej\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\nSpr
+ awozdawca:Ewa Kwiecińska\nSygnatura akt:II SA/Wa 84/20\nSymbol:6480\nSęd
+ ziowie:Ewa Kwiecińska\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi
+ :odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyn
+ iki:Uchylono zaskarżoną decyzję |Zasądzono zwrot kosztów postępowani
+ a
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -685,17 +685,6 @@ DESCRIPTION:Data:2020-05-19\nGodzina:\nOrgan administracji:Prezes Sądu Re
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 875/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
-DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Prezydent m.st.
-  Warszawy\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodn
- iczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andr
- zej Góraj\nSygnatura akt:II SAB/Wa 875/19\nSymbol:658/6480\nSędziowie:as
- esor Karolina Kisielewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwa
- gi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Agencji Mienia Wojskowego w Warszawie - II SA/Wa 512/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
 DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Prezes Agencji 
@@ -705,6 +694,17 @@ DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Prezes Agencji
  ędziowie:asesor Karolina Kisielewicz\, Łukasz Krzycki\nTyp posiedzenia:N
  iejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzec
  zniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 875/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
+DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Prezydent m.st.
+  Warszawy\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodn
+ iczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andr
+ zej Góraj\nSygnatura akt:II SAB/Wa 875/19\nSymbol:658/6480\nSędziowie:as
+ esor Karolina Kisielewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwa
+ gi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1114,20 +1114,6 @@ DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Operator Gazoci
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Oddziału Regionalnego Agencji Mienia Wojskowego w Wa
- rszawie - II SAB/Wa 136/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T000000
-DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Dyrektor Oddzia
- łu Regionalnego Agencji Mienia Wojskowego w Warszawie\nPrzedmiot:Bezczynn
- ość organu\nPrzewodniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawny
- ch\nSprawozdawca:Łukasz Krzycki\nSygnatura akt:II SAB/Wa 136/20\nSymbol:6
- 58/6480\nSędziowie:Sławomir Fularski\, Łukasz Krzycki\nTyp posiedzenia:
- Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 5 g
- rudnia 2019 r. o udostępnienie informacji publicznej\nWydział orzecznicz
- y:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa - II 
  SAB/Wa 181/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T000000
@@ -1157,6 +1143,20 @@ DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Platforma Obywa
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Oddziału Regionalnego Agencji Mienia Wojskowego w Wa
+ rszawie - II SAB/Wa 136/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T000000
+DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Dyrektor Oddzia
+ łu Regionalnego Agencji Mienia Wojskowego w Warszawie\nPrzedmiot:Bezczynn
+ ość organu\nPrzewodniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawny
+ ch\nSprawozdawca:Łukasz Krzycki\nSygnatura akt:II SAB/Wa 136/20\nSymbol:6
+ 58/6480\nSędziowie:Sławomir Fularski\, Łukasz Krzycki\nTyp posiedzenia:
+ Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 5 g
+ rudnia 2019 r. o udostępnienie informacji publicznej\nWydział orzecznicz
+ y:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] SKO w Radomiu - VIII SA/Wa 908/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T123000
 DESCRIPTION:Data:2020-05-27\nGodzina:12:30\nOrgan administracji:SKO w Rado
@@ -1167,29 +1167,6 @@ DESCRIPTION:Data:2020-05-27\nGodzina:12:30\nOrgan administracji:SKO w Rado
  nWydział orzeczniczy:VIII\nWyniki:Uchylono zaskarżoną decyzję i poprze
  dzającą ją decyzję |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial VIII\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] SKO w Warszawie - II SA/Wa 592/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200528T000000
-DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:SKO w Warszawie
- \nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSala:Sala p
- osiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatura akt:II 
- SA/Wa 592/20\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, asesor Karolina
-  Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:niedopuszczalność odwołan
- ia\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Funduszy i Polityki Regionalnej - II SAB/Wa 437/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200528T000000
-DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:Minister Fundus
- zy i Polityki Regionalnej\nPrzedmiot:Bezczynność organu\nPrzewodniczący
- :Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisie
- lewicz\nSygnatura akt:II SAB/Wa 437/19\nSymbol:658/6480\nSędziowie:Sławo
- mir Antoniuk\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwag
- i:bezczynność w zakresie rozpoznania wniosków o udostępnienie informac
- ji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 47/20
@@ -1205,16 +1182,26 @@ DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:Prezydent m.st.
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Filharmonii Narodowej w Warszawie - II SA/Wa 84/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200529T000000
-DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Dyrektor Filhar
- monii Narodowej w Warszawie\nPrzedmiot:Odmowa udzielenia informacji public
- znej\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\nSpr
- awozdawca:Ewa Kwiecińska\nSygnatura akt:II SA/Wa 84/20\nSymbol:6480\nSęd
- ziowie:Ewa Kwiecińska\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi
- :odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyn
- iki:Uchylono zaskarżoną decyzję |Zasądzono zwrot kosztów postępowani
- a
+SUMMARY:[N] Minister Funduszy i Polityki Regionalnej - II SAB/Wa 437/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200528T000000
+DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:Minister Fundus
+ zy i Polityki Regionalnej\nPrzedmiot:Bezczynność organu\nPrzewodniczący
+ :Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisie
+ lewicz\nSygnatura akt:II SAB/Wa 437/19\nSymbol:658/6480\nSędziowie:Sławo
+ mir Antoniuk\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwag
+ i:bezczynność w zakresie rozpoznania wniosków o udostępnienie informac
+ ji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] SKO w Warszawie - II SA/Wa 592/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200528T000000
+DESCRIPTION:Data:2020-05-28\nGodzina:\nOrgan administracji:SKO w Warszawie
+ \nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\nSala:Sala p
+ osiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatura akt:II 
+ SA/Wa 592/20\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, asesor Karolina
+  Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:niedopuszczalność odwołan
+ ia\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1252,6 +1239,19 @@ DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Prezydent Miast
   Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie
   rozpoznania wniosku z dnia 2 grudnia 2019 r. o udostępnienie informacji 
  publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Filharmonii Narodowej w Warszawie - II SA/Wa 84/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200529T000000
+DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Dyrektor Filhar
+ monii Narodowej w Warszawie\nPrzedmiot:Odmowa udzielenia informacji public
+ znej\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\nSpr
+ awozdawca:Ewa Kwiecińska\nSygnatura akt:II SA/Wa 84/20\nSymbol:6480\nSęd
+ ziowie:Ewa Kwiecińska\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi
+ :odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyn
+ iki:Uchylono zaskarżoną decyzję |Zasądzono zwrot kosztów postępowani
+ a
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
