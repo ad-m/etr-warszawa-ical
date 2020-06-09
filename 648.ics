@@ -27,17 +27,6 @@ DESCRIPTION:Data:2020-05-19\nGodzina:\nOrgan administracji:Polski Związek
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Komendant Powiatowy Policji w Płońsku - II SAB/Wa 785/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200519T000000
-DESCRIPTION:Data:2020-05-19\nGodzina:\nOrgan administracji:Komendant Powia
- towy Policji w Płońsku\nPrzedmiot:\nPrzewodniczący:Andrzej Kołodziej\n
- Sala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura ak
- t:II SAB/Wa 785/19\nSymbol:658/6480\nSędziowie:asesor Joanna Kruszewska-G
- rońska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzec
- zniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Komendant Rejonowy Policji Warszawa I - II SAB/Wa 834/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200519T000000
 DESCRIPTION:Data:2020-05-19\nGodzina:\nOrgan administracji:Komendant Rejon
@@ -48,6 +37,17 @@ DESCRIPTION:Data:2020-05-19\nGodzina:\nOrgan administracji:Komendant Rejon
  i:bezczynność organu w zakresie wniosku z dnia 24 czerwca 2019 r. o udos
  tępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono
   skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Komendant Powiatowy Policji w Płońsku - II SAB/Wa 785/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200519T000000
+DESCRIPTION:Data:2020-05-19\nGodzina:\nOrgan administracji:Komendant Powia
+ towy Policji w Płońsku\nPrzedmiot:\nPrzewodniczący:Andrzej Kołodziej\n
+ Sala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura ak
+ t:II SAB/Wa 785/19\nSymbol:658/6480\nSędziowie:asesor Joanna Kruszewska-G
+ rońska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzec
+ zniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -128,18 +128,6 @@ DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Rektor Uniwersy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Cyfryzacji - II SA/Wa 92/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
-DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Minister Cyfryz
- acji\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:A
- ndrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góra
- j\nSygnatura akt:II SA/Wa 92/20\nSymbol:6480\nSędziowie:Izabela Głowacka
- -Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:odmowa udost
- ępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:Uchylono 
- zaskarżoną decyzję |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Minister Cyfryzacji - II SAB/Wa 33/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
 DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Minister Cyfryz
@@ -149,6 +137,18 @@ DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Minister Cyfryz
  zej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie
   rozpoznania wniosku z dnia 17 marca 2019 r. o udostępnienie informacji p
  ublicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Cyfryzacji - II SA/Wa 92/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
+DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Minister Cyfryz
+ acji\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:A
+ ndrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góra
+ j\nSygnatura akt:II SA/Wa 92/20\nSymbol:6480\nSędziowie:Izabela Głowacka
+ -Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:odmowa udost
+ ępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:Uchylono 
+ zaskarżoną decyzję |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -466,20 +466,6 @@ DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Prezes Urzędu
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A. w Warszawi
- e - II SAB/Wa 212/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T000000
-DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Operator Gazoci
- ągów Przesyłowych GAZ-SYSTEM S.A. w Warszawie\nPrzedmiot:Bezczynność 
- organu\nPrzewodniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnych\nSp
- rawozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 212/20\nSymbol:658/6480\
- nSędziowie:Sławomir Fularski\, Łukasz Krzycki\nTyp posiedzenia:Niejawne
- \nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 29 sierpnia
-  2019 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\n
- Wyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa - II 
  SAB/Wa 181/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T000000
@@ -506,6 +492,20 @@ DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Platforma Obywa
  cznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że 
  bezczynność miała miejsce bez rażącego naruszenia prawa |Zasądzono z
  wrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A. w Warszawi
+ e - II SAB/Wa 212/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T000000
+DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Operator Gazoci
+ ągów Przesyłowych GAZ-SYSTEM S.A. w Warszawie\nPrzedmiot:Bezczynność 
+ organu\nPrzewodniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnych\nSp
+ rawozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 212/20\nSymbol:658/6480\
+ nSędziowie:Sławomir Fularski\, Łukasz Krzycki\nTyp posiedzenia:Niejawne
+ \nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 29 sierpnia
+  2019 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\n
+ Wyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -584,31 +584,6 @@ DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Dyrektor Filhar
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezydent Miasta Pruszkowa - II SAB/Wa 107/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200529T000000
-DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Prezydent Miast
- a Pruszkowa\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Macieju
- k\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatu
- ra akt:II SAB/Wa 107/20\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Ewa
-  Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie
-  rozpoznania wniosku z dnia 2 grudnia 2019 r. o udostępnienie informacji 
- publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prokurator Rejonowy w Płońsku - II SAB/Wa 777/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200529T000000
-DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Prokurator Rejo
- nowy w Płońsku\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Danuta K
- ania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnatur
- a akt:II SAB/Wa 777/19\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Ewa 
- Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność i przewlekłe 
- prowadzenie postępowania w pzedmiocie rozpoznania wniosku z 1 września 2
- 019 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWy
- niki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Wójt Gminy Mała Wieś - II SAB/Wa 133/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200529T000000
 DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Wójt Gminy Ma
@@ -635,6 +610,31 @@ DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Minister Kultur
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prokurator Rejonowy w Płońsku - II SAB/Wa 777/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200529T000000
+DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Prokurator Rejo
+ nowy w Płońsku\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Danuta K
+ ania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnatur
+ a akt:II SAB/Wa 777/19\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Ewa 
+ Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność i przewlekłe 
+ prowadzenie postępowania w pzedmiocie rozpoznania wniosku z 1 września 2
+ 019 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWy
+ niki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezydent Miasta Pruszkowa - II SAB/Wa 107/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200529T000000
+DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Prezydent Miast
+ a Pruszkowa\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Macieju
+ k\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatu
+ ra akt:II SAB/Wa 107/20\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Ewa
+  Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie
+  rozpoznania wniosku z dnia 2 grudnia 2019 r. o udostępnienie informacji 
+ publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prokurator Generalny - II SAB/Wa 205/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200608T000000
 DESCRIPTION:Data:2020-06-08\nGodzina:\nOrgan administracji:Prokurator Gene
@@ -656,7 +656,7 @@ DESCRIPTION:Data:2020-06-08\nGodzina:\nOrgan administracji:Minister Cyfryz
  natura akt:II SAB/Wa 257/20\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, 
  asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:bezczyn
  ność w przedmiocie rozpoznania wniosku z 10 marca 2020 r. o udostępnien
- ie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ ie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -669,6 +669,7 @@ DESCRIPTION:Data:2020-06-08\nGodzina:\nOrgan administracji:Szef Kancelarii
   Góraj\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwa
  gi:bezczynność w przedmiocie rozpoznania wniosku z dnia 6 grudnia 2019 r
  . o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -680,7 +681,10 @@ DESCRIPTION:Data:2020-06-08\nGodzina:\nOrgan administracji:Krajowa Rada Fi
  ńska\nSygnatura akt:II SAB/Wa 100/20\nSymbol:658/6480\nSędziowie:Andrzej
   Góraj\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwa
  gi:bezczynność w przedmiocie rozpoznania wniosku z dnia 18 lipca 2019 r.
-  o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+  o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Z
+ obowiązano ... i stwierdzono że bezczynność miała miejsce bez rażąc
+ ego naruszenia prawa |Oddalono skargę w części |Zasądzono zwrot koszt
+ ów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -693,7 +697,101 @@ DESCRIPTION:Data:2020-06-08\nGodzina:\nOrgan administracji:Rektor-Komendan
  ń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura akt:II SA/Wa 945/20
  \nSymbol:6480\nSędziowie:Andrzej Góraj\, asesor Joanna Kruszewska-Grońs
  ka\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publi
- cznej\nWydział orzeczniczy:II\nWyniki:
+ cznej\nWydział orzeczniczy:II\nWyniki:Uchylono zaskarżoną decyzję |Zas
+ ądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Cyfryzacji - II SAB/Wa 140/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200609T000000
+DESCRIPTION:Data:2020-06-09\nGodzina:\nOrgan administracji:Minister Cyfryz
+ acji\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowska\nSa
+ la:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura akt:
+ II SAB/Wa 140/20\nSymbol:6480\nSędziowie:Danuta Kania\, Iwona Maciejuk\nT
+ yp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania wniosku
+  z dnia 13 stycznia 2020 r. o udostępnienie informacji publicznej\nWydzia
+ ł orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Przew. Międzyresortowej Komisji Orzekaj. w sprawach o narusze
+ nie dysc. fin. publ. przy min. właściwy - II SAB/Wa 237/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200609T000000
+DESCRIPTION:Data:2020-06-09\nGodzina:\nOrgan administracji:Przew. Międzyr
+ esortowej Komisji Orzekaj. w sprawach o naruszenie dysc. fin. publ. przy m
+ in. właściwy\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa Marcin
+ kowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnat
+ ura akt:II SAB/Wa 237/20\nSymbol:658/6480\nSędziowie:Danuta Kania\, Iwona
+  Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie roz
+ poznania wniosku z dnia 5 lutego 2019 r.i 11 marca 2019 r. o udostępnieni
+ e informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... 
+ i stwierdzono że bezczynność miała miejsce bez rażącego naruszenia p
+ rawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Teatr Polski im. Arnolda Szyfmana w Warszawie - II SAB/Wa 175/
+ 20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200609T000000
+DESCRIPTION:Data:2020-06-09\nGodzina:\nOrgan administracji:Teatr Polski im
+ . Arnolda Szyfmana w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodnic
+ zący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa 
+ Marcinkowska\nSygnatura akt:II SAB/Wa 175/20\nSymbol:658/6480\nSędziowie:
+ Danuta Kania\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
+ ć w przedmiocie rozpoznania wniosku o udostępnienie informacji publiczne
+ j z dnia 30 stycznia 2020 r.\nWydział orzeczniczy:II\nWyniki:Zobowiązano
+  ... i stwierdzono że bezczynność miała miejsce bez rażącego narusze
+ nia prawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Kancelaria Prezydenta Rzeczypospolitej Polskiej - II SAB/Wa 26
+ 1/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200609T000000
+DESCRIPTION:Data:2020-06-09\nGodzina:\nOrgan administracji:Kancelaria Prez
+ ydenta Rzeczypospolitej Polskiej\nPrzedmiot:Informacja publiczna\nPrzewodn
+ iczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iw
+ ona Maciejuk\nSygnatura akt:II SAB/Wa 261/20\nSymbol:658/6480\nSędziowie:
+ Danuta Kania\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
+ ć w przedmiocie rozpoznania wniosku z 24 marca 2020 r. o udostępnienie i
+ nformacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Łyse - II SAB/Wa 203/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200609T000000
+DESCRIPTION:Data:2020-06-09\nGodzina:\nOrgan administracji:Wójt Gminy Ły
+ se\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Izabela Głowacka-Klim
+ as\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Łukasz Krzycki\nSygnatu
+ ra akt:II SAB/Wa 203/20\nSymbol:658/6480\nSędziowie:Łukasz Krzycki\, And
+ rzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmioci
+ e rozpoznania wniosku z dnia 16 lipca 2019 r. o udostępnienie informacji 
+ publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Mochowo - II SAB/Wa 201/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200609T000000
+DESCRIPTION:Data:2020-06-09\nGodzina:\nOrgan administracji:Wójt Gminy Moc
+ howo\nPrzedmiot:Bezczynność organu\; Bezczynność organu\; Bezczynnoś
+ ć organu\nPrzewodniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń 
+ niejawnych\nSprawozdawca:Izabela Głowacka-Klimas\nSygnatura akt:II SAB/Wa
+  201/20\nSymbol:658/6480\nSędziowie:Łukasz Krzycki\, Andrzej Wieczorek\n
+ Typ posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowią
+ zano ... i stwierdzono że bezczynność miała miejsce bez rażącego nar
+ uszenia prawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Polska Fundacja Narodowa - II SA/Wa 115/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200609T000000
+DESCRIPTION:Data:2020-06-09\nGodzina:\nOrgan administracji:Polska Fundacja
+  Narodowa\nPrzedmiot:Zawieszenie postępowania administracyjnego\nPrzewodn
+ iczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawoz
+ dawca:Izabela Głowacka-Klimas\nSygnatura akt:II SA/Wa 115/20\nSymbol:6480
+ \nSędziowie:Łukasz Krzycki\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne
+ \nUwagi:zawieszenie postępowania w sprawie wniosku z dnia 26 września 20
+ 19 r.\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -723,17 +821,6 @@ DESCRIPTION:Data:2020-05-19\nGodzina:\nOrgan administracji:Polski Związek
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Komendant Powiatowy Policji w Płońsku - II SAB/Wa 785/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200519T000000
-DESCRIPTION:Data:2020-05-19\nGodzina:\nOrgan administracji:Komendant Powia
- towy Policji w Płońsku\nPrzedmiot:\nPrzewodniczący:Andrzej Kołodziej\n
- Sala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura ak
- t:II SAB/Wa 785/19\nSymbol:658/6480\nSędziowie:asesor Joanna Kruszewska-G
- rońska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzec
- zniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Komendant Rejonowy Policji Warszawa I - II SAB/Wa 834/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200519T000000
 DESCRIPTION:Data:2020-05-19\nGodzina:\nOrgan administracji:Komendant Rejon
@@ -744,6 +831,17 @@ DESCRIPTION:Data:2020-05-19\nGodzina:\nOrgan administracji:Komendant Rejon
  i:bezczynność organu w zakresie wniosku z dnia 24 czerwca 2019 r. o udos
  tępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono
   skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Komendant Powiatowy Policji w Płońsku - II SAB/Wa 785/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200519T000000
+DESCRIPTION:Data:2020-05-19\nGodzina:\nOrgan administracji:Komendant Powia
+ towy Policji w Płońsku\nPrzedmiot:\nPrzewodniczący:Andrzej Kołodziej\n
+ Sala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura ak
+ t:II SAB/Wa 785/19\nSymbol:658/6480\nSędziowie:asesor Joanna Kruszewska-G
+ rońska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzec
+ zniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -824,18 +922,6 @@ DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Rektor Uniwersy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Cyfryzacji - II SA/Wa 92/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
-DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Minister Cyfryz
- acji\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:A
- ndrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góra
- j\nSygnatura akt:II SA/Wa 92/20\nSymbol:6480\nSędziowie:Izabela Głowacka
- -Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:odmowa udost
- ępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:Uchylono 
- zaskarżoną decyzję |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Minister Cyfryzacji - II SAB/Wa 33/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
 DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Minister Cyfryz
@@ -845,6 +931,18 @@ DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Minister Cyfryz
  zej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie
   rozpoznania wniosku z dnia 17 marca 2019 r. o udostępnienie informacji p
  ublicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Cyfryzacji - II SA/Wa 92/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200520T000000
+DESCRIPTION:Data:2020-05-20\nGodzina:\nOrgan administracji:Minister Cyfryz
+ acji\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:A
+ ndrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góra
+ j\nSygnatura akt:II SA/Wa 92/20\nSymbol:6480\nSędziowie:Izabela Głowacka
+ -Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:odmowa udost
+ ępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:Uchylono 
+ zaskarżoną decyzję |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1162,20 +1260,6 @@ DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Prezes Urzędu
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A. w Warszawi
- e - II SAB/Wa 212/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T000000
-DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Operator Gazoci
- ągów Przesyłowych GAZ-SYSTEM S.A. w Warszawie\nPrzedmiot:Bezczynność 
- organu\nPrzewodniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnych\nSp
- rawozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 212/20\nSymbol:658/6480\
- nSędziowie:Sławomir Fularski\, Łukasz Krzycki\nTyp posiedzenia:Niejawne
- \nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 29 sierpnia
-  2019 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\n
- Wyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Agencji Restrukturyzacji i Modernizacji Rolnictwa - II 
  SAB/Wa 181/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T000000
@@ -1202,6 +1286,20 @@ DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Platforma Obywa
  cznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że 
  bezczynność miała miejsce bez rażącego naruszenia prawa |Zasądzono z
  wrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Operator Gazociągów Przesyłowych GAZ-SYSTEM S.A. w Warszawi
+ e - II SAB/Wa 212/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200527T000000
+DESCRIPTION:Data:2020-05-27\nGodzina:\nOrgan administracji:Operator Gazoci
+ ągów Przesyłowych GAZ-SYSTEM S.A. w Warszawie\nPrzedmiot:Bezczynność 
+ organu\nPrzewodniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnych\nSp
+ rawozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 212/20\nSymbol:658/6480\
+ nSędziowie:Sławomir Fularski\, Łukasz Krzycki\nTyp posiedzenia:Niejawne
+ \nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 29 sierpnia
+  2019 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\n
+ Wyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1280,31 +1378,6 @@ DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Dyrektor Filhar
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezydent Miasta Pruszkowa - II SAB/Wa 107/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200529T000000
-DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Prezydent Miast
- a Pruszkowa\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Macieju
- k\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatu
- ra akt:II SAB/Wa 107/20\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Ewa
-  Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie
-  rozpoznania wniosku z dnia 2 grudnia 2019 r. o udostępnienie informacji 
- publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prokurator Rejonowy w Płońsku - II SAB/Wa 777/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200529T000000
-DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Prokurator Rejo
- nowy w Płońsku\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Danuta K
- ania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnatur
- a akt:II SAB/Wa 777/19\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Ewa 
- Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność i przewlekłe 
- prowadzenie postępowania w pzedmiocie rozpoznania wniosku z 1 września 2
- 019 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWy
- niki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Wójt Gminy Mała Wieś - II SAB/Wa 133/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200529T000000
 DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Wójt Gminy Ma
@@ -1331,6 +1404,31 @@ DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Minister Kultur
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prokurator Rejonowy w Płońsku - II SAB/Wa 777/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200529T000000
+DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Prokurator Rejo
+ nowy w Płońsku\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Danuta K
+ ania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnatur
+ a akt:II SAB/Wa 777/19\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Ewa 
+ Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność i przewlekłe 
+ prowadzenie postępowania w pzedmiocie rozpoznania wniosku z 1 września 2
+ 019 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWy
+ niki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezydent Miasta Pruszkowa - II SAB/Wa 107/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200529T000000
+DESCRIPTION:Data:2020-05-29\nGodzina:\nOrgan administracji:Prezydent Miast
+ a Pruszkowa\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Macieju
+ k\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatu
+ ra akt:II SAB/Wa 107/20\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Ewa
+  Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie
+  rozpoznania wniosku z dnia 2 grudnia 2019 r. o udostępnienie informacji 
+ publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prokurator Generalny - II SAB/Wa 205/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200608T000000
 DESCRIPTION:Data:2020-06-08\nGodzina:\nOrgan administracji:Prokurator Gene
@@ -1352,7 +1450,7 @@ DESCRIPTION:Data:2020-06-08\nGodzina:\nOrgan administracji:Minister Cyfryz
  natura akt:II SAB/Wa 257/20\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, 
  asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:bezczyn
  ność w przedmiocie rozpoznania wniosku z 10 marca 2020 r. o udostępnien
- ie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ ie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1365,6 +1463,7 @@ DESCRIPTION:Data:2020-06-08\nGodzina:\nOrgan administracji:Szef Kancelarii
   Góraj\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwa
  gi:bezczynność w przedmiocie rozpoznania wniosku z dnia 6 grudnia 2019 r
  . o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1376,7 +1475,10 @@ DESCRIPTION:Data:2020-06-08\nGodzina:\nOrgan administracji:Krajowa Rada Fi
  ńska\nSygnatura akt:II SAB/Wa 100/20\nSymbol:658/6480\nSędziowie:Andrzej
   Góraj\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwa
  gi:bezczynność w przedmiocie rozpoznania wniosku z dnia 18 lipca 2019 r.
-  o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+  o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Z
+ obowiązano ... i stwierdzono że bezczynność miała miejsce bez rażąc
+ ego naruszenia prawa |Oddalono skargę w części |Zasądzono zwrot koszt
+ ów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1389,7 +1491,101 @@ DESCRIPTION:Data:2020-06-08\nGodzina:\nOrgan administracji:Rektor-Komendan
  ń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura akt:II SA/Wa 945/20
  \nSymbol:6480\nSędziowie:Andrzej Góraj\, asesor Joanna Kruszewska-Grońs
  ka\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publi
- cznej\nWydział orzeczniczy:II\nWyniki:
+ cznej\nWydział orzeczniczy:II\nWyniki:Uchylono zaskarżoną decyzję |Zas
+ ądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Cyfryzacji - II SAB/Wa 140/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200609T000000
+DESCRIPTION:Data:2020-06-09\nGodzina:\nOrgan administracji:Minister Cyfryz
+ acji\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowska\nSa
+ la:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura akt:
+ II SAB/Wa 140/20\nSymbol:6480\nSędziowie:Danuta Kania\, Iwona Maciejuk\nT
+ yp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania wniosku
+  z dnia 13 stycznia 2020 r. o udostępnienie informacji publicznej\nWydzia
+ ł orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Przew. Międzyresortowej Komisji Orzekaj. w sprawach o narusze
+ nie dysc. fin. publ. przy min. właściwy - II SAB/Wa 237/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200609T000000
+DESCRIPTION:Data:2020-06-09\nGodzina:\nOrgan administracji:Przew. Międzyr
+ esortowej Komisji Orzekaj. w sprawach o naruszenie dysc. fin. publ. przy m
+ in. właściwy\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa Marcin
+ kowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnat
+ ura akt:II SAB/Wa 237/20\nSymbol:658/6480\nSędziowie:Danuta Kania\, Iwona
+  Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie roz
+ poznania wniosku z dnia 5 lutego 2019 r.i 11 marca 2019 r. o udostępnieni
+ e informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... 
+ i stwierdzono że bezczynność miała miejsce bez rażącego naruszenia p
+ rawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Teatr Polski im. Arnolda Szyfmana w Warszawie - II SAB/Wa 175/
+ 20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200609T000000
+DESCRIPTION:Data:2020-06-09\nGodzina:\nOrgan administracji:Teatr Polski im
+ . Arnolda Szyfmana w Warszawie\nPrzedmiot:Informacja publiczna\nPrzewodnic
+ zący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa 
+ Marcinkowska\nSygnatura akt:II SAB/Wa 175/20\nSymbol:658/6480\nSędziowie:
+ Danuta Kania\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
+ ć w przedmiocie rozpoznania wniosku o udostępnienie informacji publiczne
+ j z dnia 30 stycznia 2020 r.\nWydział orzeczniczy:II\nWyniki:Zobowiązano
+  ... i stwierdzono że bezczynność miała miejsce bez rażącego narusze
+ nia prawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Kancelaria Prezydenta Rzeczypospolitej Polskiej - II SAB/Wa 26
+ 1/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200609T000000
+DESCRIPTION:Data:2020-06-09\nGodzina:\nOrgan administracji:Kancelaria Prez
+ ydenta Rzeczypospolitej Polskiej\nPrzedmiot:Informacja publiczna\nPrzewodn
+ iczący:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iw
+ ona Maciejuk\nSygnatura akt:II SAB/Wa 261/20\nSymbol:658/6480\nSędziowie:
+ Danuta Kania\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
+ ć w przedmiocie rozpoznania wniosku z 24 marca 2020 r. o udostępnienie i
+ nformacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Łyse - II SAB/Wa 203/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200609T000000
+DESCRIPTION:Data:2020-06-09\nGodzina:\nOrgan administracji:Wójt Gminy Ły
+ se\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Izabela Głowacka-Klim
+ as\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Łukasz Krzycki\nSygnatu
+ ra akt:II SAB/Wa 203/20\nSymbol:658/6480\nSędziowie:Łukasz Krzycki\, And
+ rzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmioci
+ e rozpoznania wniosku z dnia 16 lipca 2019 r. o udostępnienie informacji 
+ publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Mochowo - II SAB/Wa 201/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200609T000000
+DESCRIPTION:Data:2020-06-09\nGodzina:\nOrgan administracji:Wójt Gminy Moc
+ howo\nPrzedmiot:Bezczynność organu\; Bezczynność organu\; Bezczynnoś
+ ć organu\nPrzewodniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń 
+ niejawnych\nSprawozdawca:Izabela Głowacka-Klimas\nSygnatura akt:II SAB/Wa
+  201/20\nSymbol:658/6480\nSędziowie:Łukasz Krzycki\, Andrzej Wieczorek\n
+ Typ posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowią
+ zano ... i stwierdzono że bezczynność miała miejsce bez rażącego nar
+ uszenia prawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Polska Fundacja Narodowa - II SA/Wa 115/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200609T000000
+DESCRIPTION:Data:2020-06-09\nGodzina:\nOrgan administracji:Polska Fundacja
+  Narodowa\nPrzedmiot:Zawieszenie postępowania administracyjnego\nPrzewodn
+ iczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawoz
+ dawca:Izabela Głowacka-Klimas\nSygnatura akt:II SA/Wa 115/20\nSymbol:6480
+ \nSędziowie:Łukasz Krzycki\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne
+ \nUwagi:zawieszenie postępowania w sprawie wniosku z dnia 26 września 20
+ 19 r.\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
