@@ -18,6 +18,7 @@ ETR_URL = "https://bip.warszawa.wsa.gov.pl/183/elektroniczny-terminarz-rozpraw.h
 
 session = requests.Session()
 
+
 def fix_dict(row):
     return {key.strip(";"): value.strip(";") for key, value in row.items()}
 
@@ -92,9 +93,7 @@ def make_cal(data):
 def main():
     rows = list(
         itertools.chain(
-            etr_query(symbol=648),
-            etr_query(symbol=6480),
-            etr_query(symbol=6481)
+            etr_query(symbol=648), etr_query(symbol=6480), etr_query(symbol=6481)
         )
     )
     if len(rows) == 0:
