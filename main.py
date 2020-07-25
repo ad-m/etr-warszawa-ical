@@ -14,8 +14,9 @@ from pytz import timezone
 
 csv.register_dialect("etr", delimiter=" ", quotechar="'", quoting=csv.QUOTE_ALL)
 
-ETR_URL = "http://www.warszawa.wsa.gov.pl/183/elektroniczny-terminarz-rozpraw.html"
+ETR_URL = "https://bip.warszawa.wsa.gov.pl/183/elektroniczny-terminarz-rozpraw.html"
 
+session = requests.Session()
 
 def fix_dict(row):
     return {key.strip(";"): value.strip(";") for key, value in row.items()}
@@ -32,11 +33,12 @@ def row_to_text(row):
 
 
 def etr_query(**kwargs):
-
     time_start = (datetime.datetime.now() - datetime.timedelta(days=30)).strftime(
         "%Y-%m-%d"
     )
-    time_end = datetime.datetime.now().strftime("%Y-%m-%d")
+    time_end = (datetime.datetime.now() + datetime.timedelta(days=30)).strftime(
+        "%Y-%m-%d"
+    )
     data = {
         "sygnatura": "",
         "data_posiedzenia": time_start,
@@ -52,7 +54,7 @@ def etr_query(**kwargs):
         "guzik": "Filtruj / Sortuj",
     }
     data.update(kwargs)
-    soup = BeautifulSoup(requests.post(ETR_URL, data=data).text, "html.parser")
+    soup = BeautifulSoup(session.post(ETR_URL, data=data).text, "html.parser")
     csv_text = soup.find("div", attrs={"id": "csv_text"}).text
     csv_data = csv.DictReader(StringIO(csv_text), dialect="etr")
     return map(fix_dict, csv_data)
@@ -88,11 +90,16 @@ def make_cal(data):
 
 
 def main():
-    cal = make_cal(
+    rows = list(
         itertools.chain(
-            etr_query(symbol=648), etr_query(symbol=6480), etr_query(symbol=6481)
+            etr_query(symbol=648),
+            etr_query(symbol=6480),
+            etr_query(symbol=6481)
         )
     )
+    if len(rows) == 0:
+        raise Exception("Missing data to fetch")
+    cal = make_cal(rows)
     open("648.ics", "wb").write(cal.to_ical())
 
 
