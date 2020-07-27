@@ -352,11 +352,11 @@ BEGIN:VEVENT
 SUMMARY:[J] Burmistrz Miasta i Gminy Piaseczno - II SA/Wa 2485/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200723T090000
 DESCRIPTION:Data:2020-07-23\nGodzina:09:00\nOrgan administracji:Burmistrz 
- Miasta i Gminy Piaseczno\nPrzedmiot:Informacja publiczna\nPrzewodniczący:
- Łukasz Krzycki\nSala:Sala F\nSprawozdawca:Łukasz Krzycki\nSygnatura akt:
- II SA/Wa 2485/19\nSymbol:6480\nSędziowie:asesor Joanna Kruszewska-Grońsk
- a\, Tomasz Szmydt\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia info
- rmacji publicznej\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+ Miasta i Gminy Piaseczno\nPrzedmiot:Informacja publiczna\; Informacja publ
+ iczna\nPrzewodniczący:Łukasz Krzycki\nSala:Sala F\nSprawozdawca:Łukasz 
+ Krzycki\nSygnatura akt:II SA/Wa 2485/19\nSymbol:6480\nSędziowie:asesor Jo
+ anna Kruszewska-Grońska\, Tomasz Szmydt\nTyp posiedzenia:Jawne\nUwagi:\nW
+ ydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -440,17 +440,6 @@ DESCRIPTION:Data:2020-08-04\nGodzina:09:00\nOrgan administracji:Prezes Urz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Rektor UW - II SA/Wa 2497/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200805T000000
-DESCRIPTION:Data:2020-08-05\nGodzina:\nOrgan administracji:Rektor UW\nPrze
- dmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Piotr Borow
- iecki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSyg
- natura akt:II SA/Wa 2497/19\nSymbol:6480\nSędziowie:Agnieszka Góra-Błas
- zczykowska\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:odmowa udost
- ępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Starosta Powiatu Przasnyskiego - II SAB/Wa 183/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200805T000000
 DESCRIPTION:Data:2020-08-05\nGodzina:\nOrgan administracji:Starosta Powiat
@@ -461,6 +450,17 @@ DESCRIPTION:Data:2020-08-05\nGodzina:\nOrgan administracji:Starosta Powiat
  e\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 12 grudnia
   2018 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\n
  Wyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Rektor UW - II SA/Wa 2497/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200805T000000
+DESCRIPTION:Data:2020-08-05\nGodzina:\nOrgan administracji:Rektor UW\nPrze
+ dmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Piotr Borow
+ iecki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSyg
+ natura akt:II SA/Wa 2497/19\nSymbol:6480\nSędziowie:Agnieszka Góra-Błas
+ zczykowska\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:odmowa udost
+ ępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -488,6 +488,18 @@ DESCRIPTION:Data:2020-08-12\nGodzina:09:30\nOrgan administracji:Miejskie P
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Polska Fundacja Narodowa - II SAB/Wa 793/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200819T000000
+DESCRIPTION:Data:2020-08-19\nGodzina:\nOrgan administracji:Polska Fundacja
+  Narodowa\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Izabela Głowac
+ ka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowacka
+ -Klimas\nSygnatura akt:II SAB/Wa 793/19\nSymbol:658/6480\nSędziowie:Andrz
+ ej Góraj\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
+ ć i przelekłość w przedmiocie rozpoznania wniosku o udostępnienie inf
+ ormacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Wójt Gminy Jabłonna - II SAB/Wa 774/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200819T000000
 DESCRIPTION:Data:2020-08-19\nGodzina:\nOrgan administracji:Wójt Gminy Jab
@@ -509,18 +521,6 @@ DESCRIPTION:Data:2020-08-19\nGodzina:\nOrgan administracji:Polska Fundacja
  as\nSygnatura akt:II SA/Wa 115/20\nSymbol:6480\nSędziowie:Andrzej Góraj\
  , Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzecznicz
  y:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Polska Fundacja Narodowa - II SAB/Wa 793/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200819T000000
-DESCRIPTION:Data:2020-08-19\nGodzina:\nOrgan administracji:Polska Fundacja
-  Narodowa\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Izabela Głowac
- ka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowacka
- -Klimas\nSygnatura akt:II SAB/Wa 793/19\nSymbol:658/6480\nSędziowie:Andrz
- ej Góraj\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
- ć i przelekłość w przedmiocie rozpoznania wniosku o udostępnienie inf
- ormacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -583,6 +583,18 @@ DESCRIPTION:Data:2020-08-25\nGodzina:\nOrgan administracji:Polska Wytwórn
  osiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku
   z dnia 25 kwietnia 2020 r. o udostępnienie informacji publicznej\nWydzia
  ł orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Sądu Rejonowego w Węgrowie - II SAB/Wa 241/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200826T000000
+DESCRIPTION:Data:2020-08-26\nGodzina:\nOrgan administracji:Prezes Sądu Re
+ jonowego w Węgrowie\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andr
+ zej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kube\
+ nSygnatura akt:II SAB/Wa 241/20\nSymbol:658/6480\nSędziowie:Agnieszka Gó
+ ra-Błaszczykowska\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynn
+ ość w sprawie rozpoznania wniosku z dnia 3 marca 2020 r. o udostępnieni
+ e informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -937,11 +949,11 @@ BEGIN:VEVENT
 SUMMARY:[J] Burmistrz Miasta i Gminy Piaseczno - II SA/Wa 2485/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200723T090000
 DESCRIPTION:Data:2020-07-23\nGodzina:09:00\nOrgan administracji:Burmistrz 
- Miasta i Gminy Piaseczno\nPrzedmiot:Informacja publiczna\nPrzewodniczący:
- Łukasz Krzycki\nSala:Sala F\nSprawozdawca:Łukasz Krzycki\nSygnatura akt:
- II SA/Wa 2485/19\nSymbol:6480\nSędziowie:asesor Joanna Kruszewska-Grońsk
- a\, Tomasz Szmydt\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia info
- rmacji publicznej\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+ Miasta i Gminy Piaseczno\nPrzedmiot:Informacja publiczna\; Informacja publ
+ iczna\nPrzewodniczący:Łukasz Krzycki\nSala:Sala F\nSprawozdawca:Łukasz 
+ Krzycki\nSygnatura akt:II SA/Wa 2485/19\nSymbol:6480\nSędziowie:asesor Jo
+ anna Kruszewska-Grońska\, Tomasz Szmydt\nTyp posiedzenia:Jawne\nUwagi:\nW
+ ydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1025,17 +1037,6 @@ DESCRIPTION:Data:2020-08-04\nGodzina:09:00\nOrgan administracji:Prezes Urz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Rektor UW - II SA/Wa 2497/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200805T000000
-DESCRIPTION:Data:2020-08-05\nGodzina:\nOrgan administracji:Rektor UW\nPrze
- dmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Piotr Borow
- iecki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSyg
- natura akt:II SA/Wa 2497/19\nSymbol:6480\nSędziowie:Agnieszka Góra-Błas
- zczykowska\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:odmowa udost
- ępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Starosta Powiatu Przasnyskiego - II SAB/Wa 183/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200805T000000
 DESCRIPTION:Data:2020-08-05\nGodzina:\nOrgan administracji:Starosta Powiat
@@ -1046,6 +1047,17 @@ DESCRIPTION:Data:2020-08-05\nGodzina:\nOrgan administracji:Starosta Powiat
  e\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 12 grudnia
   2018 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\n
  Wyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Rektor UW - II SA/Wa 2497/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200805T000000
+DESCRIPTION:Data:2020-08-05\nGodzina:\nOrgan administracji:Rektor UW\nPrze
+ dmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Piotr Borow
+ iecki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSyg
+ natura akt:II SA/Wa 2497/19\nSymbol:6480\nSędziowie:Agnieszka Góra-Błas
+ zczykowska\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:odmowa udost
+ ępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1073,6 +1085,18 @@ DESCRIPTION:Data:2020-08-12\nGodzina:09:30\nOrgan administracji:Miejskie P
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Polska Fundacja Narodowa - II SAB/Wa 793/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200819T000000
+DESCRIPTION:Data:2020-08-19\nGodzina:\nOrgan administracji:Polska Fundacja
+  Narodowa\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Izabela Głowac
+ ka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowacka
+ -Klimas\nSygnatura akt:II SAB/Wa 793/19\nSymbol:658/6480\nSędziowie:Andrz
+ ej Góraj\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
+ ć i przelekłość w przedmiocie rozpoznania wniosku o udostępnienie inf
+ ormacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Wójt Gminy Jabłonna - II SAB/Wa 774/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200819T000000
 DESCRIPTION:Data:2020-08-19\nGodzina:\nOrgan administracji:Wójt Gminy Jab
@@ -1094,18 +1118,6 @@ DESCRIPTION:Data:2020-08-19\nGodzina:\nOrgan administracji:Polska Fundacja
  as\nSygnatura akt:II SA/Wa 115/20\nSymbol:6480\nSędziowie:Andrzej Góraj\
  , Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzecznicz
  y:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Polska Fundacja Narodowa - II SAB/Wa 793/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200819T000000
-DESCRIPTION:Data:2020-08-19\nGodzina:\nOrgan administracji:Polska Fundacja
-  Narodowa\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Izabela Głowac
- ka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowacka
- -Klimas\nSygnatura akt:II SAB/Wa 793/19\nSymbol:658/6480\nSędziowie:Andrz
- ej Góraj\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
- ć i przelekłość w przedmiocie rozpoznania wniosku o udostępnienie inf
- ormacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1168,6 +1180,18 @@ DESCRIPTION:Data:2020-08-25\nGodzina:\nOrgan administracji:Polska Wytwórn
  osiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku
   z dnia 25 kwietnia 2020 r. o udostępnienie informacji publicznej\nWydzia
  ł orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Sądu Rejonowego w Węgrowie - II SAB/Wa 241/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200826T000000
+DESCRIPTION:Data:2020-08-26\nGodzina:\nOrgan administracji:Prezes Sądu Re
+ jonowego w Węgrowie\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andr
+ zej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kube\
+ nSygnatura akt:II SAB/Wa 241/20\nSymbol:658/6480\nSędziowie:Agnieszka Gó
+ ra-Błaszczykowska\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynn
+ ość w sprawie rozpoznania wniosku z dnia 3 marca 2020 r. o udostępnieni
+ e informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
