@@ -107,18 +107,6 @@ DESCRIPTION:Data:2020-07-30\nGodzina:11:15\nOrgan administracji:Prokurator
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Polskie Koleje Państwowe S.A. - II SAB/Wa 334/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200804T000000
-DESCRIPTION:Data:2020-08-04\nGodzina:\nOrgan administracji:Polskie Koleje 
- Państwowe S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Sz
- mydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatu
- ra akt:II SAB/Wa 334/20\nSymbol:658/6480\nSędziowie:asesor Karolina Kisie
- lewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
- sprawie rozpoznania wniosku z dnia 26 marca 2018 r. o udostępnienie infor
- macji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej - II 
  SA/Wa 1119/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200804T000000
@@ -143,6 +131,18 @@ DESCRIPTION:Data:2020-08-04\nGodzina:\nOrgan administracji:Prezes Urzędu
  dostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:Uchyl
  ono zaskarżoną decyzję w części |Oddalono skargę w części |Zasądz
  ono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Polskie Koleje Państwowe S.A. - II SAB/Wa 334/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200804T000000
+DESCRIPTION:Data:2020-08-04\nGodzina:\nOrgan administracji:Polskie Koleje 
+ Państwowe S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Sz
+ mydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatu
+ ra akt:II SAB/Wa 334/20\nSymbol:658/6480\nSędziowie:asesor Karolina Kisie
+ lewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
+ sprawie rozpoznania wniosku z dnia 26 marca 2018 r. o udostępnienie infor
+ macji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -281,7 +281,7 @@ DESCRIPTION:Data:2020-08-21\nGodzina:\nOrgan administracji:Dyrektor Narodo
  eszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUw
  agi:bezczynność w przedmiocie rozpoznania wniosku z dnia 18 lutego 2020 
  r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki
- :
+ :Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -292,8 +292,12 @@ DESCRIPTION:Data:2020-08-21\nGodzina:\nOrgan administracji:Telewizja Polsk
  ala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra-Błaszczykows
  ka\nSygnatura akt:II SAB/Wa 401/20\nSymbol:658/6480\nSędziowie:Agnieszka 
  Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:be
- zczynność w przedmiocie rozpoznania wniosku z dnia 7 grudnia 2018 r. o u
- dostępnienie danych osobowych\nWydział orzeczniczy:II\nWyniki:
+ zczynność po wydaniu wyroku przez Wojewódzki Sąd Administracyjny w War
+ szawie z dnia 17 lipca 2019 r. sygn. akt II SA/Wa 417/19\nWydział orzeczn
+ iczy:II\nWyniki:Stwierdzono bezczynność postępowania i że bezczynnoś
+ ć miała miejsce z rażącym naruszeniem prawa |Orzeczono o wymierzeniu g
+ rzywny za bezczynność-art. 149 par. 2 P.P.S.A. |Zasądzono zwrot kosztó
+ w postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -302,11 +306,11 @@ SUMMARY:[J] Polska Grupa Zbrojeniowa S.A. z siedzibą w Radomiu - VIII SA/
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200821T120000
 DESCRIPTION:Data:2020-08-21\nGodzina:12:00\nOrgan administracji:Polska Gru
  pa Zbrojeniowa S.A. z siedzibą w Radomiu\nPrzedmiot:Informacja publiczna\
- nPrzewodniczący:Iwona Owsińska-Gwiazda\nSala:Sala B Radom\nSprawozdawca:
- Marek Wroczyński\nSygnatura akt:VIII SA/Wa 224/20\nSymbol:644/6480\nSędz
- iowie:Renata Nawrot\, Marek Wroczyński\nTyp posiedzenia:Jawne\nUwagi:niew
- ykonanie wyroku w sprawie VIIISAB/Wa 94/17\nWydział orzeczniczy:VIII\nWyn
- iki:
+ ; Informacja publiczna\nPrzewodniczący:Iwona Owsińska-Gwiazda\nSala:Sala
+  B Radom\nSprawozdawca:Marek Wroczyński\nSygnatura akt:VIII SA/Wa 224/20\
+ nSymbol:644/6480\nSędziowie:Renata Nawrot\, Marek Wroczyński\nTyp posied
+ zenia:Jawne\nUwagi:\nWydział orzeczniczy:VIII\nWyniki:Odroczono ogłoszen
+ ie orzeczenia na dzień 2020-09-01
 LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -405,6 +409,18 @@ DESCRIPTION:Data:2020-09-01\nGodzina:10:00\nOrgan administracji:PKP Polski
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[?] Polska Grupa Zbrojeniowa S.A. z siedzibą w Radomiu - VIII SA/
+ Wa 224/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200901T100000
+DESCRIPTION:Data:2020-09-01\nGodzina:10:00\nOrgan administracji:Polska Gru
+ pa Zbrojeniowa S.A. z siedzibą w Radomiu\nPrzedmiot:Informacja publiczna\
+ ; Informacja publiczna\nPrzewodniczący:Marek Wroczyński\nSala:Sala B Rad
+ om\nSprawozdawca:Marek Wroczyński\nSygnatura akt:VIII SA/Wa 224/20\nSymbo
+ l:644/6480\nSędziowie:\nTyp posiedzenia:OGŁOSZENIE ORZECZENIA\nUwagi:\nW
+ ydział orzeczniczy:VIII\nWyniki:
+LOCATION:Wydzial VIII\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Minister Obrony Narodowej - II SA/Wa 2850/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200903T093000
 DESCRIPTION:Data:2020-09-03\nGodzina:09:30\nOrgan administracji:Minister O
@@ -491,18 +507,6 @@ DESCRIPTION:Data:2020-09-16\nGodzina:\nOrgan administracji:Minister Nauki
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Szef Agencji Wywiadu - II SAB/Wa 220/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200917T000000
-DESCRIPTION:Data:2020-09-17\nGodzina:\nOrgan administracji:Szef Agencji Wy
- wiadu\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmydt\nSala
- :Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatura 
- akt:II SAB/Wa 220/20\nSymbol:658/6480\nSędziowie:asesor Karolina Kisielew
- icz\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w spr
- awie rozpoznania wniosku z dnia 30 marca 2020 r. o udostępnienie informac
- ji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Naczelna Rada Lekarska w Warszawie - II SAB/Wa 286/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200917T000000
 DESCRIPTION:Data:2020-09-17\nGodzina:\nOrgan administracji:Naczelna Rada L
@@ -512,6 +516,18 @@ DESCRIPTION:Data:2020-09-17\nGodzina:\nOrgan administracji:Naczelna Rada L
  isielewicz\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
  ć w przedmiocie rozpoznania wniosku z dnia 12 kwietnia 2020 r. o udostęp
  nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Szef Agencji Wywiadu - II SAB/Wa 220/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200917T000000
+DESCRIPTION:Data:2020-09-17\nGodzina:\nOrgan administracji:Szef Agencji Wy
+ wiadu\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmydt\nSala
+ :Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatura 
+ akt:II SAB/Wa 220/20\nSymbol:658/6480\nSędziowie:asesor Karolina Kisielew
+ icz\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w spr
+ awie rozpoznania wniosku z dnia 30 marca 2020 r. o udostępnienie informac
+ ji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -621,18 +637,6 @@ DESCRIPTION:Data:2020-07-30\nGodzina:11:15\nOrgan administracji:Prokurator
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Polskie Koleje Państwowe S.A. - II SAB/Wa 334/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200804T000000
-DESCRIPTION:Data:2020-08-04\nGodzina:\nOrgan administracji:Polskie Koleje 
- Państwowe S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Sz
- mydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatu
- ra akt:II SAB/Wa 334/20\nSymbol:658/6480\nSędziowie:asesor Karolina Kisie
- lewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
- sprawie rozpoznania wniosku z dnia 26 marca 2018 r. o udostępnienie infor
- macji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej - II 
  SA/Wa 1119/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200804T000000
@@ -657,6 +661,18 @@ DESCRIPTION:Data:2020-08-04\nGodzina:\nOrgan administracji:Prezes Urzędu
  dostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:Uchyl
  ono zaskarżoną decyzję w części |Oddalono skargę w części |Zasądz
  ono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Polskie Koleje Państwowe S.A. - II SAB/Wa 334/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200804T000000
+DESCRIPTION:Data:2020-08-04\nGodzina:\nOrgan administracji:Polskie Koleje 
+ Państwowe S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Sz
+ mydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatu
+ ra akt:II SAB/Wa 334/20\nSymbol:658/6480\nSędziowie:asesor Karolina Kisie
+ lewicz\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
+ sprawie rozpoznania wniosku z dnia 26 marca 2018 r. o udostępnienie infor
+ macji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -795,7 +811,7 @@ DESCRIPTION:Data:2020-08-21\nGodzina:\nOrgan administracji:Dyrektor Narodo
  eszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUw
  agi:bezczynność w przedmiocie rozpoznania wniosku z dnia 18 lutego 2020 
  r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki
- :
+ :Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -806,8 +822,12 @@ DESCRIPTION:Data:2020-08-21\nGodzina:\nOrgan administracji:Telewizja Polsk
  ala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra-Błaszczykows
  ka\nSygnatura akt:II SAB/Wa 401/20\nSymbol:658/6480\nSędziowie:Agnieszka 
  Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:be
- zczynność w przedmiocie rozpoznania wniosku z dnia 7 grudnia 2018 r. o u
- dostępnienie danych osobowych\nWydział orzeczniczy:II\nWyniki:
+ zczynność po wydaniu wyroku przez Wojewódzki Sąd Administracyjny w War
+ szawie z dnia 17 lipca 2019 r. sygn. akt II SA/Wa 417/19\nWydział orzeczn
+ iczy:II\nWyniki:Stwierdzono bezczynność postępowania i że bezczynnoś
+ ć miała miejsce z rażącym naruszeniem prawa |Orzeczono o wymierzeniu g
+ rzywny za bezczynność-art. 149 par. 2 P.P.S.A. |Zasądzono zwrot kosztó
+ w postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -816,11 +836,11 @@ SUMMARY:[J] Polska Grupa Zbrojeniowa S.A. z siedzibą w Radomiu - VIII SA/
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200821T120000
 DESCRIPTION:Data:2020-08-21\nGodzina:12:00\nOrgan administracji:Polska Gru
  pa Zbrojeniowa S.A. z siedzibą w Radomiu\nPrzedmiot:Informacja publiczna\
- nPrzewodniczący:Iwona Owsińska-Gwiazda\nSala:Sala B Radom\nSprawozdawca:
- Marek Wroczyński\nSygnatura akt:VIII SA/Wa 224/20\nSymbol:644/6480\nSędz
- iowie:Renata Nawrot\, Marek Wroczyński\nTyp posiedzenia:Jawne\nUwagi:niew
- ykonanie wyroku w sprawie VIIISAB/Wa 94/17\nWydział orzeczniczy:VIII\nWyn
- iki:
+ ; Informacja publiczna\nPrzewodniczący:Iwona Owsińska-Gwiazda\nSala:Sala
+  B Radom\nSprawozdawca:Marek Wroczyński\nSygnatura akt:VIII SA/Wa 224/20\
+ nSymbol:644/6480\nSędziowie:Renata Nawrot\, Marek Wroczyński\nTyp posied
+ zenia:Jawne\nUwagi:\nWydział orzeczniczy:VIII\nWyniki:Odroczono ogłoszen
+ ie orzeczenia na dzień 2020-09-01
 LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -919,6 +939,18 @@ DESCRIPTION:Data:2020-09-01\nGodzina:10:00\nOrgan administracji:PKP Polski
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[?] Polska Grupa Zbrojeniowa S.A. z siedzibą w Radomiu - VIII SA/
+ Wa 224/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200901T100000
+DESCRIPTION:Data:2020-09-01\nGodzina:10:00\nOrgan administracji:Polska Gru
+ pa Zbrojeniowa S.A. z siedzibą w Radomiu\nPrzedmiot:Informacja publiczna\
+ ; Informacja publiczna\nPrzewodniczący:Marek Wroczyński\nSala:Sala B Rad
+ om\nSprawozdawca:Marek Wroczyński\nSygnatura akt:VIII SA/Wa 224/20\nSymbo
+ l:644/6480\nSędziowie:\nTyp posiedzenia:OGŁOSZENIE ORZECZENIA\nUwagi:\nW
+ ydział orzeczniczy:VIII\nWyniki:
+LOCATION:Wydzial VIII\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Minister Obrony Narodowej - II SA/Wa 2850/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200903T093000
 DESCRIPTION:Data:2020-09-03\nGodzina:09:30\nOrgan administracji:Minister O
@@ -1005,18 +1037,6 @@ DESCRIPTION:Data:2020-09-16\nGodzina:\nOrgan administracji:Minister Nauki
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Szef Agencji Wywiadu - II SAB/Wa 220/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200917T000000
-DESCRIPTION:Data:2020-09-17\nGodzina:\nOrgan administracji:Szef Agencji Wy
- wiadu\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmydt\nSala
- :Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatura 
- akt:II SAB/Wa 220/20\nSymbol:658/6480\nSędziowie:asesor Karolina Kisielew
- icz\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w spr
- awie rozpoznania wniosku z dnia 30 marca 2020 r. o udostępnienie informac
- ji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Naczelna Rada Lekarska w Warszawie - II SAB/Wa 286/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200917T000000
 DESCRIPTION:Data:2020-09-17\nGodzina:\nOrgan administracji:Naczelna Rada L
@@ -1026,6 +1046,18 @@ DESCRIPTION:Data:2020-09-17\nGodzina:\nOrgan administracji:Naczelna Rada L
  isielewicz\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
  ć w przedmiocie rozpoznania wniosku z dnia 12 kwietnia 2020 r. o udostęp
  nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Szef Agencji Wywiadu - II SAB/Wa 220/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200917T000000
+DESCRIPTION:Data:2020-09-17\nGodzina:\nOrgan administracji:Szef Agencji Wy
+ wiadu\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmydt\nSala
+ :Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatura 
+ akt:II SAB/Wa 220/20\nSymbol:658/6480\nSędziowie:asesor Karolina Kisielew
+ icz\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w spr
+ awie rozpoznania wniosku z dnia 30 marca 2020 r. o udostępnienie informac
+ ji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
