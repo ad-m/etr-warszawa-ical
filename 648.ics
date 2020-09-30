@@ -40,18 +40,6 @@ DESCRIPTION:Data:2020-09-03\nGodzina:09:30\nOrgan administracji:Minister O
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[J] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 845/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200907T000000
-DESCRIPTION:Data:2020-09-07\nGodzina:\nOrgan administracji:Minister Kultur
- y i Dziedzictwa Narodowego\nPrzedmiot:Bezczynność organu\nPrzewodnicząc
- y:Danuta Kania\nSala:Sala PR\nSprawozdawca:Danuta Kania\nSygnatura akt:II 
- SAB/Wa 845/19\nSymbol:658/6480\nSędziowie:\nTyp posiedzenia:Jawne\nUwagi:
- bezczynność w przedmiocie rozpoznania wniosku z dnia 9 października 201
- 9 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyni
- ki:Stwierdzono prawomocność orzeczenia
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Minister Sprawiedliwości - II SAB/Wa 646/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200907T000000
 DESCRIPTION:Data:2020-09-07\nGodzina:\nOrgan administracji:Minister Sprawi
@@ -61,6 +49,18 @@ DESCRIPTION:Data:2020-09-07\nGodzina:\nOrgan administracji:Minister Sprawi
  przedmiocie rozpoznania wniosku z dnia 21 czerwca 2019 r. o udostępnienie
   informacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono prawom
  ocność orzeczenia
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[J] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 845/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200907T000000
+DESCRIPTION:Data:2020-09-07\nGodzina:\nOrgan administracji:Minister Kultur
+ y i Dziedzictwa Narodowego\nPrzedmiot:Bezczynność organu\nPrzewodnicząc
+ y:Danuta Kania\nSala:Sala PR\nSprawozdawca:Danuta Kania\nSygnatura akt:II 
+ SAB/Wa 845/19\nSymbol:658/6480\nSędziowie:\nTyp posiedzenia:Jawne\nUwagi:
+ bezczynność w przedmiocie rozpoznania wniosku z dnia 9 października 201
+ 9 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyni
+ ki:Stwierdzono prawomocność orzeczenia
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -170,20 +170,6 @@ DESCRIPTION:Data:2020-09-16\nGodzina:\nOrgan administracji:Minister Nauki
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Naczelna Rada Lekarska w Warszawie - II SAB/Wa 286/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200917T000000
-DESCRIPTION:Data:2020-09-17\nGodzina:\nOrgan administracji:Naczelna Rada L
- ekarska w Warszawie\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Tomas
- z Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSyg
- natura akt:II SAB/Wa 286/20\nSymbol:658/6480\nSędziowie:asesor Karolina K
- isielewicz\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
- ć w przedmiocie rozpoznania wniosku z dnia 12 kwietnia 2020 r. o udostęp
- nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano
-  ... i stwierdzono że bezczynność miała miejsce bez rażącego narusze
- nia prawa |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Szef Agencji Wywiadu - II SAB/Wa 220/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200917T000000
 DESCRIPTION:Data:2020-09-17\nGodzina:\nOrgan administracji:Szef Agencji Wy
@@ -208,30 +194,42 @@ DESCRIPTION:Data:2020-09-17\nGodzina:\nOrgan administracji:Minister Edukac
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Naczelna Rada Lekarska w Warszawie - II SAB/Wa 286/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200917T000000
+DESCRIPTION:Data:2020-09-17\nGodzina:\nOrgan administracji:Naczelna Rada L
+ ekarska w Warszawie\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Tomas
+ z Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSyg
+ natura akt:II SAB/Wa 286/20\nSymbol:658/6480\nSędziowie:asesor Karolina K
+ isielewicz\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
+ ć w przedmiocie rozpoznania wniosku z dnia 12 kwietnia 2020 r. o udostęp
+ nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano
+  ... i stwierdzono że bezczynność miała miejsce bez rażącego narusze
+ nia prawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Zakład Gospodarowania Nieruchomościami w Dzielnicy Ochota m.
  st. Warszawy - II SAB/Wa 53/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200922T000000
 DESCRIPTION:Data:2020-09-22\nGodzina:\nOrgan administracji:Zakład Gospoda
  rowania Nieruchomościami w Dzielnicy Ochota m.st. Warszawy\nPrzedmiot:Bez
- czynność organu\nPrzewodniczący:Izabela Głowacka-Klimas\nSala:Sala pos
- iedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatura akt:II SA
- B/Wa 53/20\nSymbol:658/6480\nSędziowie:asesor Karolina Kisielewicz\, Andr
- zej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w rozpoznaniu
-  wniosku z dnia 5 września 2019 r. o udostępnienie informacji publicznej
- \nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+ czynność organu\; Bezczynność organu\nPrzewodniczący:Izabela Głowack
+ a-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewi
+ cz\nSygnatura akt:II SAB/Wa 53/20\nSymbol:658/6480\nSędziowie:asesor Karo
+ lina Kisielewicz\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:\nWy
+ dział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[N] Zarząd Dzielnicy Ochota m. st. Warszawy - II SAB/Wa 378/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200922T000000
 DESCRIPTION:Data:2020-09-22\nGodzina:\nOrgan administracji:Zarząd Dzielni
- cy Ochota m. st. Warszawy\nPrzedmiot:Informacja publiczna\nPrzewodniczący
- :Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:K
- arolina Kisielewicz\nSygnatura akt:II SAB/Wa 378/20\nSymbol:658/6480\nSęd
- ziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posiedzenia:Ni
- ejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 5 wre
- śnia 2019 r. o udostępnienie informacji publicznej\nWydział orzeczniczy
- :II\nWyniki:Oddalono skargę
+ cy Ochota m. st. Warszawy\nPrzedmiot:Informacja publiczna\; Informacja pub
+ liczna\nPrzewodniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń nie
+ jawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatura akt:II SAB/Wa 378/20
+ \nSymbol:658/6480\nSędziowie:asesor Karolina Kisielewicz\, Andrzej Wieczo
+ rek\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Odd
+ alono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -262,26 +260,24 @@ BEGIN:VEVENT
 SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 194/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200923T000000
 DESCRIPTION:Data:2020-09-23\nGodzina:\nOrgan administracji:PKP Polskie Lin
- ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej 
- Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska
- \nSygnatura akt:II SAB/Wa 194/20\nSymbol:658/6480\nSędziowie:Danuta Kania
- \, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przed
- miocie rozpoznania wniosku z dnia 10 września 2019 r. o udostępnienie in
- formacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i st
- wierdzono że bezczynność miała miejsce bez rażącego naruszenia prawa
-  |Oddalono skargę w części |Zasądzono zwrot kosztów postępowania
+ ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
+ rzewodniczący:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawo
+ zdawca:Ewa Marcinkowska\nSygnatura akt:II SAB/Wa 194/20\nSymbol:658/6480\n
+ Sędziowie:Danuta Kania\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwag
+ i:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bez
+ czynność miała miejsce bez rażącego naruszenia prawa |Oddalono skarg
+ ę w części |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 255/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200924T000000
 DESCRIPTION:Data:2020-09-24\nGodzina:\nOrgan administracji:Minister Spraw 
- Zagranicznych\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmy
- dt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatur
- a akt:II SAB/Wa 255/20\nSymbol:658/6480\nSędziowie:Sławomir Fularski\, A
- ndrzej Góraj\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie
-  rozpoznania wniosku z dnia 5 marca 2020 r. o udostępnienie informacji pu
- blicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+ Zagranicznych\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrze
+ wodniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:A
+ ndrzej Góraj\nSygnatura akt:II SAB/Wa 255/20\nSymbol:658/6480\nSędziowie
+ :Sławomir Fularski\, Andrzej Góraj\nTyp posiedzenia:Niejawne\nUwagi:\nWy
+ dział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -367,6 +363,18 @@ DESCRIPTION:Data:2020-09-24\nGodzina:09:40\nOrgan administracji:Polskie Ko
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezes Sądu Apelacyjnego w Warszawie - II SA/Wa 416/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200925T000000
+DESCRIPTION:Data:2020-09-25\nGodzina:\nOrgan administracji:Prezes Sądu Ap
+ elacyjnego w Warszawie\nPrzedmiot:Odmowa udzielenia informacji publicznej\
+ nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
+ dawca:Iwona Maciejuk\nSygnatura akt:II SA/Wa 416/20\nSymbol:6480\nSędziow
+ ie:asesor Joanna Kruszewska-Grońska\, Iwona Maciejuk\nTyp posiedzenia:Nie
+ jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzeczn
+ iczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezes Sądu Rejonowego w Garwolinie - II SAB/Wa 360/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200925T000000
 DESCRIPTION:Data:2020-09-25\nGodzina:\nOrgan administracji:Prezes Sądu Re
@@ -377,18 +385,6 @@ DESCRIPTION:Data:2020-09-25\nGodzina:\nOrgan administracji:Prezes Sądu Re
  ezczynność w przedmiocie rozpoznania wniosku z 3marca 2020 r. o udostęp
  nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono ska
  rgę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Sądu Apelacyjnego w Warszawie - II SA/Wa 416/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200925T000000
-DESCRIPTION:Data:2020-09-25\nGodzina:\nOrgan administracji:Prezes Sądu Ap
- elacyjnego w Warszawie\nPrzedmiot:Odmowa udzielenia informacji publicznej\
- nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
- dawca:Iwona Maciejuk\nSygnatura akt:II SA/Wa 416/20\nSymbol:6480\nSędziow
- ie:asesor Joanna Kruszewska-Grońska\, Iwona Maciejuk\nTyp posiedzenia:Nie
- jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzeczn
- iczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -418,16 +414,17 @@ DESCRIPTION:Data:2020-09-28\nGodzina:\nOrgan administracji:Rektor-Komendan
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 180/20
+SUMMARY:[N] Kierownik Gminnego Ośrodka Pomocy Społecznej w Raszynie - II
+  SA/Wa 2856/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200929T000000
-DESCRIPTION:Data:2020-09-29\nGodzina:\nOrgan administracji:PKP Polskie Lin
- ie Kolejowe S.A.\nPrzedmiot:Dopuszczenie organizacji społecznej do udzia
- łu w postępowaniu w sprawie o\nPrzewodniczący:Sławomir Antoniuk\nSala:
- Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nSygnatura akt
- :II SAB/Wa 180/20\nSymbol:658/6480\nSędziowie:Danuta Kania\, Janusz Walaw
- ski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznan
- ia wniosku z dnia 14 kutego 2020 r. o udostępnienie informacji publicznej
- \nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2020-09-29\nGodzina:\nOrgan administracji:Kierownik Gminn
+ ego Ośrodka Pomocy Społecznej w Raszynie\nPrzedmiot:Informacja publiczna
+ \nPrzewodniczący:Sławomir Fularski\nSala:Sala posiedzeń niejawnych\nSpr
+ awozdawca:Ewa Radziszewska-Krupa\nSygnatura akt:II SA/Wa 2856/19\nSymbol:6
+ 480\nSędziowie:Piotr Borowiecki\, Ewa Radziszewska-Krupa\nTyp posiedzenia
+ :Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orz
+ eczniczy:II\nWyniki:Uchylono decyzję I i II instancji |Zasądzono zwrot k
+ osztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -469,6 +466,21 @@ DESCRIPTION:Data:2020-09-29\nGodzina:\nOrgan administracji:Minister Nauki
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 180/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200929T000000
+DESCRIPTION:Data:2020-09-29\nGodzina:\nOrgan administracji:PKP Polskie Lin
+ ie Kolejowe S.A.\nPrzedmiot:Dopuszczenie organizacji społecznej do udzia
+ łu w postępowaniu w sprawie o\nPrzewodniczący:Sławomir Antoniuk\nSala:
+ Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nSygnatura akt
+ :II SAB/Wa 180/20\nSymbol:658/6480\nSędziowie:Danuta Kania\, Janusz Walaw
+ ski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznan
+ ia wniosku z dnia 14 kutego 2020 r. o udostępnienie informacji publicznej
+ \nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność postępowania 
+ i że bezczynność nie miała miejsca z rażącym naruszeniem prawa |Odda
+ lono skargę w części |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Przew. Międzyresortowej Komisji Orzekającej w Sprawach o Nar
  uszenie Dyscypliny Finansów Publicznych - II SAB/Wa 225/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200929T000000
@@ -485,20 +497,6 @@ DESCRIPTION:Data:2020-09-29\nGodzina:\nOrgan administracji:Przew. Międzyr
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Kierownik Gminnego Ośrodka Pomocy Społecznej w Raszynie - II
-  SA/Wa 2856/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200929T000000
-DESCRIPTION:Data:2020-09-29\nGodzina:\nOrgan administracji:Kierownik Gminn
- ego Ośrodka Pomocy Społecznej w Raszynie\nPrzedmiot:Informacja publiczna
- \nPrzewodniczący:Sławomir Fularski\nSala:Sala posiedzeń niejawnych\nSpr
- awozdawca:Ewa Radziszewska-Krupa\nSygnatura akt:II SA/Wa 2856/19\nSymbol:6
- 480\nSędziowie:Piotr Borowiecki\, Ewa Radziszewska-Krupa\nTyp posiedzenia
- :Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orz
- eczniczy:II\nWyniki:Uchylono decyzję I i II instancji |Zasądzono zwrot k
- osztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Krajowa Rada Radców Prawnych - II SA/Wa 2807/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200930T000000
 DESCRIPTION:Data:2020-09-30\nGodzina:\nOrgan administracji:Krajowa Rada Ra
@@ -507,6 +505,21 @@ DESCRIPTION:Data:2020-09-30\nGodzina:\nOrgan administracji:Krajowa Rada Ra
  rzej Góraj\nSygnatura akt:II SA/Wa 2807/19\nSymbol:6480\nSędziowie:aseso
  r Karolina Kisielewicz\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:odmo
  wa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Telewizja Polska S.A. - II SAB/Wa 353/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200930T000000
+DESCRIPTION:Data:2020-09-30\nGodzina:\nOrgan administracji:Telewizja Polsk
+ a S.A.\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa Kwiecińska\nS
+ ala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatu
+ ra akt:II SAB/Wa 353/20\nSymbol:658/6480\nSędziowie:asesor Karolina Kisie
+ lewicz\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w spra
+ wie rozpoznania wniosku z dnia 2 stycznia 2020 r. o udostępnienie informa
+ cji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność 
+ postępowania i że bezczynność nie miała miejsca z rażącym naruszeni
+ em prawa |Oddalono skargę w części |Zasądzono zwrot kosztów postępow
+ ania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -519,19 +532,8 @@ DESCRIPTION:Data:2020-09-30\nGodzina:\nOrgan administracji:Kancelaria Prez
   Kwiecińska\nSygnatura akt:II SAB/Wa 260/20\nSymbol:658/6480\nSędziowie:
  asesor Karolina Kisielewicz\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi
  :bezczynność w przedmiocie rozpoznania wniosku z 31 marca 2020 r. o udos
- tępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Telewizja Polska S.A. - II SAB/Wa 353/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200930T000000
-DESCRIPTION:Data:2020-09-30\nGodzina:\nOrgan administracji:Telewizja Polsk
- a S.A.\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa Kwiecińska\nS
- ala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatu
- ra akt:II SAB/Wa 353/20\nSymbol:658/6480\nSędziowie:asesor Karolina Kisie
- lewicz\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w spra
- wie rozpoznania wniosku z dnia 2 stycznia 2020 r. o udostępnienie informa
- cji publicznej\nWydział orzeczniczy:II\nWyniki:
+ tępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono
+  skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -655,15 +657,14 @@ DESCRIPTION:Data:2020-10-07\nGodzina:\nOrgan administracji:Komisja Regulac
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Agencja Rezerw Materiałowych - II SAB/Wa 219/20
+SUMMARY:[N] SKO w Warszawie - II SA/Wa 1170/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201007T000000
-DESCRIPTION:Data:2020-10-07\nGodzina:\nOrgan administracji:Agencja Rezerw 
- Materiałowych\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcin
- kowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnat
- ura akt:II SAB/Wa 219/20\nSymbol:657/6480\nSędziowie:Danuta Kania\, Joann
- a Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoz
- nania wniosku z dnia 17 czerwca 2019 r. o udostępnienie informacji public
- znej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2020-10-07\nGodzina:\nOrgan administracji:SKO w Warszawie
+ \nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowska\nSala:S
+ ala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatura akt:II
+  SA/Wa 1170/20\nSymbol:6480\nSędziowie:Danuta Kania\, Joanna Kube\nTyp po
+ siedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWyd
+ ział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -678,14 +679,15 @@ DESCRIPTION:Data:2020-10-07\nGodzina:\nOrgan administracji:Minister Rozwoj
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] SKO w Warszawie - II SA/Wa 1170/20
+SUMMARY:[N] Agencja Rezerw Materiałowych - II SAB/Wa 219/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201007T000000
-DESCRIPTION:Data:2020-10-07\nGodzina:\nOrgan administracji:SKO w Warszawie
- \nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowska\nSala:S
- ala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatura akt:II
-  SA/Wa 1170/20\nSymbol:6480\nSędziowie:Danuta Kania\, Joanna Kube\nTyp po
- siedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWyd
- ział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2020-10-07\nGodzina:\nOrgan administracji:Agencja Rezerw 
+ Materiałowych\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcin
+ kowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnat
+ ura akt:II SAB/Wa 219/20\nSymbol:657/6480\nSędziowie:Danuta Kania\, Joann
+ a Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoz
+ nania wniosku z dnia 17 czerwca 2019 r. o udostępnienie informacji public
+ znej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -770,17 +772,16 @@ DESCRIPTION:Data:2020-10-16\nGodzina:\nOrgan administracji:Prokurator Gene
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Ośrodka Pomocy Społecznej Dzielnicy Bielany M.St. W
- arszawy - II SAB/Wa 454/20
+SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 272/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
-DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Dyrektor Ośrod
- ka Pomocy Społecznej Dzielnicy Bielany M.St. Warszawy\nPrzedmiot:Informac
- ja publiczna\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawn
- ych\nSprawozdawca:Joanna Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 454/
- 20\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\, asesor Joanna K
- ruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
- iocie rozpoznania wniosku o dostęp do informacji publicznej\nWydział orz
- eczniczy:II\nWyniki:
+DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu 
+ Regulacji Energetyki\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwon
+ a Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowack
+ a-Klimas\nSygnatura akt:II SAB/Wa 272/20\nSymbol:658/6480\nSędziowie:Izab
+ ela Głowacka-Klimas\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:
+ Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 15 
+ stycznia 2020 r. o udostepnienie informacji publicznej\nWydział orzecznic
+ zy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -797,29 +798,16 @@ DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 274/20
+SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 269/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
 DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu 
  Regulacji Energetyki\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwon
  a Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowack
- a-Klimas\nSygnatura akt:II SAB/Wa 274/20\nSymbol:658/6480\nSędziowie:Izab
+ a-Klimas\nSygnatura akt:II SAB/Wa 269/20\nSymbol:658/6480\nSędziowie:Izab
  ela Głowacka-Klimas\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:
- Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 7 l
- utego 2020 r. o udostepnienie informacji publicznej\nWydział orzeczniczy:
- II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 272/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
-DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu 
- Regulacji Energetyki\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwon
- a Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowack
- a-Klimas\nSygnatura akt:II SAB/Wa 272/20\nSymbol:658/6480\nSędziowie:Izab
- ela Głowacka-Klimas\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:
- Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 15 
- stycznia 2020 r. o udostepnienie informacji publicznej\nWydział orzecznic
- zy:II\nWyniki:
+ Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 30 
+ grudnia 2019 r. o udostepnienie informacji publicznej\nWydział orzecznicz
+ y:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -836,6 +824,20 @@ DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Ośrodka Pomocy Społecznej Dzielnicy Bielany M.St. W
+ arszawy - II SAB/Wa 454/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
+DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Dyrektor Ośrod
+ ka Pomocy Społecznej Dzielnicy Bielany M.St. Warszawy\nPrzedmiot:Informac
+ ja publiczna\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawn
+ ych\nSprawozdawca:Joanna Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 454/
+ 20\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\, asesor Joanna K
+ ruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
+ iocie rozpoznania wniosku o dostęp do informacji publicznej\nWydział orz
+ eczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 270/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
 DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu 
@@ -849,16 +851,16 @@ DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 269/20
+SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 274/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
 DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu 
  Regulacji Energetyki\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwon
  a Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowack
- a-Klimas\nSygnatura akt:II SAB/Wa 269/20\nSymbol:658/6480\nSędziowie:Izab
+ a-Klimas\nSygnatura akt:II SAB/Wa 274/20\nSymbol:658/6480\nSędziowie:Izab
  ela Głowacka-Klimas\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:
- Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 30 
- grudnia 2019 r. o udostepnienie informacji publicznej\nWydział orzecznicz
- y:II\nWyniki:
+ Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 7 l
+ utego 2020 r. o udostepnienie informacji publicznej\nWydział orzeczniczy:
+ II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -985,17 +987,6 @@ DESCRIPTION:Data:2020-10-23\nGodzina:\nOrgan administracji:Prezes Rady Min
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Telewizja Polska S.A. - II SA/Wa 1192/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201026T000000
-DESCRIPTION:Data:2020-10-26\nGodzina:\nOrgan administracji:Telewizja Polsk
- a S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Kołodziej
- \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygn
- atura akt:II SA/Wa 1192/20\nSymbol:6480\nSędziowie:Piotr Borowiecki\, ase
- sor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępn
- ienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Agencji Badań Medycznych - II SAB/Wa 434/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201026T000000
 DESCRIPTION:Data:2020-10-26\nGodzina:\nOrgan administracji:Prezes Agencji 
@@ -1005,6 +996,17 @@ DESCRIPTION:Data:2020-10-26\nGodzina:\nOrgan administracji:Prezes Agencji
  orowiecki\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:b
  ezczynność w rozpoznaniu wniosku z dnia 25 maja 2020 r. o udostępnienie
   informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Telewizja Polska S.A. - II SA/Wa 1192/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201026T000000
+DESCRIPTION:Data:2020-10-26\nGodzina:\nOrgan administracji:Telewizja Polsk
+ a S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Kołodziej
+ \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygn
+ atura akt:II SA/Wa 1192/20\nSymbol:6480\nSędziowie:Piotr Borowiecki\, ase
+ sor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępn
+ ienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1134,18 +1136,6 @@ DESCRIPTION:Data:2020-10-28\nGodzina:11:00\nOrgan administracji:Prezes Urz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] SKO w Warszawie - II SA/Wa 451/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201029T000000
-DESCRIPTION:Data:2020-10-29\nGodzina:\nOrgan administracji:SKO w Warszawie
- \nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Ewa R
- adziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Radzi
- szewska-Krupa\nSygnatura akt:II SA/Wa 451/20\nSymbol:6480\nSędziowie:Sła
- womir Fularski\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejaw
- ne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecznicz
- y:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Prokuratorii Generalnej RP - II SAB/Wa 310/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201029T000000
 DESCRIPTION:Data:2020-10-29\nGodzina:\nOrgan administracji:Prezes Prokurat
@@ -1167,6 +1157,18 @@ DESCRIPTION:Data:2020-10-29\nGodzina:\nOrgan administracji:Telewizja Polsk
   Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prze
  dmiocie rozpoznania wniosku z dnia 29 maja 2020 r. o udostępnienie inform
  acji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] SKO w Warszawie - II SA/Wa 451/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201029T000000
+DESCRIPTION:Data:2020-10-29\nGodzina:\nOrgan administracji:SKO w Warszawie
+ \nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Ewa R
+ adziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Radzi
+ szewska-Krupa\nSygnatura akt:II SA/Wa 451/20\nSymbol:6480\nSędziowie:Sła
+ womir Fularski\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejaw
+ ne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecznicz
+ y:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1209,18 +1211,6 @@ DESCRIPTION:Data:2020-09-03\nGodzina:09:30\nOrgan administracji:Minister O
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[J] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 845/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200907T000000
-DESCRIPTION:Data:2020-09-07\nGodzina:\nOrgan administracji:Minister Kultur
- y i Dziedzictwa Narodowego\nPrzedmiot:Bezczynność organu\nPrzewodnicząc
- y:Danuta Kania\nSala:Sala PR\nSprawozdawca:Danuta Kania\nSygnatura akt:II 
- SAB/Wa 845/19\nSymbol:658/6480\nSędziowie:\nTyp posiedzenia:Jawne\nUwagi:
- bezczynność w przedmiocie rozpoznania wniosku z dnia 9 października 201
- 9 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyni
- ki:Stwierdzono prawomocność orzeczenia
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Minister Sprawiedliwości - II SAB/Wa 646/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200907T000000
 DESCRIPTION:Data:2020-09-07\nGodzina:\nOrgan administracji:Minister Sprawi
@@ -1230,6 +1220,18 @@ DESCRIPTION:Data:2020-09-07\nGodzina:\nOrgan administracji:Minister Sprawi
  przedmiocie rozpoznania wniosku z dnia 21 czerwca 2019 r. o udostępnienie
   informacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono prawom
  ocność orzeczenia
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[J] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 845/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200907T000000
+DESCRIPTION:Data:2020-09-07\nGodzina:\nOrgan administracji:Minister Kultur
+ y i Dziedzictwa Narodowego\nPrzedmiot:Bezczynność organu\nPrzewodnicząc
+ y:Danuta Kania\nSala:Sala PR\nSprawozdawca:Danuta Kania\nSygnatura akt:II 
+ SAB/Wa 845/19\nSymbol:658/6480\nSędziowie:\nTyp posiedzenia:Jawne\nUwagi:
+ bezczynność w przedmiocie rozpoznania wniosku z dnia 9 października 201
+ 9 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyni
+ ki:Stwierdzono prawomocność orzeczenia
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1339,20 +1341,6 @@ DESCRIPTION:Data:2020-09-16\nGodzina:\nOrgan administracji:Minister Nauki
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Naczelna Rada Lekarska w Warszawie - II SAB/Wa 286/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200917T000000
-DESCRIPTION:Data:2020-09-17\nGodzina:\nOrgan administracji:Naczelna Rada L
- ekarska w Warszawie\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Tomas
- z Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSyg
- natura akt:II SAB/Wa 286/20\nSymbol:658/6480\nSędziowie:asesor Karolina K
- isielewicz\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
- ć w przedmiocie rozpoznania wniosku z dnia 12 kwietnia 2020 r. o udostęp
- nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano
-  ... i stwierdzono że bezczynność miała miejsce bez rażącego narusze
- nia prawa |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Szef Agencji Wywiadu - II SAB/Wa 220/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200917T000000
 DESCRIPTION:Data:2020-09-17\nGodzina:\nOrgan administracji:Szef Agencji Wy
@@ -1377,30 +1365,42 @@ DESCRIPTION:Data:2020-09-17\nGodzina:\nOrgan administracji:Minister Edukac
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Naczelna Rada Lekarska w Warszawie - II SAB/Wa 286/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200917T000000
+DESCRIPTION:Data:2020-09-17\nGodzina:\nOrgan administracji:Naczelna Rada L
+ ekarska w Warszawie\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Tomas
+ z Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSyg
+ natura akt:II SAB/Wa 286/20\nSymbol:658/6480\nSędziowie:asesor Karolina K
+ isielewicz\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
+ ć w przedmiocie rozpoznania wniosku z dnia 12 kwietnia 2020 r. o udostęp
+ nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano
+  ... i stwierdzono że bezczynność miała miejsce bez rażącego narusze
+ nia prawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Zakład Gospodarowania Nieruchomościami w Dzielnicy Ochota m.
  st. Warszawy - II SAB/Wa 53/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200922T000000
 DESCRIPTION:Data:2020-09-22\nGodzina:\nOrgan administracji:Zakład Gospoda
  rowania Nieruchomościami w Dzielnicy Ochota m.st. Warszawy\nPrzedmiot:Bez
- czynność organu\nPrzewodniczący:Izabela Głowacka-Klimas\nSala:Sala pos
- iedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatura akt:II SA
- B/Wa 53/20\nSymbol:658/6480\nSędziowie:asesor Karolina Kisielewicz\, Andr
- zej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w rozpoznaniu
-  wniosku z dnia 5 września 2019 r. o udostępnienie informacji publicznej
- \nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+ czynność organu\; Bezczynność organu\nPrzewodniczący:Izabela Głowack
+ a-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewi
+ cz\nSygnatura akt:II SAB/Wa 53/20\nSymbol:658/6480\nSędziowie:asesor Karo
+ lina Kisielewicz\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:\nWy
+ dział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[N] Zarząd Dzielnicy Ochota m. st. Warszawy - II SAB/Wa 378/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200922T000000
 DESCRIPTION:Data:2020-09-22\nGodzina:\nOrgan administracji:Zarząd Dzielni
- cy Ochota m. st. Warszawy\nPrzedmiot:Informacja publiczna\nPrzewodniczący
- :Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:K
- arolina Kisielewicz\nSygnatura akt:II SAB/Wa 378/20\nSymbol:658/6480\nSęd
- ziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posiedzenia:Ni
- ejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 5 wre
- śnia 2019 r. o udostępnienie informacji publicznej\nWydział orzeczniczy
- :II\nWyniki:Oddalono skargę
+ cy Ochota m. st. Warszawy\nPrzedmiot:Informacja publiczna\; Informacja pub
+ liczna\nPrzewodniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń nie
+ jawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatura akt:II SAB/Wa 378/20
+ \nSymbol:658/6480\nSędziowie:asesor Karolina Kisielewicz\, Andrzej Wieczo
+ rek\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Odd
+ alono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1431,26 +1431,24 @@ BEGIN:VEVENT
 SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 194/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200923T000000
 DESCRIPTION:Data:2020-09-23\nGodzina:\nOrgan administracji:PKP Polskie Lin
- ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej 
- Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska
- \nSygnatura akt:II SAB/Wa 194/20\nSymbol:658/6480\nSędziowie:Danuta Kania
- \, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przed
- miocie rozpoznania wniosku z dnia 10 września 2019 r. o udostępnienie in
- formacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i st
- wierdzono że bezczynność miała miejsce bez rażącego naruszenia prawa
-  |Oddalono skargę w części |Zasądzono zwrot kosztów postępowania
+ ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nP
+ rzewodniczący:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawo
+ zdawca:Ewa Marcinkowska\nSygnatura akt:II SAB/Wa 194/20\nSymbol:658/6480\n
+ Sędziowie:Danuta Kania\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwag
+ i:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bez
+ czynność miała miejsce bez rażącego naruszenia prawa |Oddalono skarg
+ ę w części |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 255/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200924T000000
 DESCRIPTION:Data:2020-09-24\nGodzina:\nOrgan administracji:Minister Spraw 
- Zagranicznych\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmy
- dt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatur
- a akt:II SAB/Wa 255/20\nSymbol:658/6480\nSędziowie:Sławomir Fularski\, A
- ndrzej Góraj\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie
-  rozpoznania wniosku z dnia 5 marca 2020 r. o udostępnienie informacji pu
- blicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+ Zagranicznych\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrze
+ wodniczący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:A
+ ndrzej Góraj\nSygnatura akt:II SAB/Wa 255/20\nSymbol:658/6480\nSędziowie
+ :Sławomir Fularski\, Andrzej Góraj\nTyp posiedzenia:Niejawne\nUwagi:\nWy
+ dział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1536,6 +1534,18 @@ DESCRIPTION:Data:2020-09-24\nGodzina:09:40\nOrgan administracji:Polskie Ko
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezes Sądu Apelacyjnego w Warszawie - II SA/Wa 416/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200925T000000
+DESCRIPTION:Data:2020-09-25\nGodzina:\nOrgan administracji:Prezes Sądu Ap
+ elacyjnego w Warszawie\nPrzedmiot:Odmowa udzielenia informacji publicznej\
+ nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
+ dawca:Iwona Maciejuk\nSygnatura akt:II SA/Wa 416/20\nSymbol:6480\nSędziow
+ ie:asesor Joanna Kruszewska-Grońska\, Iwona Maciejuk\nTyp posiedzenia:Nie
+ jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzeczn
+ iczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezes Sądu Rejonowego w Garwolinie - II SAB/Wa 360/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200925T000000
 DESCRIPTION:Data:2020-09-25\nGodzina:\nOrgan administracji:Prezes Sądu Re
@@ -1546,18 +1556,6 @@ DESCRIPTION:Data:2020-09-25\nGodzina:\nOrgan administracji:Prezes Sądu Re
  ezczynność w przedmiocie rozpoznania wniosku z 3marca 2020 r. o udostęp
  nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono ska
  rgę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Sądu Apelacyjnego w Warszawie - II SA/Wa 416/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200925T000000
-DESCRIPTION:Data:2020-09-25\nGodzina:\nOrgan administracji:Prezes Sądu Ap
- elacyjnego w Warszawie\nPrzedmiot:Odmowa udzielenia informacji publicznej\
- nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
- dawca:Iwona Maciejuk\nSygnatura akt:II SA/Wa 416/20\nSymbol:6480\nSędziow
- ie:asesor Joanna Kruszewska-Grońska\, Iwona Maciejuk\nTyp posiedzenia:Nie
- jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzeczn
- iczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1587,16 +1585,17 @@ DESCRIPTION:Data:2020-09-28\nGodzina:\nOrgan administracji:Rektor-Komendan
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 180/20
+SUMMARY:[N] Kierownik Gminnego Ośrodka Pomocy Społecznej w Raszynie - II
+  SA/Wa 2856/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200929T000000
-DESCRIPTION:Data:2020-09-29\nGodzina:\nOrgan administracji:PKP Polskie Lin
- ie Kolejowe S.A.\nPrzedmiot:Dopuszczenie organizacji społecznej do udzia
- łu w postępowaniu w sprawie o\nPrzewodniczący:Sławomir Antoniuk\nSala:
- Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nSygnatura akt
- :II SAB/Wa 180/20\nSymbol:658/6480\nSędziowie:Danuta Kania\, Janusz Walaw
- ski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznan
- ia wniosku z dnia 14 kutego 2020 r. o udostępnienie informacji publicznej
- \nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2020-09-29\nGodzina:\nOrgan administracji:Kierownik Gminn
+ ego Ośrodka Pomocy Społecznej w Raszynie\nPrzedmiot:Informacja publiczna
+ \nPrzewodniczący:Sławomir Fularski\nSala:Sala posiedzeń niejawnych\nSpr
+ awozdawca:Ewa Radziszewska-Krupa\nSygnatura akt:II SA/Wa 2856/19\nSymbol:6
+ 480\nSędziowie:Piotr Borowiecki\, Ewa Radziszewska-Krupa\nTyp posiedzenia
+ :Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orz
+ eczniczy:II\nWyniki:Uchylono decyzję I i II instancji |Zasądzono zwrot k
+ osztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1638,6 +1637,21 @@ DESCRIPTION:Data:2020-09-29\nGodzina:\nOrgan administracji:Minister Nauki
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 180/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200929T000000
+DESCRIPTION:Data:2020-09-29\nGodzina:\nOrgan administracji:PKP Polskie Lin
+ ie Kolejowe S.A.\nPrzedmiot:Dopuszczenie organizacji społecznej do udzia
+ łu w postępowaniu w sprawie o\nPrzewodniczący:Sławomir Antoniuk\nSala:
+ Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Antoniuk\nSygnatura akt
+ :II SAB/Wa 180/20\nSymbol:658/6480\nSędziowie:Danuta Kania\, Janusz Walaw
+ ski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznan
+ ia wniosku z dnia 14 kutego 2020 r. o udostępnienie informacji publicznej
+ \nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność postępowania 
+ i że bezczynność nie miała miejsca z rażącym naruszeniem prawa |Odda
+ lono skargę w części |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Przew. Międzyresortowej Komisji Orzekającej w Sprawach o Nar
  uszenie Dyscypliny Finansów Publicznych - II SAB/Wa 225/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200929T000000
@@ -1654,20 +1668,6 @@ DESCRIPTION:Data:2020-09-29\nGodzina:\nOrgan administracji:Przew. Międzyr
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Kierownik Gminnego Ośrodka Pomocy Społecznej w Raszynie - II
-  SA/Wa 2856/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200929T000000
-DESCRIPTION:Data:2020-09-29\nGodzina:\nOrgan administracji:Kierownik Gminn
- ego Ośrodka Pomocy Społecznej w Raszynie\nPrzedmiot:Informacja publiczna
- \nPrzewodniczący:Sławomir Fularski\nSala:Sala posiedzeń niejawnych\nSpr
- awozdawca:Ewa Radziszewska-Krupa\nSygnatura akt:II SA/Wa 2856/19\nSymbol:6
- 480\nSędziowie:Piotr Borowiecki\, Ewa Radziszewska-Krupa\nTyp posiedzenia
- :Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orz
- eczniczy:II\nWyniki:Uchylono decyzję I i II instancji |Zasądzono zwrot k
- osztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Krajowa Rada Radców Prawnych - II SA/Wa 2807/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200930T000000
 DESCRIPTION:Data:2020-09-30\nGodzina:\nOrgan administracji:Krajowa Rada Ra
@@ -1676,6 +1676,21 @@ DESCRIPTION:Data:2020-09-30\nGodzina:\nOrgan administracji:Krajowa Rada Ra
  rzej Góraj\nSygnatura akt:II SA/Wa 2807/19\nSymbol:6480\nSędziowie:aseso
  r Karolina Kisielewicz\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:odmo
  wa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Telewizja Polska S.A. - II SAB/Wa 353/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200930T000000
+DESCRIPTION:Data:2020-09-30\nGodzina:\nOrgan administracji:Telewizja Polsk
+ a S.A.\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa Kwiecińska\nS
+ ala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatu
+ ra akt:II SAB/Wa 353/20\nSymbol:658/6480\nSędziowie:asesor Karolina Kisie
+ lewicz\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w spra
+ wie rozpoznania wniosku z dnia 2 stycznia 2020 r. o udostępnienie informa
+ cji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność 
+ postępowania i że bezczynność nie miała miejsca z rażącym naruszeni
+ em prawa |Oddalono skargę w części |Zasądzono zwrot kosztów postępow
+ ania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1688,19 +1703,8 @@ DESCRIPTION:Data:2020-09-30\nGodzina:\nOrgan administracji:Kancelaria Prez
   Kwiecińska\nSygnatura akt:II SAB/Wa 260/20\nSymbol:658/6480\nSędziowie:
  asesor Karolina Kisielewicz\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi
  :bezczynność w przedmiocie rozpoznania wniosku z 31 marca 2020 r. o udos
- tępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Telewizja Polska S.A. - II SAB/Wa 353/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200930T000000
-DESCRIPTION:Data:2020-09-30\nGodzina:\nOrgan administracji:Telewizja Polsk
- a S.A.\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa Kwiecińska\nS
- ala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygnatu
- ra akt:II SAB/Wa 353/20\nSymbol:658/6480\nSędziowie:asesor Karolina Kisie
- lewicz\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w spra
- wie rozpoznania wniosku z dnia 2 stycznia 2020 r. o udostępnienie informa
- cji publicznej\nWydział orzeczniczy:II\nWyniki:
+ tępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono
+  skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1824,15 +1828,14 @@ DESCRIPTION:Data:2020-10-07\nGodzina:\nOrgan administracji:Komisja Regulac
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Agencja Rezerw Materiałowych - II SAB/Wa 219/20
+SUMMARY:[N] SKO w Warszawie - II SA/Wa 1170/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201007T000000
-DESCRIPTION:Data:2020-10-07\nGodzina:\nOrgan administracji:Agencja Rezerw 
- Materiałowych\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcin
- kowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnat
- ura akt:II SAB/Wa 219/20\nSymbol:657/6480\nSędziowie:Danuta Kania\, Joann
- a Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoz
- nania wniosku z dnia 17 czerwca 2019 r. o udostępnienie informacji public
- znej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2020-10-07\nGodzina:\nOrgan administracji:SKO w Warszawie
+ \nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowska\nSala:S
+ ala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatura akt:II
+  SA/Wa 1170/20\nSymbol:6480\nSędziowie:Danuta Kania\, Joanna Kube\nTyp po
+ siedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWyd
+ ział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1847,14 +1850,15 @@ DESCRIPTION:Data:2020-10-07\nGodzina:\nOrgan administracji:Minister Rozwoj
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] SKO w Warszawie - II SA/Wa 1170/20
+SUMMARY:[N] Agencja Rezerw Materiałowych - II SAB/Wa 219/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201007T000000
-DESCRIPTION:Data:2020-10-07\nGodzina:\nOrgan administracji:SKO w Warszawie
- \nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowska\nSala:S
- ala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatura akt:II
-  SA/Wa 1170/20\nSymbol:6480\nSędziowie:Danuta Kania\, Joanna Kube\nTyp po
- siedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWyd
- ział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2020-10-07\nGodzina:\nOrgan administracji:Agencja Rezerw 
+ Materiałowych\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcin
+ kowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnat
+ ura akt:II SAB/Wa 219/20\nSymbol:657/6480\nSędziowie:Danuta Kania\, Joann
+ a Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoz
+ nania wniosku z dnia 17 czerwca 2019 r. o udostępnienie informacji public
+ znej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1939,17 +1943,16 @@ DESCRIPTION:Data:2020-10-16\nGodzina:\nOrgan administracji:Prokurator Gene
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Ośrodka Pomocy Społecznej Dzielnicy Bielany M.St. W
- arszawy - II SAB/Wa 454/20
+SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 272/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
-DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Dyrektor Ośrod
- ka Pomocy Społecznej Dzielnicy Bielany M.St. Warszawy\nPrzedmiot:Informac
- ja publiczna\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawn
- ych\nSprawozdawca:Joanna Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 454/
- 20\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\, asesor Joanna K
- ruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
- iocie rozpoznania wniosku o dostęp do informacji publicznej\nWydział orz
- eczniczy:II\nWyniki:
+DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu 
+ Regulacji Energetyki\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwon
+ a Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowack
+ a-Klimas\nSygnatura akt:II SAB/Wa 272/20\nSymbol:658/6480\nSędziowie:Izab
+ ela Głowacka-Klimas\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:
+ Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 15 
+ stycznia 2020 r. o udostepnienie informacji publicznej\nWydział orzecznic
+ zy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1966,29 +1969,16 @@ DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 274/20
+SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 269/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
 DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu 
  Regulacji Energetyki\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwon
  a Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowack
- a-Klimas\nSygnatura akt:II SAB/Wa 274/20\nSymbol:658/6480\nSędziowie:Izab
+ a-Klimas\nSygnatura akt:II SAB/Wa 269/20\nSymbol:658/6480\nSędziowie:Izab
  ela Głowacka-Klimas\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:
- Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 7 l
- utego 2020 r. o udostepnienie informacji publicznej\nWydział orzeczniczy:
- II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 272/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
-DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu 
- Regulacji Energetyki\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwon
- a Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowack
- a-Klimas\nSygnatura akt:II SAB/Wa 272/20\nSymbol:658/6480\nSędziowie:Izab
- ela Głowacka-Klimas\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:
- Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 15 
- stycznia 2020 r. o udostepnienie informacji publicznej\nWydział orzecznic
- zy:II\nWyniki:
+ Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 30 
+ grudnia 2019 r. o udostepnienie informacji publicznej\nWydział orzecznicz
+ y:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2005,6 +1995,20 @@ DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Ośrodka Pomocy Społecznej Dzielnicy Bielany M.St. W
+ arszawy - II SAB/Wa 454/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
+DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Dyrektor Ośrod
+ ka Pomocy Społecznej Dzielnicy Bielany M.St. Warszawy\nPrzedmiot:Informac
+ ja publiczna\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawn
+ ych\nSprawozdawca:Joanna Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 454/
+ 20\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\, asesor Joanna K
+ ruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
+ iocie rozpoznania wniosku o dostęp do informacji publicznej\nWydział orz
+ eczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 270/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
 DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu 
@@ -2018,16 +2022,16 @@ DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 269/20
+SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 274/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
 DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu 
  Regulacji Energetyki\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwon
  a Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowack
- a-Klimas\nSygnatura akt:II SAB/Wa 269/20\nSymbol:658/6480\nSędziowie:Izab
+ a-Klimas\nSygnatura akt:II SAB/Wa 274/20\nSymbol:658/6480\nSędziowie:Izab
  ela Głowacka-Klimas\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:
- Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 30 
- grudnia 2019 r. o udostepnienie informacji publicznej\nWydział orzecznicz
- y:II\nWyniki:
+ Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 7 l
+ utego 2020 r. o udostepnienie informacji publicznej\nWydział orzeczniczy:
+ II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2154,17 +2158,6 @@ DESCRIPTION:Data:2020-10-23\nGodzina:\nOrgan administracji:Prezes Rady Min
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Telewizja Polska S.A. - II SA/Wa 1192/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201026T000000
-DESCRIPTION:Data:2020-10-26\nGodzina:\nOrgan administracji:Telewizja Polsk
- a S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Kołodziej
- \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygn
- atura akt:II SA/Wa 1192/20\nSymbol:6480\nSędziowie:Piotr Borowiecki\, ase
- sor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępn
- ienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Agencji Badań Medycznych - II SAB/Wa 434/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201026T000000
 DESCRIPTION:Data:2020-10-26\nGodzina:\nOrgan administracji:Prezes Agencji 
@@ -2174,6 +2167,17 @@ DESCRIPTION:Data:2020-10-26\nGodzina:\nOrgan administracji:Prezes Agencji
  orowiecki\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:b
  ezczynność w rozpoznaniu wniosku z dnia 25 maja 2020 r. o udostępnienie
   informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Telewizja Polska S.A. - II SA/Wa 1192/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201026T000000
+DESCRIPTION:Data:2020-10-26\nGodzina:\nOrgan administracji:Telewizja Polsk
+ a S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Kołodziej
+ \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSygn
+ atura akt:II SA/Wa 1192/20\nSymbol:6480\nSędziowie:Piotr Borowiecki\, ase
+ sor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępn
+ ienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2303,18 +2307,6 @@ DESCRIPTION:Data:2020-10-28\nGodzina:11:00\nOrgan administracji:Prezes Urz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] SKO w Warszawie - II SA/Wa 451/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201029T000000
-DESCRIPTION:Data:2020-10-29\nGodzina:\nOrgan administracji:SKO w Warszawie
- \nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Ewa R
- adziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Radzi
- szewska-Krupa\nSygnatura akt:II SA/Wa 451/20\nSymbol:6480\nSędziowie:Sła
- womir Fularski\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejaw
- ne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecznicz
- y:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Prokuratorii Generalnej RP - II SAB/Wa 310/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201029T000000
 DESCRIPTION:Data:2020-10-29\nGodzina:\nOrgan administracji:Prezes Prokurat
@@ -2336,6 +2328,18 @@ DESCRIPTION:Data:2020-10-29\nGodzina:\nOrgan administracji:Telewizja Polsk
   Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prze
  dmiocie rozpoznania wniosku z dnia 29 maja 2020 r. o udostępnienie inform
  acji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] SKO w Warszawie - II SA/Wa 451/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201029T000000
+DESCRIPTION:Data:2020-10-29\nGodzina:\nOrgan administracji:SKO w Warszawie
+ \nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Ewa R
+ adziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Radzi
+ szewska-Krupa\nSygnatura akt:II SA/Wa 451/20\nSymbol:6480\nSędziowie:Sła
+ womir Fularski\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejaw
+ ne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecznicz
+ y:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
