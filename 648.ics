@@ -1,18 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[N] Komendant Służby Ochrony Państwa - II SA/Wa 282/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200915T000000
-DESCRIPTION:Data:2020-09-15\nGodzina:\nOrgan administracji:Komendant Słu
- żby Ochrony Państwa\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Łu
- kasz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Gór
- a-Błaszczykowska\nSygnatura akt:II SA/Wa 282/20\nSymbol:6480\nSędziowie:
- Agnieszka Góra-Błaszczykowska\, asesor Joanna Kruszewska-Grońska\nTyp p
- osiedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWy
- dział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] SKO w Warszawie - II SA/Wa 863/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200915T000000
 DESCRIPTION:Data:2020-09-15\nGodzina:\nOrgan administracji:SKO w Warszawie
@@ -22,6 +10,18 @@ DESCRIPTION:Data:2020-09-15\nGodzina:\nOrgan administracji:SKO w Warszawie
  ka Góra-Błaszczykowska\, asesor Joanna Kruszewska-Grońska\nTyp posiedze
  nia:Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział 
  orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Komendant Służby Ochrony Państwa - II SA/Wa 282/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200915T000000
+DESCRIPTION:Data:2020-09-15\nGodzina:\nOrgan administracji:Komendant Słu
+ żby Ochrony Państwa\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Łu
+ kasz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Gór
+ a-Błaszczykowska\nSygnatura akt:II SA/Wa 282/20\nSymbol:6480\nSędziowie:
+ Agnieszka Góra-Błaszczykowska\, asesor Joanna Kruszewska-Grońska\nTyp p
+ osiedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWy
+ dział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -244,18 +244,6 @@ DESCRIPTION:Data:2020-09-24\nGodzina:09:40\nOrgan administracji:Polskie Ko
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Sądu Apelacyjnego w Warszawie - II SA/Wa 416/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200925T000000
-DESCRIPTION:Data:2020-09-25\nGodzina:\nOrgan administracji:Prezes Sądu Ap
- elacyjnego w Warszawie\nPrzedmiot:Odmowa udzielenia informacji publicznej\
- nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
- dawca:Iwona Maciejuk\nSygnatura akt:II SA/Wa 416/20\nSymbol:6480\nSędziow
- ie:asesor Joanna Kruszewska-Grońska\, Iwona Maciejuk\nTyp posiedzenia:Nie
- jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzeczn
- iczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Sądu Rejonowego w Garwolinie - II SAB/Wa 360/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200925T000000
 DESCRIPTION:Data:2020-09-25\nGodzina:\nOrgan administracji:Prezes Sądu Re
@@ -266,6 +254,18 @@ DESCRIPTION:Data:2020-09-25\nGodzina:\nOrgan administracji:Prezes Sądu Re
  ezczynność w przedmiocie rozpoznania wniosku z 3marca 2020 r. o udostęp
  nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono ska
  rgę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Sądu Apelacyjnego w Warszawie - II SA/Wa 416/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200925T000000
+DESCRIPTION:Data:2020-09-25\nGodzina:\nOrgan administracji:Prezes Sądu Ap
+ elacyjnego w Warszawie\nPrzedmiot:Odmowa udzielenia informacji publicznej\
+ nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
+ dawca:Iwona Maciejuk\nSygnatura akt:II SA/Wa 416/20\nSymbol:6480\nSędziow
+ ie:asesor Joanna Kruszewska-Grońska\, Iwona Maciejuk\nTyp posiedzenia:Nie
+ jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzeczn
+ iczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -676,16 +676,30 @@ DESCRIPTION:Data:2020-10-16\nGodzina:\nOrgan administracji:Prokurator Gene
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 269/20
+SUMMARY:[N] Dyrektor Ośrodka Pomocy Społecznej Dzielnicy Bielany M.St. W
+ arszawy - II SAB/Wa 454/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
+DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Dyrektor Ośrod
+ ka Pomocy Społecznej Dzielnicy Bielany M.St. Warszawy\nPrzedmiot:Informac
+ ja publiczna\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawn
+ ych\nSprawozdawca:Joanna Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 454/
+ 20\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\, asesor Joanna K
+ ruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
+ iocie rozpoznania wniosku o dostęp do informacji publicznej\nWydział orz
+ eczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 273/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
 DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu 
  Regulacji Energetyki\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwon
  a Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowack
- a-Klimas\nSygnatura akt:II SAB/Wa 269/20\nSymbol:658/6480\nSędziowie:Izab
+ a-Klimas\nSygnatura akt:II SAB/Wa 273/20\nSymbol:658/6480\nSędziowie:Izab
  ela Głowacka-Klimas\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:
- Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 30 
- grudnia 2019 r. o udostepnienie informacji publicznej\nWydział orzecznicz
- y:II\nWyniki:
+ Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 27 
+ stycznia 2020 r. o udostepnienie informacji publicznej\nWydział orzecznic
+ zy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -728,19 +742,6 @@ DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 273/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
-DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu 
- Regulacji Energetyki\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwon
- a Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowack
- a-Klimas\nSygnatura akt:II SAB/Wa 273/20\nSymbol:658/6480\nSędziowie:Izab
- ela Głowacka-Klimas\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:
- Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 27 
- stycznia 2020 r. o udostepnienie informacji publicznej\nWydział orzecznic
- zy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 274/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
 DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu 
@@ -754,17 +755,16 @@ DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Ośrodka Pomocy Społecznej Dzielnicy Bielany M.St. W
- arszawy - II SAB/Wa 454/20
+SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 269/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
-DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Dyrektor Ośrod
- ka Pomocy Społecznej Dzielnicy Bielany M.St. Warszawy\nPrzedmiot:Informac
- ja publiczna\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawn
- ych\nSprawozdawca:Joanna Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 454/
- 20\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\, asesor Joanna K
- ruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
- iocie rozpoznania wniosku o dostęp do informacji publicznej\nWydział orz
- eczniczy:II\nWyniki:
+DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu 
+ Regulacji Energetyki\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwon
+ a Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowack
+ a-Klimas\nSygnatura akt:II SAB/Wa 269/20\nSymbol:658/6480\nSędziowie:Izab
+ ela Głowacka-Klimas\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:
+ Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 30 
+ grudnia 2019 r. o udostepnienie informacji publicznej\nWydział orzecznicz
+ y:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -802,19 +802,6 @@ DESCRIPTION:Data:2020-10-20\nGodzina:09:30\nOrgan administracji:Prezes Naj
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 326/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201021T000000
-DESCRIPTION:Data:2020-10-21\nGodzina:\nOrgan administracji:PKP Polskie Lin
- ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławomi
- r Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisiele
- wicz\nSygnatura akt:II SAB/Wa 326/20\nSymbol:658/6480\nSędziowie:Danuta K
- ania\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczy
- nność w przedmiocie rozpoznania wniosku z dnia 6 marca 2020 r. o udostę
- pnienie informacji publicznej (odcinek Poznań Główny-Wronki)\nWydział 
- orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 327/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201021T000000
 DESCRIPTION:Data:2020-10-21\nGodzina:\nOrgan administracji:PKP Polskie Lin
@@ -824,6 +811,19 @@ DESCRIPTION:Data:2020-10-21\nGodzina:\nOrgan administracji:PKP Polskie Lin
  ania\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczy
  nność w przedmiocie rozpoznania wniosku z dnia 6marca 2020 r. o udostęp
  nienie informacji publicznej (odcinek Słonice-Szczecin Dąbie)\nWydział 
+ orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 326/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201021T000000
+DESCRIPTION:Data:2020-10-21\nGodzina:\nOrgan administracji:PKP Polskie Lin
+ ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławomi
+ r Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisiele
+ wicz\nSygnatura akt:II SAB/Wa 326/20\nSymbol:658/6480\nSędziowie:Danuta K
+ ania\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczy
+ nność w przedmiocie rozpoznania wniosku z dnia 6 marca 2020 r. o udostę
+ pnienie informacji publicznej (odcinek Poznań Główny-Wronki)\nWydział 
  orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
@@ -852,29 +852,6 @@ DESCRIPTION:Data:2020-10-22\nGodzina:12:45\nOrgan administracji:PL.2012+ S
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 283/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201023T000000
-DESCRIPTION:Data:2020-10-23\nGodzina:\nOrgan administracji:Prezes Rady Min
- istrów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kube\nSala
- :Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura akt:I
- I SAB/Wa 283/20\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Ewa Marcink
- owska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność organu w zakresie wni
- osku z dnia 17 kwietnia 2020 r.\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 155/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201023T000000
-DESCRIPTION:Data:2020-10-23\nGodzina:\nOrgan administracji:Minister Spraw 
- Zagranicznych\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube
- \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura
-  akt:II SAB/Wa 155/20\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Ewa M
- arcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie r
- ozpoznania wniosku o udostępnienie informacji publicznej\nWydział orzecz
- niczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Domu Pomocy Społecznej w Warszawie - II SAB/Wa 190/2
  0
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201023T000000
@@ -899,6 +876,29 @@ DESCRIPTION:Data:2020-10-23\nGodzina:\nOrgan administracji:Generalny Dyrek
  ść po wyroku Wojewódzkiego Sądu Administracyjnego w Warszawie z dnia 1
  9 listopada 2019 r. sygn. II SA/Wa 1136/19\nWydział orzeczniczy:II\nWynik
  i:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 155/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201023T000000
+DESCRIPTION:Data:2020-10-23\nGodzina:\nOrgan administracji:Minister Spraw 
+ Zagranicznych\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube
+ \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura
+  akt:II SAB/Wa 155/20\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Ewa M
+ arcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie r
+ ozpoznania wniosku o udostępnienie informacji publicznej\nWydział orzecz
+ niczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 283/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201023T000000
+DESCRIPTION:Data:2020-10-23\nGodzina:\nOrgan administracji:Prezes Rady Min
+ istrów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kube\nSala
+ :Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura akt:I
+ I SAB/Wa 283/20\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Ewa Marcink
+ owska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność organu w zakresie wni
+ osku z dnia 17 kwietnia 2020 r.\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1051,15 +1051,15 @@ DESCRIPTION:Data:2020-10-28\nGodzina:11:00\nOrgan administracji:Prezes Urz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] SKO w Warszawie - II SA/Wa 451/20
+SUMMARY:[N] Telewizja Polska S.A. - II SAB/Wa 422/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201029T000000
-DESCRIPTION:Data:2020-10-29\nGodzina:\nOrgan administracji:SKO w Warszawie
- \nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Ewa R
- adziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Radzi
- szewska-Krupa\nSygnatura akt:II SA/Wa 451/20\nSymbol:6480\nSędziowie:Sła
- womir Fularski\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejaw
- ne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecznicz
- y:II\nWyniki:
+DESCRIPTION:Data:2020-10-29\nGodzina:\nOrgan administracji:Telewizja Polsk
+ a S.A.\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kube\nSala:
+ Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kube\nSygnatura akt:II SAB
+ /Wa 422/20\nSymbol:658/6480\nSędziowie:Sławomir Fularski\, asesor Joanna
+  Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prze
+ dmiocie rozpoznania wniosku z dnia 29 maja 2020 r. o udostępnienie inform
+ acji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1075,27 +1075,27 @@ DESCRIPTION:Data:2020-10-29\nGodzina:\nOrgan administracji:Prezes Prokurat
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Telewizja Polska S.A. - II SAB/Wa 422/20
+SUMMARY:[N] SKO w Warszawie - II SA/Wa 451/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201029T000000
-DESCRIPTION:Data:2020-10-29\nGodzina:\nOrgan administracji:Telewizja Polsk
- a S.A.\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kube\nSala:
- Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kube\nSygnatura akt:II SAB
- /Wa 422/20\nSymbol:658/6480\nSędziowie:Sławomir Fularski\, asesor Joanna
-  Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prze
- dmiocie rozpoznania wniosku z dnia 29 maja 2020 r. o udostępnienie inform
- acji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2020-10-29\nGodzina:\nOrgan administracji:SKO w Warszawie
+ \nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Ewa R
+ adziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Radzi
+ szewska-Krupa\nSygnatura akt:II SA/Wa 451/20\nSymbol:6480\nSędziowie:Sła
+ womir Fularski\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejaw
+ ne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecznicz
+ y:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Kancelaria Prezesa Rady Ministrów - II SAB/Wa 266/20
+SUMMARY:[N] Burmistrz Gminy Konstancin Jeziorna - II SAB/Wa 416/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201103T000000
-DESCRIPTION:Data:2020-11-03\nGodzina:\nOrgan administracji:Kancelaria Prez
- esa Rady Ministrów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łuka
- sz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Janusz Walawski\
- nSygnatura akt:II SAB/Wa 266/20\nSymbol:658/6480\nSędziowie:Piotr Borowie
- cki\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
- edmiocie rozpoznania wniosku z dnia 31 marca 2020 r. o udostępnienie info
- rmacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2020-11-03\nGodzina:\nOrgan administracji:Burmistrz Gminy
+  Konstancin Jeziorna\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łuk
+ asz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowieck
+ i\nSygnatura akt:II SAB/Wa 416/20\nSymbol:658/6480\nSędziowie:Piotr Borow
+ iecki\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
+ rzedmiocie rozpoznania wniosku z dnia 9 marca 2020 r. o udostępnienie inf
+ ormacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1110,15 +1110,15 @@ DESCRIPTION:Data:2020-11-03\nGodzina:\nOrgan administracji:SKO w Warszawie
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Burmistrz Gminy Konstancin Jeziorna - II SAB/Wa 416/20
+SUMMARY:[N] Kancelaria Prezesa Rady Ministrów - II SAB/Wa 266/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201103T000000
-DESCRIPTION:Data:2020-11-03\nGodzina:\nOrgan administracji:Burmistrz Gminy
-  Konstancin Jeziorna\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łuk
- asz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowieck
- i\nSygnatura akt:II SAB/Wa 416/20\nSymbol:658/6480\nSędziowie:Piotr Borow
- iecki\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
- rzedmiocie rozpoznania wniosku z dnia 9 marca 2020 r. o udostępnienie inf
- ormacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2020-11-03\nGodzina:\nOrgan administracji:Kancelaria Prez
+ esa Rady Ministrów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łuka
+ sz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Janusz Walawski\
+ nSygnatura akt:II SAB/Wa 266/20\nSymbol:658/6480\nSędziowie:Piotr Borowie
+ cki\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
+ edmiocie rozpoznania wniosku z dnia 31 marca 2020 r. o udostępnienie info
+ rmacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1170,18 +1170,6 @@ DESCRIPTION:Data:2020-11-04\nGodzina:11:10\nOrgan administracji:Generalny
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Klembów - II SAB/Wa 184/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201105T000000
-DESCRIPTION:Data:2020-11-05\nGodzina:\nOrgan administracji:Wójt Gminy Kle
- mbów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Góraj\nSal
- a:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura akt:I
- I SAB/Wa 184/20\nSymbol:658/6480\nSędziowie:asesor Joanna Kruszewska-Gro
- ńska\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
- edmiocie rozpatrzenia wniosku z dnia 21 stycznia 2020 r. o udostępnienie 
- informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Fundacja Lux Veritatis z siedzibą w Warszawie - II SAB/Wa 379
  /20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201105T000000
@@ -1196,15 +1184,15 @@ DESCRIPTION:Data:2020-11-05\nGodzina:\nOrgan administracji:Fundacja Lux Ve
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Narodowego Funduszu Zdrowia - II SA/Wa 954/20
+SUMMARY:[N] Wójt Gminy Klembów - II SAB/Wa 184/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201105T000000
-DESCRIPTION:Data:2020-11-05\nGodzina:\nOrgan administracji:Prezes Narodowe
- go Funduszu Zdrowia\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPr
- zewodniczący:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:T
- omasz Szmydt\nSygnatura akt:II SA/Wa 954/20\nSymbol:6480\nSędziowie:aseso
- r Joanna Kruszewska-Grońska\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUw
- agi:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\n
- Wyniki:
+DESCRIPTION:Data:2020-11-05\nGodzina:\nOrgan administracji:Wójt Gminy Kle
+ mbów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Góraj\nSal
+ a:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura akt:I
+ I SAB/Wa 184/20\nSymbol:658/6480\nSędziowie:asesor Joanna Kruszewska-Gro
+ ńska\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
+ edmiocie rozpatrzenia wniosku z dnia 21 stycznia 2020 r. o udostępnienie 
+ informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1217,6 +1205,18 @@ DESCRIPTION:Data:2020-11-05\nGodzina:\nOrgan administracji:Minister Kultur
  a Kruszewska-Grońska\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:bez
  czynność w przedmiocie rozpoznania wniosku z dnia 1 kwietnia 2020 r. o u
  dostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Narodowego Funduszu Zdrowia - II SA/Wa 954/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201105T000000
+DESCRIPTION:Data:2020-11-05\nGodzina:\nOrgan administracji:Prezes Narodowe
+ go Funduszu Zdrowia\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPr
+ zewodniczący:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:T
+ omasz Szmydt\nSygnatura akt:II SA/Wa 954/20\nSymbol:6480\nSędziowie:aseso
+ r Joanna Kruszewska-Grońska\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUw
+ agi:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\n
+ Wyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1317,19 +1317,6 @@ DESCRIPTION:Data:2020-11-09\nGodzina:\nOrgan administracji:Miejski Zakład
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Szef Kancelarii Prezydenta RP - II SAB/Wa 469/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201109T000000
-DESCRIPTION:Data:2020-11-09\nGodzina:\nOrgan administracji:Szef Kancelarii
-  Prezydenta RP\nPrzedmiot:Bezczynność organów administracji publicznej\
- nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
- dawca:Joanna Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 469/20\nSymbol:6
- 58/6480\nSędziowie:asesor Joanna Kruszewska-Grońska\, Łukasz Krzycki\nT
- yp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wni
- osku z 29 czerwca 2019 r. o udostępnienie informacji publicznej\nWydział
-  orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Minister Spraw Wewnętrznych i Administracji - II SAB/Wa 287/2
  0
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201109T000000
@@ -1354,6 +1341,19 @@ DESCRIPTION:Data:2020-11-09\nGodzina:\nOrgan administracji:Komitet Wyborcz
  ycki\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpozna
  nia wniosku z dnia 18 czerwca 2020 r. o udostępnienie informacji publiczn
  ej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Szef Kancelarii Prezydenta RP - II SAB/Wa 469/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201109T000000
+DESCRIPTION:Data:2020-11-09\nGodzina:\nOrgan administracji:Szef Kancelarii
+  Prezydenta RP\nPrzedmiot:Bezczynność organów administracji publicznej\
+ nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
+ dawca:Joanna Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 469/20\nSymbol:6
+ 58/6480\nSędziowie:asesor Joanna Kruszewska-Grońska\, Łukasz Krzycki\nT
+ yp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wni
+ osku z 29 czerwca 2019 r. o udostępnienie informacji publicznej\nWydział
+  orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1396,18 +1396,6 @@ DESCRIPTION:Data:2020-11-10\nGodzina:\nOrgan administracji:Polski Związek
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Komendant Służby Ochrony Państwa - II SA/Wa 282/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200915T000000
-DESCRIPTION:Data:2020-09-15\nGodzina:\nOrgan administracji:Komendant Słu
- żby Ochrony Państwa\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Łu
- kasz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Gór
- a-Błaszczykowska\nSygnatura akt:II SA/Wa 282/20\nSymbol:6480\nSędziowie:
- Agnieszka Góra-Błaszczykowska\, asesor Joanna Kruszewska-Grońska\nTyp p
- osiedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWy
- dział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] SKO w Warszawie - II SA/Wa 863/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200915T000000
 DESCRIPTION:Data:2020-09-15\nGodzina:\nOrgan administracji:SKO w Warszawie
@@ -1417,6 +1405,18 @@ DESCRIPTION:Data:2020-09-15\nGodzina:\nOrgan administracji:SKO w Warszawie
  ka Góra-Błaszczykowska\, asesor Joanna Kruszewska-Grońska\nTyp posiedze
  nia:Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział 
  orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Komendant Służby Ochrony Państwa - II SA/Wa 282/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200915T000000
+DESCRIPTION:Data:2020-09-15\nGodzina:\nOrgan administracji:Komendant Słu
+ żby Ochrony Państwa\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Łu
+ kasz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Gór
+ a-Błaszczykowska\nSygnatura akt:II SA/Wa 282/20\nSymbol:6480\nSędziowie:
+ Agnieszka Góra-Błaszczykowska\, asesor Joanna Kruszewska-Grońska\nTyp p
+ osiedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWy
+ dział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1639,18 +1639,6 @@ DESCRIPTION:Data:2020-09-24\nGodzina:09:40\nOrgan administracji:Polskie Ko
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Sądu Apelacyjnego w Warszawie - II SA/Wa 416/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200925T000000
-DESCRIPTION:Data:2020-09-25\nGodzina:\nOrgan administracji:Prezes Sądu Ap
- elacyjnego w Warszawie\nPrzedmiot:Odmowa udzielenia informacji publicznej\
- nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
- dawca:Iwona Maciejuk\nSygnatura akt:II SA/Wa 416/20\nSymbol:6480\nSędziow
- ie:asesor Joanna Kruszewska-Grońska\, Iwona Maciejuk\nTyp posiedzenia:Nie
- jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzeczn
- iczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Sądu Rejonowego w Garwolinie - II SAB/Wa 360/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200925T000000
 DESCRIPTION:Data:2020-09-25\nGodzina:\nOrgan administracji:Prezes Sądu Re
@@ -1661,6 +1649,18 @@ DESCRIPTION:Data:2020-09-25\nGodzina:\nOrgan administracji:Prezes Sądu Re
  ezczynność w przedmiocie rozpoznania wniosku z 3marca 2020 r. o udostęp
  nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono ska
  rgę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Sądu Apelacyjnego w Warszawie - II SA/Wa 416/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20200925T000000
+DESCRIPTION:Data:2020-09-25\nGodzina:\nOrgan administracji:Prezes Sądu Ap
+ elacyjnego w Warszawie\nPrzedmiot:Odmowa udzielenia informacji publicznej\
+ nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
+ dawca:Iwona Maciejuk\nSygnatura akt:II SA/Wa 416/20\nSymbol:6480\nSędziow
+ ie:asesor Joanna Kruszewska-Grońska\, Iwona Maciejuk\nTyp posiedzenia:Nie
+ jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzeczn
+ iczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2071,16 +2071,30 @@ DESCRIPTION:Data:2020-10-16\nGodzina:\nOrgan administracji:Prokurator Gene
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 269/20
+SUMMARY:[N] Dyrektor Ośrodka Pomocy Społecznej Dzielnicy Bielany M.St. W
+ arszawy - II SAB/Wa 454/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
+DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Dyrektor Ośrod
+ ka Pomocy Społecznej Dzielnicy Bielany M.St. Warszawy\nPrzedmiot:Informac
+ ja publiczna\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawn
+ ych\nSprawozdawca:Joanna Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 454/
+ 20\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\, asesor Joanna K
+ ruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
+ iocie rozpoznania wniosku o dostęp do informacji publicznej\nWydział orz
+ eczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 273/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
 DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu 
  Regulacji Energetyki\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwon
  a Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowack
- a-Klimas\nSygnatura akt:II SAB/Wa 269/20\nSymbol:658/6480\nSędziowie:Izab
+ a-Klimas\nSygnatura akt:II SAB/Wa 273/20\nSymbol:658/6480\nSędziowie:Izab
  ela Głowacka-Klimas\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:
- Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 30 
- grudnia 2019 r. o udostepnienie informacji publicznej\nWydział orzecznicz
- y:II\nWyniki:
+ Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 27 
+ stycznia 2020 r. o udostepnienie informacji publicznej\nWydział orzecznic
+ zy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2123,19 +2137,6 @@ DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 273/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
-DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu 
- Regulacji Energetyki\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwon
- a Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowack
- a-Klimas\nSygnatura akt:II SAB/Wa 273/20\nSymbol:658/6480\nSędziowie:Izab
- ela Głowacka-Klimas\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:
- Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 27 
- stycznia 2020 r. o udostepnienie informacji publicznej\nWydział orzecznic
- zy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 274/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
 DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu 
@@ -2149,17 +2150,16 @@ DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Ośrodka Pomocy Społecznej Dzielnicy Bielany M.St. W
- arszawy - II SAB/Wa 454/20
+SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 269/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201019T000000
-DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Dyrektor Ośrod
- ka Pomocy Społecznej Dzielnicy Bielany M.St. Warszawy\nPrzedmiot:Informac
- ja publiczna\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawn
- ych\nSprawozdawca:Joanna Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 454/
- 20\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\, asesor Joanna K
- ruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedm
- iocie rozpoznania wniosku o dostęp do informacji publicznej\nWydział orz
- eczniczy:II\nWyniki:
+DESCRIPTION:Data:2020-10-19\nGodzina:\nOrgan administracji:Prezes Urzędu 
+ Regulacji Energetyki\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwon
+ a Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowack
+ a-Klimas\nSygnatura akt:II SAB/Wa 269/20\nSymbol:658/6480\nSędziowie:Izab
+ ela Głowacka-Klimas\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:
+ Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 30 
+ grudnia 2019 r. o udostepnienie informacji publicznej\nWydział orzecznicz
+ y:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2197,19 +2197,6 @@ DESCRIPTION:Data:2020-10-20\nGodzina:09:30\nOrgan administracji:Prezes Naj
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 326/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201021T000000
-DESCRIPTION:Data:2020-10-21\nGodzina:\nOrgan administracji:PKP Polskie Lin
- ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławomi
- r Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisiele
- wicz\nSygnatura akt:II SAB/Wa 326/20\nSymbol:658/6480\nSędziowie:Danuta K
- ania\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczy
- nność w przedmiocie rozpoznania wniosku z dnia 6 marca 2020 r. o udostę
- pnienie informacji publicznej (odcinek Poznań Główny-Wronki)\nWydział 
- orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 327/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201021T000000
 DESCRIPTION:Data:2020-10-21\nGodzina:\nOrgan administracji:PKP Polskie Lin
@@ -2219,6 +2206,19 @@ DESCRIPTION:Data:2020-10-21\nGodzina:\nOrgan administracji:PKP Polskie Lin
  ania\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczy
  nność w przedmiocie rozpoznania wniosku z dnia 6marca 2020 r. o udostęp
  nienie informacji publicznej (odcinek Słonice-Szczecin Dąbie)\nWydział 
+ orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 326/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201021T000000
+DESCRIPTION:Data:2020-10-21\nGodzina:\nOrgan administracji:PKP Polskie Lin
+ ie Kolejowe S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławomi
+ r Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisiele
+ wicz\nSygnatura akt:II SAB/Wa 326/20\nSymbol:658/6480\nSędziowie:Danuta K
+ ania\, asesor Karolina Kisielewicz\nTyp posiedzenia:Niejawne\nUwagi:bezczy
+ nność w przedmiocie rozpoznania wniosku z dnia 6 marca 2020 r. o udostę
+ pnienie informacji publicznej (odcinek Poznań Główny-Wronki)\nWydział 
  orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
@@ -2247,29 +2247,6 @@ DESCRIPTION:Data:2020-10-22\nGodzina:12:45\nOrgan administracji:PL.2012+ S
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 283/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201023T000000
-DESCRIPTION:Data:2020-10-23\nGodzina:\nOrgan administracji:Prezes Rady Min
- istrów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kube\nSala
- :Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura akt:I
- I SAB/Wa 283/20\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Ewa Marcink
- owska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność organu w zakresie wni
- osku z dnia 17 kwietnia 2020 r.\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 155/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201023T000000
-DESCRIPTION:Data:2020-10-23\nGodzina:\nOrgan administracji:Minister Spraw 
- Zagranicznych\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube
- \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura
-  akt:II SAB/Wa 155/20\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Ewa M
- arcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie r
- ozpoznania wniosku o udostępnienie informacji publicznej\nWydział orzecz
- niczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Domu Pomocy Społecznej w Warszawie - II SAB/Wa 190/2
  0
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201023T000000
@@ -2294,6 +2271,29 @@ DESCRIPTION:Data:2020-10-23\nGodzina:\nOrgan administracji:Generalny Dyrek
  ść po wyroku Wojewódzkiego Sądu Administracyjnego w Warszawie z dnia 1
  9 listopada 2019 r. sygn. II SA/Wa 1136/19\nWydział orzeczniczy:II\nWynik
  i:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 155/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201023T000000
+DESCRIPTION:Data:2020-10-23\nGodzina:\nOrgan administracji:Minister Spraw 
+ Zagranicznych\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube
+ \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura
+  akt:II SAB/Wa 155/20\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Ewa M
+ arcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie r
+ ozpoznania wniosku o udostępnienie informacji publicznej\nWydział orzecz
+ niczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 283/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201023T000000
+DESCRIPTION:Data:2020-10-23\nGodzina:\nOrgan administracji:Prezes Rady Min
+ istrów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kube\nSala
+ :Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura akt:I
+ I SAB/Wa 283/20\nSymbol:658/6480\nSędziowie:Ewa Kwiecińska\, Ewa Marcink
+ owska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność organu w zakresie wni
+ osku z dnia 17 kwietnia 2020 r.\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2446,15 +2446,15 @@ DESCRIPTION:Data:2020-10-28\nGodzina:11:00\nOrgan administracji:Prezes Urz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] SKO w Warszawie - II SA/Wa 451/20
+SUMMARY:[N] Telewizja Polska S.A. - II SAB/Wa 422/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201029T000000
-DESCRIPTION:Data:2020-10-29\nGodzina:\nOrgan administracji:SKO w Warszawie
- \nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Ewa R
- adziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Radzi
- szewska-Krupa\nSygnatura akt:II SA/Wa 451/20\nSymbol:6480\nSędziowie:Sła
- womir Fularski\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejaw
- ne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecznicz
- y:II\nWyniki:
+DESCRIPTION:Data:2020-10-29\nGodzina:\nOrgan administracji:Telewizja Polsk
+ a S.A.\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kube\nSala:
+ Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kube\nSygnatura akt:II SAB
+ /Wa 422/20\nSymbol:658/6480\nSędziowie:Sławomir Fularski\, asesor Joanna
+  Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prze
+ dmiocie rozpoznania wniosku z dnia 29 maja 2020 r. o udostępnienie inform
+ acji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2470,27 +2470,27 @@ DESCRIPTION:Data:2020-10-29\nGodzina:\nOrgan administracji:Prezes Prokurat
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Telewizja Polska S.A. - II SAB/Wa 422/20
+SUMMARY:[N] SKO w Warszawie - II SA/Wa 451/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201029T000000
-DESCRIPTION:Data:2020-10-29\nGodzina:\nOrgan administracji:Telewizja Polsk
- a S.A.\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kube\nSala:
- Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kube\nSygnatura akt:II SAB
- /Wa 422/20\nSymbol:658/6480\nSędziowie:Sławomir Fularski\, asesor Joanna
-  Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prze
- dmiocie rozpoznania wniosku z dnia 29 maja 2020 r. o udostępnienie inform
- acji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2020-10-29\nGodzina:\nOrgan administracji:SKO w Warszawie
+ \nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Ewa R
+ adziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Radzi
+ szewska-Krupa\nSygnatura akt:II SA/Wa 451/20\nSymbol:6480\nSędziowie:Sła
+ womir Fularski\, asesor Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejaw
+ ne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecznicz
+ y:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Kancelaria Prezesa Rady Ministrów - II SAB/Wa 266/20
+SUMMARY:[N] Burmistrz Gminy Konstancin Jeziorna - II SAB/Wa 416/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201103T000000
-DESCRIPTION:Data:2020-11-03\nGodzina:\nOrgan administracji:Kancelaria Prez
- esa Rady Ministrów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łuka
- sz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Janusz Walawski\
- nSygnatura akt:II SAB/Wa 266/20\nSymbol:658/6480\nSędziowie:Piotr Borowie
- cki\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
- edmiocie rozpoznania wniosku z dnia 31 marca 2020 r. o udostępnienie info
- rmacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2020-11-03\nGodzina:\nOrgan administracji:Burmistrz Gminy
+  Konstancin Jeziorna\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łuk
+ asz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowieck
+ i\nSygnatura akt:II SAB/Wa 416/20\nSymbol:658/6480\nSędziowie:Piotr Borow
+ iecki\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
+ rzedmiocie rozpoznania wniosku z dnia 9 marca 2020 r. o udostępnienie inf
+ ormacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2505,15 +2505,15 @@ DESCRIPTION:Data:2020-11-03\nGodzina:\nOrgan administracji:SKO w Warszawie
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Burmistrz Gminy Konstancin Jeziorna - II SAB/Wa 416/20
+SUMMARY:[N] Kancelaria Prezesa Rady Ministrów - II SAB/Wa 266/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201103T000000
-DESCRIPTION:Data:2020-11-03\nGodzina:\nOrgan administracji:Burmistrz Gminy
-  Konstancin Jeziorna\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łuk
- asz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowieck
- i\nSygnatura akt:II SAB/Wa 416/20\nSymbol:658/6480\nSędziowie:Piotr Borow
- iecki\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
- rzedmiocie rozpoznania wniosku z dnia 9 marca 2020 r. o udostępnienie inf
- ormacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2020-11-03\nGodzina:\nOrgan administracji:Kancelaria Prez
+ esa Rady Ministrów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łuka
+ sz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Janusz Walawski\
+ nSygnatura akt:II SAB/Wa 266/20\nSymbol:658/6480\nSędziowie:Piotr Borowie
+ cki\, Janusz Walawski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
+ edmiocie rozpoznania wniosku z dnia 31 marca 2020 r. o udostępnienie info
+ rmacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2565,18 +2565,6 @@ DESCRIPTION:Data:2020-11-04\nGodzina:11:10\nOrgan administracji:Generalny
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Klembów - II SAB/Wa 184/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201105T000000
-DESCRIPTION:Data:2020-11-05\nGodzina:\nOrgan administracji:Wójt Gminy Kle
- mbów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Góraj\nSal
- a:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura akt:I
- I SAB/Wa 184/20\nSymbol:658/6480\nSędziowie:asesor Joanna Kruszewska-Gro
- ńska\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
- edmiocie rozpatrzenia wniosku z dnia 21 stycznia 2020 r. o udostępnienie 
- informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Fundacja Lux Veritatis z siedzibą w Warszawie - II SAB/Wa 379
  /20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201105T000000
@@ -2591,15 +2579,15 @@ DESCRIPTION:Data:2020-11-05\nGodzina:\nOrgan administracji:Fundacja Lux Ve
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Narodowego Funduszu Zdrowia - II SA/Wa 954/20
+SUMMARY:[N] Wójt Gminy Klembów - II SAB/Wa 184/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201105T000000
-DESCRIPTION:Data:2020-11-05\nGodzina:\nOrgan administracji:Prezes Narodowe
- go Funduszu Zdrowia\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPr
- zewodniczący:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:T
- omasz Szmydt\nSygnatura akt:II SA/Wa 954/20\nSymbol:6480\nSędziowie:aseso
- r Joanna Kruszewska-Grońska\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUw
- agi:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\n
- Wyniki:
+DESCRIPTION:Data:2020-11-05\nGodzina:\nOrgan administracji:Wójt Gminy Kle
+ mbów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Góraj\nSal
+ a:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura akt:I
+ I SAB/Wa 184/20\nSymbol:658/6480\nSędziowie:asesor Joanna Kruszewska-Gro
+ ńska\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
+ edmiocie rozpatrzenia wniosku z dnia 21 stycznia 2020 r. o udostępnienie 
+ informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2612,6 +2600,18 @@ DESCRIPTION:Data:2020-11-05\nGodzina:\nOrgan administracji:Minister Kultur
  a Kruszewska-Grońska\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:bez
  czynność w przedmiocie rozpoznania wniosku z dnia 1 kwietnia 2020 r. o u
  dostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Narodowego Funduszu Zdrowia - II SA/Wa 954/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201105T000000
+DESCRIPTION:Data:2020-11-05\nGodzina:\nOrgan administracji:Prezes Narodowe
+ go Funduszu Zdrowia\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPr
+ zewodniczący:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:T
+ omasz Szmydt\nSygnatura akt:II SA/Wa 954/20\nSymbol:6480\nSędziowie:aseso
+ r Joanna Kruszewska-Grońska\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUw
+ agi:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\n
+ Wyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2712,19 +2712,6 @@ DESCRIPTION:Data:2020-11-09\nGodzina:\nOrgan administracji:Miejski Zakład
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Szef Kancelarii Prezydenta RP - II SAB/Wa 469/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201109T000000
-DESCRIPTION:Data:2020-11-09\nGodzina:\nOrgan administracji:Szef Kancelarii
-  Prezydenta RP\nPrzedmiot:Bezczynność organów administracji publicznej\
- nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
- dawca:Joanna Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 469/20\nSymbol:6
- 58/6480\nSędziowie:asesor Joanna Kruszewska-Grońska\, Łukasz Krzycki\nT
- yp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wni
- osku z 29 czerwca 2019 r. o udostępnienie informacji publicznej\nWydział
-  orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Minister Spraw Wewnętrznych i Administracji - II SAB/Wa 287/2
  0
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201109T000000
@@ -2749,6 +2736,19 @@ DESCRIPTION:Data:2020-11-09\nGodzina:\nOrgan administracji:Komitet Wyborcz
  ycki\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpozna
  nia wniosku z dnia 18 czerwca 2020 r. o udostępnienie informacji publiczn
  ej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Szef Kancelarii Prezydenta RP - II SAB/Wa 469/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201109T000000
+DESCRIPTION:Data:2020-11-09\nGodzina:\nOrgan administracji:Szef Kancelarii
+  Prezydenta RP\nPrzedmiot:Bezczynność organów administracji publicznej\
+ nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\nSprawoz
+ dawca:Joanna Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 469/20\nSymbol:6
+ 58/6480\nSędziowie:asesor Joanna Kruszewska-Grońska\, Łukasz Krzycki\nT
+ yp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wni
+ osku z 29 czerwca 2019 r. o udostępnienie informacji publicznej\nWydział
+  orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
