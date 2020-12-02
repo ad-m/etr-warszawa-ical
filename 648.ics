@@ -28,18 +28,6 @@ DESCRIPTION:Data:2020-11-03\nGodzina:13:00\nOrgan administracji:Przedsięb
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Sądu Apelacyjnego w Warszawie - II SA/Wa 2762/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201104T000000
-DESCRIPTION:Data:2020-11-04\nGodzina:\nOrgan administracji:Prezes Sądu Ap
- elacyjnego w Warszawie\nPrzedmiot:Informacja publiczna\; Informacja public
- zna\nPrzewodniczący:Agnieszka Góra-Błaszczykowska\nSala:Sala posiedzeń
-  niejawnych\nSprawozdawca:Andrzej Wieczorek\nSygnatura akt:II SA/Wa 2762/1
- 9\nSymbol:6480\nSędziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek
- \nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalo
- no skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Generalny Dyrektor Ochrony Środowiska - II SA/Wa 2480/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201104T000000
 DESCRIPTION:Data:2020-11-04\nGodzina:\nOrgan administracji:Generalny Dyrek
@@ -61,6 +49,18 @@ DESCRIPTION:Data:2020-11-04\nGodzina:\nOrgan administracji:Telewizja Polsk
  owska\nSygnatura akt:II SA/Wa 785/20\nSymbol:6480\nSędziowie:asesor Karol
  ina Kisielewicz\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:\nWyd
  ział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Sądu Apelacyjnego w Warszawie - II SA/Wa 2762/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201104T000000
+DESCRIPTION:Data:2020-11-04\nGodzina:\nOrgan administracji:Prezes Sądu Ap
+ elacyjnego w Warszawie\nPrzedmiot:Informacja publiczna\; Informacja public
+ zna\nPrzewodniczący:Agnieszka Góra-Błaszczykowska\nSala:Sala posiedzeń
+  niejawnych\nSprawozdawca:Andrzej Wieczorek\nSygnatura akt:II SA/Wa 2762/1
+ 9\nSymbol:6480\nSędziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek
+ \nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalo
+ no skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -380,18 +380,6 @@ DESCRIPTION:Data:2020-12-03\nGodzina:\nOrgan administracji:Główny Lekarz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Polskiego Instytutu Sztuki Filmowej - II SA/Wa 813/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201204T000000
-DESCRIPTION:Data:2020-12-04\nGodzina:\nOrgan administracji:Dyrektor Polski
- ego Instytutu Sztuki Filmowej\nPrzedmiot:Odmowa udzielenia informacji publ
- icznej\nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\n
- Sprawozdawca:Janusz Walawski\nSygnatura akt:II SA/Wa 813/20\nSymbol:6480\n
- Sędziowie:asesor Karolina Kisielewicz\, Tomasz Szmydt\nTyp posiedzenia:Ni
- ejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecz
- niczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Towarzystwo Opieki nad Zwierzętami w Polsce Schronisko dla Be
  zdomnych Zwierząt w Celestynowie - II SA/Wa 881/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201204T000000
@@ -405,14 +393,15 @@ DESCRIPTION:Data:2020-12-04\nGodzina:\nOrgan administracji:Towarzystwo Opi
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Pierwszy Prezes Sądu Najwyższego - II SA/Wa 1079/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201209T000000
-DESCRIPTION:Data:2020-12-09\nGodzina:\nOrgan administracji:Pierwszy Prezes
-  Sądu Najwyższego\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPr
- zewodniczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawc
- a:Andrzej Góraj\nSygnatura akt:II SA/Wa 1079/20\nSymbol:6480\nSędziowie:
- Danuta Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostę
- pnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+SUMMARY:[N] Dyrektor Polskiego Instytutu Sztuki Filmowej - II SA/Wa 813/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201204T000000
+DESCRIPTION:Data:2020-12-04\nGodzina:\nOrgan administracji:Dyrektor Polski
+ ego Instytutu Sztuki Filmowej\nPrzedmiot:Odmowa udzielenia informacji publ
+ icznej\nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\n
+ Sprawozdawca:Janusz Walawski\nSygnatura akt:II SA/Wa 813/20\nSymbol:6480\n
+ Sędziowie:asesor Karolina Kisielewicz\, Tomasz Szmydt\nTyp posiedzenia:Ni
+ ejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecz
+ niczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -424,6 +413,17 @@ DESCRIPTION:Data:2020-12-09\nGodzina:\nOrgan administracji:Główny Inspek
  tura akt:II SA/Wa 1511/20\nSymbol:6480\nSędziowie:Danuta Kania\, Joanna K
  ube\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publ
  icznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Pierwszy Prezes Sądu Najwyższego - II SA/Wa 1079/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201209T000000
+DESCRIPTION:Data:2020-12-09\nGodzina:\nOrgan administracji:Pierwszy Prezes
+  Sądu Najwyższego\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPr
+ zewodniczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawc
+ a:Andrzej Góraj\nSygnatura akt:II SA/Wa 1079/20\nSymbol:6480\nSędziowie:
+ Danuta Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostę
+ pnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -462,17 +462,6 @@ DESCRIPTION:Data:2020-12-14\nGodzina:\nOrgan administracji:Telewizja Polsk
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prawo i Sprawiedliwość - II SA/Wa 1180/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201215T000000
-DESCRIPTION:Data:2020-12-15\nGodzina:\nOrgan administracji:Prawo i Sprawie
- dliwość\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Kołodz
- iej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatu
- ra akt:II SA/Wa 1180/20\nSymbol:6480\nSędziowie:Joanna Kube\, Iwona Macie
- juk\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publ
- icznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] SKO w Warszawie - II SA/Wa 1710/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201215T000000
 DESCRIPTION:Data:2020-12-15\nGodzina:\nOrgan administracji:SKO w Warszawie
@@ -481,6 +470,17 @@ DESCRIPTION:Data:2020-12-15\nGodzina:\nOrgan administracji:SKO w Warszawie
  /Wa 1710/20\nSymbol:6480\nSędziowie:Joanna Kube\, Iwona Maciejuk\nTyp pos
  iedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydz
  iał orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prawo i Sprawiedliwość - II SA/Wa 1180/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201215T000000
+DESCRIPTION:Data:2020-12-15\nGodzina:\nOrgan administracji:Prawo i Sprawie
+ dliwość\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Kołodz
+ iej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatu
+ ra akt:II SA/Wa 1180/20\nSymbol:6480\nSędziowie:Joanna Kube\, Iwona Macie
+ juk\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publ
+ icznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -544,18 +544,6 @@ DESCRIPTION:Data:2020-11-03\nGodzina:13:00\nOrgan administracji:Przedsięb
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Sądu Apelacyjnego w Warszawie - II SA/Wa 2762/19
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201104T000000
-DESCRIPTION:Data:2020-11-04\nGodzina:\nOrgan administracji:Prezes Sądu Ap
- elacyjnego w Warszawie\nPrzedmiot:Informacja publiczna\; Informacja public
- zna\nPrzewodniczący:Agnieszka Góra-Błaszczykowska\nSala:Sala posiedzeń
-  niejawnych\nSprawozdawca:Andrzej Wieczorek\nSygnatura akt:II SA/Wa 2762/1
- 9\nSymbol:6480\nSędziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek
- \nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalo
- no skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Generalny Dyrektor Ochrony Środowiska - II SA/Wa 2480/19
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201104T000000
 DESCRIPTION:Data:2020-11-04\nGodzina:\nOrgan administracji:Generalny Dyrek
@@ -577,6 +565,18 @@ DESCRIPTION:Data:2020-11-04\nGodzina:\nOrgan administracji:Telewizja Polsk
  owska\nSygnatura akt:II SA/Wa 785/20\nSymbol:6480\nSędziowie:asesor Karol
  ina Kisielewicz\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:\nWyd
  ział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Sądu Apelacyjnego w Warszawie - II SA/Wa 2762/19
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201104T000000
+DESCRIPTION:Data:2020-11-04\nGodzina:\nOrgan administracji:Prezes Sądu Ap
+ elacyjnego w Warszawie\nPrzedmiot:Informacja publiczna\; Informacja public
+ zna\nPrzewodniczący:Agnieszka Góra-Błaszczykowska\nSala:Sala posiedzeń
+  niejawnych\nSprawozdawca:Andrzej Wieczorek\nSygnatura akt:II SA/Wa 2762/1
+ 9\nSymbol:6480\nSędziowie:asesor Karolina Kisielewicz\, Andrzej Wieczorek
+ \nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalo
+ no skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -896,18 +896,6 @@ DESCRIPTION:Data:2020-12-03\nGodzina:\nOrgan administracji:Główny Lekarz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Polskiego Instytutu Sztuki Filmowej - II SA/Wa 813/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201204T000000
-DESCRIPTION:Data:2020-12-04\nGodzina:\nOrgan administracji:Dyrektor Polski
- ego Instytutu Sztuki Filmowej\nPrzedmiot:Odmowa udzielenia informacji publ
- icznej\nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\n
- Sprawozdawca:Janusz Walawski\nSygnatura akt:II SA/Wa 813/20\nSymbol:6480\n
- Sędziowie:asesor Karolina Kisielewicz\, Tomasz Szmydt\nTyp posiedzenia:Ni
- ejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecz
- niczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Towarzystwo Opieki nad Zwierzętami w Polsce Schronisko dla Be
  zdomnych Zwierząt w Celestynowie - II SA/Wa 881/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201204T000000
@@ -921,14 +909,15 @@ DESCRIPTION:Data:2020-12-04\nGodzina:\nOrgan administracji:Towarzystwo Opi
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Pierwszy Prezes Sądu Najwyższego - II SA/Wa 1079/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201209T000000
-DESCRIPTION:Data:2020-12-09\nGodzina:\nOrgan administracji:Pierwszy Prezes
-  Sądu Najwyższego\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPr
- zewodniczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawc
- a:Andrzej Góraj\nSygnatura akt:II SA/Wa 1079/20\nSymbol:6480\nSędziowie:
- Danuta Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostę
- pnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+SUMMARY:[N] Dyrektor Polskiego Instytutu Sztuki Filmowej - II SA/Wa 813/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201204T000000
+DESCRIPTION:Data:2020-12-04\nGodzina:\nOrgan administracji:Dyrektor Polski
+ ego Instytutu Sztuki Filmowej\nPrzedmiot:Odmowa udzielenia informacji publ
+ icznej\nPrzewodniczący:Janusz Walawski\nSala:Sala posiedzeń niejawnych\n
+ Sprawozdawca:Janusz Walawski\nSygnatura akt:II SA/Wa 813/20\nSymbol:6480\n
+ Sędziowie:asesor Karolina Kisielewicz\, Tomasz Szmydt\nTyp posiedzenia:Ni
+ ejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecz
+ niczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -940,6 +929,17 @@ DESCRIPTION:Data:2020-12-09\nGodzina:\nOrgan administracji:Główny Inspek
  tura akt:II SA/Wa 1511/20\nSymbol:6480\nSędziowie:Danuta Kania\, Joanna K
  ube\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publ
  icznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Pierwszy Prezes Sądu Najwyższego - II SA/Wa 1079/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201209T000000
+DESCRIPTION:Data:2020-12-09\nGodzina:\nOrgan administracji:Pierwszy Prezes
+  Sądu Najwyższego\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPr
+ zewodniczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawc
+ a:Andrzej Góraj\nSygnatura akt:II SA/Wa 1079/20\nSymbol:6480\nSędziowie:
+ Danuta Kania\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostę
+ pnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -978,17 +978,6 @@ DESCRIPTION:Data:2020-12-14\nGodzina:\nOrgan administracji:Telewizja Polsk
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prawo i Sprawiedliwość - II SA/Wa 1180/20
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201215T000000
-DESCRIPTION:Data:2020-12-15\nGodzina:\nOrgan administracji:Prawo i Sprawie
- dliwość\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Kołodz
- iej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatu
- ra akt:II SA/Wa 1180/20\nSymbol:6480\nSędziowie:Joanna Kube\, Iwona Macie
- juk\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publ
- icznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] SKO w Warszawie - II SA/Wa 1710/20
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201215T000000
 DESCRIPTION:Data:2020-12-15\nGodzina:\nOrgan administracji:SKO w Warszawie
@@ -997,6 +986,17 @@ DESCRIPTION:Data:2020-12-15\nGodzina:\nOrgan administracji:SKO w Warszawie
  /Wa 1710/20\nSymbol:6480\nSędziowie:Joanna Kube\, Iwona Maciejuk\nTyp pos
  iedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydz
  iał orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prawo i Sprawiedliwość - II SA/Wa 1180/20
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20201215T000000
+DESCRIPTION:Data:2020-12-15\nGodzina:\nOrgan administracji:Prawo i Sprawie
+ dliwość\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Kołodz
+ iej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatu
+ ra akt:II SA/Wa 1180/20\nSymbol:6480\nSędziowie:Joanna Kube\, Iwona Macie
+ juk\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publ
+ icznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
