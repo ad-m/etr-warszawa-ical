@@ -1,18 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[N] Pierwszy Prezes Sądu Najwyższego - II SA/Wa 2678/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220103T000000
-DESCRIPTION:Data:2022-01-03\nGodzina:\nOrgan administracji:Pierwszy Prezes
-  Sądu Najwyższego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Izabe
- la Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej
-  Wieczorek\nSygnatura akt:II SA/Wa 2678/21\nSymbol:6480\nSędziowie:Andrze
- j Góraj\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:odmowa udost
- ępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono 
- skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 170/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220103T000000
 DESCRIPTION:Data:2022-01-03\nGodzina:\nOrgan administracji:Prezydent m.st.
@@ -24,6 +12,18 @@ DESCRIPTION:Data:2022-01-03\nGodzina:\nOrgan administracji:Prezydent m.st.
  rmacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynnoś
  ć postępowania i że bezczynność nie miała miejsca z rażącym narusz
  eniem prawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Pierwszy Prezes Sądu Najwyższego - II SA/Wa 2678/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220103T000000
+DESCRIPTION:Data:2022-01-03\nGodzina:\nOrgan administracji:Pierwszy Prezes
+  Sądu Najwyższego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Izabe
+ la Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej
+  Wieczorek\nSygnatura akt:II SA/Wa 2678/21\nSymbol:6480\nSędziowie:Andrze
+ j Góraj\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:odmowa udost
+ ępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono 
+ skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -103,20 +103,6 @@ DESCRIPTION:Data:2022-01-04\nGodzina:\nOrgan administracji:Polskie Linie L
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Miasto stołeczne Warszawa reprezentowana przez Prezydenta Mia
- sta Warszawy - II SAB/Wa 564/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220105T000000
-DESCRIPTION:Data:2022-01-05\nGodzina:\nOrgan administracji:Miasto stołecz
- ne Warszawa reprezentowana przez Prezydenta Miasta Warszawy\nPrzedmiot:Inf
- ormacja publiczna\nPrzewodniczący:Andrzej Kołodziej\nSala:Sala posiedze
- ń niejawnych\nSprawozdawca:Waldemar Śledzik\nSygnatura akt:II SAB/Wa 564
- /21\nSymbol:658/6480\nSędziowie:Łukasz Krzycki\, Waldemar Śledzik\nTyp 
- posiedzenia:Niejawne\nUwagi:bezczynność w rozpoznaniu wniosku z dnia 4 s
- tycznia 2021 r. o udostępnienie informacji publicznej\nWydział orzecznic
- zy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 522/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220105T000000
 DESCRIPTION:Data:2022-01-05\nGodzina:\nOrgan administracji:Komendant Głó
@@ -147,6 +133,20 @@ DESCRIPTION:Data:2022-01-05\nGodzina:\nOrgan administracji:Zakład Gospoda
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Miasto stołeczne Warszawa reprezentowana przez Prezydenta Mia
+ sta Warszawy - II SAB/Wa 564/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220105T000000
+DESCRIPTION:Data:2022-01-05\nGodzina:\nOrgan administracji:Miasto stołecz
+ ne Warszawa reprezentowana przez Prezydenta Miasta Warszawy\nPrzedmiot:Inf
+ ormacja publiczna\nPrzewodniczący:Andrzej Kołodziej\nSala:Sala posiedze
+ ń niejawnych\nSprawozdawca:Waldemar Śledzik\nSygnatura akt:II SAB/Wa 564
+ /21\nSymbol:658/6480\nSędziowie:Łukasz Krzycki\, Waldemar Śledzik\nTyp 
+ posiedzenia:Niejawne\nUwagi:bezczynność w rozpoznaniu wniosku z dnia 4 s
+ tycznia 2021 r. o udostępnienie informacji publicznej\nWydział orzecznic
+ zy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Wójt Gminy Pacyna - II SAB/Wa 572/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220110T000000
 DESCRIPTION:Data:2022-01-10\nGodzina:\nOrgan administracji:Wójt Gminy Pac
@@ -173,21 +173,6 @@ DESCRIPTION:Data:2022-01-10\nGodzina:\nOrgan administracji:Mazowiecki Woje
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 560/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220111T000000
-DESCRIPTION:Data:2022-01-11\nGodzina:\nOrgan administracji:PKP Polskie Lin
- ie Kolejowe S.A.\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Danuta K
- ania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Wieczorek\nSyg
- natura akt:II SAB/Wa 560/21\nSymbol:658/6480\nSędziowie:Sławomir Antoniu
- k\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
- edmiocie rozpoznania wniosku z dnia 14 kwietnia 2021 r. o udostępnienie i
- nformacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i s
- twierdzono że bezczynność miała miejsce bez rażącego naruszenia praw
- a |Stwierdzono bezczynność organu - art. 149 §1a ustawy PoPPSA |Zasądz
- ono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Instytutu Hodowli i Aklimatyzacji Roślin Państwowy 
  Instytut Badawczy w Radzikowie - II SAB/Wa 453/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220111T000000
@@ -205,6 +190,21 @@ DESCRIPTION:Data:2022-01-11\nGodzina:\nOrgan administracji:Dyrektor Instyt
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 560/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220111T000000
+DESCRIPTION:Data:2022-01-11\nGodzina:\nOrgan administracji:PKP Polskie Lin
+ ie Kolejowe S.A.\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Danuta K
+ ania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Wieczorek\nSyg
+ natura akt:II SAB/Wa 560/21\nSymbol:658/6480\nSędziowie:Sławomir Antoniu
+ k\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
+ edmiocie rozpoznania wniosku z dnia 14 kwietnia 2021 r. o udostępnienie i
+ nformacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i s
+ twierdzono że bezczynność miała miejsce bez rażącego naruszenia praw
+ a |Stwierdzono bezczynność organu - art. 149 §1a ustawy PoPPSA |Zasądz
+ ono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Szef Służby Kontrwywiadu Wojskowego - II SA/Wa 1590/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220111T131000
 DESCRIPTION:Data:2022-01-11\nGodzina:13:10\nOrgan administracji:Szef Słu
@@ -214,32 +214,6 @@ DESCRIPTION:Data:2022-01-11\nGodzina:13:10\nOrgan administracji:Szef Słu
  :II SA/Wa 1590/21\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, Andrzej Wi
  eczorek\nTyp posiedzenia:Jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Uc
  hylono zaskarżoną decyzję |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Długosiodło - II SAB/Wa 656/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220112T000000
-DESCRIPTION:Data:2022-01-12\nGodzina:\nOrgan administracji:Wójt Gminy Dł
- ugosiodło\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Kwiecińsk
- a\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra-Błaszczy
- kowska\nSygnatura akt:II SAB/Wa 656/21\nSymbol:658/6480\nSędziowie:Agnies
- zka Góra-Błaszczykowska\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nU
- wagi:bezczynność w rozpoznaniu wniosku z dnia 6 sierpnia 2021 r. o udost
- ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiąz
- ano ... i stwierdzono że bezczynność miała miejsce bez rażącego naru
- szenia prawa |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Spraw Wewnętrznych i Administracji - II SA/Wa 353/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220112T000000
-DESCRIPTION:Data:2022-01-12\nGodzina:\nOrgan administracji:Minister Spraw 
- Wewnętrznych i Administracji\nPrzedmiot:Odmowa udzielenia informacji publ
- icznej\nPrzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\n
- Sprawozdawca:Ewa Kwiecińska\nSygnatura akt:II SA/Wa 353/21\nSymbol:6480\n
- Sędziowie:Agnieszka Góra-Błaszczykowska\, Waldemar Śledzik\nTyp posied
- zenia:Niejawne\nUwagi:odmowa udzielenia informacji publicznej\nWydział or
- zeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -270,6 +244,32 @@ DESCRIPTION:Data:2022-01-12\nGodzina:\nOrgan administracji:Prezes ZUS w Wa
  i:bezczynność w zakresie rozpoznania wniosku z dnia 24 sierpnia 2021 r. 
  o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Od
  dalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Długosiodło - II SAB/Wa 656/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220112T000000
+DESCRIPTION:Data:2022-01-12\nGodzina:\nOrgan administracji:Wójt Gminy Dł
+ ugosiodło\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Kwiecińsk
+ a\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra-Błaszczy
+ kowska\nSygnatura akt:II SAB/Wa 656/21\nSymbol:658/6480\nSędziowie:Agnies
+ zka Góra-Błaszczykowska\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nU
+ wagi:bezczynność w rozpoznaniu wniosku z dnia 6 sierpnia 2021 r. o udost
+ ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiąz
+ ano ... i stwierdzono że bezczynność miała miejsce bez rażącego naru
+ szenia prawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Spraw Wewnętrznych i Administracji - II SA/Wa 353/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220112T000000
+DESCRIPTION:Data:2022-01-12\nGodzina:\nOrgan administracji:Minister Spraw 
+ Wewnętrznych i Administracji\nPrzedmiot:Odmowa udzielenia informacji publ
+ icznej\nPrzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\n
+ Sprawozdawca:Ewa Kwiecińska\nSygnatura akt:II SA/Wa 353/21\nSymbol:6480\n
+ Sędziowie:Agnieszka Góra-Błaszczykowska\, Waldemar Śledzik\nTyp posied
+ zenia:Niejawne\nUwagi:odmowa udzielenia informacji publicznej\nWydział or
+ zeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -336,6 +336,20 @@ DESCRIPTION:Data:2022-01-17\nGodzina:\nOrgan administracji:Prezes Sądu Ap
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Polski Koncern Naftowy Orlen S.A. z siedzibą w Płocku - II S
+ AB/Wa 679/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220118T000000
+DESCRIPTION:Data:2022-01-18\nGodzina:\nOrgan administracji:Polski Koncern 
+ Naftowy Orlen S.A. z siedzibą w Płocku\nPrzedmiot:Informacja publiczna\n
+ Przewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozda
+ wca:Iwona Maciejuk\nSygnatura akt:II SAB/Wa 679/21\nSymbol:658/6480\nSędz
+ iowie:Joanna Kruszewska-Grońska\, Ewa Kwiecińska\nTyp posiedzenia:Niejaw
+ ne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 30 sierpn
+ ia 2021 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II
+ \nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Komendant Rejonowy Policji Warszawa V - II SAB/Wa 726/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220118T000000
 DESCRIPTION:Data:2022-01-18\nGodzina:\nOrgan administracji:Komendant Rejon
@@ -348,20 +362,6 @@ DESCRIPTION:Data:2022-01-18\nGodzina:\nOrgan administracji:Komendant Rejon
  :Zobowiązano ... i stwierdzono że bezczynność miała miejsce bez raż
  ącego naruszenia prawa |Oddalono skargę w części |Zasądzono zwrot kos
  ztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Polski Koncern Naftowy Orlen S.A. z siedzibą w Płocku - II S
- AB/Wa 679/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220118T000000
-DESCRIPTION:Data:2022-01-18\nGodzina:\nOrgan administracji:Polski Koncern 
- Naftowy Orlen S.A. z siedzibą w Płocku\nPrzedmiot:Informacja publiczna\n
- Przewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozda
- wca:Iwona Maciejuk\nSygnatura akt:II SAB/Wa 679/21\nSymbol:658/6480\nSędz
- iowie:Joanna Kruszewska-Grońska\, Ewa Kwiecińska\nTyp posiedzenia:Niejaw
- ne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 30 sierpn
- ia 2021 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II
- \nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -453,20 +453,6 @@ DESCRIPTION:Data:2022-01-21\nGodzina:\nOrgan administracji:Prezes Rady Min
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Generalny Służby Więziennej w Warszawie - II SAB/W
- a 169/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220121T000000
-DESCRIPTION:Data:2022-01-21\nGodzina:\nOrgan administracji:Dyrektor Genera
- lny Służby Więziennej w Warszawie\nPrzedmiot:Informacja publiczna\nPrze
- wodniczący:Ewa Radziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSpraw
- ozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 169/21\nSymbol:658/6480\nS
- ędziowie:Danuta Kania\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:be
- zczynność w sprawie rozpoznania zażalenia\nWydział orzeczniczy:II\nWyn
- iki:Zobowiązano ... i stwierdzono że bezczynność miała miejsce bez ra
- żącego naruszenia prawa
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Ośrodka Pomocy Społecznej Dzielnicy Żoliborz m.st.
   Warszawy - II SAB/Wa 475/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220121T000000
@@ -480,6 +466,20 @@ DESCRIPTION:Data:2022-01-21\nGodzina:\nOrgan administracji:Dyrektor Ośrod
  zeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynność mia
  ła miejsce bez rażącego naruszenia prawa |Oddalono skargę w części |
  Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Generalny Służby Więziennej w Warszawie - II SAB/W
+ a 169/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220121T000000
+DESCRIPTION:Data:2022-01-21\nGodzina:\nOrgan administracji:Dyrektor Genera
+ lny Służby Więziennej w Warszawie\nPrzedmiot:Informacja publiczna\nPrze
+ wodniczący:Ewa Radziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSpraw
+ ozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 169/21\nSymbol:658/6480\nS
+ ędziowie:Danuta Kania\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:be
+ zczynność w sprawie rozpoznania zażalenia\nWydział orzeczniczy:II\nWyn
+ iki:Zobowiązano ... i stwierdzono że bezczynność miała miejsce bez ra
+ żącego naruszenia prawa
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -509,31 +509,6 @@ DESCRIPTION:Data:2022-01-21\nGodzina:11:20\nOrgan administracji:Prezes Age
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Rządowej Agencji Rezerw Strategicznych - II SAB/Wa 510
- /21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220126T000000
-DESCRIPTION:Data:2022-01-26\nGodzina:\nOrgan administracji:Prezes Rządowe
- j Agencji Rezerw Strategicznych\nPrzedmiot:Informacja publiczna\nPrzewodni
- czący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz
-  Szmydt\nSygnatura akt:II SAB/Wa 510/21\nSymbol:658/6480\nSędziowie:Sław
- omir Fularski\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynn
- ość w sprawie rozpoznania wniosku z dnia 6 listopada 2020 r. o udostępn
- ienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Edukacji i Nauki - II SAB/Wa 680/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220126T000000
-DESCRIPTION:Data:2022-01-26\nGodzina:\nOrgan administracji:Minister Edukac
- ji i Nauki\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmydt\
- nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Fularski\nSygnatu
- ra akt:II SAB/Wa 680/21\nSymbol:658/6480\nSędziowie:Sławomir Fularski\, 
- Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie 
- rozpoznania wniosku z dnia 3 czerwca 2021 r. o udostępnienie informacji p
- ublicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Narodowego Funduszu Zdrowia - II SAB/Wa 659/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220126T000000
 DESCRIPTION:Data:2022-01-26\nGodzina:\nOrgan administracji:Prezes Narodowe
@@ -558,14 +533,40 @@ DESCRIPTION:Data:2022-01-26\nGodzina:\nOrgan administracji:Wójt Gminy Kle
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Minister Edukacji i Nauki - II SAB/Wa 680/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220126T000000
+DESCRIPTION:Data:2022-01-26\nGodzina:\nOrgan administracji:Minister Edukac
+ ji i Nauki\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmydt\
+ nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Fularski\nSygnatu
+ ra akt:II SAB/Wa 680/21\nSymbol:658/6480\nSędziowie:Sławomir Fularski\, 
+ Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie 
+ rozpoznania wniosku z dnia 3 czerwca 2021 r. o udostępnienie informacji p
+ ublicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Rządowej Agencji Rezerw Strategicznych - II SAB/Wa 510
+ /21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220126T000000
+DESCRIPTION:Data:2022-01-26\nGodzina:\nOrgan administracji:Prezes Rządowe
+ j Agencji Rezerw Strategicznych\nPrzedmiot:Informacja publiczna\nPrzewodni
+ czący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz
+  Szmydt\nSygnatura akt:II SAB/Wa 510/21\nSymbol:658/6480\nSędziowie:Sław
+ omir Fularski\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynn
+ ość w sprawie rozpoznania wniosku z dnia 6 listopada 2020 r. o udostępn
+ ienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Prezes Rady Ministrów - II SA/Wa 2378/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220127T101000
 DESCRIPTION:Data:2022-01-27\nGodzina:10:10\nOrgan administracji:Prezes Rad
  y Ministrów\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodni
- czący:Łukasz Krzycki\nSala:Sala F\, ul. Jasna 2/4\nSprawozdawca:Karolina
-  Kisielewicz\nSygnatura akt:II SA/Wa 2378/21\nSymbol:6480\nSędziowie:Piot
- r Borowiecki\, Karolina Kisielewicz\nTyp posiedzenia:Jawne\nUwagi:odmowa u
- dostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ czący:Andrzej Kołodziej\nSala:Sala F\, ul. Jasna 2/4\nSprawozdawca:Karol
+ ina Kisielewicz\nSygnatura akt:II SA/Wa 2378/21\nSymbol:6480\nSędziowie:K
+ arolina Kisielewicz\, asesor Michał Sułkowski\nTyp posiedzenia:Jawne\nUw
+ agi:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\n
+ Wyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -573,22 +574,22 @@ SUMMARY:[J] Prezes Zakładu Ubezpieczeń Społecznych - II SA/Wa 2930/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220127T123000
 DESCRIPTION:Data:2022-01-27\nGodzina:12:30\nOrgan administracji:Prezes Zak
  ładu Ubezpieczeń Społecznych\nPrzedmiot:Odmowa udzielenia informacji pu
- blicznej\nPrzewodniczący:Łukasz Krzycki\nSala:Sala F\, ul. Jasna 2/4\nSp
- rawozdawca:Łukasz Krzycki\nSygnatura akt:II SA/Wa 2930/21\nSymbol:6480\nS
- ędziowie:Piotr Borowiecki\, Karolina Kisielewicz\nTyp posiedzenia:Jawne\n
- Uwagi:odmowa dopstępu do informacji publicznej\nWydział orzeczniczy:II\n
- Wyniki:
+ blicznej\nPrzewodniczący:Andrzej Kołodziej\nSala:Sala F\, ul. Jasna 2/4\
+ nSprawozdawca:Michał Sułkowski\nSygnatura akt:II SA/Wa 2930/21\nSymbol:6
+ 480\nSędziowie:Karolina Kisielewicz\, asesor Michał Sułkowski\nTyp posi
+ edzenia:Jawne\nUwagi:odmowa dopstępu do informacji publicznej\nWydział o
+ rzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Wojskowego Instytutu Medycznego - II SAB/Wa 544/21
+SUMMARY:[N] Dyrektor Wojskowego Instytutu Medycznego - II SAB/Wa 543/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220128T000000
 DESCRIPTION:Data:2022-01-28\nGodzina:\nOrgan administracji:Dyrektor Wojsko
  wego Instytutu Medycznego\nPrzedmiot:Bezczynność organu\nPrzewodniczący
  :Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwieci
- ńska\nSygnatura akt:II SAB/Wa 544/21\nSymbol:658/6480\nSędziowie:Ewa Kwi
+ ńska\nSygnatura akt:II SAB/Wa 543/21\nSymbol:658/6480\nSędziowie:Ewa Kwi
  ecińska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w
-  rozpoznaniu wniosku z dnia 18 października 2021 r. o udostępnienie info
+  rozpoznaniu wniosku z dnia 19 października 2021 r. o udostępnienie info
  rmacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
@@ -605,14 +606,14 @@ DESCRIPTION:Data:2022-01-28\nGodzina:\nOrgan administracji:Dyrektor Wojsko
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Wojskowego Instytutu Medycznego - II SAB/Wa 543/21
+SUMMARY:[N] Dyrektor Wojskowego Instytutu Medycznego - II SAB/Wa 544/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220128T000000
 DESCRIPTION:Data:2022-01-28\nGodzina:\nOrgan administracji:Dyrektor Wojsko
  wego Instytutu Medycznego\nPrzedmiot:Bezczynność organu\nPrzewodniczący
  :Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwieci
- ńska\nSygnatura akt:II SAB/Wa 543/21\nSymbol:658/6480\nSędziowie:Ewa Kwi
+ ńska\nSygnatura akt:II SAB/Wa 544/21\nSymbol:658/6480\nSędziowie:Ewa Kwi
  ecińska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w
-  rozpoznaniu wniosku z dnia 19 października 2021 r. o udostępnienie info
+  rozpoznaniu wniosku z dnia 18 października 2021 r. o udostępnienie info
  rmacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
@@ -641,15 +642,37 @@ DESCRIPTION:Data:2022-02-02\nGodzina:\nOrgan administracji:Prezes Sądu Re
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezes Rady Ministrów - II SA/Wa 3508/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220202T000000
+DESCRIPTION:Data:2022-02-02\nGodzina:\nOrgan administracji:Prezes Rady Min
+ istrów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnic
+ zący:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Ku
+ be\nSygnatura akt:II SA/Wa 3508/21\nSymbol:644/6480\nSędziowie:Danuta Kan
+ ia\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzecznicz
+ y:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Prezes Rady Ministrów - II SA/Wa 3508/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220202T123000
 DESCRIPTION:Data:2022-02-02\nGodzina:12:30\nOrgan administracji:Prezes Rad
- y Ministrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\
- nSala:Sala F\, ul. Jasna 2/4\nSprawozdawca:Joanna Kube\nSygnatura akt:II S
- A/Wa 3508/21\nSymbol:644/6480\nSędziowie:Danuta Kania\, Iwona Maciejuk\nT
- yp posiedzenia:Jawne\nUwagi:niewykonanie wyroku Wojewódzkiego Sądu Admin
- istracyjnego w Warszawie sygn. akt II SAB/Wa 84/20 z dnia 16 czerwca 2020 
- r.\nWydział orzeczniczy:II\nWyniki:
+ y Ministrów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzew
+ odniczący:Joanna Kube\nSala:Sala F\, ul. Jasna 2/4\nSprawozdawca:Joanna K
+ ube\nSygnatura akt:II SA/Wa 3508/21\nSymbol:644/6480\nSędziowie:Danuta Ka
+ nia\, Iwona Maciejuk\nTyp posiedzenia:Jawne\nUwagi:\nWydział orzeczniczy:
+ II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Szef Kancelarii Prezydenta RP - II SAB/Wa 592/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220204T000000
+DESCRIPTION:Data:2022-02-04\nGodzina:\nOrgan administracji:Szef Kancelarii
+  Prezydenta RP\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir 
+ Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nS
+ ygnatura akt:II SAB/Wa 592/21\nSymbol:658/6480\nSędziowie:Andrzej Góraj\
+ , Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie
+  rozpoznania wniosku z dnia 10 maja 2021 r. o udostępnienie informacji pu
+ blicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -665,15 +688,14 @@ DESCRIPTION:Data:2022-02-04\nGodzina:\nOrgan administracji:Komendant Rejon
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Szef Kancelarii Prezydenta RP - II SAB/Wa 592/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220204T000000
-DESCRIPTION:Data:2022-02-04\nGodzina:\nOrgan administracji:Szef Kancelarii
-  Prezydenta RP\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir 
- Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nS
- ygnatura akt:II SAB/Wa 592/21\nSymbol:658/6480\nSędziowie:Andrzej Góraj\
- , Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie
-  rozpoznania wniosku z dnia 10 maja 2021 r. o udostępnienie informacji pu
- blicznej\nWydział orzeczniczy:II\nWyniki:
+SUMMARY:[N] Polskie Radio - II SA/Wa 2238/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220210T000000
+DESCRIPTION:Data:2022-02-10\nGodzina:\nOrgan administracji:Polskie Radio\n
+ Przedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodniczący:Ewa
+  Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\
+ nSygnatura akt:II SA/Wa 2238/21\nSymbol:6480\nSędziowie:Danuta Kania\, Iw
+ ona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nW
+ yniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -701,18 +723,6 @@ DESCRIPTION:Data:2022-02-10\nGodzina:\nOrgan administracji:Pierwszy Prezes
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes ZUS w Warszawie - II SAB/Wa 701/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220210T000000
-DESCRIPTION:Data:2022-02-10\nGodzina:\nOrgan administracji:Prezes ZUS w Wa
- rszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowska\
- nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura a
- kt:II SAB/Wa 701/21\nSymbol:658/6480\nSędziowie:Danuta Kania\, Iwona Maci
- ejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpozna
- nia wniosku z dnia 22 kwietnia 2021 r. o udostępnienie informacji publicz
- nej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Powiatowy Inspektor Nadzoru Budowlanego w Mińsku Maz. - II SA
  B/Wa 645/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220210T000000
@@ -726,14 +736,38 @@ DESCRIPTION:Data:2022-02-10\nGodzina:\nOrgan administracji:Powiatowy Inspe
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezes ZUS w Warszawie - II SAB/Wa 701/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220210T000000
+DESCRIPTION:Data:2022-02-10\nGodzina:\nOrgan administracji:Prezes ZUS w Wa
+ rszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowska\
+ nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura a
+ kt:II SAB/Wa 701/21\nSymbol:658/6480\nSędziowie:Danuta Kania\, Iwona Maci
+ ejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpozna
+ nia wniosku z dnia 22 kwietnia 2021 r. o udostępnienie informacji publicz
+ nej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Polskie Radio - II SA/Wa 2238/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220210T105000
 DESCRIPTION:Data:2022-02-10\nGodzina:10:50\nOrgan administracji:Polskie Ra
- dio\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowska\nSal
- a:Sala F\, ul. Jasna 2/4\nSprawozdawca:Danuta Kania\nSygnatura akt:II SA/W
- a 2238/21\nSymbol:6480\nSędziowie:Danuta Kania\, Iwona Maciejuk\nTyp posi
- edzenia:Jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział
-  orzeczniczy:II\nWyniki:
+ dio\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicząc
+ y:Ewa Marcinkowska\nSala:Sala F\, ul. Jasna 2/4\nSprawozdawca:Danuta Kania
+ \nSygnatura akt:II SA/Wa 2238/21\nSymbol:6480\nSędziowie:Danuta Kania\, I
+ wona Maciejuk\nTyp posiedzenia:Jawne\nUwagi:\nWydział orzeczniczy:II\nWyn
+ iki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Staromiejskiego Domu Kultury - II SAB/Wa 478/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220211T000000
+DESCRIPTION:Data:2022-02-11\nGodzina:\nOrgan administracji:Dyrektor Starom
+ iejskiego Domu Kultury\nPrzedmiot:Bezczynność organu\nPrzewodniczący:To
+ masz Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Radziszewsk
+ a-Krupa\nSygnatura akt:II SAB/Wa 478/21\nSymbol:658/6480\nSędziowie:Andrz
+ ej Góraj\, Ewa Radziszewska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:bezczy
+ nność w sprawie rozpoznania wniosku z dnia 3 listopada 2020 r. o udostę
+ pnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -748,18 +782,6 @@ DESCRIPTION:Data:2022-02-11\nGodzina:\nOrgan administracji:Komendant Wojsk
  wne\nUwagi:bezczynność w sprawie rozpoznania wniosku z dnia 26 marca 202
  1 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyni
  ki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Staromiejskiego Domu Kultury - II SAB/Wa 478/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220211T000000
-DESCRIPTION:Data:2022-02-11\nGodzina:\nOrgan administracji:Dyrektor Starom
- iejskiego Domu Kultury\nPrzedmiot:Bezczynność organu\nPrzewodniczący:To
- masz Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Radziszewsk
- a-Krupa\nSygnatura akt:II SAB/Wa 478/21\nSymbol:658/6480\nSędziowie:Andrz
- ej Góraj\, Ewa Radziszewska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:bezczy
- nność w sprawie rozpoznania wniosku z dnia 3 listopada 2020 r. o udostę
- pnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -799,18 +821,6 @@ DESCRIPTION:Data:2022-02-15\nGodzina:\nOrgan administracji:Zakład Gospoda
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 805/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220216T000000
-DESCRIPTION:Data:2022-02-16\nGodzina:\nOrgan administracji:Minister Spraw 
- Zagranicznych\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir F
- ularski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Waldemar Śledzik\n
- Sygnatura akt:II SAB/Wa 805/21\nSymbol:658/6480\nSędziowie:Tomasz Szmydt\
- , Waldemar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przed
- miocie rozpoznania wniosku z dnia 15 maja 2019 r. o udostępnienie informa
- cji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Krajowa Rada Radiofonii i Telewizji - II SAB/Wa 374/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220216T000000
 DESCRIPTION:Data:2022-02-16\nGodzina:\nOrgan administracji:Krajowa Rada Ra
@@ -820,6 +830,18 @@ DESCRIPTION:Data:2022-02-16\nGodzina:\nOrgan administracji:Krajowa Rada Ra
   Szmydt\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:bezczynność
   w przedmiocie rozpoznania wniosku z dnia 26 marca 2021 r. o udostępnieni
  e informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 805/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220216T000000
+DESCRIPTION:Data:2022-02-16\nGodzina:\nOrgan administracji:Minister Spraw 
+ Zagranicznych\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir F
+ ularski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Waldemar Śledzik\n
+ Sygnatura akt:II SAB/Wa 805/21\nSymbol:658/6480\nSędziowie:Tomasz Szmydt\
+ , Waldemar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przed
+ miocie rozpoznania wniosku z dnia 15 maja 2019 r. o udostępnienie informa
+ cji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -909,6 +931,18 @@ DESCRIPTION:Data:2022-02-17\nGodzina:09:40\nOrgan administracji:Prezes Rad
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Leszno - II SAB/Wa 630/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220221T000000
+DESCRIPTION:Data:2022-02-21\nGodzina:\nOrgan administracji:Wójt Gminy Les
+ zno\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmydt\nSala:S
+ ala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II SA
+ B/Wa 630/21\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\, Andrze
+ j Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpo
+ znania wniosku z dnia 23 września 2021 r. o udostępnienie informacji pub
+ licznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Okręgowy Służby Więziennej - II SAB/Wa 189/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220221T000000
 DESCRIPTION:Data:2022-02-21\nGodzina:\nOrgan administracji:Dyrektor Okręg
@@ -919,18 +953,6 @@ DESCRIPTION:Data:2022-02-21\nGodzina:\nOrgan administracji:Dyrektor Okręg
  gi:bezczynność w przedmiocie rozpoznania wniosku z dnia 23 listopada 202
  0 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyni
  ki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Leszno - II SAB/Wa 630/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220221T000000
-DESCRIPTION:Data:2022-02-21\nGodzina:\nOrgan administracji:Wójt Gminy Les
- zno\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmydt\nSala:S
- ala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II SA
- B/Wa 630/21\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\, Andrze
- j Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpo
- znania wniosku z dnia 23 września 2021 r. o udostępnienie informacji pub
- licznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -966,6 +988,20 @@ DESCRIPTION:Data:2022-02-22\nGodzina:10:30\nOrgan administracji:Minister S
  nSygnatura akt:II SA/Wa 2229/21\nSymbol:6480\nSędziowie:Joanna Kruszewska
  -Grońska\, Ewa Radziszewska-Krupa\nTyp posiedzenia:Jawne\nUwagi:odmowa ud
  ostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Mazowieckie Samorządowe Centrum Doskonalenia Nauczycieli w Wa
+ rszawie - II SAB/Wa 804/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220223T000000
+DESCRIPTION:Data:2022-02-23\nGodzina:\nOrgan administracji:Mazowieckie Sam
+ orządowe Centrum Doskonalenia Nauczycieli w Warszawie\nPrzedmiot:Bezczynn
+ ość organu\nPrzewodniczący:Andrzej Góraj\nSala:Sala posiedzeń niejawn
+ ych\nSprawozdawca:Sławomir Fularski\nSygnatura akt:II SAB/Wa 804/21\nSymb
+ ol:658/6480\nSędziowie:Sławomir Fularski\, Ewa Marcinkowska\nTyp posiedz
+ enia:Niejawne\nUwagi:bezczynność w przedmiocie rozpatrzenia wniosku z dn
+ ia 3 kwietnia 2018 r. o udostępnienie informacji publicznej\nWydział orz
+ eczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1007,20 +1043,6 @@ DESCRIPTION:Data:2022-02-23\nGodzina:\nOrgan administracji:Prezydent m.st.
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Mazowieckie Samorządowe Centrum Doskonalenia Nauczycieli w Wa
- rszawie - II SAB/Wa 804/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220223T000000
-DESCRIPTION:Data:2022-02-23\nGodzina:\nOrgan administracji:Mazowieckie Sam
- orządowe Centrum Doskonalenia Nauczycieli w Warszawie\nPrzedmiot:Bezczynn
- ość organu\nPrzewodniczący:Andrzej Góraj\nSala:Sala posiedzeń niejawn
- ych\nSprawozdawca:Sławomir Fularski\nSygnatura akt:II SAB/Wa 804/21\nSymb
- ol:658/6480\nSędziowie:Sławomir Fularski\, Ewa Marcinkowska\nTyp posiedz
- enia:Niejawne\nUwagi:bezczynność w przedmiocie rozpatrzenia wniosku z dn
- ia 3 kwietnia 2018 r. o udostępnienie informacji publicznej\nWydział orz
- eczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Prezes Najwyższej Izby Kontroli - II SA/Wa 2390/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220223T120000
 DESCRIPTION:Data:2022-02-23\nGodzina:12:00\nOrgan administracji:Prezes Naj
@@ -1032,15 +1054,41 @@ DESCRIPTION:Data:2022-02-23\nGodzina:12:00\nOrgan administracji:Prezes Naj
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Pierwszy Prezes Sądu Najwyższego - II SA/Wa 2678/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220103T000000
-DESCRIPTION:Data:2022-01-03\nGodzina:\nOrgan administracji:Pierwszy Prezes
-  Sądu Najwyższego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Izabe
- la Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej
-  Wieczorek\nSygnatura akt:II SA/Wa 2678/21\nSymbol:6480\nSędziowie:Andrze
- j Góraj\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:odmowa udost
- ępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono 
- skargę
+SUMMARY:[N] Rada Gminy Klembów - II SAB/Wa 822/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220224T000000
+DESCRIPTION:Data:2022-02-24\nGodzina:\nOrgan administracji:Rada Gminy Klem
+ bów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Kołodziej\n
+ Sala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura ak
+ t:II SAB/Wa 822/21\nSymbol:658/6480\nSędziowie:Joanna Kube\, Iwona Maciej
+ uk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznani
+ a wniosku z dnia 7 kwietnia 2020 r. o udostępnienie informacji publicznej
+ \nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] SKO w Warszawie - II SAB/Wa 696/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220224T000000
+DESCRIPTION:Data:2022-02-24\nGodzina:\nOrgan administracji:SKO w Warszawie
+ \nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Kołodziej\nSala
+ :Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura akt:II
+  SAB/Wa 696/21\nSymbol:658/6480\nSędziowie:Joanna Kube\, Iwona Maciejuk\n
+ Typ posiedzenia:Niejawne\nUwagi:bezczynność po wyroku Wojewódzkiego Są
+ du Administracyjnego w Warszawie z dnia 24 marca 2021 r. o sygn. akt II SA
+ /Wa 2010/20\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Archiwum Państwowego m. st. Warszawy - II SAB/Wa 708
+ /21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220224T000000
+DESCRIPTION:Data:2022-02-24\nGodzina:\nOrgan administracji:Dyrektor Archiw
+ um Państwowego m. st. Warszawy\nPrzedmiot:Bezczynność organu\nPrzewodni
+ czący:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:A
+ ndrzej Kołodziej\nSygnatura akt:II SAB/Wa 708/21\nSymbol:659/6480\nSędzi
+ owie:Joanna Kube\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:przewle
+ kłość postępowania w przedmiocie rozpoznania wniosku z dnia 31 maja 20
+ 21 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyn
+ iki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1055,6 +1103,18 @@ DESCRIPTION:Data:2022-01-03\nGodzina:\nOrgan administracji:Prezydent m.st.
  rmacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynnoś
  ć postępowania i że bezczynność nie miała miejsca z rażącym narusz
  eniem prawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Pierwszy Prezes Sądu Najwyższego - II SA/Wa 2678/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220103T000000
+DESCRIPTION:Data:2022-01-03\nGodzina:\nOrgan administracji:Pierwszy Prezes
+  Sądu Najwyższego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Izabe
+ la Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej
+  Wieczorek\nSygnatura akt:II SA/Wa 2678/21\nSymbol:6480\nSędziowie:Andrze
+ j Góraj\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:odmowa udost
+ ępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono 
+ skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1134,20 +1194,6 @@ DESCRIPTION:Data:2022-01-04\nGodzina:\nOrgan administracji:Polskie Linie L
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Miasto stołeczne Warszawa reprezentowana przez Prezydenta Mia
- sta Warszawy - II SAB/Wa 564/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220105T000000
-DESCRIPTION:Data:2022-01-05\nGodzina:\nOrgan administracji:Miasto stołecz
- ne Warszawa reprezentowana przez Prezydenta Miasta Warszawy\nPrzedmiot:Inf
- ormacja publiczna\nPrzewodniczący:Andrzej Kołodziej\nSala:Sala posiedze
- ń niejawnych\nSprawozdawca:Waldemar Śledzik\nSygnatura akt:II SAB/Wa 564
- /21\nSymbol:658/6480\nSędziowie:Łukasz Krzycki\, Waldemar Śledzik\nTyp 
- posiedzenia:Niejawne\nUwagi:bezczynność w rozpoznaniu wniosku z dnia 4 s
- tycznia 2021 r. o udostępnienie informacji publicznej\nWydział orzecznic
- zy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 522/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220105T000000
 DESCRIPTION:Data:2022-01-05\nGodzina:\nOrgan administracji:Komendant Głó
@@ -1178,6 +1224,20 @@ DESCRIPTION:Data:2022-01-05\nGodzina:\nOrgan administracji:Zakład Gospoda
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Miasto stołeczne Warszawa reprezentowana przez Prezydenta Mia
+ sta Warszawy - II SAB/Wa 564/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220105T000000
+DESCRIPTION:Data:2022-01-05\nGodzina:\nOrgan administracji:Miasto stołecz
+ ne Warszawa reprezentowana przez Prezydenta Miasta Warszawy\nPrzedmiot:Inf
+ ormacja publiczna\nPrzewodniczący:Andrzej Kołodziej\nSala:Sala posiedze
+ ń niejawnych\nSprawozdawca:Waldemar Śledzik\nSygnatura akt:II SAB/Wa 564
+ /21\nSymbol:658/6480\nSędziowie:Łukasz Krzycki\, Waldemar Śledzik\nTyp 
+ posiedzenia:Niejawne\nUwagi:bezczynność w rozpoznaniu wniosku z dnia 4 s
+ tycznia 2021 r. o udostępnienie informacji publicznej\nWydział orzecznic
+ zy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Wójt Gminy Pacyna - II SAB/Wa 572/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220110T000000
 DESCRIPTION:Data:2022-01-10\nGodzina:\nOrgan administracji:Wójt Gminy Pac
@@ -1204,21 +1264,6 @@ DESCRIPTION:Data:2022-01-10\nGodzina:\nOrgan administracji:Mazowiecki Woje
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 560/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220111T000000
-DESCRIPTION:Data:2022-01-11\nGodzina:\nOrgan administracji:PKP Polskie Lin
- ie Kolejowe S.A.\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Danuta K
- ania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Wieczorek\nSyg
- natura akt:II SAB/Wa 560/21\nSymbol:658/6480\nSędziowie:Sławomir Antoniu
- k\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
- edmiocie rozpoznania wniosku z dnia 14 kwietnia 2021 r. o udostępnienie i
- nformacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i s
- twierdzono że bezczynność miała miejsce bez rażącego naruszenia praw
- a |Stwierdzono bezczynność organu - art. 149 §1a ustawy PoPPSA |Zasądz
- ono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Instytutu Hodowli i Aklimatyzacji Roślin Państwowy 
  Instytut Badawczy w Radzikowie - II SAB/Wa 453/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220111T000000
@@ -1236,6 +1281,21 @@ DESCRIPTION:Data:2022-01-11\nGodzina:\nOrgan administracji:Dyrektor Instyt
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] PKP Polskie Linie Kolejowe S.A. - II SAB/Wa 560/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220111T000000
+DESCRIPTION:Data:2022-01-11\nGodzina:\nOrgan administracji:PKP Polskie Lin
+ ie Kolejowe S.A.\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Danuta K
+ ania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Wieczorek\nSyg
+ natura akt:II SAB/Wa 560/21\nSymbol:658/6480\nSędziowie:Sławomir Antoniu
+ k\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
+ edmiocie rozpoznania wniosku z dnia 14 kwietnia 2021 r. o udostępnienie i
+ nformacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i s
+ twierdzono że bezczynność miała miejsce bez rażącego naruszenia praw
+ a |Stwierdzono bezczynność organu - art. 149 §1a ustawy PoPPSA |Zasądz
+ ono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Szef Służby Kontrwywiadu Wojskowego - II SA/Wa 1590/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220111T131000
 DESCRIPTION:Data:2022-01-11\nGodzina:13:10\nOrgan administracji:Szef Słu
@@ -1245,32 +1305,6 @@ DESCRIPTION:Data:2022-01-11\nGodzina:13:10\nOrgan administracji:Szef Słu
  :II SA/Wa 1590/21\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, Andrzej Wi
  eczorek\nTyp posiedzenia:Jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Uc
  hylono zaskarżoną decyzję |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Długosiodło - II SAB/Wa 656/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220112T000000
-DESCRIPTION:Data:2022-01-12\nGodzina:\nOrgan administracji:Wójt Gminy Dł
- ugosiodło\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Kwiecińsk
- a\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra-Błaszczy
- kowska\nSygnatura akt:II SAB/Wa 656/21\nSymbol:658/6480\nSędziowie:Agnies
- zka Góra-Błaszczykowska\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nU
- wagi:bezczynność w rozpoznaniu wniosku z dnia 6 sierpnia 2021 r. o udost
- ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiąz
- ano ... i stwierdzono że bezczynność miała miejsce bez rażącego naru
- szenia prawa |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Spraw Wewnętrznych i Administracji - II SA/Wa 353/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220112T000000
-DESCRIPTION:Data:2022-01-12\nGodzina:\nOrgan administracji:Minister Spraw 
- Wewnętrznych i Administracji\nPrzedmiot:Odmowa udzielenia informacji publ
- icznej\nPrzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\n
- Sprawozdawca:Ewa Kwiecińska\nSygnatura akt:II SA/Wa 353/21\nSymbol:6480\n
- Sędziowie:Agnieszka Góra-Błaszczykowska\, Waldemar Śledzik\nTyp posied
- zenia:Niejawne\nUwagi:odmowa udzielenia informacji publicznej\nWydział or
- zeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1301,6 +1335,32 @@ DESCRIPTION:Data:2022-01-12\nGodzina:\nOrgan administracji:Prezes ZUS w Wa
  i:bezczynność w zakresie rozpoznania wniosku z dnia 24 sierpnia 2021 r. 
  o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Od
  dalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Długosiodło - II SAB/Wa 656/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220112T000000
+DESCRIPTION:Data:2022-01-12\nGodzina:\nOrgan administracji:Wójt Gminy Dł
+ ugosiodło\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Kwiecińsk
+ a\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra-Błaszczy
+ kowska\nSygnatura akt:II SAB/Wa 656/21\nSymbol:658/6480\nSędziowie:Agnies
+ zka Góra-Błaszczykowska\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nU
+ wagi:bezczynność w rozpoznaniu wniosku z dnia 6 sierpnia 2021 r. o udost
+ ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiąz
+ ano ... i stwierdzono że bezczynność miała miejsce bez rażącego naru
+ szenia prawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Spraw Wewnętrznych i Administracji - II SA/Wa 353/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220112T000000
+DESCRIPTION:Data:2022-01-12\nGodzina:\nOrgan administracji:Minister Spraw 
+ Wewnętrznych i Administracji\nPrzedmiot:Odmowa udzielenia informacji publ
+ icznej\nPrzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\n
+ Sprawozdawca:Ewa Kwiecińska\nSygnatura akt:II SA/Wa 353/21\nSymbol:6480\n
+ Sędziowie:Agnieszka Góra-Błaszczykowska\, Waldemar Śledzik\nTyp posied
+ zenia:Niejawne\nUwagi:odmowa udzielenia informacji publicznej\nWydział or
+ zeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1367,6 +1427,20 @@ DESCRIPTION:Data:2022-01-17\nGodzina:\nOrgan administracji:Prezes Sądu Ap
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Polski Koncern Naftowy Orlen S.A. z siedzibą w Płocku - II S
+ AB/Wa 679/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220118T000000
+DESCRIPTION:Data:2022-01-18\nGodzina:\nOrgan administracji:Polski Koncern 
+ Naftowy Orlen S.A. z siedzibą w Płocku\nPrzedmiot:Informacja publiczna\n
+ Przewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozda
+ wca:Iwona Maciejuk\nSygnatura akt:II SAB/Wa 679/21\nSymbol:658/6480\nSędz
+ iowie:Joanna Kruszewska-Grońska\, Ewa Kwiecińska\nTyp posiedzenia:Niejaw
+ ne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 30 sierpn
+ ia 2021 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II
+ \nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Komendant Rejonowy Policji Warszawa V - II SAB/Wa 726/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220118T000000
 DESCRIPTION:Data:2022-01-18\nGodzina:\nOrgan administracji:Komendant Rejon
@@ -1379,20 +1453,6 @@ DESCRIPTION:Data:2022-01-18\nGodzina:\nOrgan administracji:Komendant Rejon
  :Zobowiązano ... i stwierdzono że bezczynność miała miejsce bez raż
  ącego naruszenia prawa |Oddalono skargę w części |Zasądzono zwrot kos
  ztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Polski Koncern Naftowy Orlen S.A. z siedzibą w Płocku - II S
- AB/Wa 679/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220118T000000
-DESCRIPTION:Data:2022-01-18\nGodzina:\nOrgan administracji:Polski Koncern 
- Naftowy Orlen S.A. z siedzibą w Płocku\nPrzedmiot:Informacja publiczna\n
- Przewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozda
- wca:Iwona Maciejuk\nSygnatura akt:II SAB/Wa 679/21\nSymbol:658/6480\nSędz
- iowie:Joanna Kruszewska-Grońska\, Ewa Kwiecińska\nTyp posiedzenia:Niejaw
- ne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 30 sierpn
- ia 2021 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II
- \nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1484,20 +1544,6 @@ DESCRIPTION:Data:2022-01-21\nGodzina:\nOrgan administracji:Prezes Rady Min
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Generalny Służby Więziennej w Warszawie - II SAB/W
- a 169/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220121T000000
-DESCRIPTION:Data:2022-01-21\nGodzina:\nOrgan administracji:Dyrektor Genera
- lny Służby Więziennej w Warszawie\nPrzedmiot:Informacja publiczna\nPrze
- wodniczący:Ewa Radziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSpraw
- ozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 169/21\nSymbol:658/6480\nS
- ędziowie:Danuta Kania\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:be
- zczynność w sprawie rozpoznania zażalenia\nWydział orzeczniczy:II\nWyn
- iki:Zobowiązano ... i stwierdzono że bezczynność miała miejsce bez ra
- żącego naruszenia prawa
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Ośrodka Pomocy Społecznej Dzielnicy Żoliborz m.st.
   Warszawy - II SAB/Wa 475/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220121T000000
@@ -1511,6 +1557,20 @@ DESCRIPTION:Data:2022-01-21\nGodzina:\nOrgan administracji:Dyrektor Ośrod
  zeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynność mia
  ła miejsce bez rażącego naruszenia prawa |Oddalono skargę w części |
  Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Generalny Służby Więziennej w Warszawie - II SAB/W
+ a 169/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220121T000000
+DESCRIPTION:Data:2022-01-21\nGodzina:\nOrgan administracji:Dyrektor Genera
+ lny Służby Więziennej w Warszawie\nPrzedmiot:Informacja publiczna\nPrze
+ wodniczący:Ewa Radziszewska-Krupa\nSala:Sala posiedzeń niejawnych\nSpraw
+ ozdawca:Tomasz Szmydt\nSygnatura akt:II SAB/Wa 169/21\nSymbol:658/6480\nS
+ ędziowie:Danuta Kania\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:be
+ zczynność w sprawie rozpoznania zażalenia\nWydział orzeczniczy:II\nWyn
+ iki:Zobowiązano ... i stwierdzono że bezczynność miała miejsce bez ra
+ żącego naruszenia prawa
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1540,31 +1600,6 @@ DESCRIPTION:Data:2022-01-21\nGodzina:11:20\nOrgan administracji:Prezes Age
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Rządowej Agencji Rezerw Strategicznych - II SAB/Wa 510
- /21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220126T000000
-DESCRIPTION:Data:2022-01-26\nGodzina:\nOrgan administracji:Prezes Rządowe
- j Agencji Rezerw Strategicznych\nPrzedmiot:Informacja publiczna\nPrzewodni
- czący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz
-  Szmydt\nSygnatura akt:II SAB/Wa 510/21\nSymbol:658/6480\nSędziowie:Sław
- omir Fularski\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynn
- ość w sprawie rozpoznania wniosku z dnia 6 listopada 2020 r. o udostępn
- ienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Edukacji i Nauki - II SAB/Wa 680/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220126T000000
-DESCRIPTION:Data:2022-01-26\nGodzina:\nOrgan administracji:Minister Edukac
- ji i Nauki\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmydt\
- nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Fularski\nSygnatu
- ra akt:II SAB/Wa 680/21\nSymbol:658/6480\nSędziowie:Sławomir Fularski\, 
- Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie 
- rozpoznania wniosku z dnia 3 czerwca 2021 r. o udostępnienie informacji p
- ublicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Narodowego Funduszu Zdrowia - II SAB/Wa 659/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220126T000000
 DESCRIPTION:Data:2022-01-26\nGodzina:\nOrgan administracji:Prezes Narodowe
@@ -1589,14 +1624,40 @@ DESCRIPTION:Data:2022-01-26\nGodzina:\nOrgan administracji:Wójt Gminy Kle
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Minister Edukacji i Nauki - II SAB/Wa 680/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220126T000000
+DESCRIPTION:Data:2022-01-26\nGodzina:\nOrgan administracji:Minister Edukac
+ ji i Nauki\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmydt\
+ nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Fularski\nSygnatu
+ ra akt:II SAB/Wa 680/21\nSymbol:658/6480\nSędziowie:Sławomir Fularski\, 
+ Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie 
+ rozpoznania wniosku z dnia 3 czerwca 2021 r. o udostępnienie informacji p
+ ublicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Rządowej Agencji Rezerw Strategicznych - II SAB/Wa 510
+ /21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220126T000000
+DESCRIPTION:Data:2022-01-26\nGodzina:\nOrgan administracji:Prezes Rządowe
+ j Agencji Rezerw Strategicznych\nPrzedmiot:Informacja publiczna\nPrzewodni
+ czący:Tomasz Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz
+  Szmydt\nSygnatura akt:II SAB/Wa 510/21\nSymbol:658/6480\nSędziowie:Sław
+ omir Fularski\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynn
+ ość w sprawie rozpoznania wniosku z dnia 6 listopada 2020 r. o udostępn
+ ienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Prezes Rady Ministrów - II SA/Wa 2378/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220127T101000
 DESCRIPTION:Data:2022-01-27\nGodzina:10:10\nOrgan administracji:Prezes Rad
  y Ministrów\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodni
- czący:Łukasz Krzycki\nSala:Sala F\, ul. Jasna 2/4\nSprawozdawca:Karolina
-  Kisielewicz\nSygnatura akt:II SA/Wa 2378/21\nSymbol:6480\nSędziowie:Piot
- r Borowiecki\, Karolina Kisielewicz\nTyp posiedzenia:Jawne\nUwagi:odmowa u
- dostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ czący:Andrzej Kołodziej\nSala:Sala F\, ul. Jasna 2/4\nSprawozdawca:Karol
+ ina Kisielewicz\nSygnatura akt:II SA/Wa 2378/21\nSymbol:6480\nSędziowie:K
+ arolina Kisielewicz\, asesor Michał Sułkowski\nTyp posiedzenia:Jawne\nUw
+ agi:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\n
+ Wyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1604,22 +1665,22 @@ SUMMARY:[J] Prezes Zakładu Ubezpieczeń Społecznych - II SA/Wa 2930/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220127T123000
 DESCRIPTION:Data:2022-01-27\nGodzina:12:30\nOrgan administracji:Prezes Zak
  ładu Ubezpieczeń Społecznych\nPrzedmiot:Odmowa udzielenia informacji pu
- blicznej\nPrzewodniczący:Łukasz Krzycki\nSala:Sala F\, ul. Jasna 2/4\nSp
- rawozdawca:Łukasz Krzycki\nSygnatura akt:II SA/Wa 2930/21\nSymbol:6480\nS
- ędziowie:Piotr Borowiecki\, Karolina Kisielewicz\nTyp posiedzenia:Jawne\n
- Uwagi:odmowa dopstępu do informacji publicznej\nWydział orzeczniczy:II\n
- Wyniki:
+ blicznej\nPrzewodniczący:Andrzej Kołodziej\nSala:Sala F\, ul. Jasna 2/4\
+ nSprawozdawca:Michał Sułkowski\nSygnatura akt:II SA/Wa 2930/21\nSymbol:6
+ 480\nSędziowie:Karolina Kisielewicz\, asesor Michał Sułkowski\nTyp posi
+ edzenia:Jawne\nUwagi:odmowa dopstępu do informacji publicznej\nWydział o
+ rzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Wojskowego Instytutu Medycznego - II SAB/Wa 544/21
+SUMMARY:[N] Dyrektor Wojskowego Instytutu Medycznego - II SAB/Wa 543/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220128T000000
 DESCRIPTION:Data:2022-01-28\nGodzina:\nOrgan administracji:Dyrektor Wojsko
  wego Instytutu Medycznego\nPrzedmiot:Bezczynność organu\nPrzewodniczący
  :Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwieci
- ńska\nSygnatura akt:II SAB/Wa 544/21\nSymbol:658/6480\nSędziowie:Ewa Kwi
+ ńska\nSygnatura akt:II SAB/Wa 543/21\nSymbol:658/6480\nSędziowie:Ewa Kwi
  ecińska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w
-  rozpoznaniu wniosku z dnia 18 października 2021 r. o udostępnienie info
+  rozpoznaniu wniosku z dnia 19 października 2021 r. o udostępnienie info
  rmacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
@@ -1636,14 +1697,14 @@ DESCRIPTION:Data:2022-01-28\nGodzina:\nOrgan administracji:Dyrektor Wojsko
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Wojskowego Instytutu Medycznego - II SAB/Wa 543/21
+SUMMARY:[N] Dyrektor Wojskowego Instytutu Medycznego - II SAB/Wa 544/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220128T000000
 DESCRIPTION:Data:2022-01-28\nGodzina:\nOrgan administracji:Dyrektor Wojsko
  wego Instytutu Medycznego\nPrzedmiot:Bezczynność organu\nPrzewodniczący
  :Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwieci
- ńska\nSygnatura akt:II SAB/Wa 543/21\nSymbol:658/6480\nSędziowie:Ewa Kwi
+ ńska\nSygnatura akt:II SAB/Wa 544/21\nSymbol:658/6480\nSędziowie:Ewa Kwi
  ecińska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w
-  rozpoznaniu wniosku z dnia 19 października 2021 r. o udostępnienie info
+  rozpoznaniu wniosku z dnia 18 października 2021 r. o udostępnienie info
  rmacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
@@ -1672,15 +1733,37 @@ DESCRIPTION:Data:2022-02-02\nGodzina:\nOrgan administracji:Prezes Sądu Re
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezes Rady Ministrów - II SA/Wa 3508/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220202T000000
+DESCRIPTION:Data:2022-02-02\nGodzina:\nOrgan administracji:Prezes Rady Min
+ istrów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnic
+ zący:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Ku
+ be\nSygnatura akt:II SA/Wa 3508/21\nSymbol:644/6480\nSędziowie:Danuta Kan
+ ia\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzecznicz
+ y:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Prezes Rady Ministrów - II SA/Wa 3508/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220202T123000
 DESCRIPTION:Data:2022-02-02\nGodzina:12:30\nOrgan administracji:Prezes Rad
- y Ministrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kube\
- nSala:Sala F\, ul. Jasna 2/4\nSprawozdawca:Joanna Kube\nSygnatura akt:II S
- A/Wa 3508/21\nSymbol:644/6480\nSędziowie:Danuta Kania\, Iwona Maciejuk\nT
- yp posiedzenia:Jawne\nUwagi:niewykonanie wyroku Wojewódzkiego Sądu Admin
- istracyjnego w Warszawie sygn. akt II SAB/Wa 84/20 z dnia 16 czerwca 2020 
- r.\nWydział orzeczniczy:II\nWyniki:
+ y Ministrów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzew
+ odniczący:Joanna Kube\nSala:Sala F\, ul. Jasna 2/4\nSprawozdawca:Joanna K
+ ube\nSygnatura akt:II SA/Wa 3508/21\nSymbol:644/6480\nSędziowie:Danuta Ka
+ nia\, Iwona Maciejuk\nTyp posiedzenia:Jawne\nUwagi:\nWydział orzeczniczy:
+ II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Szef Kancelarii Prezydenta RP - II SAB/Wa 592/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220204T000000
+DESCRIPTION:Data:2022-02-04\nGodzina:\nOrgan administracji:Szef Kancelarii
+  Prezydenta RP\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir 
+ Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nS
+ ygnatura akt:II SAB/Wa 592/21\nSymbol:658/6480\nSędziowie:Andrzej Góraj\
+ , Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie
+  rozpoznania wniosku z dnia 10 maja 2021 r. o udostępnienie informacji pu
+ blicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1696,15 +1779,14 @@ DESCRIPTION:Data:2022-02-04\nGodzina:\nOrgan administracji:Komendant Rejon
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Szef Kancelarii Prezydenta RP - II SAB/Wa 592/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220204T000000
-DESCRIPTION:Data:2022-02-04\nGodzina:\nOrgan administracji:Szef Kancelarii
-  Prezydenta RP\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir 
- Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nS
- ygnatura akt:II SAB/Wa 592/21\nSymbol:658/6480\nSędziowie:Andrzej Góraj\
- , Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie
-  rozpoznania wniosku z dnia 10 maja 2021 r. o udostępnienie informacji pu
- blicznej\nWydział orzeczniczy:II\nWyniki:
+SUMMARY:[N] Polskie Radio - II SA/Wa 2238/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220210T000000
+DESCRIPTION:Data:2022-02-10\nGodzina:\nOrgan administracji:Polskie Radio\n
+ Przedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodniczący:Ewa
+  Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\
+ nSygnatura akt:II SA/Wa 2238/21\nSymbol:6480\nSędziowie:Danuta Kania\, Iw
+ ona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nW
+ yniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1732,18 +1814,6 @@ DESCRIPTION:Data:2022-02-10\nGodzina:\nOrgan administracji:Pierwszy Prezes
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes ZUS w Warszawie - II SAB/Wa 701/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220210T000000
-DESCRIPTION:Data:2022-02-10\nGodzina:\nOrgan administracji:Prezes ZUS w Wa
- rszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowska\
- nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura a
- kt:II SAB/Wa 701/21\nSymbol:658/6480\nSędziowie:Danuta Kania\, Iwona Maci
- ejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpozna
- nia wniosku z dnia 22 kwietnia 2021 r. o udostępnienie informacji publicz
- nej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Powiatowy Inspektor Nadzoru Budowlanego w Mińsku Maz. - II SA
  B/Wa 645/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220210T000000
@@ -1757,14 +1827,38 @@ DESCRIPTION:Data:2022-02-10\nGodzina:\nOrgan administracji:Powiatowy Inspe
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezes ZUS w Warszawie - II SAB/Wa 701/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220210T000000
+DESCRIPTION:Data:2022-02-10\nGodzina:\nOrgan administracji:Prezes ZUS w Wa
+ rszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowska\
+ nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura a
+ kt:II SAB/Wa 701/21\nSymbol:658/6480\nSędziowie:Danuta Kania\, Iwona Maci
+ ejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpozna
+ nia wniosku z dnia 22 kwietnia 2021 r. o udostępnienie informacji publicz
+ nej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Polskie Radio - II SA/Wa 2238/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220210T105000
 DESCRIPTION:Data:2022-02-10\nGodzina:10:50\nOrgan administracji:Polskie Ra
- dio\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowska\nSal
- a:Sala F\, ul. Jasna 2/4\nSprawozdawca:Danuta Kania\nSygnatura akt:II SA/W
- a 2238/21\nSymbol:6480\nSędziowie:Danuta Kania\, Iwona Maciejuk\nTyp posi
- edzenia:Jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział
-  orzeczniczy:II\nWyniki:
+ dio\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicząc
+ y:Ewa Marcinkowska\nSala:Sala F\, ul. Jasna 2/4\nSprawozdawca:Danuta Kania
+ \nSygnatura akt:II SA/Wa 2238/21\nSymbol:6480\nSędziowie:Danuta Kania\, I
+ wona Maciejuk\nTyp posiedzenia:Jawne\nUwagi:\nWydział orzeczniczy:II\nWyn
+ iki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Staromiejskiego Domu Kultury - II SAB/Wa 478/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220211T000000
+DESCRIPTION:Data:2022-02-11\nGodzina:\nOrgan administracji:Dyrektor Starom
+ iejskiego Domu Kultury\nPrzedmiot:Bezczynność organu\nPrzewodniczący:To
+ masz Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Radziszewsk
+ a-Krupa\nSygnatura akt:II SAB/Wa 478/21\nSymbol:658/6480\nSędziowie:Andrz
+ ej Góraj\, Ewa Radziszewska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:bezczy
+ nność w sprawie rozpoznania wniosku z dnia 3 listopada 2020 r. o udostę
+ pnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1779,18 +1873,6 @@ DESCRIPTION:Data:2022-02-11\nGodzina:\nOrgan administracji:Komendant Wojsk
  wne\nUwagi:bezczynność w sprawie rozpoznania wniosku z dnia 26 marca 202
  1 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyni
  ki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Staromiejskiego Domu Kultury - II SAB/Wa 478/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220211T000000
-DESCRIPTION:Data:2022-02-11\nGodzina:\nOrgan administracji:Dyrektor Starom
- iejskiego Domu Kultury\nPrzedmiot:Bezczynność organu\nPrzewodniczący:To
- masz Szmydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Radziszewsk
- a-Krupa\nSygnatura akt:II SAB/Wa 478/21\nSymbol:658/6480\nSędziowie:Andrz
- ej Góraj\, Ewa Radziszewska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:bezczy
- nność w sprawie rozpoznania wniosku z dnia 3 listopada 2020 r. o udostę
- pnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1830,18 +1912,6 @@ DESCRIPTION:Data:2022-02-15\nGodzina:\nOrgan administracji:Zakład Gospoda
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 805/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220216T000000
-DESCRIPTION:Data:2022-02-16\nGodzina:\nOrgan administracji:Minister Spraw 
- Zagranicznych\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir F
- ularski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Waldemar Śledzik\n
- Sygnatura akt:II SAB/Wa 805/21\nSymbol:658/6480\nSędziowie:Tomasz Szmydt\
- , Waldemar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przed
- miocie rozpoznania wniosku z dnia 15 maja 2019 r. o udostępnienie informa
- cji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Krajowa Rada Radiofonii i Telewizji - II SAB/Wa 374/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220216T000000
 DESCRIPTION:Data:2022-02-16\nGodzina:\nOrgan administracji:Krajowa Rada Ra
@@ -1851,6 +1921,18 @@ DESCRIPTION:Data:2022-02-16\nGodzina:\nOrgan administracji:Krajowa Rada Ra
   Szmydt\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:bezczynność
   w przedmiocie rozpoznania wniosku z dnia 26 marca 2021 r. o udostępnieni
  e informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 805/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220216T000000
+DESCRIPTION:Data:2022-02-16\nGodzina:\nOrgan administracji:Minister Spraw 
+ Zagranicznych\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir F
+ ularski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Waldemar Śledzik\n
+ Sygnatura akt:II SAB/Wa 805/21\nSymbol:658/6480\nSędziowie:Tomasz Szmydt\
+ , Waldemar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przed
+ miocie rozpoznania wniosku z dnia 15 maja 2019 r. o udostępnienie informa
+ cji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1940,6 +2022,18 @@ DESCRIPTION:Data:2022-02-17\nGodzina:09:40\nOrgan administracji:Prezes Rad
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Leszno - II SAB/Wa 630/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220221T000000
+DESCRIPTION:Data:2022-02-21\nGodzina:\nOrgan administracji:Wójt Gminy Les
+ zno\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmydt\nSala:S
+ ala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II SA
+ B/Wa 630/21\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\, Andrze
+ j Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpo
+ znania wniosku z dnia 23 września 2021 r. o udostępnienie informacji pub
+ licznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Okręgowy Służby Więziennej - II SAB/Wa 189/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220221T000000
 DESCRIPTION:Data:2022-02-21\nGodzina:\nOrgan administracji:Dyrektor Okręg
@@ -1950,18 +2044,6 @@ DESCRIPTION:Data:2022-02-21\nGodzina:\nOrgan administracji:Dyrektor Okręg
  gi:bezczynność w przedmiocie rozpoznania wniosku z dnia 23 listopada 202
  0 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyni
  ki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Leszno - II SAB/Wa 630/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220221T000000
-DESCRIPTION:Data:2022-02-21\nGodzina:\nOrgan administracji:Wójt Gminy Les
- zno\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmydt\nSala:S
- ala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatura akt:II SA
- B/Wa 630/21\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\, Andrze
- j Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpo
- znania wniosku z dnia 23 września 2021 r. o udostępnienie informacji pub
- licznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1997,6 +2079,20 @@ DESCRIPTION:Data:2022-02-22\nGodzina:10:30\nOrgan administracji:Minister S
  nSygnatura akt:II SA/Wa 2229/21\nSymbol:6480\nSędziowie:Joanna Kruszewska
  -Grońska\, Ewa Radziszewska-Krupa\nTyp posiedzenia:Jawne\nUwagi:odmowa ud
  ostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Mazowieckie Samorządowe Centrum Doskonalenia Nauczycieli w Wa
+ rszawie - II SAB/Wa 804/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220223T000000
+DESCRIPTION:Data:2022-02-23\nGodzina:\nOrgan administracji:Mazowieckie Sam
+ orządowe Centrum Doskonalenia Nauczycieli w Warszawie\nPrzedmiot:Bezczynn
+ ość organu\nPrzewodniczący:Andrzej Góraj\nSala:Sala posiedzeń niejawn
+ ych\nSprawozdawca:Sławomir Fularski\nSygnatura akt:II SAB/Wa 804/21\nSymb
+ ol:658/6480\nSędziowie:Sławomir Fularski\, Ewa Marcinkowska\nTyp posiedz
+ enia:Niejawne\nUwagi:bezczynność w przedmiocie rozpatrzenia wniosku z dn
+ ia 3 kwietnia 2018 r. o udostępnienie informacji publicznej\nWydział orz
+ eczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2038,20 +2134,6 @@ DESCRIPTION:Data:2022-02-23\nGodzina:\nOrgan administracji:Prezydent m.st.
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Mazowieckie Samorządowe Centrum Doskonalenia Nauczycieli w Wa
- rszawie - II SAB/Wa 804/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220223T000000
-DESCRIPTION:Data:2022-02-23\nGodzina:\nOrgan administracji:Mazowieckie Sam
- orządowe Centrum Doskonalenia Nauczycieli w Warszawie\nPrzedmiot:Bezczynn
- ość organu\nPrzewodniczący:Andrzej Góraj\nSala:Sala posiedzeń niejawn
- ych\nSprawozdawca:Sławomir Fularski\nSygnatura akt:II SAB/Wa 804/21\nSymb
- ol:658/6480\nSędziowie:Sławomir Fularski\, Ewa Marcinkowska\nTyp posiedz
- enia:Niejawne\nUwagi:bezczynność w przedmiocie rozpatrzenia wniosku z dn
- ia 3 kwietnia 2018 r. o udostępnienie informacji publicznej\nWydział orz
- eczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Prezes Najwyższej Izby Kontroli - II SA/Wa 2390/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220223T120000
 DESCRIPTION:Data:2022-02-23\nGodzina:12:00\nOrgan administracji:Prezes Naj
@@ -2060,6 +2142,44 @@ DESCRIPTION:Data:2022-02-23\nGodzina:12:00\nOrgan administracji:Prezes Naj
  wa Marcinkowska\nSygnatura akt:II SA/Wa 2390/21\nSymbol:6480\nSędziowie:S
  ławomir Fularski\, Ewa Marcinkowska\nTyp posiedzenia:Jawne\nUwagi:odmowa 
  udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Rada Gminy Klembów - II SAB/Wa 822/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220224T000000
+DESCRIPTION:Data:2022-02-24\nGodzina:\nOrgan administracji:Rada Gminy Klem
+ bów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Kołodziej\n
+ Sala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura ak
+ t:II SAB/Wa 822/21\nSymbol:658/6480\nSędziowie:Joanna Kube\, Iwona Maciej
+ uk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznani
+ a wniosku z dnia 7 kwietnia 2020 r. o udostępnienie informacji publicznej
+ \nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] SKO w Warszawie - II SAB/Wa 696/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220224T000000
+DESCRIPTION:Data:2022-02-24\nGodzina:\nOrgan administracji:SKO w Warszawie
+ \nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Kołodziej\nSala
+ :Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura akt:II
+  SAB/Wa 696/21\nSymbol:658/6480\nSędziowie:Joanna Kube\, Iwona Maciejuk\n
+ Typ posiedzenia:Niejawne\nUwagi:bezczynność po wyroku Wojewódzkiego Są
+ du Administracyjnego w Warszawie z dnia 24 marca 2021 r. o sygn. akt II SA
+ /Wa 2010/20\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Archiwum Państwowego m. st. Warszawy - II SAB/Wa 708
+ /21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220224T000000
+DESCRIPTION:Data:2022-02-24\nGodzina:\nOrgan administracji:Dyrektor Archiw
+ um Państwowego m. st. Warszawy\nPrzedmiot:Bezczynność organu\nPrzewodni
+ czący:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:A
+ ndrzej Kołodziej\nSygnatura akt:II SAB/Wa 708/21\nSymbol:659/6480\nSędzi
+ owie:Joanna Kube\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:przewle
+ kłość postępowania w przedmiocie rozpoznania wniosku z dnia 31 maja 20
+ 21 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyn
+ iki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
