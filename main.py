@@ -33,7 +33,7 @@ def dedupe(items, keygen):
         key = keygen(item)
         if key in keys:
             continue
-        items.add(key)
+        keys.add(key)
         yield item
 
 
