@@ -26,6 +26,7 @@ def fix_dict(row):
 def clean_text(text):
     return re.sub(r"\s+", " ", text)
 
+
 def dedupe(items, keygen):
     keys = set()
     for item in items:
@@ -34,6 +35,7 @@ def dedupe(items, keygen):
             continue
         items.add(key)
         yield item
+
 
 def row_to_text(row):
     return "\n".join(
@@ -99,12 +101,12 @@ def make_cal(data):
 
 
 def main():
-    rows = list(
-        dedupe(
-            itertools.chain(
-            etr_query(symbol=648), etr_query(symbol=6480), etr_query(symbol=6481)
-        ), keygen = lambda item: item["Sygnatura akt"] + row["Data"] + row["Typ posiedzenia"])
+    keygen = lambda item: item["Sygnatura akt"] + item["Data"] + item["Typ posiedzenia"]
+    rows = itertools.chain(
+        etr_query(symbol=648), etr_query(symbol=6480), etr_query(symbol=6481)
     )
+    rows = dedupe(rows, keygen)
+    rows = list(rows)
     if len(rows) == 0:
         raise Exception("Missing data to fetch")
     cal = make_cal(rows)
