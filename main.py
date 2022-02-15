@@ -101,7 +101,9 @@ def make_cal(data):
 
 
 def main():
-    keygen = lambda item: item["Sygnatura akt"] + item["Data"] + item["Typ posiedzenia"]
+    def keygen(item):
+        return item["Sygnatura akt"] + item["Data"] + item["Typ posiedzenia"]
+
     rows = itertools.chain(
         etr_query(symbol=648), etr_query(symbol=6480), etr_query(symbol=6481)
     )
