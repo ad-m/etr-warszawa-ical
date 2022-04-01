@@ -357,20 +357,6 @@ DESCRIPTION:Data:2022-03-16\nGodzina:12:30\nOrgan administracji:SKO w Rado
 LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Zdrowia - II SAB/Wa 669/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220317T000000
-DESCRIPTION:Data:2022-03-17\nGodzina:\nOrgan administracji:Minister Zdrowi
- a\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Karolina Kisielewicz\nS
- ala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSygnatura a
- kt:II SAB/Wa 669/21\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Joanna
-  Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w zakresie rozpoznani
- a wniosku z dnia 26 marca 2021 r. o udostępnienie informacji publicznej\n
- Wydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność postępowania i 
- że bezczynność nie miała miejsca z rażącym naruszeniem prawa |Zasąd
- zono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Sądu Okręgowego - II SAB/Wa 798/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220317T000000
 DESCRIPTION:Data:2022-03-17\nGodzina:\nOrgan administracji:Prezes Sądu Ok
@@ -406,6 +392,20 @@ DESCRIPTION:Data:2022-03-17\nGodzina:\nOrgan administracji:Komendant Głó
  Wydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczyn
  ność miała miejsce bez rażącego naruszenia prawa |Zasądzono zwrot ko
  sztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Zdrowia - II SAB/Wa 669/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220317T000000
+DESCRIPTION:Data:2022-03-17\nGodzina:\nOrgan administracji:Minister Zdrowi
+ a\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Karolina Kisielewicz\nS
+ ala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSygnatura a
+ kt:II SAB/Wa 669/21\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Joanna
+  Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w zakresie rozpoznani
+ a wniosku z dnia 26 marca 2021 r. o udostępnienie informacji publicznej\n
+ Wydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność postępowania i 
+ że bezczynność nie miała miejsca z rażącym naruszeniem prawa |Zasąd
+ zono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -542,14 +542,13 @@ SUMMARY:[N] Wojskowe Koło Łowieckie nr 145 „Cytadela” - II SAB/Wa 16
  8/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220325T000000
 DESCRIPTION:Data:2022-03-25\nGodzina:\nOrgan administracji:Wojskowe Koło 
- Łowieckie nr 145 „Cytadela”\nPrzedmiot:Informacja publiczna\nPrzewodn
- iczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:And
- rzej Góraj\nSygnatura akt:II SAB/Wa 168/21\nSymbol:658/6480\nSędziowie:A
- ndrzej Góraj\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność
-  w sprawie rozpoznania wniosku z dnia 27 stycznia 2021 r. o udostępnienie
-  informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i
-  stwierdzono że bezczynność miała miejsce bez rażącego naruszenia pr
- awa |Oddalono skargę w części |Zasądzono zwrot kosztów postępowania
+ Łowieckie nr 145 „Cytadela”\nPrzedmiot:Informacja publiczna\; Informa
+ cja publiczna\nPrzewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń nieja
+ wnych\nSprawozdawca:Andrzej Góraj\nSygnatura akt:II SAB/Wa 168/21\nSymbol
+ :658/6480\nSędziowie:Andrzej Góraj\, Joanna Kube\nTyp posiedzenia:Niejaw
+ ne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono
+  że bezczynność miała miejsce bez rażącego naruszenia prawa |Oddalon
+ o skargę w części |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -568,12 +567,11 @@ BEGIN:VEVENT
 SUMMARY:[N] Telewizja Polska S.A. - II SAB/Wa 310/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220328T000000
 DESCRIPTION:Data:2022-03-28\nGodzina:\nOrgan administracji:Telewizja Polsk
- a S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Izabela Głowacka-
- Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSy
- gnatura akt:II SAB/Wa 310/21\nSymbol:658/6480\nSędziowie:Piotr Borowiecki
- \, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prze
- dmiocie rozpoznania wniosków o udostępnienie informacji publicznej\nWydz
- iał orzeczniczy:II\nWyniki:Oddalono skargę
+ a S.A.\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicz
+ ący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdaw
+ ca:Piotr Borowiecki\nSygnatura akt:II SAB/Wa 310/21\nSymbol:658/6480\nSęd
+ ziowie:Piotr Borowiecki\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwa
+ gi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -661,7 +659,8 @@ DESCRIPTION:Data:2022-03-31\nGodzina:\nOrgan administracji:Prezes Rady Min
  óra-Błaszczykowska\nSygnatura akt:II SAB/Wa 767/21\nSymbol:658/6480\nSę
  dziowie:Sławomir Fularski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwag
  i:bezczynność w sprawie rozpoznania wniosku z dnia 17 sierpnia 2021 r. o
-  udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+  udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Odd
+ alono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -673,7 +672,8 @@ DESCRIPTION:Data:2022-03-31\nGodzina:\nOrgan administracji:Minister Edukac
   Góra-Błaszczykowska\nSygnatura akt:II SAB/Wa 681/21\nSymbol:658/6480\nS
  ędziowie:Sławomir Fularski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUw
  agi:bezczynność w sprawie rozpoznania wniosku z dnia 3 czerwca 2021 r. o
-  udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+  udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Odd
+ alono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -711,7 +711,7 @@ DESCRIPTION:Data:2022-03-31\nGodzina:13:00\nOrgan administracji:Prezes Są
  asna 2/4\nSprawozdawca:Agnieszka Góra-Błaszczykowska\nSygnatura akt:II S
  A/Wa 2483/21\nSymbol:6480\nSędziowie:Sławomir Fularski\, Tomasz Szmydt\n
  Typ posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji publicznej\n
- Wydział orzeczniczy:II\nWyniki:
+ Wydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1113,6 +1113,18 @@ DESCRIPTION:Data:2022-04-19\nGodzina:10:10\nOrgan administracji:SKO w Ciec
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezydent Miasta Pruszkowa - II SAB/Wa 125/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220420T000000
+DESCRIPTION:Data:2022-04-20\nGodzina:\nOrgan administracji:Prezydent Miast
+ a Pruszkowa\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwona Macieju
+ k\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSyg
+ natura akt:II SAB/Wa 125/22\nSymbol:658/6480\nSędziowie:Karolina Kisielew
+ icz\, asesor Michał Sułkowski\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
+ ść w przedmiocie rozpoznania wniosku z dnia 30 grudnia 2021 r. o udostę
+ pnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Generalna Dyrekcja Dróg Krajowych i Autostrad - II SAB/Wa 871
  /21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220420T000000
@@ -1127,62 +1139,15 @@ DESCRIPTION:Data:2022-04-20\nGodzina:\nOrgan administracji:Generalna Dyrek
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezydent Miasta Pruszkowa - II SAB/Wa 125/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220420T000000
-DESCRIPTION:Data:2022-04-20\nGodzina:\nOrgan administracji:Prezydent Miast
- a Pruszkowa\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwona Macieju
- k\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolina Kisielewicz\nSyg
- natura akt:II SAB/Wa 125/22\nSymbol:658/6480\nSędziowie:Karolina Kisielew
- icz\, asesor Michał Sułkowski\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
- ść w przedmiocie rozpoznania wniosku z dnia 30 grudnia 2021 r. o udostę
- pnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Boguty-Pianki - II SAB/Wa 34/22
+SUMMARY:[N] Wójt Gminy Leszno - II SAB/Wa 878/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220421T000000
-DESCRIPTION:Data:2022-04-21\nGodzina:\nOrgan administracji:Wójt Gminy Bog
- uty-Pianki\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Kołod
- ziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Kołodziej\nSy
- gnatura akt:II SAB/Wa 34/22\nSymbol:658/6480\nSędziowie:Danuta Kania\, Ew
- a Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmioci
- e rozpoznania wniosku z dnia 8 września 2021 r. o udostępnienie informac
- ji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Zdrowia - II SAB/Wa 855/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220421T000000
-DESCRIPTION:Data:2022-04-21\nGodzina:\nOrgan administracji:Minister Zdrowi
- a\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Kołodziej\nSal
- a:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatura akt
- :II SAB/Wa 855/21\nSymbol:658/6480\nSędziowie:Danuta Kania\, Ewa Marcinko
- wska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpozna
- nia wniosku z dnia 3 września 2021 r. o udostępnienie informacji publicz
- nej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Telewizja Polska S.A. - II SA/Wa 3729/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220421T000000
-DESCRIPTION:Data:2022-04-21\nGodzina:\nOrgan administracji:Telewizja Polsk
- a S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Kołodziej
- \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatur
- a akt:II SA/Wa 3729/21\nSymbol:6480\nSędziowie:Danuta Kania\, Ewa Marcink
- owska\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji pu
- blicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Główny Inspektor Farmaceutyczny - II SAB/Wa 706/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220421T000000
-DESCRIPTION:Data:2022-04-21\nGodzina:\nOrgan administracji:Główny Inspek
- tor Farmaceutyczny\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrze
- j Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\n
- Sygnatura akt:II SAB/Wa 706/21\nSymbol:658/6480\nSędziowie:Danuta Kania\,
-  Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmi
- ocie rozpoznania wniosku z dnia 1 września 2021 r. o udostępnienie infor
- macji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2022-04-21\nGodzina:\nOrgan administracji:Wójt Gminy Les
+ zno\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir Fularski\nS
+ ala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSygnatura a
+ kt:II SAB/Wa 878/21\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Waldem
+ ar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie r
+ ozpoznania wniosku z dnia 13 października 2021 r. o udostępnienie inform
+ acji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1198,15 +1163,50 @@ DESCRIPTION:Data:2022-04-21\nGodzina:\nOrgan administracji:Minister Sprawi
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Leszno - II SAB/Wa 878/21
+SUMMARY:[N] Główny Inspektor Farmaceutyczny - II SAB/Wa 706/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220421T000000
-DESCRIPTION:Data:2022-04-21\nGodzina:\nOrgan administracji:Wójt Gminy Les
- zno\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir Fularski\nS
- ala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSygnatura a
- kt:II SAB/Wa 878/21\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Waldem
- ar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie r
- ozpoznania wniosku z dnia 13 października 2021 r. o udostępnienie inform
- acji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2022-04-21\nGodzina:\nOrgan administracji:Główny Inspek
+ tor Farmaceutyczny\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrze
+ j Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\n
+ Sygnatura akt:II SAB/Wa 706/21\nSymbol:658/6480\nSędziowie:Danuta Kania\,
+  Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmi
+ ocie rozpoznania wniosku z dnia 1 września 2021 r. o udostępnienie infor
+ macji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Telewizja Polska S.A. - II SA/Wa 3729/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220421T000000
+DESCRIPTION:Data:2022-04-21\nGodzina:\nOrgan administracji:Telewizja Polsk
+ a S.A.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Kołodziej
+ \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatur
+ a akt:II SA/Wa 3729/21\nSymbol:6480\nSędziowie:Danuta Kania\, Ewa Marcink
+ owska\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji pu
+ blicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Zdrowia - II SAB/Wa 855/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220421T000000
+DESCRIPTION:Data:2022-04-21\nGodzina:\nOrgan administracji:Minister Zdrowi
+ a\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Kołodziej\nSal
+ a:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marcinkowska\nSygnatura akt
+ :II SAB/Wa 855/21\nSymbol:658/6480\nSędziowie:Danuta Kania\, Ewa Marcinko
+ wska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpozna
+ nia wniosku z dnia 3 września 2021 r. o udostępnienie informacji publicz
+ nej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Boguty-Pianki - II SAB/Wa 34/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220421T000000
+DESCRIPTION:Data:2022-04-21\nGodzina:\nOrgan administracji:Wójt Gminy Bog
+ uty-Pianki\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Kołod
+ ziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Kołodziej\nSy
+ gnatura akt:II SAB/Wa 34/22\nSymbol:658/6480\nSędziowie:Danuta Kania\, Ew
+ a Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmioci
+ e rozpoznania wniosku z dnia 8 września 2021 r. o udostępnienie informac
+ ji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1283,18 +1283,6 @@ DESCRIPTION:Data:2022-04-25\nGodzina:14:00\nOrgan administracji:Dyrektor G
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Obrony Narodowej - II SAB/Wa 832/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220427T000000
-DESCRIPTION:Data:2022-04-27\nGodzina:\nOrgan administracji:Minister Obrony
-  Narodowej\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Danuta Kania\n
- Sala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnatura akt:
- II SAB/Wa 832/21\nSymbol:658/6480\nSędziowie:Karolina Kisielewicz\, Walde
- mar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie 
- rozpoznania wniosku z dnia 21 kwietnia 2021 r. o udostępnienie informacji
-  publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Burmistrz Gminy Konstancin Jeziorna - II SAB/Wa 682/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220427T000000
 DESCRIPTION:Data:2022-04-27\nGodzina:\nOrgan administracji:Burmistrz Gminy
@@ -1303,6 +1291,18 @@ DESCRIPTION:Data:2022-04-27\nGodzina:\nOrgan administracji:Burmistrz Gminy
  awca:Waldemar Śledzik\nSygnatura akt:II SAB/Wa 682/21\nSymbol:658/6480\nS
  ędziowie:Karolina Kisielewicz\, Waldemar Śledzik\nTyp posiedzenia:Niejaw
  ne\nUwagi:\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Czarnia - II SAB/Wa 848/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220427T000000
+DESCRIPTION:Data:2022-04-27\nGodzina:\nOrgan administracji:Wójt Gminy Cza
+ rnia\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir Antoniuk\n
+ Sala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra-Błaszczykow
+ ska\nSygnatura akt:II SAB/Wa 848/21\nSymbol:658/6480\nSędziowie:Agnieszka
+  Góra-Błaszczykowska\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:be
+ zczynność w przedmiocie rozpoznania wniosku z dn.15 listopada 2021 r. o 
+ udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1331,15 +1331,15 @@ DESCRIPTION:Data:2022-04-27\nGodzina:\nOrgan administracji:Prezes Urzędu
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Czarnia - II SAB/Wa 848/21
+SUMMARY:[N] Minister Obrony Narodowej - II SAB/Wa 832/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220427T000000
-DESCRIPTION:Data:2022-04-27\nGodzina:\nOrgan administracji:Wójt Gminy Cza
- rnia\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir Antoniuk\n
- Sala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra-Błaszczykow
- ska\nSygnatura akt:II SAB/Wa 848/21\nSymbol:658/6480\nSędziowie:Agnieszka
-  Góra-Błaszczykowska\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:be
- zczynność w przedmiocie rozpoznania wniosku z dn.15 listopada 2021 r. o 
- udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2022-04-27\nGodzina:\nOrgan administracji:Minister Obrony
+  Narodowej\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Danuta Kania\n
+ Sala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnatura akt:
+ II SAB/Wa 832/21\nSymbol:658/6480\nSędziowie:Karolina Kisielewicz\, Walde
+ mar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie 
+ rozpoznania wniosku z dnia 21 kwietnia 2021 r. o udostępnienie informacji
+  publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
