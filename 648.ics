@@ -1,31 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[J] Minister Finansów - II SA/Wa 341/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220425T130000
-DESCRIPTION:Data:2022-04-25\nGodzina:13:00\nOrgan administracji:Minister F
- inansów\nPrzedmiot:Odmowa udzielenia informacji publicznej\; Odmowa udzie
- lenia informacji publicznej\nPrzewodniczący:Izabela Głowacka-Klimas\nSal
- a:Sala F\, ul. Jasna 2/4\nSprawozdawca:Joanna Kruszewska-Grońska\nSygnatu
- ra akt:II SA/Wa 341/22\nSymbol:6480\nSędziowie:Joanna Kruszewska-Grońska
- \, asesor Michał Sułkowski\nTyp posiedzenia:Jawne\nUwagi:\nWydział orze
- czniczy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[J] Dyrektor Generalny Służby Więziennej w Warszawie - II SA/Wa
-  356/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220425T140000
-DESCRIPTION:Data:2022-04-25\nGodzina:14:00\nOrgan administracji:Dyrektor G
- eneralny Służby Więziennej w Warszawie\nPrzedmiot:Odmowa udzielenia inf
- ormacji publicznej\; Odmowa udzielenia informacji publicznej\nPrzewodnicz
- ący:Izabela Głowacka-Klimas\nSala:Sala F\, ul. Jasna 2/4\nSprawozdawca:J
- oanna Kruszewska-Grońska\nSygnatura akt:II SA/Wa 356/22\nSymbol:6480\nSę
- dziowie:Joanna Kruszewska-Grońska\, asesor Michał Sułkowski\nTyp posied
- zenia:Jawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Wójt Gminy Czarnia - II SAB/Wa 848/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220427T000000
 DESCRIPTION:Data:2022-04-27\nGodzina:\nOrgan administracji:Wójt Gminy Cza
@@ -466,20 +441,6 @@ DESCRIPTION:Data:2022-05-12\nGodzina:\nOrgan administracji:Rada Powiatu Wo
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Przewodniczący Rady Medycznej ds. Covid-19 przy Prezesie Rady
-  Ministrów - II SAB/Wa 691/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220512T000000
-DESCRIPTION:Data:2022-05-12\nGodzina:\nOrgan administracji:Przewodniczący
-  Rady Medycznej ds. Covid-19 przy Prezesie Rady Ministrów\nPrzedmiot:Info
- rmacja publiczna\nPrzewodniczący:Sławomir Antoniuk\nSala:Sala posiedzeń
-  niejawnych\nSprawozdawca:Andrzej Wieczorek\nSygnatura akt:II SAB/Wa 691/2
- 1\nSymbol:658/6480\nSędziowie:Iwona Maciejuk\, Andrzej Wieczorek\nTyp pos
- iedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z
-  dnia 23 sierpnia 2021 r. o udostępnienie informacji publicznej\nWydział
-  orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Zarząd Związku Biur Porad Obywatelskich w Warszawie - II SAB
  /Wa 32/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220512T000000
@@ -491,6 +452,20 @@ DESCRIPTION:Data:2022-05-12\nGodzina:\nOrgan administracji:Zarząd Związk
  agi:bezczynność w przedmiocie rozpatrzenia wniosku z dnia 29 listopada 2
  021 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWy
  niki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Przewodniczący Rady Medycznej ds. Covid-19 przy Prezesie Rady
+  Ministrów - II SAB/Wa 691/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220512T000000
+DESCRIPTION:Data:2022-05-12\nGodzina:\nOrgan administracji:Przewodniczący
+  Rady Medycznej ds. Covid-19 przy Prezesie Rady Ministrów\nPrzedmiot:Info
+ rmacja publiczna\nPrzewodniczący:Sławomir Antoniuk\nSala:Sala posiedzeń
+  niejawnych\nSprawozdawca:Andrzej Wieczorek\nSygnatura akt:II SAB/Wa 691/2
+ 1\nSymbol:658/6480\nSędziowie:Iwona Maciejuk\, Andrzej Wieczorek\nTyp pos
+ iedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z
+  dnia 23 sierpnia 2021 r. o udostępnienie informacji publicznej\nWydział
+  orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -506,19 +481,6 @@ DESCRIPTION:Data:2022-05-12\nGodzina:09:30\nOrgan administracji:Prezes Są
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Agora S.A. - II SAB/Wa 331/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220516T000000
-DESCRIPTION:Data:2022-05-16\nGodzina:\nOrgan administracji:Agora S.A.\nPrz
- edmiot:Informacja publiczna\nPrzewodniczący:Izabela Głowacka-Klimas\nSal
- a:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowacka-Klimas\nSygna
- tura akt:II SAB/Wa 331/21\nSymbol:658/6480\nSędziowie:asesor Michał Suł
- kowski\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność 
- w przedmiocie rozpoznania wniosku z dnia 11 stycznia 2021 r. o udostępnie
- nie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skarg
- ę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Powiatowego Urzędu Pracy w Płońsku - II SAB/Wa 685
  /21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220516T000000
@@ -531,6 +493,19 @@ DESCRIPTION:Data:2022-05-16\nGodzina:\nOrgan administracji:Dyrektor Powiat
  acji publicznej z 1 kwietnia 2021 r.\nWydział orzeczniczy:II\nWyniki:Zobo
  wiązano organ do rozpoznania wniosku/odwołania w terminie ...od otrzyman
  ia odpisu prawomocnego orzeczenia |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Agora S.A. - II SAB/Wa 331/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220516T000000
+DESCRIPTION:Data:2022-05-16\nGodzina:\nOrgan administracji:Agora S.A.\nPrz
+ edmiot:Informacja publiczna\nPrzewodniczący:Izabela Głowacka-Klimas\nSal
+ a:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowacka-Klimas\nSygna
+ tura akt:II SAB/Wa 331/21\nSymbol:658/6480\nSędziowie:asesor Michał Suł
+ kowski\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność 
+ w przedmiocie rozpoznania wniosku z dnia 11 stycznia 2021 r. o udostępnie
+ nie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skarg
+ ę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -811,12 +786,13 @@ SUMMARY:[N] Rada Powiatu Wołomińskiego - II SAB/Wa 121/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220526T000000
 DESCRIPTION:Data:2022-05-26\nGodzina:\nOrgan administracji:Rada Powiatu Wo
  łomińskiego\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir F
- ularski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nS
- ygnatura akt:II SAB/Wa 121/22\nSymbol:658/6480\nSędziowie:Piotr Borowieck
- i\, Ewa Radziszewska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:bezczynność 
- w przedmiocie rozpoznania wniosku z dnia 1 stycznia 2018 r. o udostępnien
- ie informacji publicznej dot.drogi na nieruchomości nr 404/1 obręb Klemb
- ów\nWydział orzeczniczy:II\nWyniki:
+ ularski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Michał Sułkowski\
+ nSygnatura akt:II SAB/Wa 121/22\nSymbol:658/6480\nSędziowie:Ewa Radziszew
+ ska-Krupa\, asesor Michał Sułkowski\nTyp posiedzenia:Niejawne\nUwagi:bez
+ czynność w przedmiocie rozpoznania wniosku z dnia 1 stycznia 2018 r. o u
+ dostępnienie informacji publicznej dot.drogi na nieruchomości nr 404/1 o
+ bręb Klembów\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwierd
+ zono że bezczynność miała miejsce bez rażącego naruszenia prawa
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -975,7 +951,8 @@ DESCRIPTION:Data:2022-06-01\nGodzina:\nOrgan administracji:Wójt Gminy Kle
  mas\nSygnatura akt:II SAB/Wa 670/21\nSymbol:658/6480\nSędziowie:Ewa Radzi
  szewska-Krupa\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczyn
  ność w przedmiocie rozpoznania wniosku z dnia 6 sierpnia 2021 r. o udost
- ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zdjęto z
+  wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -988,6 +965,20 @@ DESCRIPTION:Data:2022-06-01\nGodzina:\nOrgan administracji:Minister Edukac
  Radziszewska-Krupa\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:be
  zczynność w przedmiocie rozpoznania wniosku z dnia 2 sierpnia 2021 r. o 
  udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Burmistrz Dzielnicy Praga-Północ m.st. Warszawy - II SAB/Wa 
+ 68/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220601T000000
+DESCRIPTION:Data:2022-06-01\nGodzina:\nOrgan administracji:Burmistrz Dziel
+ nicy Praga-Północ m.st. Warszawy\nPrzedmiot:Informacja publiczna\nPrzewo
+ dniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSpraw
+ ozdawca:Izabela Głowacka-Klimas\nSygnatura akt:II SAB/Wa 68/22\nSymbol:65
+ 8/6480\nSędziowie:Ewa Radziszewska-Krupa\, Andrzej Wieczorek\nTyp posiedz
+ enia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z 7 c
+ zerwca 2021 r. o udostępnienie informacji publicznej\nWydział orzecznicz
+ y:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1161,17 +1152,27 @@ DESCRIPTION:Data:2022-06-13\nGodzina:\nOrgan administracji:Rada Powiatu Wo
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Zarząd Główny Polskiego Związku Łowieckiego - II SAB/Wa 8
- 47/21
+SUMMARY:[N] Polskie Sieci Elektroenergetyczne S.A. - II SAB/Wa 135/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220613T000000
-DESCRIPTION:Data:2022-06-13\nGodzina:\nOrgan administracji:Zarząd Główn
- y Polskiego Związku Łowieckiego\nPrzedmiot:Bezczynność organu\nPrzewod
- niczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iza
- bela Głowacka-Klimas\nSygnatura akt:II SAB/Wa 847/21\nSymbol:658/6480\nS
- ędziowie:Izabela Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Ni
- ejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dn.1 sierp
- nia 2017 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:I
- I\nWyniki:
+DESCRIPTION:Data:2022-06-13\nGodzina:\nOrgan administracji:Polskie Sieci E
+ lektroenergetyczne S.A.\nPrzedmiot:Bezczynność organu\nPrzewodniczący:A
+ ndrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Wiecz
+ orek\nSygnatura akt:II SAB/Wa 135/22\nSymbol:658/6480\nSędziowie:Izabela 
+ Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezc
+ zynność w przedmiocie rozpoznania wniosku z dnia 9 września 2021 r. o u
+ dostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Centrala Narodowego Funduszu Zdrowia - II SAB/Wa 877/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220613T000000
+DESCRIPTION:Data:2022-06-13\nGodzina:\nOrgan administracji:Centrala Narodo
+ wego Funduszu Zdrowia\nPrzedmiot:Bezczynność organu\nPrzewodniczący:And
+ rzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Wieczor
+ ek\nSygnatura akt:II SAB/Wa 877/21\nSymbol:658/6480\nSędziowie:Izabela G
+ łowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezcz
+ ynność w przedmiocie rozpoznania wniosku z dnia 1 grudnia 2021 r. o udos
+ tępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1189,27 +1190,17 @@ DESCRIPTION:Data:2022-06-13\nGodzina:\nOrgan administracji:Dyrektor Szkoł
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Centrala Narodowego Funduszu Zdrowia - II SAB/Wa 877/21
+SUMMARY:[N] Zarząd Główny Polskiego Związku Łowieckiego - II SAB/Wa 8
+ 47/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220613T000000
-DESCRIPTION:Data:2022-06-13\nGodzina:\nOrgan administracji:Centrala Narodo
- wego Funduszu Zdrowia\nPrzedmiot:Bezczynność organu\nPrzewodniczący:And
- rzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Wieczor
- ek\nSygnatura akt:II SAB/Wa 877/21\nSymbol:658/6480\nSędziowie:Izabela G
- łowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezcz
- ynność w przedmiocie rozpoznania wniosku z dnia 1 grudnia 2021 r. o udos
- tępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Polskie Sieci Elektroenergetyczne S.A. - II SAB/Wa 135/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220613T000000
-DESCRIPTION:Data:2022-06-13\nGodzina:\nOrgan administracji:Polskie Sieci E
- lektroenergetyczne S.A.\nPrzedmiot:Bezczynność organu\nPrzewodniczący:A
- ndrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Wiecz
- orek\nSygnatura akt:II SAB/Wa 135/22\nSymbol:658/6480\nSędziowie:Izabela 
- Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezc
- zynność w przedmiocie rozpoznania wniosku z dnia 9 września 2021 r. o u
- dostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2022-06-13\nGodzina:\nOrgan administracji:Zarząd Główn
+ y Polskiego Związku Łowieckiego\nPrzedmiot:Bezczynność organu\nPrzewod
+ niczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iza
+ bela Głowacka-Klimas\nSygnatura akt:II SAB/Wa 847/21\nSymbol:658/6480\nS
+ ędziowie:Izabela Głowacka-Klimas\, Andrzej Wieczorek\nTyp posiedzenia:Ni
+ ejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dn.1 sierp
+ nia 2017 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:I
+ I\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
