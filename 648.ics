@@ -1,6 +1,18 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
+SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 790/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220504T000000
+DESCRIPTION:Data:2022-05-04\nGodzina:\nOrgan administracji:Komendant Głó
+ wny Policji\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmydt
+ \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Wieczorek\nSygnatu
+ ra akt:II SAB/Wa 790/21\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Kli
+ mas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
+ rzedmiocie rozpatrzenia wniosku z dnia 27 września 2021 r. o udostępnien
+ ie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Polska Grupa Zbrojeniowa S.A. z siedzibą w Radomiu - VIII SA/
  Wa 94/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220504T000000
@@ -26,18 +38,6 @@ DESCRIPTION:Data:2022-05-04\nGodzina:\nOrgan administracji:Burmistrz Warki
  yniki:Zobowiązano ... i stwierdzono że bezczynność miała miejsce bez 
  rażącego naruszenia prawa
 LOCATION:Wydzial VIII\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 790/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220504T000000
-DESCRIPTION:Data:2022-05-04\nGodzina:\nOrgan administracji:Komendant Głó
- wny Policji\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmydt
- \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Wieczorek\nSygnatu
- ra akt:II SAB/Wa 790/21\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Kli
- mas\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
- rzedmiocie rozpatrzenia wniosku z dnia 27 września 2021 r. o udostępnien
- ie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[J] Prezes Urzędu Ochrony Konkurencji i Konsumentów - II SA/Wa 3
@@ -340,20 +340,6 @@ DESCRIPTION:Data:2022-05-12\nGodzina:\nOrgan administracji:Rada Powiatu Wo
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Przewodniczący Rady Medycznej ds. Covid-19 przy Prezesie Rady
-  Ministrów - II SAB/Wa 691/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220512T000000
-DESCRIPTION:Data:2022-05-12\nGodzina:\nOrgan administracji:Przewodniczący
-  Rady Medycznej ds. Covid-19 przy Prezesie Rady Ministrów\nPrzedmiot:Info
- rmacja publiczna\nPrzewodniczący:Sławomir Antoniuk\nSala:Sala posiedzeń
-  niejawnych\nSprawozdawca:Andrzej Wieczorek\nSygnatura akt:II SAB/Wa 691/2
- 1\nSymbol:658/6480\nSędziowie:Iwona Maciejuk\, Andrzej Wieczorek\nTyp pos
- iedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z
-  dnia 23 sierpnia 2021 r. o udostępnienie informacji publicznej\nWydział
-  orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Zarząd Związku Biur Porad Obywatelskich w Warszawie - II SAB
  /Wa 32/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220512T000000
@@ -365,6 +351,20 @@ DESCRIPTION:Data:2022-05-12\nGodzina:\nOrgan administracji:Zarząd Związk
  agi:bezczynność w przedmiocie rozpatrzenia wniosku z dnia 29 listopada 2
  021 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWy
  niki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Przewodniczący Rady Medycznej ds. Covid-19 przy Prezesie Rady
+  Ministrów - II SAB/Wa 691/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220512T000000
+DESCRIPTION:Data:2022-05-12\nGodzina:\nOrgan administracji:Przewodniczący
+  Rady Medycznej ds. Covid-19 przy Prezesie Rady Ministrów\nPrzedmiot:Info
+ rmacja publiczna\nPrzewodniczący:Sławomir Antoniuk\nSala:Sala posiedzeń
+  niejawnych\nSprawozdawca:Andrzej Wieczorek\nSygnatura akt:II SAB/Wa 691/2
+ 1\nSymbol:658/6480\nSędziowie:Iwona Maciejuk\, Andrzej Wieczorek\nTyp pos
+ iedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z
+  dnia 23 sierpnia 2021 r. o udostępnienie informacji publicznej\nWydział
+  orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -522,32 +522,6 @@ DESCRIPTION:Data:2022-05-18\nGodzina:09:30\nOrgan administracji:Minister K
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Gniewoszów - VIII SAB/Wa 13/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220519T000000
-DESCRIPTION:Data:2022-05-19\nGodzina:\nOrgan administracji:Wójt Gminy Gni
- ewoszów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Owsińska-
- Gwiazda\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Owsińska-Gwi
- azda\nSygnatura akt:VIII SAB/Wa 13/22\nSymbol:658/6480\nSędziowie:Justyna
-  Mazur\, Renata Nawrot\nTyp posiedzenia:Niejawne\nUwagi:bezzynność organ
- u w dostępie do informacji publicznej\nWydział orzeczniczy:VIII\nWyniki:
- Stwierdzono bezczynność postępowania i że bezczynność nie miała mie
- jsca z rażącym naruszeniem prawa |Zasądzono zwrot kosztów postępowani
- a
-LOCATION:Wydzial VIII\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Sprawiedliwości - II SA/Wa 278/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220519T000000
-DESCRIPTION:Data:2022-05-19\nGodzina:\nOrgan administracji:Minister Sprawi
- edliwości\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodnicz
- ący:Joanna Kruszewska-Grońska\nSala:Sala posiedzeń niejawnych\nSprawozd
- awca:Tomasz Szmydt\nSygnatura akt:II SA/Wa 278/22\nSymbol:6480\nSędziowie
- :Sławomir Fularski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:odmow
- a udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:Od
- dalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 867/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220519T000000
 DESCRIPTION:Data:2022-05-19\nGodzina:\nOrgan administracji:Prezydent m.st.
@@ -575,6 +549,32 @@ DESCRIPTION:Data:2022-05-19\nGodzina:\nOrgan administracji:Generalny Dyrek
  zniczy:II\nWyniki:Stwierdzono bezczynność postępowania i że bezczynno
  ść nie miała miejsca z rażącym naruszeniem prawa
 LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Sprawiedliwości - II SA/Wa 278/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220519T000000
+DESCRIPTION:Data:2022-05-19\nGodzina:\nOrgan administracji:Minister Sprawi
+ edliwości\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodnicz
+ ący:Joanna Kruszewska-Grońska\nSala:Sala posiedzeń niejawnych\nSprawozd
+ awca:Tomasz Szmydt\nSygnatura akt:II SA/Wa 278/22\nSymbol:6480\nSędziowie
+ :Sławomir Fularski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:odmow
+ a udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:Od
+ dalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Gniewoszów - VIII SAB/Wa 13/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220519T000000
+DESCRIPTION:Data:2022-05-19\nGodzina:\nOrgan administracji:Wójt Gminy Gni
+ ewoszów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Owsińska-
+ Gwiazda\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Owsińska-Gwi
+ azda\nSygnatura akt:VIII SAB/Wa 13/22\nSymbol:658/6480\nSędziowie:Justyna
+  Mazur\, Renata Nawrot\nTyp posiedzenia:Niejawne\nUwagi:bezzynność organ
+ u w dostępie do informacji publicznej\nWydział orzeczniczy:VIII\nWyniki:
+ Stwierdzono bezczynność postępowania i że bezczynność nie miała mie
+ jsca z rażącym naruszeniem prawa |Zasądzono zwrot kosztów postępowani
+ a
+LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[J] Polska Grupa Zbrojeniowa S.A. z siedzibą w Radomiu - VIII SA/
@@ -681,18 +681,6 @@ DESCRIPTION:Data:2022-05-24\nGodzina:09:00\nOrgan administracji:Prokurator
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] SKO w Radomiu - VIII SA/Wa 264/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220526T000000
-DESCRIPTION:Data:2022-05-26\nGodzina:\nOrgan administracji:SKO w Radomiu\n
- Przedmiot:Informacja publiczna\nPrzewodniczący:Marek Wroczyński\nSala:Sa
- la posiedzeń niejawnych\nSprawozdawca:Marek Wroczyński\nSygnatura akt:VI
- II SA/Wa 264/22\nSymbol:6480\nSędziowie:Justyna Mazur\, Renata Nawrot\nTy
- p posiedzenia:Niejawne\nUwagi:stwierdzenie nieważności decyzji w sprawie
-  odmowy udostępnienia informacji publicznej\nWydział orzeczniczy:VIII\nW
- yniki:Oddalono skargę
-LOCATION:Wydzial VIII\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Rada Powiatu Wołomińskiego - II SAB/Wa 121/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220526T000000
 DESCRIPTION:Data:2022-05-26\nGodzina:\nOrgan administracji:Rada Powiatu Wo
@@ -704,6 +692,18 @@ DESCRIPTION:Data:2022-05-26\nGodzina:\nOrgan administracji:Rada Powiatu Wo
  twierdzono że bezczynność miała miejsce bez rażącego naruszenia praw
  a
 LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] SKO w Radomiu - VIII SA/Wa 264/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220526T000000
+DESCRIPTION:Data:2022-05-26\nGodzina:\nOrgan administracji:SKO w Radomiu\n
+ Przedmiot:Informacja publiczna\nPrzewodniczący:Marek Wroczyński\nSala:Sa
+ la posiedzeń niejawnych\nSprawozdawca:Marek Wroczyński\nSygnatura akt:VI
+ II SA/Wa 264/22\nSymbol:6480\nSędziowie:Justyna Mazur\, Renata Nawrot\nTy
+ p posiedzenia:Niejawne\nUwagi:stwierdzenie nieważności decyzji w sprawie
+  odmowy udostępnienia informacji publicznej\nWydział orzeczniczy:VIII\nW
+ yniki:Oddalono skargę
+LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[N] PINB dla m. st. Warszawy - II SAB/Wa 199/22
@@ -769,44 +769,6 @@ DESCRIPTION:Data:2022-05-30\nGodzina:09:30\nOrgan administracji:Przewodnic
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] SKO w Warszawie - II SA/Wa 3728/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220531T000000
-DESCRIPTION:Data:2022-05-31\nGodzina:\nOrgan administracji:SKO w Warszawie
- \nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kruszewska-Grońs
- ka\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kruszewska-Grońs
- ka\nSygnatura akt:II SA/Wa 3728/21\nSymbol:6480\nSędziowie:Agnieszka Gór
- a-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:odmowa
-  udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:Odd
- alono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] SKO w Ostrołęce - II SA/Wa 4070/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220531T000000
-DESCRIPTION:Data:2022-05-31\nGodzina:\nOrgan administracji:SKO w Ostrołę
- ce\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Joa
- nna Kruszewska-Grońska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agn
- ieszka Góra-Błaszczykowska\nSygnatura akt:II SA/Wa 4070/21\nSymbol:6480\
- nSędziowie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedze
- nia:Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział 
- orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Burmistrz Miasta I Gminy Cegłów - II SAB/Wa 163/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220531T000000
-DESCRIPTION:Data:2022-05-31\nGodzina:\nOrgan administracji:Burmistrz Miast
- a I Gminy Cegłów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna
-  Kruszewska-Grońska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona 
- Maciejuk\nSygnatura akt:II SAB/Wa 163/22\nSymbol:658/6480\nSędziowie:Agni
- eszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUw
- agi:bezczynność w przedmiocie rozpoznania wniosku z dnia 3 września 202
- 1 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyni
- ki:Stwierdzono bezczynność postępowania i że bezczynność nie miała 
- miejsca z rażącym naruszeniem prawa
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Minister Sprawiedliwości - II SAB/Wa 821/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220531T000000
 DESCRIPTION:Data:2022-05-31\nGodzina:\nOrgan administracji:Minister Sprawi
@@ -849,18 +811,64 @@ DESCRIPTION:Data:2022-05-31\nGodzina:\nOrgan administracji:Zarząd PKP Pol
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Burmistrz Dzielnicy Praga-Północ m.st. Warszawy - II SAB/Wa 
- 68/22
+SUMMARY:[N] Burmistrz Miasta I Gminy Cegłów - II SAB/Wa 163/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220531T000000
+DESCRIPTION:Data:2022-05-31\nGodzina:\nOrgan administracji:Burmistrz Miast
+ a I Gminy Cegłów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna
+  Kruszewska-Grońska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona 
+ Maciejuk\nSygnatura akt:II SAB/Wa 163/22\nSymbol:658/6480\nSędziowie:Agni
+ eszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUw
+ agi:bezczynność w przedmiocie rozpoznania wniosku z dnia 3 września 202
+ 1 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyni
+ ki:Stwierdzono bezczynność postępowania i że bezczynność nie miała 
+ miejsca z rażącym naruszeniem prawa
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] SKO w Ostrołęce - II SA/Wa 4070/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220531T000000
+DESCRIPTION:Data:2022-05-31\nGodzina:\nOrgan administracji:SKO w Ostrołę
+ ce\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Joa
+ nna Kruszewska-Grońska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agn
+ ieszka Góra-Błaszczykowska\nSygnatura akt:II SA/Wa 4070/21\nSymbol:6480\
+ nSędziowie:Agnieszka Góra-Błaszczykowska\, Iwona Maciejuk\nTyp posiedze
+ nia:Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział 
+ orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] SKO w Warszawie - II SA/Wa 3728/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220531T000000
+DESCRIPTION:Data:2022-05-31\nGodzina:\nOrgan administracji:SKO w Warszawie
+ \nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kruszewska-Grońs
+ ka\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kruszewska-Grońs
+ ka\nSygnatura akt:II SA/Wa 3728/21\nSymbol:6480\nSędziowie:Agnieszka Gór
+ a-Błaszczykowska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:odmowa
+  udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:Odd
+ alono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Komendant Główny Policji - II SA/Wa 1222/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220601T000000
-DESCRIPTION:Data:2022-06-01\nGodzina:\nOrgan administracji:Burmistrz Dziel
- nicy Praga-Północ m.st. Warszawy\nPrzedmiot:Informacja publiczna\nPrzewo
- dniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSpraw
- ozdawca:Izabela Głowacka-Klimas\nSygnatura akt:II SAB/Wa 68/22\nSymbol:65
- 8/6480\nSędziowie:Ewa Radziszewska-Krupa\, Andrzej Wieczorek\nTyp posiedz
- enia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z 7 c
- zerwca 2021 r. o udostępnienie informacji publicznej\nWydział orzecznicz
- y:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynność miała miejs
- ce bez rażącego naruszenia prawa
+DESCRIPTION:Data:2022-06-01\nGodzina:\nOrgan administracji:Komendant Głó
+ wny Policji\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodnic
+ zący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozda
+ wca:Izabela Głowacka-Klimas\nSygnatura akt:II SA/Wa 1222/21\nSymbol:6480\
+ nSędziowie:Ewa Radziszewska-Krupa\, Andrzej Wieczorek\nTyp posiedzenia:Ni
+ ejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecz
+ niczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Klembów - II SAB/Wa 670/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220601T000000
+DESCRIPTION:Data:2022-06-01\nGodzina:\nOrgan administracji:Wójt Gminy Kle
+ mbów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodnicz
+ ący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdaw
+ ca:Izabela Głowacka-Klimas\nSygnatura akt:II SAB/Wa 670/21\nSymbol:658/64
+ 80\nSędziowie:Ewa Radziszewska-Krupa\, Andrzej Wieczorek\nTyp posiedzenia
+ :Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -877,28 +885,18 @@ DESCRIPTION:Data:2022-06-01\nGodzina:\nOrgan administracji:Minister Edukac
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Klembów - II SAB/Wa 670/21
+SUMMARY:[N] Burmistrz Dzielnicy Praga-Północ m.st. Warszawy - II SAB/Wa 
+ 68/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220601T000000
-DESCRIPTION:Data:2022-06-01\nGodzina:\nOrgan administracji:Wójt Gminy Kle
- mbów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Izabela Głowacka-K
- limas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowacka-Kli
- mas\nSygnatura akt:II SAB/Wa 670/21\nSymbol:658/6480\nSędziowie:Ewa Radzi
- szewska-Krupa\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczyn
- ność w przedmiocie rozpoznania wniosku z dnia 6 sierpnia 2021 r. o udost
- ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zdjęto z
-  wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Komendant Główny Policji - II SA/Wa 1222/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220601T000000
-DESCRIPTION:Data:2022-06-01\nGodzina:\nOrgan administracji:Komendant Głó
- wny Policji\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodnic
- zący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozda
- wca:Izabela Głowacka-Klimas\nSygnatura akt:II SA/Wa 1222/21\nSymbol:6480\
- nSędziowie:Ewa Radziszewska-Krupa\, Andrzej Wieczorek\nTyp posiedzenia:Ni
- ejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecz
- niczy:II\nWyniki:Oddalono skargę
+DESCRIPTION:Data:2022-06-01\nGodzina:\nOrgan administracji:Burmistrz Dziel
+ nicy Praga-Północ m.st. Warszawy\nPrzedmiot:Informacja publiczna\nPrzewo
+ dniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSpraw
+ ozdawca:Izabela Głowacka-Klimas\nSygnatura akt:II SAB/Wa 68/22\nSymbol:65
+ 8/6480\nSędziowie:Ewa Radziszewska-Krupa\, Andrzej Wieczorek\nTyp posiedz
+ enia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z 7 c
+ zerwca 2021 r. o udostępnienie informacji publicznej\nWydział orzecznicz
+ y:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynność miała miejs
+ ce bez rażącego naruszenia prawa
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -927,6 +925,17 @@ DESCRIPTION:Data:2022-06-01\nGodzina:10:00\nOrgan administracji:Dyrektor G
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] SKO w Radomiu - VIII SA/Wa 266/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220602T000000
+DESCRIPTION:Data:2022-06-02\nGodzina:\nOrgan administracji:SKO w Radomiu\n
+ Przedmiot:Informacja publiczna\nPrzewodniczący:Marek Wroczyński\nSala:Sa
+ la posiedzeń niejawnych\nSprawozdawca:Marek Wroczyński\nSygnatura akt:VI
+ II SA/Wa 266/22\nSymbol:6480\nSędziowie:Justyna Mazur\, Renata Nawrot\nTy
+ p posiedzenia:Niejawne\nUwagi:odmowa udostepnienia informacji publicznej\n
+ Wydział orzeczniczy:VIII\nWyniki:Oddalono skargę
+LOCATION:Wydzial VIII\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Rzecznik Praw Obywatelskich - II SAB/Wa 11/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220606T000000
 DESCRIPTION:Data:2022-06-06\nGodzina:\nOrgan administracji:Rzecznik Praw O
@@ -936,17 +945,6 @@ DESCRIPTION:Data:2022-06-06\nGodzina:\nOrgan administracji:Rzecznik Praw O
  zycki\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w
   przedmiocie rozpoznania wniosku z dnia 14 października 2021 r. o udostę
  pnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] PGE Dystrybucja S.A. Oddział Warszawa - II SA/Wa 2690/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220606T000000
-DESCRIPTION:Data:2022-06-06\nGodzina:\nOrgan administracji:PGE Dystrybucja
-  S.A. Oddział Warszawa\nPrzedmiot:Informacja publiczna\nPrzewodniczący:I
- zabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Łu
- kasz Krzycki\nSygnatura akt:II SA/Wa 2690/21\nSymbol:6480\nSędziowie:Łuk
- asz Krzycki\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:odmowa ud
- ostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -961,6 +959,17 @@ DESCRIPTION:Data:2022-06-06\nGodzina:\nOrgan administracji:Dyrektor Region
  p posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wnio
  sku z 17 listopada 2021 r. o udostępnienie informacji publicznej\nWydzia
  ł orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] PGE Dystrybucja S.A. Oddział Warszawa - II SA/Wa 2690/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220606T000000
+DESCRIPTION:Data:2022-06-06\nGodzina:\nOrgan administracji:PGE Dystrybucja
+  S.A. Oddział Warszawa\nPrzedmiot:Informacja publiczna\nPrzewodniczący:I
+ zabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Łu
+ kasz Krzycki\nSygnatura akt:II SA/Wa 2690/21\nSymbol:6480\nSędziowie:Łuk
+ asz Krzycki\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:odmowa ud
+ ostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1394,18 +1403,6 @@ DESCRIPTION:Data:2022-06-30\nGodzina:09:00\nOrgan administracji:Prezes Naj
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Komendant Stołeczny Policji - II SAB/Wa 173/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220701T000000
-DESCRIPTION:Data:2022-07-01\nGodzina:\nOrgan administracji:Komendant Stoł
- eczny Policji\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Waldemar Ś
- ledzik\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Wieczorek\nS
- ygnatura akt:II SAB/Wa 173/22\nSymbol:658/6480\nSędziowie:Agnieszka Góra
- -Błaszczykowska\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezc
- zynność w zakresie rozpoznania wniosku o udostępnienie informacji publi
- cznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Generalny Służby Więziennej w Warszawie - II SA/Wa
   4087/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220701T000000
@@ -1416,6 +1413,18 @@ DESCRIPTION:Data:2022-07-01\nGodzina:\nOrgan administracji:Dyrektor Genera
  wie:Agnieszka Góra-Błaszczykowska\, Andrzej Wieczorek\nTyp posiedzenia:N
  iejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzec
  zniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Komendant Stołeczny Policji - II SAB/Wa 173/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220701T000000
+DESCRIPTION:Data:2022-07-01\nGodzina:\nOrgan administracji:Komendant Stoł
+ eczny Policji\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Waldemar Ś
+ ledzik\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Wieczorek\nS
+ ygnatura akt:II SAB/Wa 173/22\nSymbol:658/6480\nSędziowie:Agnieszka Góra
+ -Błaszczykowska\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezc
+ zynność w zakresie rozpoznania wniosku o udostępnienie informacji publi
+ cznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 END:VCALENDAR
