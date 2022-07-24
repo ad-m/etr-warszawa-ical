@@ -1,31 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[N] Wojewoda Mazowiecki - II SAB/Wa 868/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220623T000000
-DESCRIPTION:Data:2022-06-23\nGodzina:\nOrgan administracji:Wojewoda Mazowi
- ecki\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kruszewska-Gr
- ońska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Arkadiusz Koziarski\
- nSygnatura akt:II SAB/Wa 868/21\nSymbol:658/6480\nSędziowie:asesor Arkadi
- usz Koziarski\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
- ść w przedmiocie rozpoznania wniosku z dnia 8 lipca 2021 r. o udostępni
- enie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skarg
- ę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Zdrowia - II SA/Wa 253/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220623T000000
-DESCRIPTION:Data:2022-06-23\nGodzina:\nOrgan administracji:Minister Zdrowi
- a\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Łuk
- asz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kruszews
- ka-Grońska\nSygnatura akt:II SA/Wa 253/22\nSymbol:6480\nSędziowie:Joanna
-  Kruszewska-Grońska\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:od
- mowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki
- :Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 94/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220629T000000
 DESCRIPTION:Data:2022-06-29\nGodzina:\nOrgan administracji:Prezydent m.st.
@@ -47,21 +22,6 @@ DESCRIPTION:Data:2022-06-29\nGodzina:09:30\nOrgan administracji:Przewodnic
  adziszewska-Krupa\, Waldemar Śledzik\nTyp posiedzenia:Jawne\nUwagi:odmowa
   udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:Odd
  alono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 870/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220630T000000
-DESCRIPTION:Data:2022-06-30\nGodzina:\nOrgan administracji:Minister Kultur
- y i Dziedzictwa Narodowego\nPrzedmiot:Bezczynność organu\nPrzewodnicząc
- y:Agnieszka Góra-Błaszczykowska\nSala:Sala posiedzeń niejawnych\nSprawo
- zdawca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 870/21\nSymbol:658/6480\nS
- ędziowie:Sławomir Fularski\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\n
- Uwagi:bezczynność w przedmiocie rozpatrzenia wniosku z dnia 30 czerwca 2
- 021 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWy
- niki:Stwierdzono bezczynność postępowania i że bezczynność miała mi
- ejsce z rażącym naruszeniem prawa |Zasądzono zwrot kosztów postępowan
- ia
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -124,6 +84,21 @@ DESCRIPTION:Data:2022-06-30\nGodzina:\nOrgan administracji:Powiatowy Inspe
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 870/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220630T000000
+DESCRIPTION:Data:2022-06-30\nGodzina:\nOrgan administracji:Minister Kultur
+ y i Dziedzictwa Narodowego\nPrzedmiot:Bezczynność organu\nPrzewodnicząc
+ y:Agnieszka Góra-Błaszczykowska\nSala:Sala posiedzeń niejawnych\nSprawo
+ zdawca:Ewa Kwiecińska\nSygnatura akt:II SAB/Wa 870/21\nSymbol:658/6480\nS
+ ędziowie:Sławomir Fularski\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\n
+ Uwagi:bezczynność w przedmiocie rozpatrzenia wniosku z dnia 30 czerwca 2
+ 021 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWy
+ niki:Stwierdzono bezczynność postępowania i że bezczynność miała mi
+ ejsce z rażącym naruszeniem prawa |Zasądzono zwrot kosztów postępowan
+ ia
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Prezes Najwyższej Izby Kontroli - II SA/Wa 4102/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220630T090000
 DESCRIPTION:Data:2022-06-30\nGodzina:09:00\nOrgan administracji:Prezes Naj
@@ -161,16 +136,19 @@ DESCRIPTION:Data:2022-07-01\nGodzina:\nOrgan administracji:Komendant Stoł
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Starosta Wołomiński - II SAB/Wa 115/22
+SUMMARY:[N] Rzecznik Dyscyplinarny Okręgowej Izby Radców Prawnych w Wars
+ zawie - II SAB/Wa 16/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220705T000000
-DESCRIPTION:Data:2022-07-05\nGodzina:\nOrgan administracji:Starosta Wołom
- iński\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Agnieszka Góra-B
- łaszczykowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Michał Suł
- kowski\nSygnatura akt:II SAB/Wa 115/22\nSymbol:658/6480\nSędziowie:asesor
-  Michał Sułkowski\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:b
- ezczynność w przedmiocie rozpoznania wniosku z 17 sierpnia 2016 r. o udo
- stępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalon
- o skargę
+DESCRIPTION:Data:2022-07-05\nGodzina:\nOrgan administracji:Rzecznik Dyscyp
+ linarny Okręgowej Izby Radców Prawnych w Warszawie\nPrzedmiot:Bezczynno
+ ść organu\nPrzewodniczący:Danuta Kania\nSala:Sala posiedzeń niejawnych
+ \nSprawozdawca:Danuta Kania\nSygnatura akt:II SAB/Wa 16/22\nSymbol:658/648
+ 0\nSędziowie:asesor Michał Sułkowski\, Waldemar Śledzik\nTyp posiedzen
+ ia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 
+ 20 września 2021 r. o udostępnienie informacji publicznej\nWydział orze
+ czniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynność miała
+  miejsce bez rażącego naruszenia prawa |Zasądzono zwrot kosztów postę
+ powania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -186,19 +164,16 @@ DESCRIPTION:Data:2022-07-05\nGodzina:\nOrgan administracji:Prezes Rady Min
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Rzecznik Dyscyplinarny Okręgowej Izby Radców Prawnych w Wars
- zawie - II SAB/Wa 16/22
+SUMMARY:[N] Starosta Wołomiński - II SAB/Wa 115/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220705T000000
-DESCRIPTION:Data:2022-07-05\nGodzina:\nOrgan administracji:Rzecznik Dyscyp
- linarny Okręgowej Izby Radców Prawnych w Warszawie\nPrzedmiot:Bezczynno
- ść organu\nPrzewodniczący:Danuta Kania\nSala:Sala posiedzeń niejawnych
- \nSprawozdawca:Danuta Kania\nSygnatura akt:II SAB/Wa 16/22\nSymbol:658/648
- 0\nSędziowie:asesor Michał Sułkowski\, Waldemar Śledzik\nTyp posiedzen
- ia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 
- 20 września 2021 r. o udostępnienie informacji publicznej\nWydział orze
- czniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynność miała
-  miejsce bez rażącego naruszenia prawa |Zasądzono zwrot kosztów postę
- powania
+DESCRIPTION:Data:2022-07-05\nGodzina:\nOrgan administracji:Starosta Wołom
+ iński\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Agnieszka Góra-B
+ łaszczykowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Michał Suł
+ kowski\nSygnatura akt:II SAB/Wa 115/22\nSymbol:658/6480\nSędziowie:asesor
+  Michał Sułkowski\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:b
+ ezczynność w przedmiocie rozpoznania wniosku z 17 sierpnia 2016 r. o udo
+ stępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalon
+ o skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -227,19 +202,6 @@ DESCRIPTION:Data:2022-07-08\nGodzina:\nOrgan administracji:Dyrektor Centra
  stępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowi
  ązano ... i stwierdzono że bezczynność miała miejsce bez rażącego n
  aruszenia prawa |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Burmistrz Dzielnicy Ursynów m.st. Warszawy - II SAB/Wa 717/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220711T000000
-DESCRIPTION:Data:2022-07-11\nGodzina:\nOrgan administracji:Burmistrz Dziel
- nicy Ursynów m.st. Warszawy\nPrzedmiot:Bezczynność organu\nPrzewodnicz
- ący:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Mic
- hał Sułkowski\nSygnatura akt:II SAB/Wa 717/21\nSymbol:658/6480\nSędziow
- ie:Danuta Kania\, asesor Michał Sułkowski\nTyp posiedzenia:Niejawne\nUwa
- gi:bezczynność w przedmiocie rozpatrzenia wniosku z dnia 13 listopada 20
- 20 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyn
- iki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -309,6 +271,19 @@ DESCRIPTION:Data:2022-07-11\nGodzina:\nOrgan administracji:Komendant Głó
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Burmistrz Dzielnicy Ursynów m.st. Warszawy - II SAB/Wa 717/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220711T000000
+DESCRIPTION:Data:2022-07-11\nGodzina:\nOrgan administracji:Burmistrz Dziel
+ nicy Ursynów m.st. Warszawy\nPrzedmiot:Bezczynność organu\nPrzewodnicz
+ ący:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Mic
+ hał Sułkowski\nSygnatura akt:II SAB/Wa 717/21\nSymbol:658/6480\nSędziow
+ ie:Danuta Kania\, asesor Michał Sułkowski\nTyp posiedzenia:Niejawne\nUwa
+ gi:bezczynność w przedmiocie rozpatrzenia wniosku z dnia 13 listopada 20
+ 20 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyn
+ iki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Narodowego Instytutu Zdrowia Publicznego-Państwowego
   Zakładu Higieny - II SAB/Wa 136/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220712T000000
@@ -321,6 +296,35 @@ DESCRIPTION:Data:2022-07-12\nGodzina:\nOrgan administracji:Dyrektor Narodo
  zpoznania wniosku z dnia 1 lutego 2022 r. o udostępnienie informacji publ
  icznej\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Wierzbica - VIII SAB/Wa 21/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220714T000000
+DESCRIPTION:Data:2022-07-14\nGodzina:\nOrgan administracji:Wójt Gminy Wie
+ rzbica\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Marek Wroczyński\
+ nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Szymanowicz-Nowak\nSy
+ gnatura akt:VIII SAB/Wa 21/22\nSymbol:658/6480\nSędziowie:Leszek Kobylski
+ \, Iwona Szymanowicz-Nowak\nTyp posiedzenia:Niejawne\nUwagi:dostęp do inf
+ ormacji publicznej\nWydział orzeczniczy:VIII\nWyniki:Zobowiązano organ d
+ o rozpoznania wniosku/odwołania w terminie ...od otrzymania odpisu prawom
+ ocnego orzeczenia |Stwierdzono bezczynność postępowania i że bezczynno
+ ść nie miała miejsca z rażącym naruszeniem prawa |Zasądzono zwrot ko
+ sztów postępowania
+LOCATION:Wydzial VIII\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Samorządowego Kolegium Odwoławczego W Radomiu - VIII 
+ SA/Wa 265/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220714T000000
+DESCRIPTION:Data:2022-07-14\nGodzina:\nOrgan administracji:Prezes Samorzą
+ dowego Kolegium Odwoławczego W Radomiu\nPrzedmiot:Informacja publiczna\nP
+ rzewodniczący:Marek Wroczyński\nSala:Sala posiedzeń niejawnych\nSprawoz
+ dawca:Marek Wroczyński\nSygnatura akt:VIII SA/Wa 265/22\nSymbol:6480\nSę
+ dziowie:Leszek Kobylski\, Iwona Szymanowicz-Nowak\nTyp posiedzenia:Niejawn
+ e\nUwagi:odmowa udostepnienia informacji publicznej\nWydział orzeczniczy:
+ VIII\nWyniki:Uchylono zaskarżoną decyzję |Zasądzono zwrot kosztów pos
+ tępowania
+LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[N] Rektor Uniwersytetu Muzycznego Fryderyka Chopina - II SAB/Wa 2
@@ -367,35 +371,6 @@ DESCRIPTION:Data:2022-07-14\nGodzina:\nOrgan administracji:Krajowa Rada Po
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Samorządowego Kolegium Odwoławczego W Radomiu - VIII 
- SA/Wa 265/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220714T000000
-DESCRIPTION:Data:2022-07-14\nGodzina:\nOrgan administracji:Prezes Samorzą
- dowego Kolegium Odwoławczego W Radomiu\nPrzedmiot:Informacja publiczna\nP
- rzewodniczący:Marek Wroczyński\nSala:Sala posiedzeń niejawnych\nSprawoz
- dawca:Marek Wroczyński\nSygnatura akt:VIII SA/Wa 265/22\nSymbol:6480\nSę
- dziowie:Leszek Kobylski\, Iwona Szymanowicz-Nowak\nTyp posiedzenia:Niejawn
- e\nUwagi:odmowa udostepnienia informacji publicznej\nWydział orzeczniczy:
- VIII\nWyniki:Uchylono zaskarżoną decyzję |Zasądzono zwrot kosztów pos
- tępowania
-LOCATION:Wydzial VIII\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Wierzbica - VIII SAB/Wa 21/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220714T000000
-DESCRIPTION:Data:2022-07-14\nGodzina:\nOrgan administracji:Wójt Gminy Wie
- rzbica\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Marek Wroczyński\
- nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Szymanowicz-Nowak\nSy
- gnatura akt:VIII SAB/Wa 21/22\nSymbol:658/6480\nSędziowie:Leszek Kobylski
- \, Iwona Szymanowicz-Nowak\nTyp posiedzenia:Niejawne\nUwagi:dostęp do inf
- ormacji publicznej\nWydział orzeczniczy:VIII\nWyniki:Zobowiązano organ d
- o rozpoznania wniosku/odwołania w terminie ...od otrzymania odpisu prawom
- ocnego orzeczenia |Stwierdzono bezczynność postępowania i że bezczynno
- ść nie miała miejsca z rażącym naruszeniem prawa |Zasądzono zwrot ko
- sztów postępowania
-LOCATION:Wydzial VIII\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Polska Grupa Zbrojeniowa S.A. z siedzibą w Radomiu - VIII SA/
  Wa 222/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220714T103000
@@ -426,15 +401,15 @@ DESCRIPTION:Data:2022-07-19\nGodzina:\nOrgan administracji:Dyrektor Szkoł
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 84/22
+SUMMARY:[N] Rzecznik Praw Pacjenta - II SAB/Wa 51/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220726T000000
-DESCRIPTION:Data:2022-07-26\nGodzina:\nOrgan administracji:Prezes Rady Min
- istrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowska\
- nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura a
- kt:II SAB/Wa 84/22\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Danuta Ka
- nia\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpatrze
- nia wniosku z dnia 3 grudnia 2021 r. o udostępnienie informacji publiczne
- j\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2022-07-26\nGodzina:\nOrgan administracji:Rzecznik Praw P
+ acjenta\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodnicząc
+ y:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta K
+ ania\nSygnatura akt:II SAB/Wa 51/22\nSymbol:658/6480\nSędziowie:Andrzej G
+ óraj\, Danuta Kania\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prze
+ dmiocie rozpoznania wniosku z dnia 2 września 2021 r. o udostępnienie in
+ formacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -462,15 +437,27 @@ DESCRIPTION:Data:2022-07-26\nGodzina:\nOrgan administracji:Prezes Zakładu
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Rzecznik Praw Pacjenta - II SAB/Wa 51/22
+SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 84/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220726T000000
-DESCRIPTION:Data:2022-07-26\nGodzina:\nOrgan administracji:Rzecznik Praw P
- acjenta\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodnicząc
- y:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta K
- ania\nSygnatura akt:II SAB/Wa 51/22\nSymbol:658/6480\nSędziowie:Andrzej G
- óraj\, Danuta Kania\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prze
- dmiocie rozpoznania wniosku z dnia 2 września 2021 r. o udostępnienie in
- formacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2022-07-26\nGodzina:\nOrgan administracji:Prezes Rady Min
+ istrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa Marcinkowska\
+ nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura a
+ kt:II SAB/Wa 84/22\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Danuta Ka
+ nia\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpatrze
+ nia wniosku z dnia 3 grudnia 2021 r. o udostępnienie informacji publiczne
+ j\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Zdrowia - II SAB/Wa 97/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220727T000000
+DESCRIPTION:Data:2022-07-27\nGodzina:\nOrgan administracji:Minister Zdrowi
+ a\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Łukasz Krzycki\nSala:S
+ ala posiedzeń niejawnych\nSprawozdawca:Waldemar Śledzik\nSygnatura akt:I
+ I SAB/Wa 97/22\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Waldemar Ś
+ ledzik\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoz
+ nania wniosku z dnia 27 grudnia 2021 r. o udostępnienie informacji public
+ znej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -500,18 +487,6 @@ DESCRIPTION:Data:2022-07-27\nGodzina:\nOrgan administracji:Dyrektor Dzieln
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Zdrowia - II SAB/Wa 97/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220727T000000
-DESCRIPTION:Data:2022-07-27\nGodzina:\nOrgan administracji:Minister Zdrowi
- a\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Łukasz Krzycki\nSala:S
- ala posiedzeń niejawnych\nSprawozdawca:Waldemar Śledzik\nSygnatura akt:I
- I SAB/Wa 97/22\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Waldemar Ś
- ledzik\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoz
- nania wniosku z dnia 27 grudnia 2021 r. o udostępnienie informacji public
- znej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Szef Kancelarii Prezydenta RP - II SA/Wa 519/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220727T090000
 DESCRIPTION:Data:2022-07-27\nGodzina:09:00\nOrgan administracji:Szef Kance
@@ -520,18 +495,6 @@ DESCRIPTION:Data:2022-07-27\nGodzina:09:00\nOrgan administracji:Szef Kance
  aldemar Śledzik\nSygnatura akt:II SA/Wa 519/22\nSymbol:6480\nSędziowie:P
  iotr Borowiecki\, Waldemar Śledzik\nTyp posiedzenia:Jawne\nUwagi:odmowa u
  dostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 286/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220728T000000
-DESCRIPTION:Data:2022-07-28\nGodzina:\nOrgan administracji:Prezes Urzędu 
- Regulacji Energetyki\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sła
- womir Fularski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciej
- uk\nSygnatura akt:II SAB/Wa 286/22\nSymbol:658/6480\nSędziowie:Joanna Kru
- szewska-Grońska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczyn
- ność w przedmiocie rozpoznania wniosku z 29 grudnia 2021 r. o udostępni
- enie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -547,6 +510,18 @@ DESCRIPTION:Data:2022-07-28\nGodzina:\nOrgan administracji:Prezes Krajowej
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezes Urzędu Regulacji Energetyki - II SAB/Wa 286/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220728T000000
+DESCRIPTION:Data:2022-07-28\nGodzina:\nOrgan administracji:Prezes Urzędu 
+ Regulacji Energetyki\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sła
+ womir Fularski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciej
+ uk\nSygnatura akt:II SAB/Wa 286/22\nSymbol:658/6480\nSędziowie:Joanna Kru
+ szewska-Grońska\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczyn
+ ność w przedmiocie rozpoznania wniosku z 29 grudnia 2021 r. o udostępni
+ enie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Szef Służby Kontrwywiadu Wojskowego - II SA/Wa 425/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220728T100000
 DESCRIPTION:Data:2022-07-28\nGodzina:10:00\nOrgan administracji:Szef Słu
@@ -556,18 +531,6 @@ DESCRIPTION:Data:2022-07-28\nGodzina:10:00\nOrgan administracji:Szef Słu
  e:Joanna Kruszewska-Grońska\, Iwona Maciejuk\nTyp posiedzenia:Jawne\nUwag
  i:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWy
  niki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Naczelnik Urzędu Skarbowego w Legionowie - II SAB/Wa 161/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220802T000000
-DESCRIPTION:Data:2022-08-02\nGodzina:\nOrgan administracji:Naczelnik Urzę
- du Skarbowego w Legionowie\nPrzedmiot:Bezczynność organu\nPrzewodnicząc
- y:Karolina Kisielewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joan
- na Kube\nSygnatura akt:II SAB/Wa 161/22\nSymbol:658/6480\nSędziowie:Łuka
- sz Krzycki\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
- przedmiocie rozpoznania pkt 4 wniosku z dnia 8 lutego 2022 r. o udostępni
- enie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -595,6 +558,18 @@ DESCRIPTION:Data:2022-08-02\nGodzina:\nOrgan administracji:PGE Dystrybucja
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Naczelnik Urzędu Skarbowego w Legionowie - II SAB/Wa 161/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220802T000000
+DESCRIPTION:Data:2022-08-02\nGodzina:\nOrgan administracji:Naczelnik Urzę
+ du Skarbowego w Legionowie\nPrzedmiot:Bezczynność organu\nPrzewodnicząc
+ y:Karolina Kisielewicz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joan
+ na Kube\nSygnatura akt:II SAB/Wa 161/22\nSymbol:658/6480\nSędziowie:Łuka
+ sz Krzycki\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
+ przedmiocie rozpoznania pkt 4 wniosku z dnia 8 lutego 2022 r. o udostępni
+ enie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Szef Kancelarii Sejmu - II SAB/Wa 148/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220804T000000
 DESCRIPTION:Data:2022-08-04\nGodzina:\nOrgan administracji:Szef Kancelarii
@@ -615,6 +590,20 @@ DESCRIPTION:Data:2022-08-04\nGodzina:09:00\nOrgan administracji:Prezes Pro
  owski\nSygnatura akt:II SA/Wa 4109/21\nSymbol:6480\nSędziowie:asesor Mich
  ał Sułkowski\, Waldemar Śledzik\nTyp posiedzenia:Jawne\nUwagi:odmowa ud
  ostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Urzędu Ochrony Konkurencji i Konsumentów - Delegatura
+  UOKiK w Warszawie - II SAB/Wa 174/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220805T000000
+DESCRIPTION:Data:2022-08-05\nGodzina:\nOrgan administracji:Prezes Urzędu 
+ Ochrony Konkurencji i Konsumentów - Delegatura UOKiK w Warszawie\nPrzedmi
+ ot:Informacja publiczna\nPrzewodniczący:Sławomir Antoniuk\nSala:Sala pos
+ iedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnatura akt:II SAB/Wa 174
+ /22\nSymbol:658/6480\nSędziowie:Danuta Kania\, Joanna Kruszewska-Grońska
+ \nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania 
+ wnoisku z dnia 20 stycznia 2022 r. o udostępnienie informacji publicznej\
+ nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -641,20 +630,6 @@ DESCRIPTION:Data:2022-08-05\nGodzina:\nOrgan administracji:Prezydent Miast
   Kania\, Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:bezcz
  ynność w przedmiocie rozpoznania wniosku z dnia 21 lutego 2022 r. o udos
  tępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Urzędu Ochrony Konkurencji i Konsumentów - Delegatura
-  UOKiK w Warszawie - II SAB/Wa 174/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220805T000000
-DESCRIPTION:Data:2022-08-05\nGodzina:\nOrgan administracji:Prezes Urzędu 
- Ochrony Konkurencji i Konsumentów - Delegatura UOKiK w Warszawie\nPrzedmi
- ot:Informacja publiczna\nPrzewodniczący:Sławomir Antoniuk\nSala:Sala pos
- iedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnatura akt:II SAB/Wa 174
- /22\nSymbol:658/6480\nSędziowie:Danuta Kania\, Joanna Kruszewska-Grońska
- \nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania 
- wnoisku z dnia 20 stycznia 2022 r. o udostępnienie informacji publicznej\
- nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
