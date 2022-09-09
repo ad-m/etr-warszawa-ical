@@ -1,20 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[N] Szef Kancelarii Senatu RP - II SAB/Wa 367/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220810T000000
-DESCRIPTION:Data:2022-08-10\nGodzina:\nOrgan administracji:Szef Kancelarii
-  Senatu RP\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kruszew
- ska-Grońska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kruszew
- ska-Grońska\nSygnatura akt:II SAB/Wa 367/22\nSymbol:658/6480\nSędziowie:
- Joanna Kube\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
- ść w przedmiocie rozpoznania wniosku z 24 lutego 2022 r. o udostępnieni
- e informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... 
- i stwierdzono że bezczynność miała miejsce bez rażącego naruszenia p
- rawa |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Powiatowego Urzędu Pracy w Pułtusku - II SAB/Wa 291
  /22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220810T000000
@@ -43,6 +29,20 @@ DESCRIPTION:Data:2022-08-10\nGodzina:\nOrgan administracji:Dyrektor Genera
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Szef Kancelarii Senatu RP - II SAB/Wa 367/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220810T000000
+DESCRIPTION:Data:2022-08-10\nGodzina:\nOrgan administracji:Szef Kancelarii
+  Senatu RP\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kruszew
+ ska-Grońska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kruszew
+ ska-Grońska\nSygnatura akt:II SAB/Wa 367/22\nSymbol:658/6480\nSędziowie:
+ Joanna Kube\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
+ ść w przedmiocie rozpoznania wniosku z 24 lutego 2022 r. o udostępnieni
+ e informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... 
+ i stwierdzono że bezczynność miała miejsce bez rażącego naruszenia p
+ rawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 171/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220818T000000
 DESCRIPTION:Data:2022-08-18\nGodzina:\nOrgan administracji:Prezydent m.st.
@@ -58,18 +58,6 @@ DESCRIPTION:Data:2022-08-18\nGodzina:\nOrgan administracji:Prezydent m.st.
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dowódca Generalny Rodzajów Sił Zbrojnych - II SA/Wa 195/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220818T000000
-DESCRIPTION:Data:2022-08-18\nGodzina:\nOrgan administracji:Dowódca Genera
- lny Rodzajów Sił Zbrojnych\nPrzedmiot:Ponowne wykorzystanie informacji s
- ektora publicznego\nPrzewodniczący:Karolina Kisielewicz\nSala:Sala posied
- zeń niejawnych\nSprawozdawca:Joanna Kube\nSygnatura akt:II SA/Wa 195/22\n
- Symbol:6481\nSędziowie:Agnieszka Góra-Błaszczykowska\, Joanna Kube\nTyp
-  posiedzenia:Niejawne\nUwagi:ponowne wykorzystanie informacji sektora publ
- icznego\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Pierwszy Prezes Sądu Najwyższego - II SA/Wa 412/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220818T000000
 DESCRIPTION:Data:2022-08-18\nGodzina:\nOrgan administracji:Pierwszy Prezes
@@ -79,6 +67,18 @@ DESCRIPTION:Data:2022-08-18\nGodzina:\nOrgan administracji:Pierwszy Prezes
  a-Błaszczykowska\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:odmowa ud
  ostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalo
  no skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dowódca Generalny Rodzajów Sił Zbrojnych - II SA/Wa 195/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220818T000000
+DESCRIPTION:Data:2022-08-18\nGodzina:\nOrgan administracji:Dowódca Genera
+ lny Rodzajów Sił Zbrojnych\nPrzedmiot:Ponowne wykorzystanie informacji s
+ ektora publicznego\nPrzewodniczący:Karolina Kisielewicz\nSala:Sala posied
+ zeń niejawnych\nSprawozdawca:Joanna Kube\nSygnatura akt:II SA/Wa 195/22\n
+ Symbol:6481\nSędziowie:Agnieszka Góra-Błaszczykowska\, Joanna Kube\nTyp
+  posiedzenia:Niejawne\nUwagi:ponowne wykorzystanie informacji sektora publ
+ icznego\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -123,6 +123,22 @@ DESCRIPTION:Data:2022-08-18\nGodzina:\nOrgan administracji:Dyrektor Liceum
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Rektor Polsko - Japońskiej Akademii Technik Komputerowych - I
+ I SAB/Wa 318/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220825T000000
+DESCRIPTION:Data:2022-08-25\nGodzina:\nOrgan administracji:Rektor Polsko -
+  Japońskiej Akademii Technik Komputerowych\nPrzedmiot:Informacja publiczn
+ a\nPrzewodniczący:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozda
+ wca:Joanna Kube\nSygnatura akt:II SAB/Wa 318/22\nSymbol:658/6480\nSędziow
+ ie:Ewa Radziszewska-Krupa\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nU
+ wagi:bezczynność w rozpoznaniu wniosku z 14 marca 2022 r. o udostępnien
+ ie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezc
+ zynność postępowania i że bezczynność nie miała miejsca z rażącym
+  naruszeniem prawa |Oddalono skargę w części |Zasądzono zwrot kosztów
+  postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Minister Infrastruktury - II SA/Wa 517/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220825T000000
 DESCRIPTION:Data:2022-08-25\nGodzina:\nOrgan administracji:Minister Infras
@@ -146,22 +162,6 @@ DESCRIPTION:Data:2022-08-25\nGodzina:\nOrgan administracji:Minister Rozwoj
  :Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 8 
  marca 2022 r. o udostępnienie informacji publicznej\nWydział orzeczniczy
  :II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Rektor Polsko - Japońskiej Akademii Technik Komputerowych - I
- I SAB/Wa 318/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220825T000000
-DESCRIPTION:Data:2022-08-25\nGodzina:\nOrgan administracji:Rektor Polsko -
-  Japońskiej Akademii Technik Komputerowych\nPrzedmiot:Informacja publiczn
- a\nPrzewodniczący:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozda
- wca:Joanna Kube\nSygnatura akt:II SAB/Wa 318/22\nSymbol:658/6480\nSędziow
- ie:Ewa Radziszewska-Krupa\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nU
- wagi:bezczynność w rozpoznaniu wniosku z 14 marca 2022 r. o udostępnien
- ie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezc
- zynność postępowania i że bezczynność nie miała miejsca z rażącym
-  naruszeniem prawa |Oddalono skargę w części |Zasądzono zwrot kosztów
-  postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -203,17 +203,14 @@ DESCRIPTION:Data:2022-08-26\nGodzina:\nOrgan administracji:Minister Spraw
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 339/22
+SUMMARY:[N] Rada Powiatu Wołomińskiego - II SAB/Wa 98/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220830T000000
-DESCRIPTION:Data:2022-08-30\nGodzina:\nOrgan administracji:Minister Spraw 
- Zagranicznych\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Izabela Gł
- owacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głow
- acka-Klimas\nSygnatura akt:II SAB/Wa 339/22\nSymbol:658/6480\nSędziowie:K
- arolina Kisielewicz\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:b
- ezczynność w przedmiocie rozpoznania wniosku z dnia 15 września 2019 r.
-  o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Z
- obowiązano ... i stwierdzono że bezczynność miała miejsce bez rażąc
- ego naruszenia prawa |Oddalono skargę w części
+DESCRIPTION:Data:2022-08-30\nGodzina:\nOrgan administracji:Rada Powiatu Wo
+ łomińskiego\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrze
+ wodniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSpr
+ awozdawca:Andrzej Wieczorek\nSygnatura akt:II SAB/Wa 98/22\nSymbol:658/648
+ 0\nSędziowie:Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posiedzenia:Ni
+ ejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -231,14 +228,17 @@ DESCRIPTION:Data:2022-08-30\nGodzina:\nOrgan administracji:Polska Agencja
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Rada Powiatu Wołomińskiego - II SAB/Wa 98/22
+SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 339/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220830T000000
-DESCRIPTION:Data:2022-08-30\nGodzina:\nOrgan administracji:Rada Powiatu Wo
- łomińskiego\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrze
- wodniczący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSpr
- awozdawca:Andrzej Wieczorek\nSygnatura akt:II SAB/Wa 98/22\nSymbol:658/648
- 0\nSędziowie:Karolina Kisielewicz\, Andrzej Wieczorek\nTyp posiedzenia:Ni
- ejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+DESCRIPTION:Data:2022-08-30\nGodzina:\nOrgan administracji:Minister Spraw 
+ Zagranicznych\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Izabela Gł
+ owacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głow
+ acka-Klimas\nSygnatura akt:II SAB/Wa 339/22\nSymbol:658/6480\nSędziowie:K
+ arolina Kisielewicz\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:b
+ ezczynność w przedmiocie rozpoznania wniosku z dnia 15 września 2019 r.
+  o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Z
+ obowiązano ... i stwierdzono że bezczynność miała miejsce bez rażąc
+ ego naruszenia prawa |Oddalono skargę w części
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -443,33 +443,6 @@ DESCRIPTION:Data:2022-09-07\nGodzina:\nOrgan administracji:Minister Obrony
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes WSA w Warszawie - II SAB/Wa 237/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220908T000000
-DESCRIPTION:Data:2022-09-08\nGodzina:\nOrgan administracji:Prezes WSA w Wa
- rszawie\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Kołodzie
- j\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Radziszewska-Krupa\nS
- ygnatura akt:II SAB/Wa 237/22\nSymbol:659/6480\nSędziowie:Ewa Radziszewsk
- a-Krupa\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:przewlekłe prowa
- dzenie postępowania w sprawie wniosku z dnia 17 lutego 2022 r. o udostęp
- nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono ska
- rgę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Radzanów - II SAB/Wa 186/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220908T000000
-DESCRIPTION:Data:2022-09-08\nGodzina:\nOrgan administracji:Wójt Gminy Rad
- zanów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Kołodziej
- \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatura a
- kt:II SAB/Wa 186/22\nSymbol:658/6480\nSędziowie:Ewa Radziszewska-Krupa\, 
- Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie
-  rozpoznania wniosku z 30 stycznia 2021 r. o udostępnienie informacji pub
- licznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność postęp
- owania i że bezczynność nie miała miejsca z rażącym naruszeniem praw
- a
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Rada Gminy Klembów - II SAB/Wa 96/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220908T000000
 DESCRIPTION:Data:2022-09-08\nGodzina:\nOrgan administracji:Rada Gminy Klem
@@ -500,6 +473,33 @@ DESCRIPTION:Data:2022-09-08\nGodzina:\nOrgan administracji:Mazowiecki Pań
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Radzanów - II SAB/Wa 186/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220908T000000
+DESCRIPTION:Data:2022-09-08\nGodzina:\nOrgan administracji:Wójt Gminy Rad
+ zanów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Andrzej Kołodziej
+ \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatura a
+ kt:II SAB/Wa 186/22\nSymbol:658/6480\nSędziowie:Ewa Radziszewska-Krupa\, 
+ Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie
+  rozpoznania wniosku z 30 stycznia 2021 r. o udostępnienie informacji pub
+ licznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność postęp
+ owania i że bezczynność nie miała miejsca z rażącym naruszeniem praw
+ a
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes WSA w Warszawie - II SAB/Wa 237/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220908T000000
+DESCRIPTION:Data:2022-09-08\nGodzina:\nOrgan administracji:Prezes WSA w Wa
+ rszawie\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Kołodzie
+ j\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Radziszewska-Krupa\nS
+ ygnatura akt:II SAB/Wa 237/22\nSymbol:659/6480\nSędziowie:Ewa Radziszewsk
+ a-Krupa\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:przewlekłe prowa
+ dzenie postępowania w sprawie wniosku z dnia 17 lutego 2022 r. o udostęp
+ nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono ska
+ rgę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Rzecznik Praw Obywatelskich - II SA/Wa 152/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220908T090000
 DESCRIPTION:Data:2022-09-08\nGodzina:09:00\nOrgan administracji:Rzecznik P
@@ -517,10 +517,10 @@ DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220909T000000
 DESCRIPTION:Data:2022-09-09\nGodzina:\nOrgan administracji:Prezydent m.st.
   Warszawy\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Maciejuk\
  nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura a
- kt:II SAB/Wa 301/22\nSymbol:658/6480\nSędziowie:asesor Arkadiusz Koziarsk
- i\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przed
- miocie rozpoznania wniosku z dnia 28 stycznia 2022 r. o udostępnienie inf
- ormacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ kt:II SAB/Wa 301/22\nSymbol:658/6480\nSędziowie:Sławomir Antoniuk\, ases
+ or Arkadiusz Koziarski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w pr
+ zedmiocie rozpoznania wniosku z dnia 28 stycznia 2022 r. o udostępnienie 
+ informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -531,21 +531,20 @@ DESCRIPTION:Data:2022-09-09\nGodzina:\nOrgan administracji:Generalny Dyrek
  tor Dróg Krajowych i Autostrad\nPrzedmiot:Odmowa udzielenia informacji pu
  blicznej\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\
  nSprawozdawca:Iwona Maciejuk\nSygnatura akt:II SA/Wa 73/22\nSymbol:6480\nS
- ędziowie:asesor Arkadiusz Koziarski\, Ewa Kwiecińska\nTyp posiedzenia:Ni
- ejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecz
- niczy:II\nWyniki:
+ ędziowie:Sławomir Antoniuk\, asesor Arkadiusz Koziarski\nTyp posiedzenia
+ :Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orz
+ eczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[N] Rada Gminy Klembów - II SAB/Wa 320/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220909T000000
 DESCRIPTION:Data:2022-09-09\nGodzina:\nOrgan administracji:Rada Gminy Klem
- bów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Maciejuk\nSala
- :Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura akt:I
- I SAB/Wa 320/22\nSymbol:658/6480\nSędziowie:asesor Arkadiusz Koziarski\, 
- Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w rozpoznan
- iu wniosku z dnia 7 kwietnia 2020 r. o udostępnienie informacji publiczne
- j\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+ bów\nPrzedmiot:Informacja publiczna\; Informacja publiczna\nPrzewodniczą
+ cy:Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir
+  Antoniuk\nSygnatura akt:II SAB/Wa 320/22\nSymbol:658/6480\nSędziowie:Sł
+ awomir Antoniuk\, asesor Arkadiusz Koziarski\nTyp posiedzenia:Niejawne\nUw
+ agi:\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -622,29 +621,16 @@ DESCRIPTION:Data:2022-09-14\nGodzina:10:30\nOrgan administracji:Minister F
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Rada Powiatu Wołomińskiego - II SAB/Wa 184/22
+SUMMARY:[N] Dyrektor Powiatowego Urzędu Pracy w Przasnyszu - II SAB/Wa 32
+ 1/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220915T000000
-DESCRIPTION:Data:2022-09-15\nGodzina:\nOrgan administracji:Rada Powiatu Wo
- łomińskiego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Macie
- juk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Michał Sułkowski\nSyg
- natura akt:II SAB/Wa 184/22\nSymbol:658/6480\nSędziowie:Danuta Kania\, as
- esor Michał Sułkowski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
- rzedmiocie rozpoznania wniosku z dnia 1 stycznia 2018 r. o udostępnienie 
- informacji publicznej dotyczącego drogi na nieruchomości nr 1117/6 obrę
- b Kraszew Stary gmina Klembów\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Rada Powiatu Wołomińskiego - II SAB/Wa 185/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220915T000000
-DESCRIPTION:Data:2022-09-15\nGodzina:\nOrgan administracji:Rada Powiatu Wo
- łomińskiego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Macie
- juk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Michał Sułkowski\nSyg
- natura akt:II SAB/Wa 185/22\nSymbol:658/6480\nSędziowie:Danuta Kania\, as
- esor Michał Sułkowski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
- rzedmiocie rozpoznania wniosku z dnia 1 stycznia 2018 r. o udostępnienie 
- informacji publicznej dotyczącego drogi na nieruchomości nr 893/6 obręb
-  Kraszew Stary gmina Klembów\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2022-09-15\nGodzina:\nOrgan administracji:Dyrektor Powiat
+ owego Urzędu Pracy w Przasnyszu\nPrzedmiot:Bezczynność organu\nPrzewodn
+ iczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwon
+ a Maciejuk\nSygnatura akt:II SAB/Wa 321/22\nSymbol:658/6480\nSędziowie:Da
+ nuta Kania\, asesor Michał Sułkowski\nTyp posiedzenia:Niejawne\nUwagi:be
+ zczynność w przedmiocie rozpoznania wniosku z dnia 29 maja 2021 r. o udo
+ stępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -662,16 +648,29 @@ DESCRIPTION:Data:2022-09-15\nGodzina:\nOrgan administracji:Niepubliczny Za
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Powiatowego Urzędu Pracy w Przasnyszu - II SAB/Wa 32
- 1/22
+SUMMARY:[N] Rada Powiatu Wołomińskiego - II SAB/Wa 185/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220915T000000
-DESCRIPTION:Data:2022-09-15\nGodzina:\nOrgan administracji:Dyrektor Powiat
- owego Urzędu Pracy w Przasnyszu\nPrzedmiot:Bezczynność organu\nPrzewodn
- iczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwon
- a Maciejuk\nSygnatura akt:II SAB/Wa 321/22\nSymbol:658/6480\nSędziowie:Da
- nuta Kania\, asesor Michał Sułkowski\nTyp posiedzenia:Niejawne\nUwagi:be
- zczynność w przedmiocie rozpoznania wniosku z dnia 29 maja 2021 r. o udo
- stępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2022-09-15\nGodzina:\nOrgan administracji:Rada Powiatu Wo
+ łomińskiego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Macie
+ juk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Michał Sułkowski\nSyg
+ natura akt:II SAB/Wa 185/22\nSymbol:658/6480\nSędziowie:Danuta Kania\, as
+ esor Michał Sułkowski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
+ rzedmiocie rozpoznania wniosku z dnia 1 stycznia 2018 r. o udostępnienie 
+ informacji publicznej dotyczącego drogi na nieruchomości nr 893/6 obręb
+  Kraszew Stary gmina Klembów\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Rada Powiatu Wołomińskiego - II SAB/Wa 184/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220915T000000
+DESCRIPTION:Data:2022-09-15\nGodzina:\nOrgan administracji:Rada Powiatu Wo
+ łomińskiego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Macie
+ juk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Michał Sułkowski\nSyg
+ natura akt:II SAB/Wa 184/22\nSymbol:658/6480\nSędziowie:Danuta Kania\, as
+ esor Michał Sułkowski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
+ rzedmiocie rozpoznania wniosku z dnia 1 stycznia 2018 r. o udostępnienie 
+ informacji publicznej dotyczącego drogi na nieruchomości nr 1117/6 obrę
+ b Kraszew Stary gmina Klembów\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -687,18 +686,6 @@ DESCRIPTION:Data:2022-09-16\nGodzina:\nOrgan administracji:Wójt Gminy Now
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 193/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220916T000000
-DESCRIPTION:Data:2022-09-16\nGodzina:\nOrgan administracji:Prezes Rady Min
- istrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmydt\nSa
- la:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura akt:
- II SAB/Wa 193/22\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Ewa Kwieci
- ńska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpozn
- ania wniosku z dnia 28 grudnia 2021 r. o udostępnienie informacji publicz
- nej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Naczelnik Urzędu Skarbowego w Legionowie - II SAB/Wa 224/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220916T000000
 DESCRIPTION:Data:2022-09-16\nGodzina:\nOrgan administracji:Naczelnik Urzę
@@ -708,6 +695,18 @@ DESCRIPTION:Data:2022-09-16\nGodzina:\nOrgan administracji:Naczelnik Urzę
  óraj\, Ewa Kwiecińska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
  rzedmiocie rozpoznania wniosku z dnia 25 lutego 2022 r. o udostępnienie i
  nformacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 193/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220916T000000
+DESCRIPTION:Data:2022-09-16\nGodzina:\nOrgan administracji:Prezes Rady Min
+ istrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Szmydt\nSa
+ la:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura akt:
+ II SAB/Wa 193/22\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, Ewa Kwieci
+ ńska\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpozn
+ ania wniosku z dnia 28 grudnia 2021 r. o udostępnienie informacji publicz
+ nej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -733,6 +732,19 @@ DESCRIPTION:Data:2022-09-19\nGodzina:10:30\nOrgan administracji:PGE Energi
  ymbol:6480\nSędziowie:asesor Michał Sułkowski\, Andrzej Wieczorek\nTyp 
  posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydz
  iał orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Obrony Narodowej - II SAB/Wa 425/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220920T000000
+DESCRIPTION:Data:2022-09-20\nGodzina:\nOrgan administracji:Minister Obrony
+  Narodowej\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Agnieszka Gór
+ a-Błaszczykowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka
+  Góra-Błaszczykowska\nSygnatura akt:II SAB/Wa 425/22\nSymbol:658/6480\nS
+ ędziowie:Danuta Kania\, asesor Arkadiusz Koziarski\nTyp posiedzenia:Nieja
+ wne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z 1 marca 2022 
+ r. o udostępnienie infor\,acji publicznej\nWydział orzeczniczy:II\nWynik
+ i:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -772,32 +784,6 @@ DESCRIPTION:Data:2022-09-20\nGodzina:\nOrgan administracji:SKO w Ciechanow
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Starosta Powiatu Mińskiego - II SAB/Wa 381/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220920T000000
-DESCRIPTION:Data:2022-09-20\nGodzina:\nOrgan administracji:Starosta Powiat
- u Mińskiego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Agnieszka G
- óra-Błaszczykowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnies
- zka Góra-Błaszczykowska\nSygnatura akt:II SAB/Wa 381/22\nSymbol:658/6480
- \nSędziowie:Danuta Kania\, asesor Arkadiusz Koziarski\nTyp posiedzenia:Ni
- ejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z 8 kwietnia
-  2022 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\n
- Wyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Obrony Narodowej - II SAB/Wa 425/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220920T000000
-DESCRIPTION:Data:2022-09-20\nGodzina:\nOrgan administracji:Minister Obrony
-  Narodowej\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Agnieszka Gór
- a-Błaszczykowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka
-  Góra-Błaszczykowska\nSygnatura akt:II SAB/Wa 425/22\nSymbol:658/6480\nS
- ędziowie:Danuta Kania\, asesor Arkadiusz Koziarski\nTyp posiedzenia:Nieja
- wne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z 1 marca 2022 
- r. o udostępnienie infor\,acji publicznej\nWydział orzeczniczy:II\nWynik
- i:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Minister Sprawiedliwości - II SAB/Wa 316/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220920T000000
 DESCRIPTION:Data:2022-09-20\nGodzina:\nOrgan administracji:Minister Sprawi
@@ -821,6 +807,19 @@ DESCRIPTION:Data:2022-09-20\nGodzina:\nOrgan administracji:Wójt Gminy Les
  e\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z 28 stycznia 202
  2 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyni
  ki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Starosta Powiatu Mińskiego - II SAB/Wa 381/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20220920T000000
+DESCRIPTION:Data:2022-09-20\nGodzina:\nOrgan administracji:Starosta Powiat
+ u Mińskiego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Agnieszka G
+ óra-Błaszczykowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnies
+ zka Góra-Błaszczykowska\nSygnatura akt:II SAB/Wa 381/22\nSymbol:658/6480
+ \nSędziowie:Danuta Kania\, asesor Arkadiusz Koziarski\nTyp posiedzenia:Ni
+ ejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z 8 kwietnia
+  2022 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\n
+ Wyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1157,18 +1156,6 @@ DESCRIPTION:Data:2022-10-05\nGodzina:\nOrgan administracji:Telewizja Polsk
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes ZUS w Warszawie - II SAB/Wa 300/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221006T000000
-DESCRIPTION:Data:2022-10-06\nGodzina:\nOrgan administracji:Prezes ZUS w Wa
- rszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Danuta Kania\nSal
- a:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kube\nSygnatura akt:II S
- AB/Wa 300/22\nSymbol:658/6480\nSędziowie:Karolina Kisielewicz\, Joanna Ku
- be\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznani
- a wniosku z dnia 8 kwietnia 2022 r. o udostępnienie informacji publicznej
- \nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Minister Zdrowia - II SAB/Wa 106/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221006T000000
 DESCRIPTION:Data:2022-10-06\nGodzina:\nOrgan administracji:Minister Zdrowi
@@ -1178,6 +1165,18 @@ DESCRIPTION:Data:2022-10-06\nGodzina:\nOrgan administracji:Minister Zdrowi
   Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpozn
  ania wniosku z dnia 3 stycznia 2022 r. o udostępnienie informacji publicz
  nej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes ZUS w Warszawie - II SAB/Wa 300/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221006T000000
+DESCRIPTION:Data:2022-10-06\nGodzina:\nOrgan administracji:Prezes ZUS w Wa
+ rszawie\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Danuta Kania\nSal
+ a:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kube\nSygnatura akt:II S
+ AB/Wa 300/22\nSymbol:658/6480\nSędziowie:Karolina Kisielewicz\, Joanna Ku
+ be\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznani
+ a wniosku z dnia 8 kwietnia 2022 r. o udostępnienie informacji publicznej
+ \nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
