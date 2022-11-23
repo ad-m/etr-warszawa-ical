@@ -1,20 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Instytutu Technologiczno-Przyrodniczego  PIB w Falent
- ach - II SAB/Wa 483/21
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221024T000000
-DESCRIPTION:Data:2022-10-24\nGodzina:\nOrgan administracji:Dyrektor Instyt
- utu Technologiczno-Przyrodniczego PIB w Falentach\nPrzedmiot:Bezczynność
-  organu\nPrzewodniczący:Waldemar Śledzik\nSala:Sala posiedzeń niejawnyc
- h\nSprawozdawca:Andrzej Góraj\nSygnatura akt:II SAB/Wa 483/21\nSymbol:658
- /6480\nSędziowie:Piotr Borowiecki\, Andrzej Góraj\nTyp posiedzenia:Nieja
- wne\nUwagi:bezczynność w rozpoznaniu wniosku z dnia 21 kwietnia 2021 r. 
- o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Od
- dalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Narodowego Instytutu Zdrowia Publicznego-Państwowego
   Zakładu Higieny - II SA/Wa 527/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221024T000000
@@ -40,6 +26,20 @@ DESCRIPTION:Data:2022-10-24\nGodzina:\nOrgan administracji:Wójt Gminy Lel
  iał orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynnoś
  ć miała miejsce bez rażącego naruszenia prawa |Oddalono skargę w czę
  ści |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Instytutu Technologiczno-Przyrodniczego  PIB w Falent
+ ach - II SAB/Wa 483/21
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221024T000000
+DESCRIPTION:Data:2022-10-24\nGodzina:\nOrgan administracji:Dyrektor Instyt
+ utu Technologiczno-Przyrodniczego PIB w Falentach\nPrzedmiot:Bezczynność
+  organu\nPrzewodniczący:Waldemar Śledzik\nSala:Sala posiedzeń niejawnyc
+ h\nSprawozdawca:Andrzej Góraj\nSygnatura akt:II SAB/Wa 483/21\nSymbol:658
+ /6480\nSędziowie:Piotr Borowiecki\, Andrzej Góraj\nTyp posiedzenia:Nieja
+ wne\nUwagi:bezczynność w rozpoznaniu wniosku z dnia 21 kwietnia 2021 r. 
+ o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Od
+ dalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -313,18 +313,17 @@ DESCRIPTION:Data:2022-10-26\nGodzina:11:00\nOrgan administracji:Minister I
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Rada Gminy Klembów - II SAB/Wa 765/21
+SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 504/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221027T000000
-DESCRIPTION:Data:2022-10-27\nGodzina:\nOrgan administracji:Rada Gminy Klem
- bów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa Kwiecińska\nSal
- a:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura akt:
- II SAB/Wa 765/21\nSymbol:658/6480\nSędziowie:Joanna Kube\, Tomasz Szmydt\
- nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania wnios
- ku z dnia 7 kwietnia 2020 r. o udostępnienie informacji publicznej\nWydzi
- ał orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynnoś
- ć miała miejsce bez rażącego naruszenia prawa |Oddalono skargę w czę
- ści |Umorzono postępowanie z art. 161 ustawy -PoPPSA |Zasądzono zwrot k
- osztów postępowania
+DESCRIPTION:Data:2022-10-27\nGodzina:\nOrgan administracji:Prezydent m.st.
+  Warszawy\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łukasz Krzycki
+ \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kube\nSygnatura akt
+ :II SAB/Wa 504/22\nSymbol:658/6480\nSędziowie:Joanna Kube\, Tomasz Szmydt
+ \nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpatrzenia
+  wniosku z dnia 9 czerwca 2022 r. o udostępnienie informacji publicznej\n
+ Wydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność postępowania i 
+ że bezczynność nie miała miejsca z rażącym naruszeniem prawa |Zasąd
+ zono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -340,29 +339,18 @@ DESCRIPTION:Data:2022-10-27\nGodzina:\nOrgan administracji:Minister Obrony
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 504/22
+SUMMARY:[N] Rada Gminy Klembów - II SAB/Wa 765/21
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221027T000000
-DESCRIPTION:Data:2022-10-27\nGodzina:\nOrgan administracji:Prezydent m.st.
-  Warszawy\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łukasz Krzycki
- \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kube\nSygnatura akt
- :II SAB/Wa 504/22\nSymbol:658/6480\nSędziowie:Joanna Kube\, Tomasz Szmydt
- \nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpatrzenia
-  wniosku z dnia 9 czerwca 2022 r. o udostępnienie informacji publicznej\n
- Wydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność postępowania i 
- że bezczynność nie miała miejsca z rażącym naruszeniem prawa |Zasąd
- zono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Narodowego Funduszu Zdrowia - II SAB/Wa 542/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221027T000000
-DESCRIPTION:Data:2022-10-27\nGodzina:\nOrgan administracji:Prezes Narodowe
- go Funduszu Zdrowia\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łuka
- sz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kube\nSyg
- natura akt:II SAB/Wa 542/22\nSymbol:658/6480\nSędziowie:Joanna Kube\, Tom
- asz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie ro
- zpoznania wniosku z dnia 3 lipca 2022 r. o udostępnienie informacji publi
- cznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+DESCRIPTION:Data:2022-10-27\nGodzina:\nOrgan administracji:Rada Gminy Klem
+ bów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa Kwiecińska\nSal
+ a:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Kwiecińska\nSygnatura akt:
+ II SAB/Wa 765/21\nSymbol:658/6480\nSędziowie:Joanna Kube\, Tomasz Szmydt\
+ nTyp posiedzenia:Niejawne\nUwagi:bezczynność w sprawie rozpoznania wnios
+ ku z dnia 7 kwietnia 2020 r. o udostępnienie informacji publicznej\nWydzi
+ ał orzeczniczy:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynnoś
+ ć miała miejsce bez rażącego naruszenia prawa |Oddalono skargę w czę
+ ści |Umorzono postępowanie z art. 161 ustawy -PoPPSA |Zasądzono zwrot k
+ osztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -377,6 +365,18 @@ DESCRIPTION:Data:2022-10-27\nGodzina:\nOrgan administracji:Prokurator Rejo
   r. sygn. akt II SA/Wa 1219/21\nWydział orzeczniczy:II\nWyniki:Stwierdzon
  o bezczynność postępowania i że bezczynność nie miała miejsca z ra
  żącym naruszeniem prawa
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Narodowego Funduszu Zdrowia - II SAB/Wa 542/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221027T000000
+DESCRIPTION:Data:2022-10-27\nGodzina:\nOrgan administracji:Prezes Narodowe
+ go Funduszu Zdrowia\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łuka
+ sz Krzycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kube\nSyg
+ natura akt:II SAB/Wa 542/22\nSymbol:658/6480\nSędziowie:Joanna Kube\, Tom
+ asz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie ro
+ zpoznania wniosku z dnia 3 lipca 2022 r. o udostępnienie informacji publi
+ cznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -698,18 +698,6 @@ DESCRIPTION:Data:2022-11-07\nGodzina:\nOrgan administracji:Minister Klimat
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Przasnysz - II SAB/Wa 489/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221108T000000
-DESCRIPTION:Data:2022-11-08\nGodzina:\nOrgan administracji:Wójt Gminy Prz
- asnysz\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Piotr Borowiecki\n
- Sala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura ak
- t:II SAB/Wa 489/22\nSymbol:658/6480\nSędziowie:Iwona Maciejuk\, asesor Mi
- chał Sułkowski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmio
- cie rozpoznania wniosku z dnia 24 września 2021 r. o udostępnienie infor
- macji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Sądu Apelacyjnego w Warszawie - II SAB/Wa 423/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221108T000000
 DESCRIPTION:Data:2022-11-08\nGodzina:\nOrgan administracji:Prezes Sądu Ap
@@ -721,6 +709,18 @@ DESCRIPTION:Data:2022-11-08\nGodzina:\nOrgan administracji:Prezes Sądu Ap
  e informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... 
  i stwierdzono że bezczynność miała miejsce bez rażącego naruszenia p
  rawa |Oddalono skargę w części
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Przasnysz - II SAB/Wa 489/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221108T000000
+DESCRIPTION:Data:2022-11-08\nGodzina:\nOrgan administracji:Wójt Gminy Prz
+ asnysz\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Piotr Borowiecki\n
+ Sala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygnatura ak
+ t:II SAB/Wa 489/22\nSymbol:658/6480\nSędziowie:Iwona Maciejuk\, asesor Mi
+ chał Sułkowski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmio
+ cie rozpoznania wniosku z dnia 24 września 2021 r. o udostępnienie infor
+ macji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -934,19 +934,6 @@ DESCRIPTION:Data:2022-11-10\nGodzina:09:30\nOrgan administracji:Prezes Zak
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Rządowej Agencji Rezerw Strategicznych - II SAB/Wa 456
- /22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221114T000000
-DESCRIPTION:Data:2022-11-14\nGodzina:\nOrgan administracji:Prezes Rządowe
- j Agencji Rezerw Strategicznych\nPrzedmiot:Bezczynność organu\nPrzewodni
- czący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta 
- Kania\nSygnatura akt:II SAB/Wa 456/22\nSymbol:658/6480\nSędziowie:Iwona M
- aciejuk\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:wniosek o wył
- ączenie od orzekania sprawozdawcy\nWydział orzeczniczy:II\nWyniki:Oddalo
- no wniosek o wyłączenie sędziego
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Rada Doskonałości Naukowej - II SA/Wa 1016/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221114T000000
 DESCRIPTION:Data:2022-11-14\nGodzina:\nOrgan administracji:Rada Doskonało
@@ -999,6 +986,19 @@ DESCRIPTION:Data:2022-11-14\nGodzina:\nOrgan administracji:Prezes Sądu Re
  pnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązan
  o ... i stwierdzono że bezczynność miała miejsce bez rażącego narusz
  enia prawa |Oddalono skargę w części
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Rządowej Agencji Rezerw Strategicznych - II SAB/Wa 456
+ /22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221114T000000
+DESCRIPTION:Data:2022-11-14\nGodzina:\nOrgan administracji:Prezes Rządowe
+ j Agencji Rezerw Strategicznych\nPrzedmiot:Bezczynność organu\nPrzewodni
+ czący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta 
+ Kania\nSygnatura akt:II SAB/Wa 456/22\nSymbol:658/6480\nSędziowie:Iwona M
+ aciejuk\, Ewa Marcinkowska\nTyp posiedzenia:Niejawne\nUwagi:wniosek o wył
+ ączenie od orzekania sprawozdawcy\nWydział orzeczniczy:II\nWyniki:Oddalo
+ no wniosek o wyłączenie sędziego
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1209,6 +1209,18 @@ DESCRIPTION:Data:2022-11-18\nGodzina:10:00\nOrgan administracji:Prokurator
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Agora S.A. - II SAB/Wa 530/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221121T000000
+DESCRIPTION:Data:2022-11-21\nGodzina:\nOrgan administracji:Agora S.A.\nPrz
+ edmiot:Bezczynność organu\nPrzewodniczący:Piotr Borowiecki\nSala:Sala p
+ osiedzeń niejawnych\nSprawozdawca:Andrzej Wieczorek\nSygnatura akt:II SAB
+ /Wa 530/22\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\, Andrzej
+  Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie ro
+ zpoznania wniosku z dnia 7 kwietnia 2022 r. o udostępnienie informacji pu
+ blicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Wójt Gminy Lesznowola - II SAB/Wa 565/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221121T000000
 DESCRIPTION:Data:2022-11-21\nGodzina:\nOrgan administracji:Wójt Gminy Les
@@ -1234,18 +1246,6 @@ DESCRIPTION:Data:2022-11-21\nGodzina:\nOrgan administracji:\nPrzedmiot:Bez
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Agora S.A. - II SAB/Wa 530/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221121T000000
-DESCRIPTION:Data:2022-11-21\nGodzina:\nOrgan administracji:Agora S.A.\nPrz
- edmiot:Bezczynność organu\nPrzewodniczący:Piotr Borowiecki\nSala:Sala p
- osiedzeń niejawnych\nSprawozdawca:Andrzej Wieczorek\nSygnatura akt:II SAB
- /Wa 530/22\nSymbol:658/6480\nSędziowie:Izabela Głowacka-Klimas\, Andrzej
-  Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie ro
- zpoznania wniosku z dnia 7 kwietnia 2022 r. o udostępnienie informacji pu
- blicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Szef Służby Kontrwywiadu Wojskowego - II SA/Wa 492/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221121T094000
 DESCRIPTION:Data:2022-11-21\nGodzina:09:40\nOrgan administracji:Szef Słu
@@ -1267,7 +1267,9 @@ DESCRIPTION:Data:2022-11-22\nGodzina:\nOrgan administracji:Lux Med. Sp. z
  akt:II SAB/Wa 283/22\nSymbol:658/6480\nSędziowie:Karolina Kisielewicz\, a
  sesor Arkadiusz Koziarski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w
   przedmiocie rozpatrzenia wniosku z dnia 20 lipca 2021 r. o udostępnienie
-  informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+  informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i
+  stwierdzono że bezczynność miała miejsce bez rażącego naruszenia pr
+ awa
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1281,7 +1283,8 @@ DESCRIPTION:Data:2022-11-22\nGodzina:\nOrgan administracji:Szef Wojskowego
  arolina Kisielewicz\, asesor Arkadiusz Koziarski\nTyp posiedzenia:Niejawne
  \nUwagi:bezczynność w przedmiocie rozpoznania pkt 1 i 2 wniosku z dnia 3
   lipca 2022 r. o udostępnienie informacji publicznej\nWydział orzecznicz
- y:II\nWyniki:
+ y:II\nWyniki:Zobowiązano ... i stwierdzono że bezczynność miała miejs
+ ce bez rażącego naruszenia prawa
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1293,19 +1296,9 @@ DESCRIPTION:Data:2022-11-22\nGodzina:\nOrgan administracji:Prezydent m.st.
  kt:II SAB/Wa 301/22\nSymbol:658/6480\nSędziowie:Karolina Kisielewicz\, as
  esor Arkadiusz Koziarski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
  przedmiocie rozpoznania wniosku z dnia 28 stycznia 2022 r. o udostępnieni
- e informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Główny Inspektor Nadzoru Budowlanego - II SA/Wa 1271/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221123T000000
-DESCRIPTION:Data:2022-11-23\nGodzina:\nOrgan administracji:Główny Inspek
- tor Nadzoru Budowlanego\nPrzedmiot:Odmowa udzielenia informacji publicznej
- \nPrzewodniczący:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSpr
- awozdawca:Sławomir Fularski\nSygnatura akt:II SA/Wa 1271/22\nSymbol:6480\
- nSędziowie:Sławomir Fularski\, Waldemar Śledzik\nTyp posiedzenia:Niejaw
- ne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecznicz
- y:II\nWyniki:
+ e informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... 
+ i stwierdzono że bezczynność miała miejsce bez rażącego naruszenia p
+ rawa
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1317,7 +1310,21 @@ DESCRIPTION:Data:2022-11-23\nGodzina:\nOrgan administracji:Minister Aktyw
  ki\nSygnatura akt:II SAB/Wa 417/22\nSymbol:658/6480\nSędziowie:Sławomir 
  Fularski\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
  ć w przedmiocie rozpoznania wniosku z 29 stycznia 2022 r. o udostępnieni
- e informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ e informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... 
+ i stwierdzono że bezczynność miała miejsce bez rażącego naruszenia p
+ rawa
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Główny Inspektor Nadzoru Budowlanego - II SA/Wa 1271/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221123T000000
+DESCRIPTION:Data:2022-11-23\nGodzina:\nOrgan administracji:Główny Inspek
+ tor Nadzoru Budowlanego\nPrzedmiot:Odmowa udzielenia informacji publicznej
+ \nPrzewodniczący:Andrzej Kołodziej\nSala:Sala posiedzeń niejawnych\nSpr
+ awozdawca:Sławomir Fularski\nSygnatura akt:II SA/Wa 1271/22\nSymbol:6480\
+ nSędziowie:Sławomir Fularski\, Waldemar Śledzik\nTyp posiedzenia:Niejaw
+ ne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecznicz
+ y:II\nWyniki:Uchylono zaskarżoną decyzję
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1445,6 +1452,18 @@ DESCRIPTION:Data:2022-11-25\nGodzina:12:30\nOrgan administracji:PKP Interc
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Tczów - II SAB/Wa 391/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221128T000000
+DESCRIPTION:Data:2022-11-28\nGodzina:\nOrgan administracji:Wójt Gminy Tcz
+ ów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kruszewska-Gro
+ ńska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygna
+ tura akt:II SAB/Wa 391/22\nSymbol:658/6480\nSędziowie:asesor Arkadiusz Ko
+ ziarski\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
+ rozpoznaniu wniosków o udostępnienie informacji publicznej\nWydział orz
+ eczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Giełda Papierów Wartościowych w Warszawie S.A. - II SAB/Wa 
  655/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221128T000000
@@ -1456,18 +1475,6 @@ DESCRIPTION:Data:2022-11-28\nGodzina:\nOrgan administracji:Giełda Papier
  enia:Niejawne\nUwagi:bezczynność w rozpoznaniu wniosku z 7 grudnia 2018 
  r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki
  :
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Tczów - II SAB/Wa 391/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221128T000000
-DESCRIPTION:Data:2022-11-28\nGodzina:\nOrgan administracji:Wójt Gminy Tcz
- ów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kruszewska-Gro
- ńska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciejuk\nSygna
- tura akt:II SAB/Wa 391/22\nSymbol:658/6480\nSędziowie:asesor Arkadiusz Ko
- ziarski\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
- rozpoznaniu wniosków o udostępnienie informacji publicznej\nWydział orz
- eczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1590,16 +1597,28 @@ DESCRIPTION:Data:2022-11-29\nGodzina:10:00\nOrgan administracji:Minister C
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Powiatowego Urzędu Pracy w Szydłowcu - II SAB/Wa 66
- 3/22
+SUMMARY:[N] Proboszcz Parafii pw. Św. Jana Kantego w Legionowie - II SAB/
+ Wa 668/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221130T000000
-DESCRIPTION:Data:2022-11-30\nGodzina:\nOrgan administracji:Dyrektor Powiat
- owego Urzędu Pracy w Szydłowcu\nPrzedmiot:Bezczynność organu\nPrzewodn
- iczący:Agnieszka Góra-Błaszczykowska\nSala:Sala posiedzeń niejawnych\n
- Sprawozdawca:Joanna Kube\nSygnatura akt:II SAB/Wa 663/22\nSymbol:658/6480\
- nSędziowie:Joanna Kube\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nUwa
- gi:bezczynność w przedmiocie rozpatrzenia wniosku z dnia 29 maja 2021 r.
-  o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2022-11-30\nGodzina:\nOrgan administracji:Proboszcz Paraf
+ ii pw. Św. Jana Kantego w Legionowie\nPrzedmiot:Informacja publiczna\nPrz
+ ewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozdawc
+ a:Michał Sułkowski\nSygnatura akt:II SAB/Wa 668/22\nSymbol:658/6480\nSę
+ dziowie:Sławomir Fularski\, asesor Michał Sułkowski\nTyp posiedzenia:Ni
+ ejawne\nUwagi:bezczynność w rozpatrzeniu wniosku o udostępnienie inform
+ acji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wojewoda Mazowiecki - II SAB/Wa 629/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221130T000000
+DESCRIPTION:Data:2022-11-30\nGodzina:\nOrgan administracji:Wojewoda Mazowi
+ ecki\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Agnieszka Góra-Bła
+ szczykowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra
+ -Błaszczykowska\nSygnatura akt:II SAB/Wa 629/22\nSymbol:658/6480\nSędzio
+ wie:Joanna Kube\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:bezcz
+ ynność w przedmiocie rozpoznania wniosku z dnia 29 czerwca 2022 r. o udo
+ stępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1616,52 +1635,41 @@ DESCRIPTION:Data:2022-11-30\nGodzina:\nOrgan administracji:Polski Fundusz
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wojewoda Mazowiecki - II SAB/Wa 629/22
+SUMMARY:[N] Dyrektor Powiatowego Urzędu Pracy w Szydłowcu - II SAB/Wa 66
+ 3/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221130T000000
-DESCRIPTION:Data:2022-11-30\nGodzina:\nOrgan administracji:Wojewoda Mazowi
- ecki\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Agnieszka Góra-Bła
- szczykowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Agnieszka Góra
- -Błaszczykowska\nSygnatura akt:II SAB/Wa 629/22\nSymbol:658/6480\nSędzio
- wie:Joanna Kube\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:bezcz
- ynność w przedmiocie rozpoznania wniosku z dnia 29 czerwca 2022 r. o udo
- stępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2022-11-30\nGodzina:\nOrgan administracji:Dyrektor Powiat
+ owego Urzędu Pracy w Szydłowcu\nPrzedmiot:Bezczynność organu\nPrzewodn
+ iczący:Agnieszka Góra-Błaszczykowska\nSala:Sala posiedzeń niejawnych\n
+ Sprawozdawca:Joanna Kube\nSygnatura akt:II SAB/Wa 663/22\nSymbol:658/6480\
+ nSędziowie:Joanna Kube\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nUwa
+ gi:bezczynność w przedmiocie rozpatrzenia wniosku z dnia 29 maja 2021 r.
+  o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Proboszcz Parafii pw. Św. Jana Kantego w Legionowie - II SAB/
- Wa 668/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221130T000000
-DESCRIPTION:Data:2022-11-30\nGodzina:\nOrgan administracji:Proboszcz Paraf
- ii pw. Św. Jana Kantego w Legionowie\nPrzedmiot:Informacja publiczna\nPrz
- ewodniczący:Ewa Kwiecińska\nSala:Sala posiedzeń niejawnych\nSprawozdawc
- a:Michał Sułkowski\nSygnatura akt:II SAB/Wa 668/22\nSymbol:658/6480\nSę
- dziowie:Sławomir Fularski\, asesor Michał Sułkowski\nTyp posiedzenia:Ni
- ejawne\nUwagi:bezczynność w rozpatrzeniu wniosku o udostępnienie inform
- acji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Finansów - II SA/Wa 1418/22
+SUMMARY:[N] Powiatowy Inspektor Nadzoru Budowlanego w Grójcu - VIII SAB/W
+ a 58/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221201T000000
-DESCRIPTION:Data:2022-12-01\nGodzina:\nOrgan administracji:Minister Finans
- ów\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Iz
- abela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andr
- zej Wieczorek\nSygnatura akt:II SA/Wa 1418/22\nSymbol:6480\nSędziowie:Ewa
-  Radziszewska-Krupa\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:O
- dmowa udzielenia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
+DESCRIPTION:Data:2022-12-01\nGodzina:\nOrgan administracji:Powiatowy Inspe
+ ktor Nadzoru Budowlanego w Grójcu\nPrzedmiot:Informacja publiczna\nPrzewo
+ dniczący:Iwona Szymanowicz-Nowak\nSala:Sala posiedzeń niejawnych\nSprawo
+ zdawca:Iwona Szymanowicz-Nowak\nSygnatura akt:VIII SAB/Wa 58/22\nSymbol:65
+ 8/6480\nSędziowie:Sławomir Fularski\, Renata Nawrot\nTyp posiedzenia:Nie
+ jawne\nUwagi:dostęp do informacji publicznej\nWydział orzeczniczy:VIII\n
+ Wyniki:
+LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Komendant Powiatowy Policji w Legionowie - II SAB/Wa 600/22
+SUMMARY:[N] Minister Cyfryzacji - II SAB/Wa 538/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221201T000000
-DESCRIPTION:Data:2022-12-01\nGodzina:\nOrgan administracji:Komendant Powia
- towy Policji w Legionowie\nPrzedmiot:Bezczynność organu\nPrzewodniczący
- :Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:A
- ndrzej Wieczorek\nSygnatura akt:II SAB/Wa 600/22\nSymbol:658/6480\nSędzio
- wie:Ewa Radziszewska-Krupa\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\n
- Uwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 5 lipca 2022 
- r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki
- :
+DESCRIPTION:Data:2022-12-01\nGodzina:\nOrgan administracji:Minister Cyfryz
+ acji\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kruszewska-Gr
+ ońska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Arkadiusz Koziarski\
+ nSygnatura akt:II SAB/Wa 538/22\nSymbol:658/6480\nSędziowie:Karolina Kisi
+ elewicz\, asesor Arkadiusz Koziarski\nTyp posiedzenia:Niejawne\nUwagi:bezc
+ zynność w przedmiocie rozpoznania wniosku z dnia 7 kwietnia 2022 r. o ud
+ ostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1679,29 +1687,28 @@ DESCRIPTION:Data:2022-12-01\nGodzina:\nOrgan administracji:Powiatowy Inspe
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Cyfryzacji - II SAB/Wa 538/22
+SUMMARY:[N] Komendant Powiatowy Policji w Legionowie - II SAB/Wa 600/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221201T000000
-DESCRIPTION:Data:2022-12-01\nGodzina:\nOrgan administracji:Minister Cyfryz
- acji\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kruszewska-Gr
- ońska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Arkadiusz Koziarski\
- nSygnatura akt:II SAB/Wa 538/22\nSymbol:658/6480\nSędziowie:Karolina Kisi
- elewicz\, asesor Arkadiusz Koziarski\nTyp posiedzenia:Niejawne\nUwagi:bezc
- zynność w przedmiocie rozpoznania wniosku z dnia 7 kwietnia 2022 r. o ud
- ostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2022-12-01\nGodzina:\nOrgan administracji:Komendant Powia
+ towy Policji w Legionowie\nPrzedmiot:Bezczynność organu\nPrzewodniczący
+ :Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:A
+ ndrzej Wieczorek\nSygnatura akt:II SAB/Wa 600/22\nSymbol:658/6480\nSędzio
+ wie:Ewa Radziszewska-Krupa\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\n
+ Uwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 5 lipca 2022 
+ r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki
+ :
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Powiatowy Inspektor Nadzoru Budowlanego w Grójcu - VIII SAB/W
- a 58/22
+SUMMARY:[N] Minister Finansów - II SA/Wa 1418/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221201T000000
-DESCRIPTION:Data:2022-12-01\nGodzina:\nOrgan administracji:Powiatowy Inspe
- ktor Nadzoru Budowlanego w Grójcu\nPrzedmiot:Informacja publiczna\nPrzewo
- dniczący:Iwona Szymanowicz-Nowak\nSala:Sala posiedzeń niejawnych\nSprawo
- zdawca:Iwona Szymanowicz-Nowak\nSygnatura akt:VIII SAB/Wa 58/22\nSymbol:65
- 8/6480\nSędziowie:Sławomir Fularski\, Renata Nawrot\nTyp posiedzenia:Nie
- jawne\nUwagi:dostęp do informacji publicznej\nWydział orzeczniczy:VIII\n
- Wyniki:
-LOCATION:Wydzial VIII\, WSA Warszawa
+DESCRIPTION:Data:2022-12-01\nGodzina:\nOrgan administracji:Minister Finans
+ ów\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Iz
+ abela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andr
+ zej Wieczorek\nSygnatura akt:II SA/Wa 1418/22\nSymbol:6480\nSędziowie:Ewa
+  Radziszewska-Krupa\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:O
+ dmowa udzielenia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[J] Minister Edukacji i Nauki - II SA/Wa 1386/22
@@ -1715,14 +1722,39 @@ DESCRIPTION:Data:2022-12-01\nGodzina:10:00\nOrgan administracji:Minister E
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Jasieniec - II SAB/Wa 222/22
+SUMMARY:[N] Dyrektor Miejskiej Biblioteki Publicznej w Legionowie - II SA/
+ Wa 1692/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221202T000000
-DESCRIPTION:Data:2022-12-02\nGodzina:\nOrgan administracji:Wójt Gminy Jas
- ieniec\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodnicz
- ący:Waldemar Śledzik\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Mich
- ał Sułkowski\nSygnatura akt:II SAB/Wa 222/22\nSymbol:658/6480\nSędziowi
- e:asesor Michał Sułkowski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwa
- gi:\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2022-12-02\nGodzina:\nOrgan administracji:Dyrektor Miejsk
+ iej Biblioteki Publicznej w Legionowie\nPrzedmiot:Odmowa udzielenia inform
+ acji publicznej\nPrzewodniczący:Danuta Kania\nSala:Sala posiedzeń niejaw
+ nych\nSprawozdawca:Danuta Kania\nSygnatura akt:II SA/Wa 1692/22\nSymbol:64
+ 80\nSędziowie:Joanna Kube\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwa
+ gi:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nW
+ yniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Bankowy Fundusz Gwarancyjny - II SA/Wa 1451/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221202T000000
+DESCRIPTION:Data:2022-12-02\nGodzina:\nOrgan administracji:Bankowy Fundusz
+  Gwarancyjny\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodni
+ czący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna 
+ Kube\nSygnatura akt:II SA/Wa 1451/22\nSymbol:6480\nSędziowie:Joanna Kube\
+ , Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępnienia in
+ formacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 563/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221202T000000
+DESCRIPTION:Data:2022-12-02\nGodzina:\nOrgan administracji:Prezes Rady Min
+ istrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Waldemar Śledzik
+ \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatura a
+ kt:II SAB/Wa 563/22\nSymbol:658/6480\nSędziowie:asesor Michał Sułkowski
+ \, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmio
+ cie rozpoznania wniosku z 6 kwietnia 2022 r. o udostępnienie informacji p
+ ublicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1740,51 +1772,14 @@ DESCRIPTION:Data:2022-12-02\nGodzina:\nOrgan administracji:Dyrektor Przeds
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 563/22
+SUMMARY:[N] Wójt Gminy Jasieniec - II SAB/Wa 222/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221202T000000
-DESCRIPTION:Data:2022-12-02\nGodzina:\nOrgan administracji:Prezes Rady Min
- istrów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Waldemar Śledzik
- \nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatura a
- kt:II SAB/Wa 563/22\nSymbol:658/6480\nSędziowie:asesor Michał Sułkowski
- \, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmio
- cie rozpoznania wniosku z 6 kwietnia 2022 r. o udostępnienie informacji p
- ublicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Bankowy Fundusz Gwarancyjny - II SA/Wa 1451/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221202T000000
-DESCRIPTION:Data:2022-12-02\nGodzina:\nOrgan administracji:Bankowy Fundusz
-  Gwarancyjny\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodni
- czący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna 
- Kube\nSygnatura akt:II SA/Wa 1451/22\nSymbol:6480\nSędziowie:Joanna Kube\
- , Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępnienia in
- formacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Miejskiej Biblioteki Publicznej w Legionowie - II SA/
- Wa 1692/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221202T000000
-DESCRIPTION:Data:2022-12-02\nGodzina:\nOrgan administracji:Dyrektor Miejsk
- iej Biblioteki Publicznej w Legionowie\nPrzedmiot:Odmowa udzielenia inform
- acji publicznej\nPrzewodniczący:Danuta Kania\nSala:Sala posiedzeń niejaw
- nych\nSprawozdawca:Danuta Kania\nSygnatura akt:II SA/Wa 1692/22\nSymbol:64
- 80\nSędziowie:Joanna Kube\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwa
- gi:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nW
- yniki:Zdjęto z wokandy
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Aktywów Państwowych - II SAB/Wa 510/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221202T000000
-DESCRIPTION:Data:2022-12-02\nGodzina:\nOrgan administracji:Minister Aktyw
- ów Państwowych\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa Kwie
- cińska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygn
- atura akt:II SAB/Wa 510/22\nSymbol:658/6480\nSędziowie:asesor Michał Su
- łkowski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
- przedmiocie rozpoznania wniosku z dnia 25 kwietnia 2021 r. o udostępnieni
- e informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2022-12-02\nGodzina:\nOrgan administracji:Wójt Gminy Jas
+ ieniec\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodnicz
+ ący:Waldemar Śledzik\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Mich
+ ał Sułkowski\nSygnatura akt:II SAB/Wa 222/22\nSymbol:658/6480\nSędziowi
+ e:asesor Michał Sułkowski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwa
+ gi:\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1797,6 +1792,18 @@ DESCRIPTION:Data:2022-12-02\nGodzina:\nOrgan administracji:Minister Obrony
  łkowski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
  przedmiocie rozpoznania wniosku z dnia 11 maja 2022 r. o udostępnienie in
  formacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Aktywów Państwowych - II SAB/Wa 510/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221202T000000
+DESCRIPTION:Data:2022-12-02\nGodzina:\nOrgan administracji:Minister Aktyw
+ ów Państwowych\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Ewa Kwie
+ cińska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygn
+ atura akt:II SAB/Wa 510/22\nSymbol:658/6480\nSędziowie:asesor Michał Su
+ łkowski\, Tomasz Szmydt\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
+ przedmiocie rozpoznania wniosku z dnia 25 kwietnia 2021 r. o udostępnieni
+ e informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1935,6 +1942,18 @@ DESCRIPTION:Data:2022-12-09\nGodzina:\nOrgan administracji:Miejskie Przeds
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 681/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221209T000000
+DESCRIPTION:Data:2022-12-09\nGodzina:\nOrgan administracji:Prezydent m.st.
+  Warszawy\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Piotr Borowieck
+ i\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSygnatu
+ ra akt:II SAB/Wa 681/22\nSymbol:658/6480\nSędziowie:asesor Michał Sułko
+ wski\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
+ przedmiocie rozpoznania wniosku z dnia 4 maja 2021 r. o udostępnienie inf
+ ormacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezes Sądu Rejonowego w Grodzisku Mazowieckim - II SAB/Wa 35
  8/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221209T000000
@@ -1946,18 +1965,6 @@ DESCRIPTION:Data:2022-12-09\nGodzina:\nOrgan administracji:Prezes Sądu Re
  k\nTyp posiedzenia:Niejawne\nUwagi:przewlekłe prowadzenie postępowania w
   zakresie wniosku z dnia 7 kwietnia 2022 r. o udostępnienie informacji pu
  blicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 681/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221209T000000
-DESCRIPTION:Data:2022-12-09\nGodzina:\nOrgan administracji:Prezydent m.st.
-  Warszawy\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Piotr Borowieck
- i\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSygnatu
- ra akt:II SAB/Wa 681/22\nSymbol:658/6480\nSędziowie:asesor Michał Sułko
- wski\, Waldemar Śledzik\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w 
- przedmiocie rozpoznania wniosku z dnia 4 maja 2021 r. o udostępnienie inf
- ormacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2029,44 +2036,17 @@ DESCRIPTION:Data:2022-12-15\nGodzina:\nOrgan administracji:Minister Obrony
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 452/22
+SUMMARY:[N] Dyrektor Izby Administracji Skarbowej w Warszawie - II SAB/Wa 
+ 430/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221216T000000
-DESCRIPTION:Data:2022-12-16\nGodzina:\nOrgan administracji:Prezes Rady Min
- istrów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Karolina Kisielew
- icz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kruszewska-Groń
- ska\nSygnatura akt:II SAB/Wa 452/22\nSymbol:658/6480\nSędziowie:Joanna Kr
- uszewska-Grońska\, asesor Michał Sułkowski\nTyp posiedzenia:Niejawne\nU
- wagi:bezczynność w przedmiocie rozpatrzenia wniosku z dnia 21 październ
- ika 2021 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:I
- I\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Samodzielnego Publicznego Zakładu Opieki Zdrowotnej 
- w Garwolinie - II SAB/Wa 467/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221216T000000
-DESCRIPTION:Data:2022-12-16\nGodzina:\nOrgan administracji:Dyrektor Samodz
- ielnego Publicznego Zakładu Opieki Zdrowotnej w Garwolinie\nPrzedmiot:Bez
- czynność organu\nPrzewodniczący:Karolina Kisielewicz\nSala:Sala posiedz
- eń niejawnych\nSprawozdawca:Joanna Kruszewska-Grońska\nSygnatura akt:II 
- SAB/Wa 467/22\nSymbol:658/6480\nSędziowie:Joanna Kruszewska-Grońska\, as
- esor Michał Sułkowski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
- rzedmiocie rozpoznania wniosku z dnia 6 kwietnia 2022 r. o udostępnienie 
- informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prezes Państwowego Gospodarstwa Wodnego Wody Polskie - II SAB
- /Wa 677/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221216T000000
-DESCRIPTION:Data:2022-12-16\nGodzina:\nOrgan administracji:Prezes Państwo
- wego Gospodarstwa Wodnego Wody Polskie\nPrzedmiot:Informacja publiczna\nPr
- zewodniczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawc
- a:Andrzej Góraj\nSygnatura akt:II SAB/Wa 677/22\nSymbol:658/6480\nSędzio
- wie:Joanna Kruszewska-Grońska\, asesor Michał Sułkowski\nTyp posiedzeni
- a:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 7
-  sierpnia 2022 r. o udostępnienie infomracji publicznej\nWydział orzeczn
- iczy:II\nWyniki:
+DESCRIPTION:Data:2022-12-16\nGodzina:\nOrgan administracji:Dyrektor Izby A
+ dministracji Skarbowej w Warszawie\nPrzedmiot:Bezczynność organu\nPrzewo
+ dniczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Jo
+ anna Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 430/22\nSymbol:658/6480\
+ nSędziowie:Joanna Kruszewska-Grońska\, asesor Michał Sułkowski\nTyp po
+ siedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku 
+ z dnia 1 czerwca 2022 r. o udostępnienie informacji publicznej\nWydział 
+ orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2084,17 +2064,44 @@ DESCRIPTION:Data:2022-12-16\nGodzina:\nOrgan administracji:Generalna Dyrek
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Izby Administracji Skarbowej w Warszawie - II SAB/Wa 
- 430/22
+SUMMARY:[N] Prezes Państwowego Gospodarstwa Wodnego Wody Polskie - II SAB
+ /Wa 677/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221216T000000
-DESCRIPTION:Data:2022-12-16\nGodzina:\nOrgan administracji:Dyrektor Izby A
- dministracji Skarbowej w Warszawie\nPrzedmiot:Bezczynność organu\nPrzewo
- dniczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Jo
- anna Kruszewska-Grońska\nSygnatura akt:II SAB/Wa 430/22\nSymbol:658/6480\
- nSędziowie:Joanna Kruszewska-Grońska\, asesor Michał Sułkowski\nTyp po
- siedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku 
- z dnia 1 czerwca 2022 r. o udostępnienie informacji publicznej\nWydział 
- orzeczniczy:II\nWyniki:
+DESCRIPTION:Data:2022-12-16\nGodzina:\nOrgan administracji:Prezes Państwo
+ wego Gospodarstwa Wodnego Wody Polskie\nPrzedmiot:Informacja publiczna\nPr
+ zewodniczący:Andrzej Góraj\nSala:Sala posiedzeń niejawnych\nSprawozdawc
+ a:Andrzej Góraj\nSygnatura akt:II SAB/Wa 677/22\nSymbol:658/6480\nSędzio
+ wie:Joanna Kruszewska-Grońska\, asesor Michał Sułkowski\nTyp posiedzeni
+ a:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 7
+  sierpnia 2022 r. o udostępnienie infomracji publicznej\nWydział orzeczn
+ iczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Samodzielnego Publicznego Zakładu Opieki Zdrowotnej 
+ w Garwolinie - II SAB/Wa 467/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221216T000000
+DESCRIPTION:Data:2022-12-16\nGodzina:\nOrgan administracji:Dyrektor Samodz
+ ielnego Publicznego Zakładu Opieki Zdrowotnej w Garwolinie\nPrzedmiot:Bez
+ czynność organu\nPrzewodniczący:Karolina Kisielewicz\nSala:Sala posiedz
+ eń niejawnych\nSprawozdawca:Joanna Kruszewska-Grońska\nSygnatura akt:II 
+ SAB/Wa 467/22\nSymbol:658/6480\nSędziowie:Joanna Kruszewska-Grońska\, as
+ esor Michał Sułkowski\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w p
+ rzedmiocie rozpoznania wniosku z dnia 6 kwietnia 2022 r. o udostępnienie 
+ informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Rady Ministrów - II SAB/Wa 452/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221216T000000
+DESCRIPTION:Data:2022-12-16\nGodzina:\nOrgan administracji:Prezes Rady Min
+ istrów\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Karolina Kisielew
+ icz\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kruszewska-Groń
+ ska\nSygnatura akt:II SAB/Wa 452/22\nSymbol:658/6480\nSędziowie:Joanna Kr
+ uszewska-Grońska\, asesor Michał Sułkowski\nTyp posiedzenia:Niejawne\nU
+ wagi:bezczynność w przedmiocie rozpatrzenia wniosku z dnia 21 październ
+ ika 2021 r. o udostępnienie informacji publicznej\nWydział orzeczniczy:I
+ I\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2107,30 +2114,6 @@ DESCRIPTION:Data:2022-12-16\nGodzina:09:00\nOrgan administracji:Minister I
  zewska-Grońska\, asesor Michał Sułkowski\nTyp posiedzenia:Jawne\nUwagi:
  odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyni
  ki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Stroer Polska Sp. z o.o. - II SAB/Wa 403/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221219T000000
-DESCRIPTION:Data:2022-12-19\nGodzina:\nOrgan administracji:Stroer Polska S
- p. z o.o.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Izabela Głowac
- ka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Waldemar Śledzik
- \nSygnatura akt:II SAB/Wa 403/22\nSymbol:658/6480\nSędziowie:Waldemar Śl
- edzik\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w
-  przedmiocie rozpoznania wniosku z 11 marca 2022 r. o udostępnienie infor
- macji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Klimatu i Środowiska - II SAB/Wa 374/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221219T000000
-DESCRIPTION:Data:2022-12-19\nGodzina:\nOrgan administracji:Minister Klimat
- u i Środowiska\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Sz
- mydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatu
- ra akt:II SAB/Wa 374/22\nSymbol:658/6480\nSędziowie:Waldemar Śledzik\, A
- ndrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w rozpozna
- niu wniosku z dnia 21 maja 2020 r. o udostępnienie informacji publicznej\
- nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2147,6 +2130,30 @@ DESCRIPTION:Data:2022-12-19\nGodzina:\nOrgan administracji:Dyrektor Szkoł
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Minister Klimatu i Środowiska - II SAB/Wa 374/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221219T000000
+DESCRIPTION:Data:2022-12-19\nGodzina:\nOrgan administracji:Minister Klimat
+ u i Środowiska\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Tomasz Sz
+ mydt\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Tomasz Szmydt\nSygnatu
+ ra akt:II SAB/Wa 374/22\nSymbol:658/6480\nSędziowie:Waldemar Śledzik\, A
+ ndrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w rozpozna
+ niu wniosku z dnia 21 maja 2020 r. o udostępnienie informacji publicznej\
+ nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Stroer Polska Sp. z o.o. - II SAB/Wa 403/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221219T000000
+DESCRIPTION:Data:2022-12-19\nGodzina:\nOrgan administracji:Stroer Polska S
+ p. z o.o.\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Izabela Głowac
+ ka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Waldemar Śledzik
+ \nSygnatura akt:II SAB/Wa 403/22\nSymbol:658/6480\nSędziowie:Waldemar Śl
+ edzik\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w
+  przedmiocie rozpoznania wniosku z 11 marca 2022 r. o udostępnienie infor
+ macji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Pierwszy Prezes Sądu Najwyższego - II SA/Wa 1353/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221219T090000
 DESCRIPTION:Data:2022-12-19\nGodzina:09:00\nOrgan administracji:Pierwszy P
@@ -2155,6 +2162,18 @@ DESCRIPTION:Data:2022-12-19\nGodzina:09:00\nOrgan administracji:Pierwszy P
  \nSygnatura akt:II SA/Wa 1353/22\nSymbol:6480\nSędziowie:Waldemar Śledzi
  k\, Andrzej Wieczorek\nTyp posiedzenia:Jawne\nUwagi:odmowa udostępnienia 
  informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] PGE Dystrybucja S.A. Oddział Warszawa - II SAB/Wa 503/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221220T000000
+DESCRIPTION:Data:2022-12-20\nGodzina:\nOrgan administracji:PGE Dystrybucja
+  S.A. Oddział Warszawa\nPrzedmiot:Bezczynność organu\nPrzewodniczący:J
+ oanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Łukasz Krzycki\
+ nSygnatura akt:II SAB/Wa 503/22\nSymbol:658/6480\nSędziowie:asesor Arkadi
+ usz Koziarski\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
+ ść w przedmiocie rozpatrzenia wniosku z dnia 5 kwietniia 2022 r. o udost
+ ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2171,18 +2190,6 @@ DESCRIPTION:Data:2022-12-20\nGodzina:\nOrgan administracji:Zenith Poland s
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] PGE Dystrybucja S.A. Oddział Warszawa - II SAB/Wa 503/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221220T000000
-DESCRIPTION:Data:2022-12-20\nGodzina:\nOrgan administracji:PGE Dystrybucja
-  S.A. Oddział Warszawa\nPrzedmiot:Bezczynność organu\nPrzewodniczący:J
- oanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Łukasz Krzycki\
- nSygnatura akt:II SAB/Wa 503/22\nSymbol:658/6480\nSędziowie:asesor Arkadi
- usz Koziarski\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
- ść w przedmiocie rozpatrzenia wniosku z dnia 5 kwietniia 2022 r. o udost
- ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Miejskie Przedsiębiorstwo Oczyszczania m.st. Warszawa - II SA
  /Wa 706/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221220T094000
@@ -2192,18 +2199,6 @@ DESCRIPTION:Data:2022-12-20\nGodzina:09:40\nOrgan administracji:Miejskie P
  :Joanna Kube\nSygnatura akt:II SA/Wa 706/22\nSymbol:6480\nSędziowie:aseso
  r Arkadiusz Koziarski\, Łukasz Krzycki\nTyp posiedzenia:Jawne\nUwagi:odmo
  wa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prokurator Krajowy - II SAB/Wa 449/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221221T000000
-DESCRIPTION:Data:2022-12-21\nGodzina:\nOrgan administracji:Prokurator Kraj
- owy\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Danuta Kania\nSala:Sa
- la posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnatura akt:II SAB/
- Wa 449/22\nSymbol:658/6480\nSędziowie:Karolina Kisielewicz\, Iwona Maciej
- uk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznani
- a wniosku z dnia 11 czerwca 2022 r. o udostępnienie informacji publicznej
- \nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -2217,6 +2212,18 @@ DESCRIPTION:Data:2022-12-21\nGodzina:\nOrgan administracji:Rzecznik Małyc
  a Kisielewicz\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
  ść w rozpoznaniu wniosku z dnia 17 marca 2022 r. o udostępnienie inform
  acji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prokurator Krajowy - II SAB/Wa 449/22
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20221221T000000
+DESCRIPTION:Data:2022-12-21\nGodzina:\nOrgan administracji:Prokurator Kraj
+ owy\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Danuta Kania\nSala:Sa
+ la posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnatura akt:II SAB/
+ Wa 449/22\nSymbol:658/6480\nSędziowie:Karolina Kisielewicz\, Iwona Maciej
+ uk\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznani
+ a wniosku z dnia 11 czerwca 2022 r. o udostępnienie informacji publicznej
+ \nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
