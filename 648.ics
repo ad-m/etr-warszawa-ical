@@ -1,20 +1,6 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
-SUMMARY:[N] Solidarna Polska - II SAB/Wa 93/23
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20230627T000000
-DESCRIPTION:Data:2023-06-27\nGodzina:\nOrgan administracji:Solidarna Polsk
- a\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Góraj\nSala:Sa
- la posiedzeń niejawnych\nSprawozdawca:Łukasz Krzycki\nSygnatura akt:II S
- AB/Wa 93/23\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Łukasz Krzyck
- i\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania
-  wniosku z dnia 24 września 2022 r. o idostępnienie informacji publiczne
- j\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność postępowania
-  i że bezczynność miała miejsce z rażącym naruszeniem prawa |Zasądz
- ono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Naczelna Rada Lekarska w Warszawie - II SAB/Wa 214/23
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20230627T000000
 DESCRIPTION:Data:2023-06-27\nGodzina:\nOrgan administracji:Naczelna Rada L
@@ -37,6 +23,20 @@ DESCRIPTION:Data:2023-06-27\nGodzina:\nOrgan administracji:Przewodniczący
  ć w przedmiocie rozpoznania wniosku z dnia 18 maja 2019 r. o udostępnien
  ie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zdjęto z wokand
  y
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Solidarna Polska - II SAB/Wa 93/23
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20230627T000000
+DESCRIPTION:Data:2023-06-27\nGodzina:\nOrgan administracji:Solidarna Polsk
+ a\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Góraj\nSala:Sa
+ la posiedzeń niejawnych\nSprawozdawca:Łukasz Krzycki\nSygnatura akt:II S
+ AB/Wa 93/23\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, Łukasz Krzyck
+ i\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania
+  wniosku z dnia 24 września 2022 r. o idostępnienie informacji publiczne
+ j\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynność postępowania
+  i że bezczynność miała miejsce z rażącym naruszeniem prawa |Zasądz
+ ono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -79,29 +79,20 @@ DESCRIPTION:Data:2023-06-28\nGodzina:\nOrgan administracji:Dyrektor Społe
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Infrastruktury - II SAB/Wa 158/23
+SUMMARY:[N] Ochotnicza Straż Pożarna w Wyśmierzycach - VIII SA/Wa 145/2
+ 3
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20230629T000000
-DESCRIPTION:Data:2023-06-29\nGodzina:\nOrgan administracji:Minister Infras
- truktury\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Izabela Głowack
- a-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowacka-
- Klimas\nSygnatura akt:II SAB/Wa 158/23\nSymbol:658/6480\nSędziowie:Sławo
- mir Fularski\, Andrzej Góraj\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
- ć w przedmiocie rozpoznania wniosku z dnia 26 stycznia 2023 r. o udostęp
- nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono ska
- rgę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Starosta Piaseczyński - II SAB/Wa 788/22
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20230629T000000
-DESCRIPTION:Data:2023-06-29\nGodzina:\nOrgan administracji:Starosta Piasec
- zyński\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Kołodzie
- j\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Fularski\nSygna
- tura akt:II SAB/Wa 788/22\nSymbol:658/6480\nSędziowie:Sławomir Fularski\
- , Andrzej Góraj\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmio
- cie rozpoznania wniosku z 28 września 2022 r. o udostępnienie informacji
-  publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
+DESCRIPTION:Data:2023-06-29\nGodzina:\nOrgan administracji:Ochotnicza Stra
+ ż Pożarna w Wyśmierzycach\nPrzedmiot:Informacja publiczna\nPrzewodnicz
+ ący:Marek Wroczyński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Mare
+ k Wroczyński\nSygnatura akt:VIII SA/Wa 145/23\nSymbol:644/6480\nSędziowi
+ e:Leszek Kobylski\, Iwona Owsińska-Gwiazda\nTyp posiedzenia:Niejawne\nUwa
+ gi:skarga na niewykonanie wyroku Wojewódzkiego Sądu Administracyjunego w
+  Warszawie stgn. akt VIII SAB/Wa 17/21\nWydział orzeczniczy:VIII\nWyniki:
+ Orzeczono o wymierzeniu grzywny za niewykonanie wyroku-art. 154 PoPPSA |St
+ wierdzono iż bezczynność miała miejsce z rażącym naruszeniem prawa |
+ Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Centrum Unijnych Projektów Transportowych - VIII SAB
@@ -120,20 +111,29 @@ DESCRIPTION:Data:2023-06-29\nGodzina:\nOrgan administracji:Dyrektor Centru
 LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Ochotnicza Straż Pożarna w Wyśmierzycach - VIII SA/Wa 145/2
- 3
+SUMMARY:[N] Starosta Piaseczyński - II SAB/Wa 788/22
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20230629T000000
-DESCRIPTION:Data:2023-06-29\nGodzina:\nOrgan administracji:Ochotnicza Stra
- ż Pożarna w Wyśmierzycach\nPrzedmiot:Informacja publiczna\nPrzewodnicz
- ący:Marek Wroczyński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Mare
- k Wroczyński\nSygnatura akt:VIII SA/Wa 145/23\nSymbol:644/6480\nSędziowi
- e:Leszek Kobylski\, Iwona Owsińska-Gwiazda\nTyp posiedzenia:Niejawne\nUwa
- gi:skarga na niewykonanie wyroku Wojewódzkiego Sądu Administracyjunego w
-  Warszawie stgn. akt VIII SAB/Wa 17/21\nWydział orzeczniczy:VIII\nWyniki:
- Orzeczono o wymierzeniu grzywny za niewykonanie wyroku-art. 154 PoPPSA |St
- wierdzono iż bezczynność miała miejsce z rażącym naruszeniem prawa |
- Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial VIII\, WSA Warszawa
+DESCRIPTION:Data:2023-06-29\nGodzina:\nOrgan administracji:Starosta Piasec
+ zyński\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Andrzej Kołodzie
+ j\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Fularski\nSygna
+ tura akt:II SAB/Wa 788/22\nSymbol:658/6480\nSędziowie:Sławomir Fularski\
+ , Andrzej Góraj\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmio
+ cie rozpoznania wniosku z 28 września 2022 r. o udostępnienie informacji
+  publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Infrastruktury - II SAB/Wa 158/23
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20230629T000000
+DESCRIPTION:Data:2023-06-29\nGodzina:\nOrgan administracji:Minister Infras
+ truktury\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Izabela Głowack
+ a-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela Głowacka-
+ Klimas\nSygnatura akt:II SAB/Wa 158/23\nSymbol:658/6480\nSędziowie:Sławo
+ mir Fularski\, Andrzej Góraj\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
+ ć w przedmiocie rozpoznania wniosku z dnia 26 stycznia 2023 r. o udostęp
+ nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Oddalono ska
+ rgę
+LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[J] Minister Edukacji i Nauki - II SA/Wa 106/23
@@ -596,20 +596,6 @@ DESCRIPTION:Data:2023-07-28\nGodzina:\nOrgan administracji:Elewarr Sp. z o
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Instytutu Hodowli i Aklimatyzacji Roślin Państwowy 
- Instytut Badawczy w Radzikowie - II SAB/Wa 155/23
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20230801T000000
-DESCRIPTION:Data:2023-08-01\nGodzina:\nOrgan administracji:Dyrektor Instyt
- utu Hodowli i Aklimatyzacji Roślin Państwowy Instytut Badawczy w Radziko
- wie\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kube\nSala:Sal
- a posiedzeń niejawnych\nSprawozdawca:Ewa Radziszewska-Krupa\nSygnatura ak
- t:II SAB/Wa 155/23\nSymbol:658/6480\nSędziowie:Agnieszka Góra-Błaszczyk
- owska\, Ewa Radziszewska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
- ść w przedmiocie rozpoznania wniosku z 18 lutego 2023 r. o udostępnieni
- e informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Naczelny Rzecznik Odpowiedzialności Zawodowej Naczelnej Izby 
  Lekarskiej - II SAB/Wa 244/23
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20230801T000000
@@ -633,6 +619,20 @@ DESCRIPTION:Data:2023-08-01\nGodzina:\nOrgan administracji:Prezydent m.st.
  szczykowska\, Ewa Radziszewska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:bezc
  zynność w zakresie wniosku z dnia 21 grudnia 2022 r. o udostępnienie in
  formacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Instytutu Hodowli i Aklimatyzacji Roślin Państwowy 
+ Instytut Badawczy w Radzikowie - II SAB/Wa 155/23
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20230801T000000
+DESCRIPTION:Data:2023-08-01\nGodzina:\nOrgan administracji:Dyrektor Instyt
+ utu Hodowli i Aklimatyzacji Roślin Państwowy Instytut Badawczy w Radziko
+ wie\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kube\nSala:Sal
+ a posiedzeń niejawnych\nSprawozdawca:Ewa Radziszewska-Krupa\nSygnatura ak
+ t:II SAB/Wa 155/23\nSymbol:658/6480\nSędziowie:Agnieszka Góra-Błaszczyk
+ owska\, Ewa Radziszewska-Krupa\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
+ ść w przedmiocie rozpoznania wniosku z 18 lutego 2023 r. o udostępnieni
+ e informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -791,18 +791,6 @@ DESCRIPTION:Data:2023-08-17\nGodzina:13:30\nOrgan administracji:Szef Słu
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dowódca Jednostki Wojskowej nr 2063 - II SA/Wa 1120/23
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20230818T000000
-DESCRIPTION:Data:2023-08-18\nGodzina:\nOrgan administracji:Dowódca Jednos
- tki Wojskowej nr 2063\nPrzedmiot:Odmowa udzielenia informacji publicznej\n
- Przewodniczący:Waldemar Śledzik\nSala:Sala posiedzeń niejawnych\nSprawo
- zdawca:Agnieszka Góra-Błaszczykowska\nSygnatura akt:II SA/Wa 1120/23\nSy
- mbol:6480\nSędziowie:Agnieszka Góra-Błaszczykowska\, asesor Lucyna Stan
- iszewska\nTyp posiedzenia:Niejawne\nUwagi:udostępnienie informacji public
- znej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Urząd Patentowy RP - II SA/Wa 569/23
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20230818T000000
 DESCRIPTION:Data:2023-08-18\nGodzina:\nOrgan administracji:Urząd Patentow
@@ -812,6 +800,18 @@ DESCRIPTION:Data:2023-08-18\nGodzina:\nOrgan administracji:Urząd Patentow
  -Błaszczykowska\, asesor Lucyna Staniszewska\nTyp posiedzenia:Niejawne\nU
  wagi:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\
  nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dowódca Jednostki Wojskowej nr 2063 - II SA/Wa 1120/23
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20230818T000000
+DESCRIPTION:Data:2023-08-18\nGodzina:\nOrgan administracji:Dowódca Jednos
+ tki Wojskowej nr 2063\nPrzedmiot:Odmowa udzielenia informacji publicznej\n
+ Przewodniczący:Waldemar Śledzik\nSala:Sala posiedzeń niejawnych\nSprawo
+ zdawca:Agnieszka Góra-Błaszczykowska\nSygnatura akt:II SA/Wa 1120/23\nSy
+ mbol:6480\nSędziowie:Agnieszka Góra-Błaszczykowska\, asesor Lucyna Stan
+ iszewska\nTyp posiedzenia:Niejawne\nUwagi:udostępnienie informacji public
+ znej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
