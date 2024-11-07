@@ -1,6 +1,17 @@
 BEGIN:VCALENDAR
 SUMMARY:Cases of Freedom of Information in Warsaw
 BEGIN:VEVENT
+SUMMARY:[N] Prokurator Generalny - II SAB/Wa 286/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241008T000000
+DESCRIPTION:Data:2024-10-08\nGodzina:\nOrgan administracji:Prokurator Gene
+ ralny\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodnicz
+ ący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdaw
+ ca:Arkadiusz Koziarski\nSygnatura akt:II SAB/Wa 286/24\nSymbol:658/6480\nS
+ ędziowie:asesor Arkadiusz Koziarski\, Andrzej Wieczorek\nTyp posiedzenia:
+ Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezes Sądu Rejonowego dla Warszawy-Mokotowa - II SAB/Wa 315/
  24
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241008T000000
@@ -11,17 +22,6 @@ DESCRIPTION:Data:2024-10-08\nGodzina:\nOrgan administracji:Prezes Sądu Re
  15/24\nSymbol:658/6480\nSędziowie:asesor Arkadiusz Koziarski\, Andrzej Wi
  eczorek\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki
  :Oddalono skargę
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Prokurator Generalny - II SAB/Wa 286/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241008T000000
-DESCRIPTION:Data:2024-10-08\nGodzina:\nOrgan administracji:Prokurator Gene
- ralny\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodnicz
- ący:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdaw
- ca:Arkadiusz Koziarski\nSygnatura akt:II SAB/Wa 286/24\nSymbol:658/6480\nS
- ędziowie:asesor Arkadiusz Koziarski\, Andrzej Wieczorek\nTyp posiedzenia:
- Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Oddalono skargę
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -53,21 +53,6 @@ DESCRIPTION:Data:2024-10-08\nGodzina:\nOrgan administracji:Prezes Sądu Re
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Prywatnego Liceum Ogólnokształcącego Sióstr Nazar
- etanek z Oddziałami Międzynarodowymi - II SA/Wa 475/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241009T000000
-DESCRIPTION:Data:2024-10-09\nGodzina:\nOrgan administracji:Dyrektor Prywat
- nego Liceum Ogólnokształcącego Sióstr Nazaretanek z Oddziałami Międz
- ynarodowymi\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Karolina Kisi
- elewicz-Sierakowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolin
- a Kisielewicz-Sierakowska\nSygnatura akt:II SA/Wa 475/24\nSymbol:6480\nSę
- dziowie:Andrzej Góraj\, asesor Mateusz Rogala\nTyp posiedzenia:Niejawne\n
- Uwagi:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II
- \nWyniki:Uchylono zaskarżoną decyzję |Zasądzono zwrot kosztów postęp
- owania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Solidarna Polska - II SAB/Wa 760/23
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241009T000000
 DESCRIPTION:Data:2024-10-09\nGodzina:\nOrgan administracji:Solidarna Polsk
@@ -81,6 +66,21 @@ DESCRIPTION:Data:2024-10-09\nGodzina:\nOrgan administracji:Solidarna Polsk
  o orzeczenia |Stwierdzono iż bezczynność miała miejsce z rażącym nar
  uszeniem prawa |Orzeczono o wymierzeniu grzywny za bezczynność-art. 149 
  par. 2 P.P.S.A. |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Dyrektor Prywatnego Liceum Ogólnokształcącego Sióstr Nazar
+ etanek z Oddziałami Międzynarodowymi - II SA/Wa 475/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241009T000000
+DESCRIPTION:Data:2024-10-09\nGodzina:\nOrgan administracji:Dyrektor Prywat
+ nego Liceum Ogólnokształcącego Sióstr Nazaretanek z Oddziałami Międz
+ ynarodowymi\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Karolina Kisi
+ elewicz-Sierakowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Karolin
+ a Kisielewicz-Sierakowska\nSygnatura akt:II SA/Wa 475/24\nSymbol:6480\nSę
+ dziowie:Andrzej Góraj\, asesor Mateusz Rogala\nTyp posiedzenia:Niejawne\n
+ Uwagi:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II
+ \nWyniki:Uchylono zaskarżoną decyzję |Zasądzono zwrot kosztów postęp
+ owania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -369,6 +369,22 @@ DESCRIPTION:Data:2024-10-16\nGodzina:11:40\nOrgan administracji:SKO w Wars
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Komendant Straży Miejskiej m. st. Warszawy - II SAB/Wa 226/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241017T000000
+DESCRIPTION:Data:2024-10-17\nGodzina:\nOrgan administracji:Komendant Stra
+ ży Miejskiej m. st. Warszawy\nPrzedmiot:Bezczynność organu\nPrzewodnicz
+ ący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Ka
+ nia\nSygnatura akt:II SAB/Wa 226/24\nSymbol:658/6480\nSędziowie:asesor Ar
+ kadiusz Koziarski\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
+ ść w przedmiocie rozpoznania wniosku z dnia 13 marca 2024 r. o udostępn
+ ienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano 
+ organ do rozpoznania wniosku/odwołania w terminie ...od otrzymania odpisu
+  prawomocnego orzeczenia |Stwierdzono iż bezczynność nie miała miejsca
+  z rażącym naruszeniem prawa |Oddalono skargę w części |Zasądzono zw
+ rot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Prezydent Miasta Legionowo - II SAB/Wa 264/24
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241017T000000
 DESCRIPTION:Data:2024-10-17\nGodzina:\nOrgan administracji:Prezydent Miast
@@ -415,50 +431,6 @@ DESCRIPTION:Data:2024-10-17\nGodzina:\nOrgan administracji:Wojewoda Mazowi
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Komendant Straży Miejskiej m. st. Warszawy - II SAB/Wa 226/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241017T000000
-DESCRIPTION:Data:2024-10-17\nGodzina:\nOrgan administracji:Komendant Stra
- ży Miejskiej m. st. Warszawy\nPrzedmiot:Bezczynność organu\nPrzewodnicz
- ący:Danuta Kania\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Ka
- nia\nSygnatura akt:II SAB/Wa 226/24\nSymbol:658/6480\nSędziowie:asesor Ar
- kadiusz Koziarski\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
- ść w przedmiocie rozpoznania wniosku z dnia 13 marca 2024 r. o udostępn
- ienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano 
- organ do rozpoznania wniosku/odwołania w terminie ...od otrzymania odpisu
-  prawomocnego orzeczenia |Stwierdzono iż bezczynność nie miała miejsca
-  z rażącym naruszeniem prawa |Oddalono skargę w części |Zasądzono zw
- rot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] SKO w Warszawie - II SA/Wa 321/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241018T000000
-DESCRIPTION:Data:2024-10-18\nGodzina:\nOrgan administracji:SKO w Warszawie
- \nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Karol
- ina Kisielewicz-Sierakowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca
- :Iwona Maciejuk\nSygnatura akt:II SA/Wa 321/24\nSymbol:6480\nSędziowie:as
- esor Dorota Kozub-Marciniak\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUw
- agi:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\n
- Wyniki:Uchylono zaskarżoną decyzję |Zasądzono zwrot kosztów postępow
- ania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Starosta Wołomiński - II SAB/Wa 306/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241018T000000
-DESCRIPTION:Data:2024-10-18\nGodzina:\nOrgan administracji:Starosta Wołom
- iński\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Karolina Kisielewi
- cz-Sierakowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciej
- uk\nSygnatura akt:II SAB/Wa 306/24\nSymbol:658/6480\nSędziowie:asesor Dor
- ota Kozub-Marciniak\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezc
- zynność w przedmiocie rozpoznania wniosku z 21 marca 2024 r. o udostępn
- ienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano 
- organ do rozpoznania wniosku/odwołania w terminie ...od otrzymania odpisu
-  prawomocnego orzeczenia |Stwierdzono iż bezczynność nie miała miejsca
-  z rażącym naruszeniem prawa |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Mazowiecki Wojewódzki Inspektor Nadzoru Budowlanego - II SA/W
  a 188/24
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241018T000000
@@ -486,15 +458,31 @@ DESCRIPTION:Data:2024-10-18\nGodzina:\nOrgan administracji:Minister Infras
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Naczelny Sąd Lekarski - II SA/Wa 488/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241021T000000
-DESCRIPTION:Data:2024-10-21\nGodzina:\nOrgan administracji:Naczelny Sąd L
- ekarski\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodnicząc
- y:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:
- Izabela Głowacka-Klimas\nSygnatura akt:II SA/Wa 488/24\nSymbol:6480\nSęd
- ziowie:asesor Anna Pośpiech-Kłak\, Andrzej Wieczorek\nTyp posiedzenia:Ni
- ejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecz
- niczy:II\nWyniki:Zdjęto z wokandy
+SUMMARY:[N] Starosta Wołomiński - II SAB/Wa 306/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241018T000000
+DESCRIPTION:Data:2024-10-18\nGodzina:\nOrgan administracji:Starosta Wołom
+ iński\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Karolina Kisielewi
+ cz-Sierakowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maciej
+ uk\nSygnatura akt:II SAB/Wa 306/24\nSymbol:658/6480\nSędziowie:asesor Dor
+ ota Kozub-Marciniak\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:bezc
+ zynność w przedmiocie rozpoznania wniosku z 21 marca 2024 r. o udostępn
+ ienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano 
+ organ do rozpoznania wniosku/odwołania w terminie ...od otrzymania odpisu
+  prawomocnego orzeczenia |Stwierdzono iż bezczynność nie miała miejsca
+  z rażącym naruszeniem prawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] SKO w Warszawie - II SA/Wa 321/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241018T000000
+DESCRIPTION:Data:2024-10-18\nGodzina:\nOrgan administracji:SKO w Warszawie
+ \nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodniczący:Karol
+ ina Kisielewicz-Sierakowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca
+ :Iwona Maciejuk\nSygnatura akt:II SA/Wa 321/24\nSymbol:6480\nSędziowie:as
+ esor Dorota Kozub-Marciniak\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUw
+ agi:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\n
+ Wyniki:Uchylono zaskarżoną decyzję |Zasądzono zwrot kosztów postępow
+ ania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -507,6 +495,18 @@ DESCRIPTION:Data:2024-10-21\nGodzina:\nOrgan administracji:Telewizja Polsk
  80\nSędziowie:asesor Anna Pośpiech-Kłak\, Andrzej Wieczorek\nTyp posied
  zenia:Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydzia
  ł orzeczniczy:II\nWyniki:Zdjęto z wokandy
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Naczelny Sąd Lekarski - II SA/Wa 488/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241021T000000
+DESCRIPTION:Data:2024-10-21\nGodzina:\nOrgan administracji:Naczelny Sąd L
+ ekarski\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodnicząc
+ y:Izabela Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:
+ Izabela Głowacka-Klimas\nSygnatura akt:II SA/Wa 488/24\nSymbol:6480\nSęd
+ ziowie:asesor Anna Pośpiech-Kłak\, Andrzej Wieczorek\nTyp posiedzenia:Ni
+ ejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzecz
+ niczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -595,34 +595,6 @@ DESCRIPTION:Data:2024-10-23\nGodzina:\nOrgan administracji:Poczta Polska S
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 235/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241023T000000
-DESCRIPTION:Data:2024-10-23\nGodzina:\nOrgan administracji:Minister Kultur
- y i Dziedzictwa Narodowego\nPrzedmiot:Bezczynność organu\nPrzewodnicząc
- y:Sławomir Fularski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławo
- mir Fularski\nSygnatura akt:II SAB/Wa 235/24\nSymbol:658/6480\nSędziowie:
- asesor Arkadiusz Koziarski\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUw
- agi:bezczynność w przedmiocie rozpoznania odwołania\nWydział orzecznic
- zy:II\nWyniki:Stwierdzono bezczynność postępowania i że bezczynność 
- nie miała miejsca z rażącym naruszeniem prawa |Oddalono skargę w czę
- ści |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Edukacji - II SAB/Wa 242/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241023T000000
-DESCRIPTION:Data:2024-10-23\nGodzina:\nOrgan administracji:Minister Edukac
- ji\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir Fularski\nSa
- la:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Fularski\nSygnatura 
- akt:II SAB/Wa 242/24\nSymbol:658/6480\nSędziowie:asesor Arkadiusz Koziars
- ki\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prze
- dmiocie rozpoznania wniosku z dnia 12 marca 2024 r. o udostępnienie infor
- macji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynnoś
- ć postępowania i że bezczynność nie miała miejsca z rażącym narusz
- eniem prawa |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prokurator Regionalny w Warszawie - II SAB/Wa 212/24
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241023T000000
 DESCRIPTION:Data:2024-10-23\nGodzina:\nOrgan administracji:Prokurator Regi
@@ -697,16 +669,43 @@ BEGIN:VEVENT
 SUMMARY:[N] Minister Zdrowia - II SAB/Wa 211/24
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241023T000000
 DESCRIPTION:Data:2024-10-23\nGodzina:\nOrgan administracji:Minister Zdrowi
- a\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir Fularski\nSal
- a:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Fularski\nSygnatura a
- kt:II SAB/Wa 211/24\nSymbol:658/6480\nSędziowie:asesor Arkadiusz Koziarsk
- i\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przed
- miocie rozpoznania wniosku z dnia 21 lutego 2024 r. o udostępnienie infor
- macji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano organ do ro
- zpoznania wniosku/odwołania w terminie ...od otrzymania odpisu prawomocne
- go orzeczenia |Stwierdzono iż bezczynność nie miała miejsca z rażący
- m naruszeniem prawa |Oddalono skargę w części |Zasądzono zwrot kosztó
- w postępowania
+ a\nPrzedmiot:Bezczynność organu\; Bezczynność organu\nPrzewodniczący:
+ Sławomir Fularski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławomi
+ r Fularski\nSygnatura akt:II SAB/Wa 211/24\nSymbol:658/6480\nSędziowie:as
+ esor Arkadiusz Koziarski\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwag
+ i:\nWydział orzeczniczy:II\nWyniki:Zobowiązano organ do rozpoznania wnio
+ sku/odwołania w terminie ...od otrzymania odpisu prawomocnego orzeczenia 
+ |Stwierdzono iż bezczynność nie miała miejsca z rażącym naruszeniem 
+ prawa |Oddalono skargę w części |Zasądzono zwrot kosztów postępowani
+ a
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 235/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241023T000000
+DESCRIPTION:Data:2024-10-23\nGodzina:\nOrgan administracji:Minister Kultur
+ y i Dziedzictwa Narodowego\nPrzedmiot:Bezczynność organu\; Bezczynność
+  organu\nPrzewodniczący:Sławomir Fularski\nSala:Sala posiedzeń niejawny
+ ch\nSprawozdawca:Sławomir Fularski\nSygnatura akt:II SAB/Wa 235/24\nSymbo
+ l:658/6480\nSędziowie:asesor Arkadiusz Koziarski\, Łukasz Krzycki\nTyp p
+ osiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWyniki:Stwierdzono b
+ ezczynność postępowania i że bezczynność nie miała miejsca z rażą
+ cym naruszeniem prawa |Oddalono skargę w części |Zasądzono zwrot koszt
+ ów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Edukacji - II SAB/Wa 242/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241023T000000
+DESCRIPTION:Data:2024-10-23\nGodzina:\nOrgan administracji:Minister Edukac
+ ji\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Sławomir Fularski\nSa
+ la:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Fularski\nSygnatura 
+ akt:II SAB/Wa 242/24\nSymbol:658/6480\nSędziowie:asesor Arkadiusz Koziars
+ ki\, Łukasz Krzycki\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prze
+ dmiocie rozpoznania wniosku z dnia 12 marca 2024 r. o udostępnienie infor
+ macji publicznej\nWydział orzeczniczy:II\nWyniki:Stwierdzono bezczynnoś
+ ć postępowania i że bezczynność nie miała miejsca z rażącym narusz
+ eniem prawa |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -751,38 +750,6 @@ DESCRIPTION:Data:2024-10-24\nGodzina:11:50\nOrgan administracji:Pierwszy P
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Puszcza Mariańska - II SAB/Wa 328/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241029T000000
-DESCRIPTION:Data:2024-10-29\nGodzina:\nOrgan administracji:Wójt Gminy Pus
- zcza Mariańska\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławomir
-  Fularski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Fularsk
- i\nSygnatura akt:II SAB/Wa 328/24\nSymbol:658/6480\nSędziowie:Joanna Krus
- zewska-Grońska\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
- ć w przedmiocie rozpoznania wniosku z dnia 6 marca 2024 r. o udostępnien
- ie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano org
- an do rozpoznania wniosku/odwołania w terminie ...od otrzymania odpisu pr
- awomocnego orzeczenia |Stwierdzono iż bezczynność nie miała miejsca z 
- rażącym naruszeniem prawa |Oddalono skargę w części |Zasądzono zwrot
-  kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Instytut Meteorologii i Gospodarki Wodnej Państwowy Instytut 
- Badawczy - II SAB/Wa 336/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241029T000000
-DESCRIPTION:Data:2024-10-29\nGodzina:\nOrgan administracji:Instytut Meteor
- ologii i Gospodarki Wodnej Państwowy Instytut Badawczy\nPrzedmiot:Informa
- cja publiczna\nPrzewodniczący:Sławomir Fularski\nSala:Sala posiedzeń ni
- ejawnych\nSprawozdawca:Joanna Kube\nSygnatura akt:II SAB/Wa 336/24\nSymbol
- :658/6480\nSędziowie:Joanna Kruszewska-Grońska\, Joanna Kube\nTyp posied
- zenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku z dn
- ia 8 stycznia 2023 r. o udostępnienie informacji publicznej\nWydział orz
- eczniczy:II\nWyniki:Stwierdzono bezczynność postępowania i że bezczynn
- ość nie miała miejsca z rażącym naruszeniem prawa |Oddalono skargę w
-  części |Zasądzono zwrot kosztów postępowania
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Starosta Miński - II SAB/Wa 214/24
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241029T000000
 DESCRIPTION:Data:2024-10-29\nGodzina:\nOrgan administracji:Starosta Mińsk
@@ -813,6 +780,37 @@ DESCRIPTION:Data:2024-10-29\nGodzina:\nOrgan administracji:Komendant Głó
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Puszcza Mariańska - II SAB/Wa 328/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241029T000000
+DESCRIPTION:Data:2024-10-29\nGodzina:\nOrgan administracji:Wójt Gminy Pus
+ zcza Mariańska\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławomir
+  Fularski\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Sławomir Fularsk
+ i\nSygnatura akt:II SAB/Wa 328/24\nSymbol:658/6480\nSędziowie:Joanna Krus
+ zewska-Grońska\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynnoś
+ ć w przedmiocie rozpoznania wniosku z dnia 6 marca 2024 r. o udostępnien
+ ie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano org
+ an do rozpoznania wniosku/odwołania w terminie ...od otrzymania odpisu pr
+ awomocnego orzeczenia |Stwierdzono iż bezczynność nie miała miejsca z 
+ rażącym naruszeniem prawa |Oddalono skargę w części |Zasądzono zwrot
+  kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Instytut Meteorologii i Gospodarki Wodnej Państwowy Instytut 
+ Badawczy - II SAB/Wa 336/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241029T000000
+DESCRIPTION:Data:2024-10-29\nGodzina:\nOrgan administracji:Instytut Meteor
+ ologii i Gospodarki Wodnej Państwowy Instytut Badawczy\nPrzedmiot:Informa
+ cja publiczna\; Informacja publiczna\nPrzewodniczący:Sławomir Fularski\n
+ Sala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kube\nSygnatura akt:I
+ I SAB/Wa 336/24\nSymbol:658/6480\nSędziowie:Joanna Kruszewska-Grońska\, 
+ Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:\nWydział orzeczniczy:II\nWy
+ niki:Stwierdzono bezczynność postępowania i że bezczynność nie miał
+ a miejsca z rażącym naruszeniem prawa |Oddalono skargę w części |Zas
+ ądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[J] Warszawska Kolej Dojazdowa Sp. z o.o. z siedzibą w Grodzisku 
  Mazowieckim - II SA/Wa 622/24
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241029T100000
@@ -838,18 +836,6 @@ DESCRIPTION:Data:2024-10-29\nGodzina:12:30\nOrgan administracji:Minister K
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezes Trybunału Konstytucyjnego - II SAB/Wa 65/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241104T000000
-DESCRIPTION:Data:2024-11-04\nGodzina:\nOrgan administracji:Prezes Trybuna
- łu Konstytucyjnego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Izabe
- la Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela
-  Głowacka-Klimas\nSygnatura akt:II SAB/Wa 65/24\nSymbol:658/6480\nSędzio
- wie:Sławomir Antoniuk\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwag
- i:wniosek o wył. sędziego\nWydział orzeczniczy:II\nWyniki:Oddalono wnio
- sek o wyłączenie sędziego
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Pałac Saski Sp. z o.o. - II SAB/Wa 166/24
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241104T000000
 DESCRIPTION:Data:2024-11-04\nGodzina:\nOrgan administracji:Pałac Saski Sp
@@ -862,6 +848,18 @@ DESCRIPTION:Data:2024-11-04\nGodzina:\nOrgan administracji:Pałac Saski Sp
  n do rozpoznania wniosku/odwołania w terminie ...od otrzymania odpisu pra
  womocnego orzeczenia |Stwierdzono iż bezczynność nie miała miejsca z r
  ażącym naruszeniem prawa |Zasądzono zwrot kosztów postępowania
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Prezes Trybunału Konstytucyjnego - II SAB/Wa 65/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241104T000000
+DESCRIPTION:Data:2024-11-04\nGodzina:\nOrgan administracji:Prezes Trybuna
+ łu Konstytucyjnego\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Izabe
+ la Głowacka-Klimas\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Izabela
+  Głowacka-Klimas\nSygnatura akt:II SAB/Wa 65/24\nSymbol:658/6480\nSędzio
+ wie:Sławomir Antoniuk\, Andrzej Wieczorek\nTyp posiedzenia:Niejawne\nUwag
+ i:wniosek o wył. sędziego\nWydział orzeczniczy:II\nWyniki:Oddalono wnio
+ sek o wyłączenie sędziego
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -892,17 +890,18 @@ DESCRIPTION:Data:2024-11-04\nGodzina:11:10\nOrgan administracji:Generalny
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 243/24
+SUMMARY:[N] Kom. Śl. do zbad. legal.\, prawidł. oraz cel. czynności ope
+ r.-rozp. podejm. m.in. z wyk. opr. Pegasus - II SAB/Wa 341/24
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241105T000000
-DESCRIPTION:Data:2024-11-05\nGodzina:\nOrgan administracji:Prezydent m.st.
-  Warszawy\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Karolina Kisiel
- ewicz-Sierakowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Ka
- nia\nSygnatura akt:II SAB/Wa 243/24\nSymbol:658/6480\nSędziowie:Andrzej G
- óraj\, Danuta Kania\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prze
- dmiocie rozpoznania wniosku z dnia 12 marca 2024 r. o udostępnienie infor
- macji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwie
- rdzono że bezczynność miała miejsce bez rażącego naruszenia prawa |O
- ddalono skargę w części |Zasądzono zwrot kosztów postępowania
+DESCRIPTION:Data:2024-11-05\nGodzina:\nOrgan administracji:Kom. Śl. do zb
+ ad. legal.\, prawidł. oraz cel. czynności oper.-rozp. podejm. m.in. z wy
+ k. opr. Pegasus\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Piotr Bor
+ owiecki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Anna Pośpiech-Kła
+ k\nSygnatura akt:II SAB/Wa 341/24\nSymbol:658/6480\nSędziowie:Danuta Kani
+ a\, asesor Anna Pośpiech-Kłak\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
+ ść w przedmiocie rozpoznania wniosku z dnia 15 kwietnia 2024 r. o udost
+ ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zdjęto z
+  wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -919,18 +918,17 @@ DESCRIPTION:Data:2024-11-05\nGodzina:\nOrgan administracji:Polska Agencja
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Kom. Śl. do zbad. legal.\, prawidł. oraz cel. czynności ope
- r.-rozp. podejm. m.in. z wyk. opr. Pegasus - II SAB/Wa 341/24
+SUMMARY:[N] Prezydent m.st. Warszawy - II SAB/Wa 243/24
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241105T000000
-DESCRIPTION:Data:2024-11-05\nGodzina:\nOrgan administracji:Kom. Śl. do zb
- ad. legal.\, prawidł. oraz cel. czynności oper.-rozp. podejm. m.in. z wy
- k. opr. Pegasus\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Piotr Bor
- owiecki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Anna Pośpiech-Kła
- k\nSygnatura akt:II SAB/Wa 341/24\nSymbol:658/6480\nSędziowie:Danuta Kani
- a\, asesor Anna Pośpiech-Kłak\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
- ść w przedmiocie rozpoznania wniosku z dnia 15 kwietnia 2024 r. o udost
- ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:Zdjęto z
-  wokandy
+DESCRIPTION:Data:2024-11-05\nGodzina:\nOrgan administracji:Prezydent m.st.
+  Warszawy\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Karolina Kisiel
+ ewicz-Sierakowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Danuta Ka
+ nia\nSygnatura akt:II SAB/Wa 243/24\nSymbol:658/6480\nSędziowie:Andrzej G
+ óraj\, Danuta Kania\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prze
+ dmiocie rozpoznania wniosku z dnia 12 marca 2024 r. o udostępnienie infor
+ macji publicznej\nWydział orzeczniczy:II\nWyniki:Zobowiązano ... i stwie
+ rdzono że bezczynność miała miejsce bez rażącego naruszenia prawa |O
+ ddalono skargę w części |Zasądzono zwrot kosztów postępowania
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1009,11 +1007,11 @@ SUMMARY:[N] Szef Kancelarii Prezydenta RP - II SAB/Wa 357/24
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241108T000000
 DESCRIPTION:Data:2024-11-08\nGodzina:\nOrgan administracji:Szef Kancelarii
   Prezydenta RP\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Joanna Kru
- szewska-Grońska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Iwona Maci
- ejuk\nSygnatura akt:II SAB/Wa 357/24\nSymbol:658/6480\nSędziowie:asesor D
- orota Kozub-Marciniak\, Iwona Maciejuk\nTyp posiedzenia:Niejawne\nUwagi:be
- zczynność w przedmiocie rozpoznania wniosku z dnia 23 stycznia 2024 r. o
-  udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ szewska-Grońska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kub
+ e\nSygnatura akt:II SAB/Wa 357/24\nSymbol:658/6480\nSędziowie:asesor Doro
+ ta Kozub-Marciniak\, Joanna Kube\nTyp posiedzenia:Niejawne\nUwagi:bezczynn
+ ość w przedmiocie rozpoznania wniosku z dnia 23 stycznia 2024 r. o udost
+ ępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1021,23 +1019,23 @@ SUMMARY:[N] Prezes Narodowego Banku Polskiego - II SA/Wa 420/24
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241108T000000
 DESCRIPTION:Data:2024-11-08\nGodzina:\nOrgan administracji:Prezes Narodowe
  go Banku Polskiego\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrz
- ewodniczący:Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca
- :Joanna Kruszewska-Grońska\nSygnatura akt:II SA/Wa 420/24\nSymbol:6480\nS
- ędziowie:asesor Arkadiusz Koziarski\, Joanna Kruszewska-Grońska\nTyp pos
- iedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydz
- iał orzeczniczy:II\nWyniki:
+ ewodniczący:Joanna Kube\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Jo
+ anna Kruszewska-Grońska\nSygnatura akt:II SA/Wa 420/24\nSymbol:6480\nSęd
+ ziowie:asesor Arkadiusz Koziarski\, Joanna Kruszewska-Grońska\nTyp posied
+ zenia:Niejawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydzia
+ ł orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[N] Dyrektor Biblioteki Narodowej - II SAB/Wa 353/24
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241108T000000
 DESCRIPTION:Data:2024-11-08\nGodzina:\nOrgan administracji:Dyrektor Biblio
- teki Narodowej\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwona Maci
- ejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Arkadiusz Koziarski\nS
- ygnatura akt:II SAB/Wa 353/24\nSymbol:658/6480\nSędziowie:asesor Arkadius
- z Koziarski\, Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:
- bezczynność w przedmiocie rozpoznania wniosku z dnia 26 maja 2024 r. o u
- dostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+ teki Narodowej\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Joanna Kub
+ e\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Arkadiusz Koziarski\nSygn
+ atura akt:II SAB/Wa 353/24\nSymbol:658/6480\nSędziowie:asesor Arkadiusz K
+ oziarski\, Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwagi:bez
+ czynność w przedmiocie rozpoznania wniosku z dnia 26 maja 2024 r. o udos
+ tępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1048,8 +1046,8 @@ DESCRIPTION:Data:2024-11-08\nGodzina:10:50\nOrgan administracji:PKP Polski
   Odmowa udzielenia informacji publicznej\nPrzewodniczący:Joanna Kruszewsk
  a-Grońska\nSala:Sala A\, ul. Jana Kazimierza 10\nSprawozdawca:Dorota Kozu
  b-Marciniak\nSygnatura akt:II SA/Wa 412/24\nSymbol:6480\nSędziowie:asesor
-  Dorota Kozub-Marciniak\, Iwona Maciejuk\nTyp posiedzenia:Jawne\nUwagi:\nW
- ydział orzeczniczy:II\nWyniki:Zdjęto z wokandy
+  Dorota Kozub-Marciniak\, Joanna Kube\nTyp posiedzenia:Jawne\nUwagi:\nWydz
+ iał orzeczniczy:II\nWyniki:Zdjęto z wokandy
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1057,11 +1055,11 @@ SUMMARY:[J] Minister Infrastruktury - II SA/Wa 1610/23
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241108T115000
 DESCRIPTION:Data:2024-11-08\nGodzina:11:50\nOrgan administracji:Minister I
  nfrastruktury\nPrzedmiot:Odmowa udzielenia informacji publicznej\nPrzewodn
- iczący:Iwona Maciejuk\nSala:Sala A\, ul. Jana Kazimierza 10\nSprawozdawca
- :Arkadiusz Koziarski\nSygnatura akt:II SA/Wa 1610/23\nSymbol:6480\nSędzio
- wie:asesor Arkadiusz Koziarski\, Joanna Kruszewska-Grońska\nTyp posiedzen
- ia:Jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orze
- czniczy:II\nWyniki:
+ iczący:Joanna Kube\nSala:Sala A\, ul. Jana Kazimierza 10\nSprawozdawca:Ar
+ kadiusz Koziarski\nSygnatura akt:II SA/Wa 1610/23\nSymbol:6480\nSędziowie
+ :asesor Arkadiusz Koziarski\, Joanna Kruszewska-Grońska\nTyp posiedzenia:
+ Jawne\nUwagi:odmowa udostępnienia informacji publicznej\nWydział orzeczn
+ iczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1085,6 +1083,18 @@ DESCRIPTION:Data:2024-11-12\nGodzina:09:40\nOrgan administracji:Minister S
  a Głowacka-Klimas\nSygnatura akt:II SA/Wa 471/24\nSymbol:6480\nSędziowie
  :Łukasz Krzycki\, Andrzej Wieczorek\nTyp posiedzenia:Jawne\nUwagi:odmowa 
  dostępu do informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Starosta Legionowski - II SAB/Wa 284/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241113T000000
+DESCRIPTION:Data:2024-11-13\nGodzina:\nOrgan administracji:Starosta Legion
+ owski\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Danuta Kania\nSala:
+ Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnatura akt:II SA
+ B/Wa 284/24\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, asesor Mateusz R
+ ogala\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpozn
+ ania wniosku z dnia 6 kwietnia 2024 r. o udostępnienie informacji publicz
+ nej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1137,18 +1147,6 @@ DESCRIPTION:Data:2024-11-13\nGodzina:\nOrgan administracji:Zakład Usług
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Starosta Legionowski - II SAB/Wa 284/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241113T000000
-DESCRIPTION:Data:2024-11-13\nGodzina:\nOrgan administracji:Starosta Legion
- owski\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Danuta Kania\nSala:
- Sala posiedzeń niejawnych\nSprawozdawca:Danuta Kania\nSygnatura akt:II SA
- B/Wa 284/24\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, asesor Mateusz R
- ogala\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpozn
- ania wniosku z dnia 6 kwietnia 2024 r. o udostępnienie informacji publicz
- nej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[J] Minister Kultury i Dziedzictwa Narodowego - II SA/Wa 671/24
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241113T090000
 DESCRIPTION:Data:2024-11-13\nGodzina:09:00\nOrgan administracji:Minister K
@@ -1196,6 +1194,31 @@ DESCRIPTION:Data:2024-11-14\nGodzina:\nOrgan administracji:Prezes Sądu Re
 LOCATION:Wydzial VIII\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Szef Centralnego Biura Antykorupcyjnego - II SAB/Wa 386/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241114T000000
+DESCRIPTION:Data:2024-11-14\nGodzina:\nOrgan administracji:Szef Centralneg
+ o Biura Antykorupcyjnego\nPrzedmiot:Bezczynność organu\nPrzewodniczący:
+ Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Dorota Kozub
+ -Marciniak\nSygnatura akt:II SAB/Wa 386/24\nSymbol:658/6480\nSędziowie:Pi
+ otr Borowiecki\, asesor Dorota Kozub-Marciniak\nTyp posiedzenia:Niejawne\n
+ Uwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 22 marca 2024
+  r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWynik
+ i:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Rektor UW - II SAB/Wa 303/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241114T000000
+DESCRIPTION:Data:2024-11-14\nGodzina:\nOrgan administracji:Rektor UW\nPrze
+ dmiot:Informacja publiczna\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posi
+ edzeń niejawnych\nSprawozdawca:Dorota Kozub-Marciniak\nSygnatura akt:II S
+ AB/Wa 303/24\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, asesor Dorota
+  Kozub-Marciniak\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmio
+ cie rozpoznania wniosku z dnia 3 kwietnia 2024 r. o udostępnienie informa
+ cji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Polski Związek Łowiecki - II SAB/Wa 375/24
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241114T000000
 DESCRIPTION:Data:2024-11-14\nGodzina:\nOrgan administracji:Polski Związek
@@ -1217,55 +1240,6 @@ DESCRIPTION:Data:2024-11-14\nGodzina:\nOrgan administracji:Minister Kultur
  rowiecki\, asesor Dorota Kozub-Marciniak\nTyp posiedzenia:Niejawne\nUwagi:
  bezczynność w przedmiocie rozpoznania wniosku z dnia 9 lutego 2024 r. o 
  udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Rektor UW - II SAB/Wa 303/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241114T000000
-DESCRIPTION:Data:2024-11-14\nGodzina:\nOrgan administracji:Rektor UW\nPrze
- dmiot:Informacja publiczna\nPrzewodniczący:Iwona Maciejuk\nSala:Sala posi
- edzeń niejawnych\nSprawozdawca:Dorota Kozub-Marciniak\nSygnatura akt:II S
- AB/Wa 303/24\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, asesor Dorota
-  Kozub-Marciniak\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w przedmio
- cie rozpoznania wniosku z dnia 3 kwietnia 2024 r. o udostępnienie informa
- cji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Klembów - II SAB/Wa 434/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241114T000000
-DESCRIPTION:Data:2024-11-14\nGodzina:\nOrgan administracji:Wójt Gminy Kle
- mbów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Maciejuk\nSal
- a:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSygnatura akt
- :II SAB/Wa 434/24\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, asesor D
- orota Kozub-Marciniak\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
- edmiocie rozpoznania wniosku z dnia 28 grudnia 2023 r. o udostępnienie in
- formacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Wójt Gminy Klembów - II SAB/Wa 433/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241114T000000
-DESCRIPTION:Data:2024-11-14\nGodzina:\nOrgan administracji:Wójt Gminy Kle
- mbów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Maciejuk\nSal
- a:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSygnatura akt
- :II SAB/Wa 433/24\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, asesor D
- orota Kozub-Marciniak\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
- edmiocie rozpoznania wniosku z dnia 27 grudnia 2023 r. o udostępnienie in
- formacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Szef Centralnego Biura Antykorupcyjnego - II SAB/Wa 386/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241114T000000
-DESCRIPTION:Data:2024-11-14\nGodzina:\nOrgan administracji:Szef Centralneg
- o Biura Antykorupcyjnego\nPrzedmiot:Bezczynność organu\nPrzewodniczący:
- Iwona Maciejuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Dorota Kozub
- -Marciniak\nSygnatura akt:II SAB/Wa 386/24\nSymbol:658/6480\nSędziowie:Pi
- otr Borowiecki\, asesor Dorota Kozub-Marciniak\nTyp posiedzenia:Niejawne\n
- Uwagi:bezczynność w przedmiocie rozpoznania wniosku z dnia 22 marca 2024
-  r. o udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWynik
- i:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1293,15 +1267,27 @@ DESCRIPTION:Data:2024-11-14\nGodzina:\nOrgan administracji:Wójt Gminy Kle
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Kultury i Dziedzictwa Narodowego - II SA/Wa 490/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241115T000000
-DESCRIPTION:Data:2024-11-15\nGodzina:\nOrgan administracji:Minister Kultur
- y i Dziedzictwa Narodowego\nPrzedmiot:Odmowa udzielenia informacji publicz
- nej\nPrzewodniczący:Joanna Kruszewska-Grońska\nSala:Sala posiedzeń niej
- awnych\nSprawozdawca:Joanna Kruszewska-Grońska\nSygnatura akt:II SA/Wa 49
- 0/24\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, Ewa Radziszewska-Krupa\
- nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publiczn
- ej\nWydział orzeczniczy:II\nWyniki:
+SUMMARY:[N] Wójt Gminy Klembów - II SAB/Wa 434/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241114T000000
+DESCRIPTION:Data:2024-11-14\nGodzina:\nOrgan administracji:Wójt Gminy Kle
+ mbów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Maciejuk\nSal
+ a:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSygnatura akt
+ :II SAB/Wa 434/24\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, asesor D
+ orota Kozub-Marciniak\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
+ edmiocie rozpoznania wniosku z dnia 28 grudnia 2023 r. o udostępnienie in
+ formacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Wójt Gminy Klembów - II SAB/Wa 433/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241114T000000
+DESCRIPTION:Data:2024-11-14\nGodzina:\nOrgan administracji:Wójt Gminy Kle
+ mbów\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Iwona Maciejuk\nSal
+ a:Sala posiedzeń niejawnych\nSprawozdawca:Piotr Borowiecki\nSygnatura akt
+ :II SAB/Wa 433/24\nSymbol:658/6480\nSędziowie:Piotr Borowiecki\, asesor D
+ orota Kozub-Marciniak\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
+ edmiocie rozpoznania wniosku z dnia 27 grudnia 2023 r. o udostępnienie in
+ formacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1316,6 +1302,18 @@ DESCRIPTION:Data:2024-11-15\nGodzina:\nOrgan administracji:Państwowy Powi
  siedzenia:Niejawne\nUwagi:bezczynność w przedmiocie rozpoznania wniosku 
  z dnia 13 marca 2024 r. o udostępnienie informacji publicznej\nWydział o
  rzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Kultury i Dziedzictwa Narodowego - II SA/Wa 490/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241115T000000
+DESCRIPTION:Data:2024-11-15\nGodzina:\nOrgan administracji:Minister Kultur
+ y i Dziedzictwa Narodowego\nPrzedmiot:Odmowa udzielenia informacji publicz
+ nej\nPrzewodniczący:Joanna Kruszewska-Grońska\nSala:Sala posiedzeń niej
+ awnych\nSprawozdawca:Joanna Kruszewska-Grońska\nSygnatura akt:II SA/Wa 49
+ 0/24\nSymbol:6480\nSędziowie:Sławomir Antoniuk\, Ewa Radziszewska-Krupa\
+ nTyp posiedzenia:Niejawne\nUwagi:odmowa udostępnienia informacji publiczn
+ ej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1381,18 +1379,6 @@ DESCRIPTION:Data:2024-11-18\nGodzina:10:00\nOrgan administracji:Partia Pol
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 391/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241119T000000
-DESCRIPTION:Data:2024-11-19\nGodzina:\nOrgan administracji:Minister Spraw 
- Zagranicznych\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łukasz Krz
- ycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Anna Pośpiech-Kłak\n
- Sygnatura akt:II SAB/Wa 391/24\nSymbol:658/6480\nSędziowie:Iwona Maciejuk
- \, asesor Anna Pośpiech-Kłak\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
- ść w sprawie rozpoznania wniosku z dnia 13 czerwca 2024 r. o udostępnie
- nie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Wójt Gminy Mińsk Mazowiecki - II SAB/Wa 359/24
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241119T000000
 DESCRIPTION:Data:2024-11-19\nGodzina:\nOrgan administracji:Wójt Gminy Mi
@@ -1405,6 +1391,18 @@ DESCRIPTION:Data:2024-11-19\nGodzina:\nOrgan administracji:Wójt Gminy Mi
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[N] Minister Spraw Zagranicznych - II SAB/Wa 391/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241119T000000
+DESCRIPTION:Data:2024-11-19\nGodzina:\nOrgan administracji:Minister Spraw 
+ Zagranicznych\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Łukasz Krz
+ ycki\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Anna Pośpiech-Kłak\n
+ Sygnatura akt:II SAB/Wa 391/24\nSymbol:658/6480\nSędziowie:Iwona Maciejuk
+ \, asesor Anna Pośpiech-Kłak\nTyp posiedzenia:Niejawne\nUwagi:bezczynno
+ ść w sprawie rozpoznania wniosku z dnia 13 czerwca 2024 r. o udostępnie
+ nie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[N] Minister Rodziny i Polityki Społecznej - II SAB/Wa 732/23
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241119T000000
 DESCRIPTION:Data:2024-11-19\nGodzina:\nOrgan administracji:Minister Rodzin
@@ -1414,31 +1412,6 @@ DESCRIPTION:Data:2024-11-19\nGodzina:\nOrgan administracji:Minister Rodzin
  ciejuk\, asesor Anna Pośpiech-Kłak\nTyp posiedzenia:Niejawne\nUwagi:bezc
  zynność w rozpoznaniu wniosku z dnia 20 października 2023 r. o udostęp
  nienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Dyrektor Powiatowego Urzędu Pracy w Przysusze - VIII SAB/Wa 4
- 5/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241120T000000
-DESCRIPTION:Data:2024-11-20\nGodzina:\nOrgan administracji:Dyrektor Powiat
- owego Urzędu Pracy w Przysusze\nPrzedmiot:Bezczynność organu\nPrzewodni
- czący:Marek Wroczyński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ma
- rek Wroczyński\nSygnatura akt:VIII SAB/Wa 45/24\nSymbol:658/6480\nSędzio
- wie:Leszek Kobylski\, Iwona Szymanowicz-Nowak\nTyp posiedzenia:Niejawne\nU
- wagi:bezczynnośc organu w sprawie rozpoznania wniosku o udostepnienie inf
- ormacji publicznej\nWydział orzeczniczy:VIII\nWyniki:
-LOCATION:Wydzial VIII\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[N] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 404/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241120T000000
-DESCRIPTION:Data:2024-11-20\nGodzina:\nOrgan administracji:Minister Kultur
- y i Dziedzictwa Narodowego\nPrzedmiot:Bezczynność organu\nPrzewodnicząc
- y:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marc
- inkowska\nSygnatura akt:II SAB/Wa 404/24\nSymbol:658/6480\nSędziowie:Danu
- ta Kania\, asesor Dorota Kozub-Marciniak\nTyp posiedzenia:Niejawne\nUwagi:
- bezczynność w przedmiocie rozpoznania wniosku z dnia 24 lutego 2024 r. o
-  udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1489,14 +1462,28 @@ DESCRIPTION:Data:2024-11-20\nGodzina:\nOrgan administracji:Minister Zdrowi
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[J] Szef Kancelarii Prezydenta RP - II SA/Wa 234/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241120T101000
-DESCRIPTION:Data:2024-11-20\nGodzina:10:10\nOrgan administracji:Szef Kance
- larii Prezydenta RP\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa M
- arcinkowska\nSala:Sala A\, ul. Jana Kazimierza 10\nSprawozdawca:Dorota Koz
- ub-Marciniak\nSygnatura akt:II SA/Wa 234/24\nSymbol:6480\nSędziowie:Danut
- a Kania\, asesor Dorota Kozub-Marciniak\nTyp posiedzenia:Jawne\nUwagi:odmo
- wa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+SUMMARY:[N] Dyrektor Powiatowego Urzędu Pracy w Przysusze - VIII SAB/Wa 4
+ 5/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241120T000000
+DESCRIPTION:Data:2024-11-20\nGodzina:\nOrgan administracji:Dyrektor Powiat
+ owego Urzędu Pracy w Przysusze\nPrzedmiot:Bezczynność organu\nPrzewodni
+ czący:Marek Wroczyński\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ma
+ rek Wroczyński\nSygnatura akt:VIII SAB/Wa 45/24\nSymbol:658/6480\nSędzio
+ wie:Leszek Kobylski\, Iwona Szymanowicz-Nowak\nTyp posiedzenia:Niejawne\nU
+ wagi:bezczynnośc organu w sprawie rozpoznania wniosku o udostepnienie inf
+ ormacji publicznej\nWydział orzeczniczy:VIII\nWyniki:
+LOCATION:Wydzial VIII\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Kultury i Dziedzictwa Narodowego - II SAB/Wa 404/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241120T000000
+DESCRIPTION:Data:2024-11-20\nGodzina:\nOrgan administracji:Minister Kultur
+ y i Dziedzictwa Narodowego\nPrzedmiot:Bezczynność organu\nPrzewodnicząc
+ y:Ewa Marcinkowska\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Ewa Marc
+ inkowska\nSygnatura akt:II SAB/Wa 404/24\nSymbol:658/6480\nSędziowie:Danu
+ ta Kania\, asesor Dorota Kozub-Marciniak\nTyp posiedzenia:Niejawne\nUwagi:
+ bezczynność w przedmiocie rozpoznania wniosku z dnia 24 lutego 2024 r. o
+  udostępnienie informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1509,6 +1496,17 @@ DESCRIPTION:Data:2024-11-20\nGodzina:10:10\nOrgan administracji:Prezes Urz
  nSymbol:6480\nSędziowie:Sławomir Antoniuk\, Joanna Kruszewska-Grońska\n
  Typ posiedzenia:Jawne\nUwagi:odmowa udostępnienia informacji publicznej\n
  Wydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[J] Szef Kancelarii Prezydenta RP - II SA/Wa 234/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241120T101000
+DESCRIPTION:Data:2024-11-20\nGodzina:10:10\nOrgan administracji:Szef Kance
+ larii Prezydenta RP\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Ewa M
+ arcinkowska\nSala:Sala A\, ul. Jana Kazimierza 10\nSprawozdawca:Dorota Koz
+ ub-Marciniak\nSygnatura akt:II SA/Wa 234/24\nSymbol:6480\nSędziowie:Danut
+ a Kania\, asesor Dorota Kozub-Marciniak\nTyp posiedzenia:Jawne\nUwagi:odmo
+ wa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1695,18 +1693,6 @@ DESCRIPTION:Data:2024-11-25\nGodzina:12:50\nOrgan administracji:Prezes Są
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 477/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241126T000000
-DESCRIPTION:Data:2024-11-26\nGodzina:\nOrgan administracji:Komendant Głó
- wny Policji\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwona Macieju
- k\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura
-  akt:II SAB/Wa 477/24\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, asesor
-  Anna Pośpiech-Kłak\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
- edmiocie rozpoznania wniosku z dnia 14 lipca 2024 r. o udostępnienie info
- rmacji publicznej\nWydział orzeczniczy:II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Urzędu Komunikacji Elektronicznej - II SAB/Wa 307/24
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241126T000000
 DESCRIPTION:Data:2024-11-26\nGodzina:\nOrgan administracji:Prezes Urzędu 
@@ -1716,6 +1702,18 @@ DESCRIPTION:Data:2024-11-26\nGodzina:\nOrgan administracji:Prezes Urzędu
   Góraj\, asesor Anna Pośpiech-Kłak\nTyp posiedzenia:Niejawne\nUwagi:bez
  czynność w sprawie pkt 4 wniosku z dnia 27 marca 2024 r. o udostępnieni
  e informacji publicznej\nWydział orzeczniczy:II\nWyniki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Komendant Główny Policji - II SAB/Wa 477/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241126T000000
+DESCRIPTION:Data:2024-11-26\nGodzina:\nOrgan administracji:Komendant Głó
+ wny Policji\nPrzedmiot:Bezczynność organu\nPrzewodniczący:Iwona Macieju
+ k\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Andrzej Góraj\nSygnatura
+  akt:II SAB/Wa 477/24\nSymbol:658/6480\nSędziowie:Andrzej Góraj\, asesor
+  Anna Pośpiech-Kłak\nTyp posiedzenia:Niejawne\nUwagi:bezczynność w prz
+ edmiocie rozpoznania wniosku z dnia 14 lipca 2024 r. o udostępnienie info
+ rmacji publicznej\nWydział orzeczniczy:II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
@@ -1988,18 +1986,6 @@ DESCRIPTION:Data:2024-12-04\nGodzina:\nOrgan administracji:Prezes Samorzą
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[N] Minister Rolnictwa i Rozwoju Wsi - II SA/Wa 615/24
-DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241205T000000
-DESCRIPTION:Data:2024-12-05\nGodzina:\nOrgan administracji:Minister Rolnic
- twa i Rozwoju Wsi\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławom
- ir Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kruszews
- ka-Grońska\nSygnatura akt:II SA/Wa 615/24\nSymbol:6480\nSędziowie:asesor
-  Arkadiusz Koziarski\, Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejawn
- e\nUwagi:stwierdzenie niedopuszczalności odwołania\nWydział orzeczniczy
- :II\nWyniki:
-LOCATION:Wydzial II\, WSA Warszawa
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[N] Prezes Najwyższej Izby Kontroli - II SA/Wa 1055/24
 DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241205T000000
 DESCRIPTION:Data:2024-12-05\nGodzina:\nOrgan administracji:Prezes Najwyżs
@@ -2009,6 +1995,18 @@ DESCRIPTION:Data:2024-12-05\nGodzina:\nOrgan administracji:Prezes Najwyżs
  usz Koziarski\, Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejawne\nUwag
  i:odmowa udostępnienia informacji publicznej\nWydział orzeczniczy:II\nWy
  niki:
+LOCATION:Wydzial II\, WSA Warszawa
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[N] Minister Rolnictwa i Rozwoju Wsi - II SA/Wa 615/24
+DTSTART;TZID=Europe/Warsaw;VALUE=DATE-TIME:20241205T000000
+DESCRIPTION:Data:2024-12-05\nGodzina:\nOrgan administracji:Minister Rolnic
+ twa i Rozwoju Wsi\nPrzedmiot:Informacja publiczna\nPrzewodniczący:Sławom
+ ir Antoniuk\nSala:Sala posiedzeń niejawnych\nSprawozdawca:Joanna Kruszews
+ ka-Grońska\nSygnatura akt:II SA/Wa 615/24\nSymbol:6480\nSędziowie:asesor
+  Arkadiusz Koziarski\, Joanna Kruszewska-Grońska\nTyp posiedzenia:Niejawn
+ e\nUwagi:stwierdzenie niedopuszczalności odwołania\nWydział orzeczniczy
+ :II\nWyniki:
 LOCATION:Wydzial II\, WSA Warszawa
 END:VEVENT
 BEGIN:VEVENT
